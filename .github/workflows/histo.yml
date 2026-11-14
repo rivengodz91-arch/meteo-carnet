@@ -1,0 +1,29 @@
+name: meteo-histo
+on:
+  schedule:
+    - cron: "41 1,3,5,7,9,11,13,15,17,19,21,23 * * *"
+  workflow_dispatch:
+concurrency:
+  group: meteo-histo
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python meteo_histo.py
+        env:
+          JOURS: "90"
+      - run: |
+          git config user.name "histo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/histo
+          git commit -m "meteo histo $(date -u +%F_%H%M)" || echo "rien de neuf"
+          git pull --rebase || true
+          git push
