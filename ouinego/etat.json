@@ -1,78 +1,234 @@
 {
- "maj": "2026-11-14T08:14+00:00",
+ "maj": "2026-11-14T08:27+00:00",
  "robots": {
   "ouvertures": {
    "statut": "ok",
    "resultat": {
     "reseaux": {
      "Boulangerie Ange": {
-      "statut": "référence créée",
-      "magasins": 325
+      "statut": "ok",
+      "magasins": 325,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
+      "test_page": [
+       "https://www.boulangerie-ange.fr/stores/boulangerie-ange-agen/",
+       {
+        "etat": "à vérifier"
+       }
+      ]
      },
      "Biocoop": {
-      "statut": "référence créée",
-      "magasins": 724
+      "statut": "ok",
+      "magasins": 724,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
+      "test_page": [
+       "https://www.biocoop.fr/auvergne-rhone-alpes/ain/AMBERIEU-EN-BUGEY/LE-VERT-DE-TERRE",
+       {
+        "etat": "ouvert",
+        "cp": "01500",
+        "ville": "AMBERIEU EN BUGEY Voir"
+       }
+      ]
      },
      "5àSec": {
-      "statut": "référence créée",
-      "magasins": 197
+      "statut": "ok",
+      "magasins": 197,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
+      "test_page": [
+       "https://www.5asec.fr/fr/magasin/pressing-5-a-sec-labege/",
+       {
+        "etat": "ouvert",
+        "cp": "31120",
+        "ville": "Portet sur Garonne"
+       }
+      ]
      },
      "Domino's": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt : HTTP Error 403: Forbidden",
+       "https://www.dominos.fr/sitemap.xml : HTTP Error 403: Forbidden",
+       "https://www.dominos.fr/sitemap_index.xml : HTTP Error 403: Forbidden",
+       "https://www.dominos.fr/sitemap-index.xml : HTTP Error 403: Forbidden"
+      ],
+      "exemples": []
      },
      "Carrefour Contact": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt ok, 0 sitemap(s) déclaré(s)",
+       "https://www.carrefour.fr/sitemap.xml : HTTP Error 403: Forbidden",
+       "https://www.carrefour.fr/sitemap_index.xml : HTTP Error 403: Forbidden",
+       "https://www.carrefour.fr/sitemap-index.xml : HTTP Error 403: Forbidden"
+      ],
+      "exemples": []
      },
      "Tutti Pizza": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 8,
-      "urls_vues": 131
+      "urls_vues": 131,
+      "diagnostic": [
+       "robots.txt ok, 0 sitemap(s) déclaré(s)",
+       "https://www.tuttipizza.fr/sitemap.xml : 5 liens",
+       "https://www.tuttipizza.fr/sitemap_index.xml : 5 liens",
+       "https://www.tuttipizza.fr/sitemap-index.xml : HTTP Error 404: Not Found",
+       "https://www.tutti-pizza.com/page-sitemap1.xml : 20 liens",
+       "https://www.tutti-pizza.com/actualites-sitemap1.xml : 22 liens",
+       "https://www.tutti-pizza.com/pizzeria-sitemap1.xml : 74 liens",
+       "https://www.tutti-pizza.com/actualites_categories-sitemap1.xml : 5 liens",
+       "https://www.tutti-pizza.com/carte_taxonomy-sitemap1.xml : 10 liens"
+      ],
+      "exemples": [
+       "https://www.tutti-pizza.com/",
+       "https://www.tutti-pizza.com/actualites/",
+       "https://www.tutti-pizza.com/actualites/a-la-carte",
+       "https://www.tutti-pizza.com/actualites/actualites",
+       "https://www.tutti-pizza.com/actualites/franchises",
+       "https://www.tutti-pizza.com/actualites/nouveautes",
+       "https://www.tutti-pizza.com/actualites/offres",
+       "https://www.tutti-pizza.com/allergenes/",
+       "https://www.tutti-pizza.com/cgu-tutti/",
+       "https://www.tutti-pizza.com/cgu/",
+       "https://www.tutti-pizza.com/contact/",
+       "https://www.tutti-pizza.com/devenez-franchisee/",
+       "https://www.tutti-pizza.com/fidelites/",
+       "https://www.tutti-pizza.com/franchise-tutti-matic/",
+       "https://www.tutti-pizza.com/franchise-tutti-pizza/"
+      ]
      },
      "Kyriad": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt : HTTP Error 403: Forbidden",
+       "https://www.kyriad.com/sitemap.xml : HTTP Error 403: Forbidden",
+       "https://www.kyriad.com/sitemap_index.xml : HTTP Error 403: Forbidden",
+       "https://www.kyriad.com/sitemap-index.xml : HTTP Error 403: Forbidden"
+      ],
+      "exemples": []
      },
      "B&B Hotels": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt : HTTP Error 403: Forbidden",
+       "https://www.hotel-bb.com/sitemap.xml : HTTP Error 403: Forbidden",
+       "https://www.hotel-bb.com/sitemap_index.xml : HTTP Error 403: Forbidden",
+       "https://www.hotel-bb.com/sitemap-index.xml : HTTP Error 403: Forbidden"
+      ],
+      "exemples": []
      },
      "Yelloh Village": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt ok, 0 sitemap(s) déclaré(s)",
+       "https://www.yellohvillage.fr/sitemap.xml : HTTP Error 404: Not Found",
+       "https://www.yellohvillage.fr/sitemap_index.xml : HTTP Error 404: Not Found",
+       "https://www.yellohvillage.fr/sitemap-index.xml : HTTP Error 404: Not Found"
+      ],
+      "exemples": []
      },
      "Moustache Glaces": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt : <urlopen error [Errno -2] Name or service not known>",
+       "https://www.moustacheglaces.com/sitemap.xml : <urlopen error [Errno -2] Name or service not known>",
+       "https://www.moustacheglaces.com/sitemap_index.xml : <urlopen error [Errno -2] Name or service not known>",
+       "https://www.moustacheglaces.com/sitemap-index.xml : <urlopen error [Errno -2] Name or service not known>"
+      ],
+      "exemples": []
      },
      "Fitness Park": {
-      "statut": "référence créée",
-      "magasins": 1719
+      "statut": "ok",
+      "magasins": 861,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 858,
+      "test_page": [
+       "https://www.fitnesspark.fr/club/Blois/",
+       {
+        "etat": "ouverture prochaine",
+        "cp": "41000",
+        "ville": "Blois Inscris-toi et profite"
+       }
+      ]
      },
      "Keep Cool": {
-      "statut": "référence créée",
-      "magasins": 245
+      "statut": "ok",
+      "magasins": 245,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
+      "test_page": [
+       "https://www.keepcool.fr/clubs/salle-de-sport-abbeville",
+       {
+        "etat": "ouverture prochaine",
+        "cp": "80100",
+        "ville": "Abbeville"
+       }
+      ]
      },
      "L'Orange Bleue": {
-      "statut": "référence créée",
-      "magasins": 402
+      "statut": "ok",
+      "magasins": 402,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
+      "test_page": [
+       "https://www.lorangebleue.fr/clubs/agen/",
+       {
+        "etat": "ouverture prochaine",
+        "cp": "47000",
+        "ville": "Agen Afficher la carte"
+       }
+      ]
      },
      "Magic Form": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 6,
-      "urls_vues": 4
+      "urls_vues": 4,
+      "diagnostic": [
+       "robots.txt ok, 1 sitemap(s) déclaré(s)",
+       "https://www.magicform.fr/sitemaps.xml : 2 liens",
+       "https://www.magicform.fr/sitemap.xml : pas du XML ('<!DOCTYPE html>\\n<html lang=\"fr-FR\">\\r\\n<head>\\r\\n<meta charset=\"')",
+       "https://www.magicform.fr/sitemap_index.xml : pas du XML ('<!DOCTYPE html>\\n<html lang=\"fr-FR\">\\r\\n<head>\\r\\n<meta charset=\"')",
+       "https://www.magicform.fr/sitemap-index.xml : pas du XML ('<!DOCTYPE html>\\n<html lang=\"fr-FR\">\\r\\n<head>\\r\\n<meta charset=\"')",
+       "https://www.magicform.fr/post-sitemap1.xml : 1 liens",
+       "https://www.magicform.fr/page-sitemap1.xml : 4 liens"
+      ],
+      "exemples": [
+       "https://www.magicform.fr/",
+       "https://www.magicform.fr/bonnes-pratiques-formulaire/",
+       "https://www.magicform.fr/optimiser-formulaire-retour/",
+       "https://www.magicform.fr/quiz-comme-lead-magnet/"
+      ]
      },
      "Wefit": {
       "statut": "aucune fiche magasin trouvée",
       "sitemaps_lus": 3,
-      "urls_vues": 0
+      "urls_vues": 0,
+      "diagnostic": [
+       "robots.txt : <urlopen error [Errno 104] Connection reset by peer>",
+       "https://www.wefitclub.fr/sitemap.xml : <urlopen error [Errno 104] Connection reset by peer>",
+       "https://www.wefitclub.fr/sitemap_index.xml : <urlopen error [Errno 104] Connection reset by peer>",
+       "https://www.wefitclub.fr/sitemap-index.xml : <urlopen error [Errno 111] Connection refused>"
+      ],
+      "exemples": []
      }
     },
     "nouveaux": []
@@ -81,17 +237,7 @@
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [
-     {
-      "source": "BODACC",
-      "fournisseur_connu": false,
-      "date": "2026-11-13",
-      "fournisseur": "ADONE CONFORT",
-      "siren": "910144435",
-      "quoi": "Jugement d'ouverture de liquidation judiciaire",
-      "lien": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602186299"
-     }
-    ],
+    "alertes": [],
     "fournisseurs_suivis": 1373
    }
   },
