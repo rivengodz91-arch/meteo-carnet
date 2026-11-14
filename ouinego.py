@@ -76,25 +76,39 @@ def sitemap_urls(domain, limit_files=60):
     return urls, len(seen), diag
 
 CP = re.compile(r"\b((?:0[1-9]|[1-8]\d|9[0-8])\d{3})\s+([A-ZÉÈÂÎ][A-Za-zÀ-ÿ'’ -]{1,40})")
-BIENTOT = re.compile(r"ouverture prochaine|prochaine ouverture|bientôt|prochainement|pré-?inscri|pre-?inscri|ouvre ses portes|nouveau club|nouvelle boutique|nouveau magasin", re.I)
+LIAISONS = {"sur", "en", "de", "du", "des", "la", "le", "les", "lès", "lez", "sous", "aux", "au", "saint", "sainte", "st", "ste", "d'"}
+
+def _sans_accent(x):
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFD", x.lower()) if unicodedata.category(c) != "Mn")
+
+def _ville(brut):
+    """« AMBERIEU EN BUGEY Voir » -> « AMBERIEU EN BUGEY » ; « Portet sur Garonne » garde la liaison."""
+    mots, garde = brut.split(), []
+    for i, w in enumerate(mots):
+        if i == 0 or w.isupper() or _sans_accent(w) in LIAISONS or _sans_accent(garde[-1]) in LIAISONS:
+            garde.append(w)
+        else:
+            break
+    while garde and _sans_accent(garde[-1]) in LIAISONS:
+        garde.pop()
+    return " ".join(garde[:5]).strip(" -")
 
 def verifier(u):
-    """Ouvre la page d'un nouveau magasin : adresse (code postal + ville) et état (ouvert / ouverture prochaine)."""
+    """Ouvre la page d'un nouveau magasin et y lit le code postal + la ville (ceux qui collent à l'adresse de la page en priorité)."""
     try:
         h = get(u, 25)
-    except Exception as e:
-        return {"etat": "à vérifier (page illisible)"}
+    except Exception:
+        return {"adresse": "page illisible, à vérifier"}
     t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", h)))
     if re.search(r"aucune ouverture n.est prévue|\b0 clubs?\b", t, re.I):
         return None  # page « ville sans magasin » ou liste vide : pas une ouverture
-    m = CP.search(t)
-    r = {"etat": "ouverture prochaine" if BIENTOT.search(t) else ("ouvert" if m else "à vérifier")}
-    if m:
-        v = m.group(2).split()
-        while len(v) > 1 and (v[-1].strip(" -") in ("Tél", "Tel", "Téléphone", "France", "Ouvert", "Horaires", "Fermé", "Contact", "Itinéraire") or len(v) > 4):
-            v.pop()
-        r["cp"], r["ville"] = m.group(1), " ".join(v).strip(" -")
-    return r
+    lien = re.sub(r"[^a-z0-9]+", " ", _sans_accent(u))
+    trouves = [(m.group(1), _ville(m.group(2))) for m in CP.finditer(t)][:30]
+    if not trouves:
+        return {"adresse": "non lue sur la page, à vérifier"}
+    bon = next(((cp, v) for cp, v in trouves if v and " " + re.sub(r"[^a-z0-9]+", " ", _sans_accent(v)).strip() + " " in " " + lien + " "), trouves[0])
+    return {"cp": bon[0], "ville": bon[1]}
 
 def robot_ouvertures():
     res = {"reseaux": {}, "nouveaux": []}
