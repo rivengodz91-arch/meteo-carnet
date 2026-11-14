@@ -15,3 +15,83 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 687741,2023-09-21T19:00Z,Maccabi Tel-Aviv,Breidablik,3,2,Tel-Aviv,Israel,15.0,0,7.3,25.8
 687742,2023-09-21T19:00Z,Slovan Bratislava,KI Klaksvik,2,1,Bratislava,Slovakia,157.0,0,16.4,21.5
 687743,2023-09-21T19:00Z,Viktoria Plzen,Ballkani,1,0,Plzen,Czechia,354.0,0,9.4,19.0
+687744,2023-10-05T14:30Z,FC Astana,Viktoria Plzen,1,2,Astana,Kazakhstan,358.0,0,8.2,10.4
+687745,2023-10-05T16:45Z,Ballkani,Dinamo Zagreb,2,0,Prishtina,Kosovo,,,,
+687746,2023-10-05T16:45Z,Besiktas,FC Lugano,2,3,Istanbul,Türkiye,39.0,0,18.4,19.7
+687747,2023-10-05T16:45Z,Bodo/Glimt,Club Brugge,0,1,Bodø/Glimt,Norway,,,,
+687748,2023-10-05T16:45Z,Breidablik,FC Zorya Luhansk,0,1,Reykjavik,Iceland,37.0,0.3,11.4,5.5
+687749,2023-10-05T16:45Z,KAA Gent,Maccabi Tel-Aviv,2,0,Ghent,Belgium,10.0,0,11.5,17.3
+687751,2023-10-05T16:45Z,KI Klaksvik,Lille,0,0,Tórshavn,Faroe Islands,1.0,0,17.0,8.6
+687750,2023-10-05T16:45Z,Olimpija Ljubljana,Slovan Bratislava,0,1,Ljubljana,Slovenia,295.0,0,2.9,18.9
+687758,2023-10-05T19:00Z,Aberdeen,HJK Helsinki,1,1,Aberdeen,Scotland,13.0,0.1,29.6,14.2
+687755,2023-10-05T19:00Z,Aston Villa,Zrinjski Mostar,1,0,Birmingham,England,149.0,0,24.6,14.6
+687754,2023-10-05T19:00Z,AZ Alkmaar,Legia Warsaw,1,0,Alkmaar,Netherlands,5.0,0,20.0,16.2
+687756,2023-10-05T19:00Z,Cukaricki Belgrade,Racing Genk,0,2,Leskovac,Serbia,230.0,0,1.9,17.4
+687759,2023-10-05T19:00Z,FC Nordsjælland,Ludogorets Razgrad,7,1,Farum,Denmark,33.0,0,12.6,9.2
+687753,2023-10-05T19:00Z,FC Spartak Trnava,Fenerbahce,1,2,Trnava,Slovakia,147.0,0,6.7,14.4
+687757,2023-10-05T19:00Z,Fiorentina,Ferencvaros,2,2,Firenze,Italy,58.0,0,5.9,20.0
+687752,2023-10-05T19:00Z,PAOK,Eintracht Frankfurt,2,1,Thessaloniki,Greece,-9999.0,0,5.4,20.1
+687760,2023-10-26T16:45Z,AZ Alkmaar,Aston Villa,1,4,Alkmaar,Netherlands,5.0,0.6,12.6,10.9
+687762,2023-10-26T16:45Z,Ballkani,FC Astana,1,2,Prishtina,Kosovo,,,,
+687767,2023-10-26T16:45Z,FC Lugano,Club Brugge,1,3,Zürich,Switzerland,429.0,2.0,9.3,13.5
+687761,2023-10-26T16:45Z,Fenerbahce,Ludogorets Razgrad,3,1,Istanbul,Türkiye,39.0,0,29.2,21.5
+687763,2023-10-26T16:45Z,KAA Gent,Breidablik,5,0,Ghent,Belgium,10.0,0.1,9.1,12.3
+687764,2023-10-26T16:45Z,KI Klaksvik,Olimpija Ljubljana,3,0,Tórshavn,Faroe Islands,1.0,0.1,26.5,8.5
+687766,2023-10-26T16:45Z,Lille,Slovan Bratislava,2,1,Lille,France,20.0,0.3,8.9,13.3
+687770,2023-10-26T19:00Z,Aberdeen,PAOK,2,3,Aberdeen,Scotland,13.0,0.8,32.8,11.1
+687771,2023-10-26T19:00Z,Bodo/Glimt,Besiktas,3,1,Bodø/Glimt,Norway,,,,
+687772,2023-10-26T19:00Z,Dinamo Zagreb,Viktoria Plzen,0,1,Zagreb,Croatia,135.0,1.1,9.2,16.4
+687773,2023-10-26T19:00Z,Eintracht Frankfurt,HJK Helsinki,6,0,Frankfurt,Germany,113.0,0.1,6.9,11.3
+687768,2023-10-26T19:00Z,FC Spartak Trnava,FC Nordsjælland,0,2,Trnava,Slovakia,147.0,0,6.2,12.3
+687774,2023-10-26T19:00Z,Fiorentina,Cukaricki Belgrade,6,0,Firenze,Italy,58.0,0.2,9.0,18.6
+687775,2023-10-26T19:00Z,Racing Genk,Ferencvaros,0,0,Genk,Belgium,66.0,0,7.6,9.8
+687769,2023-10-26T19:00Z,Zrinjski Mostar,Legia Warsaw,1,2,Mostar,Bosnia and Herzegovina,66.0,0.1,2.6,16.4
+687776,2023-11-09T15:30Z,FC Astana,Ballkani,0,0,Astana,Kazakhstan,358.0,0.1,19.5,5.1
+687778,2023-11-09T17:45Z,Besiktas,Bodo/Glimt,1,2,Istanbul,Türkiye,39.0,0,15.0,13.3
+687777,2023-11-09T17:45Z,Cukaricki Belgrade,Fiorentina,0,1,Leskovac,Serbia,230.0,0,4.7,6.0
+687784,2023-11-09T17:45Z,FC Nordsjælland,FC Spartak Trnava,1,1,Farum,Denmark,33.0,0.1,14.0,9.0
+687781,2023-11-09T17:45Z,Ferencvaros,Racing Genk,1,1,Budapest,Hungary,104.0,0,17.2,8.9
+687783,2023-11-09T17:45Z,HJK Helsinki,Eintracht Frankfurt,0,1,Helsinki,Finland,26.0,0,4.0,3.3
+687782,2023-11-09T17:45Z,Legia Warsaw,Zrinjski Mostar,2,0,Warsaw,Poland,113.0,0,18.5,8.1
+687779,2023-11-09T17:45Z,PAOK,Aberdeen,2,2,Thessaloniki,Greece,-9999.0,0,3.6,13.8
+687780,2023-11-09T17:45Z,Viktoria Plzen,Dinamo Zagreb,1,0,Plzen,Czechia,354.0,0,11.4,8.1
+687791,2023-11-09T20:00Z,Aston Villa,AZ Alkmaar,2,1,Birmingham,England,149.0,0,22.8,5.9
+687790,2023-11-09T20:00Z,Breidablik,KAA Gent,2,3,Reykjavik,Iceland,37.0,0,3.1,-0.1
+687789,2023-11-09T20:00Z,Club Brugge,FC Lugano,2,0,Brugge,Belgium,13.0,0,24.6,7.1
+687785,2023-11-09T20:00Z,FC Zorya Luhansk,Maccabi Tel-Aviv,1,3,Lublin,Poland,184.0,0,18.9,6.4
+687788,2023-11-09T20:00Z,Ludogorets Razgrad,Fenerbahce,2,0,Razgrad,Bulgaria,190.0,0,8.5,6.9
+687787,2023-11-09T20:00Z,Olimpija Ljubljana,KI Klaksvik,2,0,Ljubljana,Slovenia,295.0,0,4.7,6.4
+687786,2023-11-09T20:00Z,Slovan Bratislava,Lille,1,1,Bratislava,Slovakia,157.0,0,16.9,9.3
+687765,2023-11-25T15:30Z,Maccabi Tel-Aviv,FC Zorya Luhansk,3,2,Backa Topola,Serbia,94.0,0,21.6,3.2
+687803,2023-11-30T13:00Z,Breidablik,Maccabi Tel-Aviv,1,2,Breidablik,Iceland,1.0,0,4.7,-8.3
+687792,2023-11-30T15:30Z,FC Astana,Dinamo Zagreb,0,2,Astana,Kazakhstan,358.0,0,22.2,-2.4
+687796,2023-11-30T17:45Z,AZ Alkmaar,Zrinjski Mostar,1,0,Alkmaar,Netherlands,5.0,0,1.3,0.2
+687797,2023-11-30T17:45Z,Ballkani,Viktoria Plzen,0,1,Tirana,Albania,113.0,0,11.8,14.1
+687793,2023-11-30T17:45Z,Besiktas,Club Brugge,0,5,Istanbul,Türkiye,39.0,0,9.1,9.3
+687798,2023-11-30T17:45Z,Bodo/Glimt,FC Lugano,5,2,Bodø/Glimt,Norway,,,,
+687799,2023-11-30T17:45Z,HJK Helsinki,Aberdeen,2,2,Helsinki,Finland,26.0,0.5,24.1,-3.6
+687800,2023-11-30T17:45Z,KAA Gent,FC Zorya Luhansk,4,1,Ghent,Belgium,10.0,0,4.8,1.3
+687794,2023-11-30T17:45Z,KI Klaksvik,Slovan Bratislava,1,2,Tórshavn,Faroe Islands,1.0,0.2,17.2,1.8
+687795,2023-11-30T17:45Z,Olimpija Ljubljana,Lille,0,2,Ljubljana,Slovenia,295.0,1.4,4.2,2.2
+687802,2023-11-30T20:00Z,Aston Villa,Legia Warsaw,2,1,Birmingham,England,149.0,0,9.3,-1.7
+687806,2023-11-30T20:00Z,Cukaricki Belgrade,Ferencvaros,1,2,Leskovac,Serbia,230.0,0,6.2,5.3
+687804,2023-11-30T20:00Z,Eintracht Frankfurt,PAOK,1,2,Frankfurt,Germany,113.0,0,7.4,-1.7
+687805,2023-11-30T20:00Z,FC Nordsjælland,Fenerbahce,6,1,Farum,Denmark,33.0,0,9.7,-5.8
+687801,2023-11-30T20:00Z,FC Spartak Trnava,Ludogorets Razgrad,1,2,Trnava,Slovakia,147.0,0.5,9.4,0.9
+687807,2023-11-30T20:00Z,Fiorentina,Racing Genk,2,1,Firenze,Italy,58.0,0,14.8,14.7
+687810,2023-12-14T17:45Z,Aberdeen,Eintracht Frankfurt,2,0,Aberdeen,Scotland,13.0,0,19.7,6.4
+687811,2023-12-14T17:45Z,Fenerbahce,FC Spartak Trnava,4,0,Istanbul,Türkiye,39.0,0,24.7,16.5
+687813,2023-12-14T17:45Z,Ferencvaros,Fiorentina,1,1,Budapest,Hungary,104.0,0,11.5,4.1
+687815,2023-12-14T17:45Z,Legia Warsaw,AZ Alkmaar,2,0,Warsaw,Poland,113.0,0.1,9.6,1.3
+687809,2023-12-14T17:45Z,Ludogorets Razgrad,FC Nordsjælland,1,0,Razgrad,Bulgaria,190.0,0,11.1,7.3
+687812,2023-12-14T17:45Z,PAOK,HJK Helsinki,4,2,Thessaloniki,Greece,-9999.0,0,4.6,11.2
+687814,2023-12-14T17:45Z,Racing Genk,Cukaricki Belgrade,2,0,Genk,Belgium,66.0,0,7.9,4.6
+687808,2023-12-14T17:45Z,Zrinjski Mostar,Aston Villa,1,1,Mostar,Bosnia and Herzegovina,66.0,0,3.8,9.8
+687816,2023-12-14T20:00Z,Club Brugge,Bodo/Glimt,3,1,Brugge,Belgium,13.0,0,11.1,6.3
+687817,2023-12-14T20:00Z,Dinamo Zagreb,Ballkani,3,0,Zagreb,Croatia,135.0,0,4.2,5.0
+687819,2023-12-14T20:00Z,FC Lugano,Besiktas,0,2,Zürich,Switzerland,429.0,0.3,7.1,4.4
+687823,2023-12-14T20:00Z,FC Zorya Luhansk,Breidablik,4,0,Lublin,Poland,184.0,0,10.1,0.7
+687818,2023-12-14T20:00Z,Lille,KI Klaksvik,3,0,Lille,France,20.0,0,12.7,6.8
+687820,2023-12-14T20:00Z,Maccabi Tel-Aviv,KAA Gent,3,1,Backa Topola,Serbia,94.0,0,12.3,6.7
+687821,2023-12-14T20:00Z,Slovan Bratislava,Olimpija Ljubljana,1,2,Bratislava,Slovakia,157.0,0,13.4,5.0
+687822,2023-12-14T20:00Z,Viktoria Plzen,FC Astana,3,0,Plzen,Czechia,354.0,0,10.5,4.2

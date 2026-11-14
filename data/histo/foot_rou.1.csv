@@ -76,3 +76,94 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 676510,2023-09-24T15:15Z,Petrolul Ploiesti,Hermannstadt,0,0,Ploiesti,Romania,161.0,0,20.5,26.2
 676508,2023-09-24T18:00Z,Sepsi Sfantu Gheorghe,FCSB,2,5,Sfantu Gheorghe,Romania,552.0,0,14.0,19.2
 676509,2023-09-25T18:00Z,Rapid Bucuresti,CFR Cluj-Napoca,3,1,Bucuresti,Romania,92.0,0,18.2,23.1
+676514,2023-09-29T18:00Z,Otelul Galati,Dinamo Bucuresti,1,0,Galati,Romania,24.0,0,8.9,19.2
+676512,2023-09-30T11:30Z,UTA Arad,Voluntari,0,0,Arad,Romania,109.0,0,4.2,24.6
+676516,2023-09-30T18:30Z,FC Farul Constanta,Sepsi Sfantu Gheorghe,2,1,Ovidiu,Romania,22.0,0,11.2,20.3
+676518,2023-10-01T12:00Z,CSU Craiova,FC Botosani,5,1,Craiova,Romania,105.0,0,8.2,25.9
+676515,2023-10-01T15:00Z,Hermannstadt,Rapid Bucuresti,1,1,Sibiu,Romania,410.0,0,7.4,20.9
+676511,2023-10-01T18:00Z,CFR Cluj-Napoca,U Craiova 1948,2,0,Cluj,Romania,352.0,0,13.7,13.6
+676513,2023-10-02T15:00Z,Politehnica Iasi,Petrolul Ploiesti,0,0,Iasi,Romania,66.0,0,15.6,19.0
+676517,2023-10-02T18:00Z,FCSB,Universitatea Cluj,2,2,Bucuresti,Romania,92.0,0,8.1,16.7
+676469,2023-10-05T17:00Z,CFR Cluj-Napoca,Sepsi Sfantu Gheorghe,3,0,Cluj,Romania,352.0,0,10.0,15.5
+676524,2023-10-06T15:00Z,U Craiova 1948,Hermannstadt,1,1,Craiova,Romania,105.0,0,4.7,21.7
+676523,2023-10-06T18:00Z,Rapid Bucuresti,Politehnica Iasi,3,2,Bucuresti,Romania,92.0,0,8.7,16.8
+676522,2023-10-07T11:00Z,Petrolul Ploiesti,UTA Arad,0,0,Ploiesti,Romania,161.0,0,16.8,22.4
+676526,2023-10-07T15:45Z,Voluntari,CSU Craiova,0,0,Voluntari,Romania,82.0,0,15.6,21.5
+676521,2023-10-07T18:30Z,FC Botosani,FCSB,0,1,Botosani,Romania,159.0,0,23.2,17.6
+676519,2023-10-08T13:00Z,Otelul Galati,FC Farul Constanta,0,1,Galati,Romania,24.0,0.1,31.8,15.6
+676520,2023-10-08T18:30Z,Dinamo Bucuresti,CFR Cluj-Napoca,1,1,Bucuresti,Romania,92.0,0.1,23.8,12.5
+676525,2023-10-09T18:00Z,Universitatea Cluj,Sepsi Sfantu Gheorghe,1,0,Cluj,Romania,352.0,0,5.4,7.6
+676481,2023-10-19T17:00Z,Politehnica Iasi,Sepsi Sfantu Gheorghe,1,0,Iasi,Romania,66.0,0,16.2,13.9
+676532,2023-10-20T18:00Z,UTA Arad,Rapid Bucuresti,2,2,Oradea,Romania,126.0,0,29.3,23.0
+676530,2023-10-21T14:00Z,Hermannstadt,Dinamo Bucuresti,4,0,Sibiu,Romania,410.0,0,7.4,24.9
+676527,2023-10-21T18:45Z,FC Farul Constanta,Universitatea Cluj,1,1,Ovidiu,Romania,22.0,0,10.5,21.4
+676534,2023-10-22T12:30Z,Politehnica Iasi,U Craiova 1948,1,1,Iasi,Romania,66.0,0,15.5,28.0
+676531,2023-10-22T15:00Z,CSU Craiova,Petrolul Ploiesti,1,3,Craiova,Romania,105.0,0,8.3,23.8
+676528,2023-10-22T18:00Z,FCSB,Voluntari,0,0,Bucuresti,Romania,92.0,0,8.3,18.3
+676533,2023-10-23T15:00Z,Sepsi Sfantu Gheorghe,FC Botosani,5,2,Sfantu Gheorghe,Romania,552.0,0,4.2,15.3
+676529,2023-10-23T18:00Z,CFR Cluj-Napoca,Otelul Galati,0,0,Cluj,Romania,352.0,0,3.3,11.1
+676467,2023-10-26T17:00Z,FC Farul Constanta,UTA Arad,2,2,Ovidiu,Romania,22.0,0,5.4,19.6
+676542,2023-10-27T14:30Z,Voluntari,Sepsi Sfantu Gheorghe,0,2,Voluntari,Romania,82.0,0,2.4,20.7
+676537,2023-10-27T17:30Z,Dinamo Bucuresti,Politehnica Iasi,0,0,Bucuresti,Romania,92.0,0,11.0,19.0
+676541,2023-10-28T11:00Z,Otelul Galati,Hermannstadt,1,1,Galati,Romania,24.0,0,4.4,23.4
+676540,2023-10-28T17:30Z,Petrolul Ploiesti,FCSB,2,2,Ploiesti,Romania,161.0,0,8.9,16.2
+676538,2023-10-29T12:00Z,U Craiova 1948,UTA Arad,2,3,Craiova,Romania,105.0,0,6.2,22.8
+676539,2023-10-29T18:30Z,Rapid Bucuresti,CSU Craiova,2,0,Bucuresti,Romania,92.0,0,10.3,13.7
+676535,2023-10-30T15:30Z,FC Botosani,Universitatea Cluj,0,3,Botosani,Romania,159.0,0,12.0,17.9
+676536,2023-10-30T18:30Z,CFR Cluj-Napoca,FC Farul Constanta,3,1,Cluj,Romania,352.0,0,6.4,10.7
+676550,2023-11-03T16:00Z,Politehnica Iasi,Otelul Galati,1,1,Iasi,Romania,66.0,0,20.4,15.9
+676547,2023-11-04T14:45Z,Sepsi Sfantu Gheorghe,Petrolul Ploiesti,0,0,Sfantu Gheorghe,Romania,552.0,0.3,2.9,12.8
+676546,2023-11-04T19:15Z,CSU Craiova,U Craiova 1948,1,1,Craiova,Romania,105.0,0,17.3,11.4
+676549,2023-11-05T13:00Z,Universitatea Cluj,Voluntari,1,2,Cluj,Romania,352.0,3.1,22.1,11.3
+676544,2023-11-05T15:30Z,FC Farul Constanta,FC Botosani,1,1,Ovidiu,Romania,22.0,0,16.2,17.6
+676543,2023-11-05T18:30Z,FCSB,Rapid Bucuresti,1,2,Bucuresti,Romania,92.0,0,8.4,13.0
+676548,2023-11-06T16:00Z,UTA Arad,Dinamo Bucuresti,2,1,Oradea,Romania,126.0,0,10.1,10.9
+676545,2023-11-06T19:00Z,Hermannstadt,CFR Cluj-Napoca,1,0,Sibiu,Romania,410.0,0,7.3,7.4
+676555,2023-11-10T18:30Z,Sepsi Sfantu Gheorghe,Rapid Bucuresti,0,0,Sfantu Gheorghe,Romania,552.0,0,8.8,7.6
+676557,2023-11-11T12:00Z,Universitatea Cluj,Petrolul Ploiesti,0,0,Cluj,Romania,352.0,0.4,3.7,11.3
+676554,2023-11-11T16:45Z,Politehnica Iasi,CFR Cluj-Napoca,3,3,Iasi,Romania,66.0,0,5.1,12.2
+676553,2023-11-11T19:00Z,FC Farul Constanta,Hermannstadt,1,1,Ovidiu,Romania,22.0,0,19.2,12.0
+676551,2023-11-12T11:30Z,FC Botosani,Voluntari,3,3,Botosani,Romania,159.0,0,22.1,8.6
+676558,2023-11-12T14:00Z,CSU Craiova,Dinamo Bucuresti,1,0,Craiova,Romania,105.0,0,18.2,11.6
+676552,2023-11-12T19:00Z,FCSB,U Craiova 1948,2,1,Bucuresti,Romania,92.0,0,11.4,7.2
+676556,2023-11-13T18:30Z,UTA Arad,Otelul Galati,2,4,Sibiu,Romania,410.0,0,2.9,6.4
+676559,2023-11-24T15:30Z,Hermannstadt,Politehnica Iasi,0,0,Sibiu,Romania,410.0,0,10.1,6.1
+676564,2023-11-24T18:30Z,Petrolul Ploiesti,FC Botosani,2,1,Ploiesti,Romania,161.0,0.2,10.7,7.3
+676561,2023-11-25T15:30Z,Voluntari,FC Farul Constanta,4,2,Voluntari,Romania,82.0,0.3,20.4,4.4
+676566,2023-11-25T18:30Z,CFR Cluj-Napoca,UTA Arad,0,0,Cluj,Romania,352.0,0,14.8,0.2
+676565,2023-11-26T16:30Z,Otelul Galati,CSU Craiova,1,3,Galati,Romania,24.0,0.1,31.6,1.0
+676560,2023-11-26T18:30Z,Dinamo Bucuresti,FCSB,0,1,Bucuresti,Romania,92.0,0,23.5,1.7
+676562,2023-11-27T15:30Z,U Craiova 1948,Sepsi Sfantu Gheorghe,2,1,Craiova,Romania,105.0,0,15.0,4.0
+676563,2023-11-27T18:30Z,Rapid Bucuresti,Universitatea Cluj,2,3,Bucuresti,Romania,92.0,0,17.1,3.0
+676574,2023-12-01T15:00Z,Voluntari,Petrolul Ploiesti,0,0,Voluntari,Romania,82.0,0,7.4,7.7
+676572,2023-12-01T18:00Z,Politehnica Iasi,FC Farul Constanta,2,3,Iasi,Romania,66.0,0,3.6,3.9
+676570,2023-12-02T12:00Z,UTA Arad,Hermannstadt,2,0,Oradea,Romania,126.0,0,22.8,17.0
+676567,2023-12-02T15:00Z,FC Botosani,Rapid Bucuresti,0,0,Botosani,Romania,159.0,0,7.3,3.0
+676568,2023-12-02T18:30Z,CSU Craiova,CFR Cluj-Napoca,1,0,Craiova,Romania,105.0,0,8.0,4.9
+676569,2023-12-03T14:00Z,Universitatea Cluj,U Craiova 1948,2,1,Cluj,Romania,352.0,0,14.8,-0.1
+676573,2023-12-03T19:00Z,FCSB,Otelul Galati,0,2,Bucuresti,Romania,92.0,0,9.4,4.0
+676571,2023-12-04T18:00Z,Sepsi Sfantu Gheorghe,Dinamo Bucuresti,2,1,Sfantu Gheorghe,Romania,552.0,0,6.0,-3.6
+676581,2023-12-08T17:00Z,Politehnica Iasi,UTA Arad,1,0,Iasi,Romania,66.0,0,6.9,-2.5
+676580,2023-12-09T18:45Z,Rapid Bucuresti,Voluntari,1,2,Bucuresti,Romania,92.0,0,5.6,1.3
+676578,2023-12-10T12:00Z,Hermannstadt,CSU Craiova,2,1,Sibiu,Romania,410.0,0,3.0,4.9
+676575,2023-12-10T15:00Z,FC Farul Constanta,Petrolul Ploiesti,3,1,Ovidiu,Romania,22.0,0,2.5,4.0
+676577,2023-12-10T18:00Z,CFR Cluj-Napoca,FCSB,1,1,Cluj,Romania,352.0,0,3.0,-1.5
+676579,2023-12-11T15:00Z,U Craiova 1948,FC Botosani,2,0,Craiova,Romania,105.0,0,6.1,2.4
+676576,2023-12-11T18:45Z,Dinamo Bucuresti,Universitatea Cluj,0,1,Bucuresti,Romania,92.0,0,7.2,0.6
+676582,2023-12-12T15:00Z,Otelul Galati,Sepsi Sfantu Gheorghe,2,3,Galati,Romania,24.0,0,6.2,2.8
+676585,2023-12-15T15:00Z,Voluntari,U Craiova 1948,0,1,Voluntari,Romania,82.0,0,4.5,3.7
+676590,2023-12-15T18:00Z,Petrolul Ploiesti,Rapid Bucuresti,0,0,Ploiesti,Romania,161.0,0,3.1,3.8
+676588,2023-12-16T12:00Z,UTA Arad,FC Farul Constanta,0,0,Sibiu,Romania,410.0,0,6.4,2.7
+676586,2023-12-16T15:00Z,CSU Craiova,Politehnica Iasi,2,2,Craiova,Romania,105.0,0,7.9,2.7
+676584,2023-12-16T18:00Z,FCSB,Hermannstadt,3,0,Bucuresti,Romania,92.0,0,10.7,-0.3
+676587,2023-12-17T13:00Z,Universitatea Cluj,Otelul Galati,0,1,Cluj,Romania,352.0,0,5.4,2.4
+676589,2023-12-17T19:00Z,Sepsi Sfantu Gheorghe,CFR Cluj-Napoca,2,1,Sfantu Gheorghe,Romania,552.0,0,4.7,-1.9
+676583,2023-12-18T18:00Z,FC Botosani,Dinamo Bucuresti,0,2,Botosani,Romania,159.0,0,7.1,2.2
+676595,2023-12-19T15:30Z,U Craiova 1948,Petrolul Ploiesti,2,0,Craiova,Romania,105.0,0,2.7,7.4
+676594,2023-12-19T18:30Z,Politehnica Iasi,FCSB,1,3,Iasi,Romania,66.0,0,6.9,3.4
+676598,2023-12-20T15:30Z,UTA Arad,CSU Craiova,2,2,Cluj,Romania,352.0,0,1.3,1.4
+676596,2023-12-20T18:30Z,FC Farul Constanta,Rapid Bucuresti,0,0,Ovidiu,Romania,22.0,0,13.4,6.2
+676592,2023-12-21T15:00Z,Hermannstadt,Sepsi Sfantu Gheorghe,1,1,Sibiu,Romania,410.0,0,2.5,1.5
+676591,2023-12-21T17:45Z,CFR Cluj-Napoca,Universitatea Cluj,4,0,Cluj,Romania,352.0,0,8.5,-2.6
+676593,2023-12-22T15:30Z,Otelul Galati,FC Botosani,0,2,Galati,Romania,24.0,0,10.9,3.7
+676597,2023-12-22T18:30Z,Dinamo Bucuresti,Voluntari,1,0,Bucuresti,Romania,92.0,0,31.0,5.1

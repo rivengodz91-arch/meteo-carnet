@@ -15,3 +15,83 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 687645,2023-09-21T19:00Z,SK Sturm Graz,Sporting CP,1,2,Graz,Austria,362.0,0,12.2,17.7
 687644,2023-09-21T19:00Z,Sparta Prague,Aris Limassol,3,2,Wien,Austria,876.0,0,17.0,17.6
 687647,2023-09-21T19:00Z,West Ham United,FK TSC,3,1,London,England,25.0,0,5.8,12.1
+687655,2023-10-05T16:45Z,AEK Athens,Ajax Amsterdam,1,1,Athens,Greece,70.0,0,12.5,23.4
+687654,2023-10-05T16:45Z,Aris Limassol,Rangers,2,1,Kolossi,Cyprus,54.0,0,6.6,25.5
+687653,2023-10-05T16:45Z,FK TSC,Olympiacos,2,2,Backa Topola,Serbia,94.0,0,5.2,18.9
+687652,2023-10-05T16:45Z,Marseille,Brighton & Hove Albion,2,2,Marseille,France,28.0,0,15.0,21.9
+687651,2023-10-05T16:45Z,Raków Czestochowa,SK Sturm Graz,0,1,Sosnowiec,Poland,256.0,0,18.6,15.5
+687650,2023-10-05T16:45Z,Real Betis,Sparta Prague,2,1,Sevilla,Spain,16.0,0,7.4,35.1
+687649,2023-10-05T16:45Z,SC Freiburg,West Ham United,1,2,Freiburg im Breisgau,Germany,278.0,0,7.0,15.8
+687648,2023-10-05T16:45Z,Sporting CP,Atalanta,1,2,Lisbon,Portugal,68.0,0,6.4,30.0
+687658,2023-10-05T19:00Z,AS Roma,Servette,4,0,Roma,Italy,576.0,0,5.2,12.7
+687659,2023-10-05T19:00Z,BK Häcken,FK Qarabag,0,1,Gothenburg,Sweden,10.0,0,8.9,8.4
+687660,2023-10-05T19:00Z,Liverpool,Union St.-Gilloise,2,0,Liverpool,England,30.0,0,26.4,16.5
+687661,2023-10-05T19:00Z,Maccabi Haifa,Panathinaikos,0,0,Haifa,Israel,101.0,0,21.0,25.7
+687663,2023-10-05T19:00Z,Molde,Bayer Leverkusen,1,2,Molde,Norway,3.0,0,4.6,8.1
+687662,2023-10-05T19:00Z,Slavia Prague,Sheriff Tiraspol,6,0,Prague,Czechia,202.0,0,12.3,13.5
+687657,2023-10-05T19:00Z,Toulouse,LASK Linz,1,0,Toulouse,France,150.0,0,8.6,18.4
+687656,2023-10-05T19:00Z,Villarreal,Stade Rennais,1,0,Villarreal,Spain,42.0,0,8.6,28.6
+687668,2023-10-26T16:45Z,Aris Limassol,Real Betis,0,1,Kolossi,Cyprus,54.0,0,2.2,24.3
+687669,2023-10-26T16:45Z,FK TSC,SC Freiburg,1,3,Backa Topola,Serbia,94.0,0,10.1,16.1
+687670,2023-10-26T16:45Z,Marseille,AEK Athens,3,1,Marseille,France,28.0,0,19.6,20.5
+687671,2023-10-26T16:45Z,Molde,BK Häcken,5,1,Molde,Norway,3.0,0,2.5,4.6
+687665,2023-10-26T16:45Z,Olympiacos,West Ham United,2,1,Piraeus,Greece,29.0,0,5.0,22.9
+687667,2023-10-26T16:45Z,Raków Czestochowa,Sporting CP,1,1,Sosnowiec,Poland,256.0,0,15.8,12.3
+687666,2023-10-26T16:45Z,SK Sturm Graz,Atalanta,2,2,Graz,Austria,362.0,0,3.6,12.4
+687664,2023-10-26T16:45Z,Sparta Prague,Rangers,0,0,Wien,Austria,876.0,0,12.2,8.6
+687672,2023-10-26T19:00Z,AS Roma,Slavia Prague,2,0,Roma,Italy,576.0,0,4.9,10.7
+687676,2023-10-26T19:00Z,Bayer Leverkusen,FK Qarabag,5,1,Leverkusen,Germany,52.0,0,7.1,11.3
+687675,2023-10-26T19:00Z,Brighton & Hove Albion,Ajax Amsterdam,2,0,Falmer,England,97.0,0,6.9,10.7
+687678,2023-10-26T19:00Z,Liverpool,Toulouse,5,1,Liverpool,England,30.0,0,11.2,9.7
+687679,2023-10-26T19:00Z,Panathinaikos,Stade Rennais,1,2,Athens,Greece,70.0,0,2.4,21.6
+687673,2023-10-26T19:00Z,Sheriff Tiraspol,Servette,1,1,Tiraspol,Moldova,30.0,0,8.0,16.8
+687674,2023-10-26T19:00Z,Union St.-Gilloise,LASK Linz,2,1,Brussels,Belgium,28.0,0,11.9,10.6
+687680,2023-11-09T17:45Z,Ajax Amsterdam,Brighton & Hove Albion,0,2,Amsterdam,Netherlands,13.0,0.2,23.0,8.6
+687681,2023-11-09T17:45Z,FK Qarabag,Bayer Leverkusen,0,1,Baku,Azerbaijan,-23.0,0,34.8,18.0
+687683,2023-11-09T17:45Z,LASK Linz,Union St.-Gilloise,3,0,Linz,Austria,266.0,0,8.6,4.0
+687686,2023-11-09T17:45Z,Maccabi Haifa,Villarreal,1,2,Larnaca,Cyprus,24.0,0,3.8,22.0
+687684,2023-11-09T17:45Z,Servette,Sheriff Tiraspol,2,1,Geneva,Switzerland,400.0,0,6.1,6.4
+687685,2023-11-09T17:45Z,Slavia Prague,AS Roma,2,0,Prague,Czechia,202.0,0,17.7,8.9
+687682,2023-11-09T17:45Z,Stade Rennais,Panathinaikos,3,1,Rennes,France,39.0,0.2,21.0,9.7
+687687,2023-11-09T17:45Z,Toulouse,Liverpool,3,2,Toulouse,France,150.0,0,18.2,11.8
+687689,2023-11-09T20:00Z,AEK Athens,Marseille,0,2,Athens,Greece,70.0,0,8.2,15.5
+687690,2023-11-09T20:00Z,Atalanta,SK Sturm Graz,1,0,Bergamo,Italy,249.0,1.0,5.8,8.2
+687691,2023-11-09T20:00Z,BK Häcken,Molde,1,3,Gothenburg,Sweden,10.0,0,4.4,4.3
+687692,2023-11-09T20:00Z,Rangers,Sparta Prague,2,1,Glasgow,Scotland,40.0,0,7.9,1.7
+687693,2023-11-09T20:00Z,Real Betis,Aris Limassol,4,1,Sevilla,Spain,16.0,0,10.6,15.0
+687694,2023-11-09T20:00Z,SC Freiburg,FK TSC,5,0,Freiburg im Breisgau,Germany,278.0,0.3,20.0,9.3
+687695,2023-11-09T20:00Z,Sporting CP,Raków Czestochowa,2,1,Lisbon,Portugal,68.0,0,3.4,15.8
+687688,2023-11-09T20:00Z,West Ham United,Olympiacos,1,0,London,England,25.0,0,20.9,7.3
+687700,2023-11-30T17:45Z,AEK Athens,Brighton & Hove Albion,0,1,Athens,Greece,70.0,0,5.9,13.9
+687696,2023-11-30T17:45Z,Atalanta,Sporting CP,1,1,Bergamo,Italy,249.0,0,4.2,3.3
+687702,2023-11-30T17:45Z,FK TSC,West Ham United,0,1,Backa Topola,Serbia,94.0,0,22.4,7.5
+687699,2023-11-30T17:45Z,Maccabi Haifa,Stade Rennais,0,3,Budapest,Hungary,104.0,4.1,8.1,1.2
+687697,2023-11-30T17:45Z,SC Freiburg,Olympiacos,5,0,Freiburg im Breisgau,Germany,278.0,0.6,3.6,2.2
+687698,2023-11-30T17:45Z,SK Sturm Graz,Raków Czestochowa,0,1,Graz,Austria,362.0,0,2.3,-2.5
+687701,2023-11-30T17:45Z,Sparta Prague,Real Betis,1,0,Wien,Austria,876.0,0.6,6.9,-3.0
+687704,2023-11-30T20:00Z,BK Häcken,Bayer Leverkusen,0,2,Gothenburg,Sweden,10.0,0.1,16.7,-2.4
+687705,2023-11-30T20:00Z,Liverpool,LASK Linz,4,0,Liverpool,England,30.0,0,8.4,-2.2
+687706,2023-11-30T20:00Z,Marseille,Ajax Amsterdam,4,3,Marseille,France,28.0,0,20.4,13.7
+687703,2023-11-30T20:00Z,Molde,FK Qarabag,2,2,Molde,Norway,3.0,0,7.2,-6.4
+687708,2023-11-30T20:00Z,Rangers,Aris Limassol,1,1,Glasgow,Scotland,40.0,0,5.4,-3.2
+687709,2023-11-30T20:00Z,Servette,AS Roma,1,1,Geneva,Switzerland,400.0,2.3,5.9,6.1
+687710,2023-11-30T20:00Z,Sheriff Tiraspol,Slavia Prague,2,3,Tiraspol,Moldova,30.0,0,12.1,1.0
+687711,2023-11-30T20:00Z,Toulouse,Union St.-Gilloise,0,0,Toulouse,France,150.0,1.3,4.8,9.9
+687707,2023-11-30T20:00Z,Villarreal,Panathinaikos,3,2,Villarreal,Spain,42.0,4.0,25.5,15.8
+687677,2023-12-06T20:00Z,Villarreal,Maccabi Haifa,0,0,Villarreal,Spain,42.0,0,3.2,11.1
+687716,2023-12-14T17:45Z,AS Roma,Sheriff Tiraspol,3,0,Roma,Italy,576.0,0.2,8.6,4.1
+687712,2023-12-14T17:45Z,Bayer Leverkusen,Molde,5,1,Leverkusen,Germany,52.0,0,9.8,4.6
+687713,2023-12-14T17:45Z,FK Qarabag,BK Häcken,2,1,Baku,Azerbaijan,-23.0,0,27.0,6.4
+687714,2023-12-14T17:45Z,LASK Linz,Toulouse,1,2,Linz,Austria,266.0,1.9,11.5,4.7
+687719,2023-12-14T17:45Z,Panathinaikos,Maccabi Haifa,1,2,Athens,Greece,70.0,0,7.7,14.5
+687717,2023-12-14T17:45Z,Slavia Prague,Servette,4,0,Prague,Czechia,202.0,0.1,8.3,4.7
+687715,2023-12-14T17:45Z,Stade Rennais,Villarreal,2,3,Rennes,France,39.0,0,9.0,8.5
+687718,2023-12-14T17:45Z,Union St.-Gilloise,Liverpool,2,1,Brussels,Belgium,28.0,0,9.4,5.6
+687720,2023-12-14T20:00Z,Ajax Amsterdam,AEK Athens,3,1,Amsterdam,Netherlands,13.0,0.2,10.1,5.9
+687721,2023-12-14T20:00Z,Aris Limassol,Sparta Prague,1,3,Kolossi,Cyprus,54.0,0,5.5,14.3
+687723,2023-12-14T20:00Z,Brighton & Hove Albion,Marseille,1,0,Falmer,England,97.0,0,9.7,5.5
+687726,2023-12-14T20:00Z,Olympiacos,FK TSC,5,2,Piraeus,Greece,29.0,0,5.6,14.2
+687722,2023-12-14T20:00Z,Raków Czestochowa,Atalanta,0,4,Sosnowiec,Poland,256.0,0.5,11.0,2.0
+687724,2023-12-14T20:00Z,Real Betis,Rangers,2,3,Sevilla,Spain,16.0,0,8.4,9.9
+687725,2023-12-14T20:00Z,Sporting CP,SK Sturm Graz,3,0,Lisbon,Portugal,68.0,0,12.0,11.1
+687727,2023-12-14T20:00Z,West Ham United,SC Freiburg,2,0,London,England,25.0,0,8.3,3.9

@@ -39,3 +39,68 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 682532,2023-09-28T14:30Z,Panserraikos FC,Pas Giannina,3,2,Panserraikos,Greece,,,,
 682530,2023-09-28T17:30Z,Asteras Tripoli,Panathinaikos,1,4,Tripoli,Greece,660.0,0,6.4,16.1
 682531,2023-09-28T18:00Z,AEK Athens,Atromitos,2,1,Athens,Greece,70.0,0,5.2,21.2
+682536,2023-10-01T12:00Z,Lamia,Panetolikos,1,0,Lamia,Greece,88.0,0,6.5,25.7
+682540,2023-10-01T14:30Z,Aris,Kifisia,1,1,Thessaloniki,Greece,-9999.0,0,13.2,28.2
+682534,2023-10-01T16:30Z,Panathinaikos,PAOK,2,2,Athens,Greece,70.0,0,9.2,24.1
+682535,2023-10-01T17:30Z,Pas Giannina,Olympiacos,0,3,Ioannina,Greece,468.0,0,3.7,20.3
+682538,2023-10-02T15:00Z,Atromitos,Asteras Tripoli,0,0,Athens,Greece,70.0,0,9.4,24.4
+682537,2023-10-02T17:00Z,OFI Crete,AEK Athens,2,0,Iraklio,Greece,169.0,0,5.3,19.2
+682498,2023-10-08T16:30Z,AEK Athens,Panetolikos,3,0,Athens,Greece,70.0,0,7.9,23.6
+682492,2023-10-08T18:30Z,Panathinaikos,Atromitos,5,0,Athens,Greece,70.0,0,6.2,21.8
+682544,2023-10-20T17:30Z,Lamia,Pas Giannina,2,1,Lamia,Greece,88.0,0,5.7,21.9
+682547,2023-10-21T14:30Z,Panetolikos,Volos NFC,2,0,Agrinio,Greece,66.0,0,5.8,26.9
+682632,2023-10-21T17:00Z,Aris,Panserraikos FC,1,0,Thessaloniki,Greece,-9999.0,0,1.3,19.8
+682543,2023-10-22T13:00Z,Asteras Tripoli,AEK Athens,0,3,Tripoli,Greece,660.0,0,16.3,24.9
+682541,2023-10-22T13:00Z,Kifisia,OFI Crete,0,0,Lamia,Greece,88.0,0,7.0,24.7
+682546,2023-10-22T15:30Z,PAOK,Atromitos,2,0,Thessaloniki,Greece,-9999.0,0,5.1,23.0
+682545,2023-10-22T16:30Z,Olympiacos,Panathinaikos,0,3,Piraeus,Greece,29.0,0,7.0,23.7
+682550,2023-10-28T14:30Z,Volos NFC,Kifisia,2,1,Volos,Greece,52.0,0,10.7,25.2
+682548,2023-10-28T17:00Z,Atromitos,Panetolikos,3,2,Athens,Greece,70.0,0,2.9,22.0
+682554,2023-10-29T15:30Z,Asteras Tripoli,Lamia,0,1,Tripoli,Greece,660.0,0,7.6,20.5
+682551,2023-10-29T17:30Z,Panathinaikos,Panserraikos FC,5,0,Athens,Greece,70.0,0,3.8,22.5
+682552,2023-10-29T18:30Z,Aris,Pas Giannina,2,0,Thessaloniki,Greece,-9999.0,0,5.4,18.3
+682553,2023-10-30T17:30Z,AEK Athens,PAOK,2,0,Athens,Greece,70.0,0,2.7,21.9
+682549,2023-10-30T19:30Z,OFI Crete,Olympiacos,0,2,Iraklio,Greece,169.0,0,2.7,16.9
+682555,2023-11-04T15:30Z,Lamia,Panathinaikos,1,2,Lamia,Greece,88.0,0,6.4,18.4
+682560,2023-11-04T18:00Z,Kifisia,AEK Athens,1,1,Athens,Greece,70.0,0,10.6,18.2
+682561,2023-11-05T14:00Z,Panetolikos,Asteras Tripoli,0,1,Agrinio,Greece,66.0,0,10.0,20.6
+682558,2023-11-05T15:30Z,Pas Giannina,Volos NFC,1,1,Ioannina,Greece,468.0,0.8,6.8,15.1
+682557,2023-11-05T17:30Z,Olympiacos,PAOK,2,4,Piraeus,Greece,29.0,0,12.2,21.6
+682556,2023-11-05T18:15Z,Aris,Atromitos,1,3,Thessaloniki,Greece,-9999.0,0,12.5,17.8
+682559,2023-11-06T16:00Z,Panserraikos FC,OFI Crete,2,1,Panserraikos,Greece,,,,
+682567,2023-11-11T15:30Z,OFI Crete,Pas Giannina,1,1,Iraklio,Greece,169.0,0,10.0,19.5
+682563,2023-11-11T17:30Z,Atromitos,Panserraikos FC,1,1,Athens,Greece,70.0,0,9.9,18.0
+682566,2023-11-11T18:00Z,Volos NFC,Aris,0,2,Volos,Greece,52.0,0,8.2,17.2
+682565,2023-11-12T15:30Z,PAOK,Panetolikos,2,1,Thessaloniki,Greece,-9999.0,0,4.7,16.5
+682564,2023-11-12T17:30Z,AEK Athens,Lamia,3,0,Athens,Greece,70.0,0.3,8.7,18.3
+682568,2023-11-12T18:30Z,Asteras Tripoli,Olympiacos,0,2,Tripoli,Greece,660.0,0,11.2,12.8
+682659,2023-11-12T19:30Z,Kifisia,Panathinaikos,0,1,Athens,Greece,70.0,0,3.2,19.5
+682571,2023-11-24T16:15Z,OFI Crete,Volos NFC,1,1,Iraklio,Greece,169.0,0,3.0,14.0
+682570,2023-11-25T15:30Z,Olympiacos,Panetolikos,3,1,Piraeus,Greece,29.0,0.1,18.7,17.6
+682662,2023-11-25T17:30Z,PAOK,Panserraikos FC,5,0,Thessaloniki,Greece,-9999.0,2.9,30.1,5.5
+682573,2023-11-26T14:00Z,Kifisia,Asteras Tripoli,1,3,Athens,Greece,70.0,0,14.8,10.5
+682574,2023-11-26T15:00Z,Pas Giannina,AEK Athens,0,1,Ioannina,Greece,468.0,0,6.2,3.7
+682575,2023-11-26T17:30Z,Lamia,Atromitos,3,3,Lamia,Greece,88.0,0,8.7,5.5
+682569,2023-11-26T18:30Z,Aris,Panathinaikos,2,0,Thessaloniki,Greece,-9999.0,0,15.4,4.0
+682539,2023-11-29T15:00Z,Volos NFC,Panserraikos FC,1,0,Volos,Greece,52.0,0,6.8,15.5
+682577,2023-12-02T15:30Z,Panetolikos,Kifisia,3,0,Agrinio,Greece,66.0,0,11.2,17.9
+682576,2023-12-02T18:00Z,Asteras Tripoli,Panserraikos FC,1,0,Tripoli,Greece,660.0,0,14.8,12.3
+682578,2023-12-03T14:30Z,Volos NFC,Olympiacos,2,2,Volos,Greece,52.0,0,4.8,18.6
+682581,2023-12-03T15:30Z,Atromitos,Pas Giannina,1,1,Athens,Greece,70.0,0,13.6,18.0
+682579,2023-12-03T17:30Z,Panathinaikos,OFI Crete,4,0,Athens,Greece,70.0,0,10.0,17.2
+682580,2023-12-04T16:00Z,PAOK,Lamia,3,0,Thessaloniki,Greece,-9999.0,0,6.0,8.4
+682582,2023-12-04T19:00Z,AEK Athens,Aris,1,0,Athens,Greece,70.0,0,3.0,13.3
+682586,2023-12-16T15:30Z,Kifisia,Pas Giannina,4,2,Athens,Greece,70.0,0,24.2,10.0
+682583,2023-12-17T13:00Z,Aris,OFI Crete,1,0,Thessaloniki,Greece,-9999.0,0,11.2,8.2
+682584,2023-12-17T15:30Z,Asteras Tripoli,PAOK,1,4,Tripoli,Greece,660.0,0,19.1,4.5
+682588,2023-12-17T17:30Z,Lamia,Volos NFC,1,2,Lamia,Greece,88.0,0,5.2,4.6
+682589,2023-12-17T18:30Z,Atromitos,Panathinaikos,3,2,Athens,Greece,70.0,0,2.8,7.6
+682587,2023-12-18T15:00Z,Panetolikos,AEK Athens,2,2,Agrinio,Greece,66.0,0,4.8,11.5
+682585,2023-12-18T16:00Z,Panserraikos FC,Olympiacos,0,1,Panserraikos,Greece,,,,
+682595,2023-12-20T15:00Z,Aris,Lamia,2,2,Thessaloniki,Greece,-9999.0,0,5.6,9.5
+682593,2023-12-20T17:00Z,Volos NFC,Panathinaikos,0,3,Volos,Greece,52.0,0,3.7,8.1
+682592,2023-12-21T13:00Z,Pas Giannina,Panetolikos,0,0,Ioannina,Greece,468.0,0,5.5,12.5
+682590,2023-12-21T15:00Z,Panserraikos FC,AEK Athens,2,2,Panserraikos,Greece,,,,
+682596,2023-12-21T15:30Z,OFI Crete,Asteras Tripoli,0,2,Iraklio,Greece,169.0,0,5.8,9.6
+682591,2023-12-21T18:00Z,Kifisia,PAOK,0,6,Athens,Greece,70.0,0,5.8,7.6
+682500,2023-12-21T18:30Z,Atromitos,Olympiacos,0,0,Athens,Greece,70.0,0,5.8,7.6

@@ -77,3 +77,115 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 677114,2023-09-26T18:45Z,SC Amiens,AC Ajaccio,0,0,Amiens,France,28.0,0,7.5,17.6
 677119,2023-09-26T18:45Z,US Quevilly,Angers,0,1,Rouen,France,21.0,0,4.8,21.4
 677116,2023-09-26T18:45Z,Valenciennes,Concarneau,0,1,Valenciennes,France,29.0,0,7.2,17.6
+677130,2023-09-30T13:00Z,Troyes,Saint-Étienne,0,1,Paris,France,42.0,0,8.8,20.9
+677122,2023-09-30T17:00Z,AJ Auxerre,Rodez Aveyron,3,1,Auxerre,France,120.0,0,5.1,20.1
+677121,2023-09-30T17:00Z,Angers,Concarneau,2,0,Angers,France,42.0,0,1.8,21.3
+677129,2023-09-30T17:00Z,Annecy,Paris FC,2,2,Annecy,France,452.0,0,5.7,19.3
+677123,2023-09-30T17:00Z,Caen,Guingamp,0,1,Caen,France,21.0,0,5.8,19.4
+677125,2023-09-30T17:00Z,Dunkerque,US Quevilly,0,1,Dunkerque,France,-3.0,0,12.9,18.2
+677126,2023-09-30T17:00Z,Grenoble,Bordeaux,2,0,Grenoble,France,218.0,0,5.8,19.8
+677128,2023-09-30T17:00Z,Pau,SC Amiens,1,0,Pau,France,219.0,0,5.0,26.2
+677127,2023-09-30T17:00Z,Stade Laval,Valenciennes,1,0,Laval,France,54.0,0,4.0,19.5
+677124,2023-10-02T18:45Z,AC Ajaccio,Bastia,2,0,Ajaccio,France,,0,4.5,21.6
+677110,2023-10-03T16:45Z,Bordeaux,Caen,1,1,Bordeaux,France,20.0,0,12.8,22.2
+677117,2023-10-04T16:45Z,Saint-Étienne,Dunkerque,2,0,Saint-Etienne,France,529.0,0,10.8,17.1
+677132,2023-10-07T13:00Z,Bordeaux,Stade Laval,0,1,Bordeaux,France,20.0,0,8.4,25.2
+677133,2023-10-07T17:00Z,Bastia,Annecy,2,1,Furiani,France,210.0,0,1.1,21.6
+677131,2023-10-07T17:00Z,Concarneau,Dunkerque,4,3,Lorient,France,10.0,0,8.0,19.8
+677140,2023-10-07T17:00Z,Guingamp,Grenoble,2,2,Guingamp,France,73.0,0,5.2,20.4
+677136,2023-10-07T17:00Z,Paris FC,AJ Auxerre,0,2,Paris,France,42.0,0,8.5,19.2
+677138,2023-10-07T17:00Z,Rodez Aveyron,Caen,5,3,Rodez,France,627.0,0,8.8,19.3
+677139,2023-10-07T17:00Z,Saint-Étienne,AC Ajaccio,0,0,Saint-Etienne,France,529.0,0,7.5,18.2
+677134,2023-10-07T17:00Z,SC Amiens,Angers,1,4,Amiens,France,28.0,0,9.8,19.6
+677137,2023-10-07T17:00Z,US Quevilly,Pau,2,2,Rouen,France,21.0,0,6.4,18.2
+677135,2023-10-07T17:00Z,Valenciennes,Troyes,1,1,Valenciennes,France,29.0,0,13.1,19.9
+677142,2023-10-21T13:00Z,Caen,AJ Auxerre,1,1,Caen,France,21.0,3.4,31.3,13.1
+677149,2023-10-21T17:00Z,AC Ajaccio,Pau,2,0,Ajaccio,France,,0,3.0,16.8
+677150,2023-10-21T17:00Z,Angers,Bordeaux,2,0,Angers,France,42.0,0.1,25.1,13.4
+677146,2023-10-21T17:00Z,Annecy,SC Amiens,1,1,Annecy,France,452.0,0,6.6,11.9
+677141,2023-10-21T17:00Z,Dunkerque,Paris FC,1,3,Dunkerque,France,-3.0,0,28.8,13.5
+677148,2023-10-21T17:00Z,Grenoble,Valenciennes,3,3,Grenoble,France,218.0,0,4.2,14.4
+677143,2023-10-21T17:00Z,Guingamp,US Quevilly,2,2,Guingamp,France,73.0,0.4,21.1,12.2
+677145,2023-10-21T17:00Z,Rodez Aveyron,Bastia,1,1,Rodez,France,627.0,0,10.8,10.1
+677147,2023-10-21T17:00Z,Troyes,Concarneau,0,0,Paris,France,42.0,1.6,30.6,13.3
+677144,2023-10-23T18:45Z,Stade Laval,Saint-Étienne,0,1,Laval,France,54.0,0.9,8.1,12.2
+677157,2023-10-28T13:00Z,Bordeaux,Rodez Aveyron,2,2,Bordeaux,France,20.0,0,23.1,20.4
+677159,2023-10-28T17:00Z,AJ Auxerre,Dunkerque,0,1,Auxerre,France,120.0,0.8,18.4,13.9
+677158,2023-10-28T17:00Z,Bastia,Guingamp,0,0,Furiani,France,210.0,0,3.5,18.7
+677152,2023-10-28T17:00Z,Concarneau,AC Ajaccio,2,1,Lorient,France,10.0,2.6,38.7,14.5
+677153,2023-10-28T17:00Z,Paris FC,Troyes,2,2,Paris,France,42.0,1.5,29.5,13.4
+677154,2023-10-28T17:00Z,Pau,Grenoble,3,2,Pau,France,219.0,0,9.8,15.9
+677151,2023-10-28T17:00Z,SC Amiens,Stade Laval,0,0,Amiens,France,28.0,2.0,26.9,12.6
+677160,2023-10-28T17:00Z,US Quevilly,Annecy,1,2,Rouen,France,21.0,1.5,26.7,12.9
+677156,2023-10-28T17:00Z,Valenciennes,Caen,2,2,Valenciennes,France,29.0,1.0,23.5,12.4
+677155,2023-10-30T19:45Z,Saint-Étienne,Angers,2,0,Saint-Etienne,France,529.0,0.5,11.7,11.8
+677161,2023-11-04T14:00Z,Saint-Étienne,Paris FC,0,1,Saint-Etienne,France,529.0,0.5,30.0,9.3
+677167,2023-11-04T18:00Z,Angers,Valenciennes,2,0,Angers,France,42.0,2.6,33.7,11.6
+677162,2023-11-04T18:00Z,Annecy,Stade Laval,1,3,Annecy,France,452.0,5.9,7.9,8.7
+677168,2023-11-04T18:00Z,Bastia,Bordeaux,3,1,Furiani,France,210.0,0,3.3,14.3
+677170,2023-11-04T18:00Z,Dunkerque,SC Amiens,0,1,Dunkerque,France,-3.0,0,23.7,10.3
+677163,2023-11-04T18:00Z,Grenoble,AC Ajaccio,0,3,Grenoble,France,218.0,2.7,5.4,11.6
+677166,2023-11-04T18:00Z,Troyes,Caen,2,1,Paris,France,42.0,0,28.7,11.2
+677164,2023-11-04T18:00Z,US Quevilly,Rodez Aveyron,3,1,Rouen,France,21.0,0,25.1,10.7
+677165,2023-11-06T19:45Z,Guingamp,AJ Auxerre,2,1,Guingamp,France,73.0,0,17.0,8.1
+677172,2023-11-11T14:00Z,Bordeaux,Annecy,3,1,Bordeaux,France,20.0,0.8,9.2,13.2
+677176,2023-11-11T18:00Z,AC Ajaccio,Troyes,1,0,Ajaccio,France,,0,14.8,15.0
+677174,2023-11-11T18:00Z,AJ Auxerre,Saint-Étienne,5,2,Auxerre,France,120.0,0,9.1,7.2
+677177,2023-11-11T18:00Z,Caen,US Quevilly,3,3,Caen,France,21.0,0,9.4,8.2
+677171,2023-11-11T18:00Z,Paris FC,Bastia,1,0,Paris,France,42.0,0,7.4,7.0
+677180,2023-11-11T18:00Z,Pau,Angers,4,4,Pau,France,219.0,0.1,14.8,16.2
+677179,2023-11-11T18:00Z,Rodez Aveyron,Guingamp,0,0,Rodez,France,627.0,1.4,6.0,7.5
+677175,2023-11-11T18:00Z,SC Amiens,Grenoble,1,2,Amiens,France,28.0,0,9.2,3.8
+677173,2023-11-11T18:00Z,Stade Laval,Concarneau,0,3,Laval,France,54.0,1.0,11.6,9.1
+677178,2023-11-11T18:00Z,Valenciennes,Dunkerque,0,1,Valenciennes,France,29.0,0,9.2,4.2
+677182,2023-11-25T14:00Z,Saint-Étienne,Pau,1,2,Saint-Etienne,France,529.0,0.2,16.9,1.6
+677194,2023-11-25T18:00Z,Annecy,AC Ajaccio,2,0,Annecy,France,452.0,0,3.6,-0.1
+677192,2023-11-25T18:00Z,Bastia,AJ Auxerre,0,0,Furiani,France,210.0,0,5.5,8.1
+677189,2023-11-25T18:00Z,Dunkerque,Stade Laval,0,2,Dunkerque,France,-3.0,0,24.0,7.3
+677181,2023-11-25T18:00Z,Grenoble,Rodez Aveyron,2,1,Grenoble,France,218.0,0,5.7,1.8
+677183,2023-11-25T18:00Z,Paris FC,Bordeaux,1,2,Paris,France,42.0,0,9.2,4.3
+676979,2023-11-25T18:00Z,SC Amiens,Concarneau,1,1,Amiens,France,28.0,0,11.2,2.9
+677187,2023-11-25T18:00Z,Troyes,Guingamp,0,1,Paris,France,42.0,0,9.2,4.3
+677184,2023-11-25T18:00Z,US Quevilly,Valenciennes,0,0,Rouen,France,21.0,0,7.0,3.5
+677186,2023-11-27T19:45Z,Angers,Caen,3,0,Angers,France,42.0,0,19.1,9.0
+677169,2023-11-28T18:00Z,Concarneau,Pau,1,2,Guingamp,France,73.0,0,7.2,3.6
+677213,2023-12-02T14:00Z,Bordeaux,Troyes,0,1,Bordeaux,France,20.0,0,4.6,7.2
+677207,2023-12-02T18:00Z,AC Ajaccio,Angers,1,1,Ajaccio,France,,0,18.7,10.7
+677211,2023-12-02T18:00Z,AJ Auxerre,US Quevilly,3,2,Auxerre,France,120.0,0,5.6,0.1
+677204,2023-12-02T18:00Z,Caen,Bastia,1,0,Caen,France,21.0,0,10.4,0.0
+677202,2023-12-02T18:00Z,Guingamp,Paris FC,0,1,Guingamp,France,73.0,1.0,19.1,4.1
+677198,2023-12-02T18:00Z,Pau,Dunkerque,1,1,Pau,France,219.0,0,5.4,3.7
+677196,2023-12-02T18:00Z,Rodez Aveyron,Concarneau,2,0,Rodez,France,627.0,0,13.5,-2.6
+677209,2023-12-02T18:00Z,SC Amiens,Saint-Étienne,1,0,Amiens,France,28.0,0,7.9,-0.3
+677200,2023-12-02T18:00Z,Stade Laval,Grenoble,1,1,Laval,France,54.0,0,7.7,-1.4
+677215,2023-12-02T18:00Z,Valenciennes,Annecy,0,0,Valenciennes,France,29.0,0,8.7,1.4
+677228,2023-12-05T19:45Z,AC Ajaccio,Stade Laval,2,0,Ajaccio,France,,0,17.8,11.0
+677230,2023-12-05T19:45Z,Angers,Grenoble,1,0,Angers,France,42.0,0,15.2,6.8
+677233,2023-12-05T19:45Z,Concarneau,AJ Auxerre,1,2,Brest,France,49.0,0,7.9,7.2
+677235,2023-12-05T19:45Z,Dunkerque,Bastia,0,5,Dunkerque,France,-3.0,1.5,18.4,7.1
+677226,2023-12-05T19:45Z,Paris FC,Rodez Aveyron,2,0,Paris,France,42.0,0.1,13.8,6.1
+677237,2023-12-05T19:45Z,Pau,Valenciennes,3,1,Pau,France,219.0,0,8.6,5.8
+677222,2023-12-05T19:45Z,Saint-Étienne,Guingamp,1,3,Saint-Etienne,France,529.0,0,9.2,0.3
+677224,2023-12-05T19:45Z,Troyes,SC Amiens,2,0,Paris,France,42.0,0.1,13.8,6.1
+677217,2023-12-05T19:45Z,US Quevilly,Bordeaux,3,2,Rouen,France,21.0,0.1,10.9,6.0
+677219,2023-12-06T18:00Z,Annecy,Caen,1,2,Annecy,France,452.0,0,2.9,0.2
+677239,2023-12-16T14:00Z,AJ Auxerre,AC Ajaccio,2,0,Auxerre,France,120.0,0,6.0,7.2
+677258,2023-12-16T14:00Z,Bordeaux,Saint-Étienne,0,0,Bordeaux,France,20.0,0,13.0,10.6
+677241,2023-12-16T18:00Z,Bastia,US Quevilly,0,0,Furiani,France,210.0,0,10.9,8.4
+677256,2023-12-16T18:00Z,Caen,Dunkerque,1,0,Caen,France,21.0,0,8.4,4.8
+677245,2023-12-16T18:00Z,Grenoble,Annecy,1,0,Grenoble,France,218.0,0,3.8,1.5
+677248,2023-12-16T18:00Z,Guingamp,Concarneau,0,1,Guingamp,France,73.0,0,9.4,4.9
+677252,2023-12-16T18:00Z,Rodez Aveyron,SC Amiens,2,2,Rodez,France,627.0,0,7.8,3.0
+677250,2023-12-16T18:00Z,Stade Laval,Pau,1,1,Laval,France,54.0,0,8.7,2.9
+677243,2023-12-16T18:00Z,Troyes,Angers,1,4,Paris,France,42.0,0,7.3,4.3
+677254,2023-12-16T18:00Z,Valenciennes,Paris FC,0,1,Valenciennes,France,29.0,0,13.5,8.5
+677260,2023-12-19T19:45Z,AC Ajaccio,Valenciennes,2,1,Ajaccio,France,,0,3.0,7.3
+677276,2023-12-19T19:45Z,Angers,Guingamp,1,0,Angers,France,42.0,1.6,20.3,11.4
+677262,2023-12-19T19:45Z,Annecy,Rodez Aveyron,1,2,Annecy,France,452.0,0,4.0,4.3
+677273,2023-12-19T19:45Z,Concarneau,Grenoble,0,3,Lorient,France,10.0,0,19.3,10.8
+677271,2023-12-19T19:45Z,Dunkerque,Bordeaux,0,2,Dunkerque,France,-3.0,0.7,23.4,9.4
+677266,2023-12-19T19:45Z,Paris FC,US Quevilly,2,2,Paris,France,42.0,1.4,24.7,9.1
+677264,2023-12-19T19:45Z,Pau,Troyes,1,1,Pau,France,219.0,0,8.7,7.0
+677269,2023-12-19T19:45Z,Saint-Étienne,Bastia,3,2,Saint-Etienne,France,529.0,0,1.5,0.5
+677278,2023-12-19T19:45Z,SC Amiens,Caen,0,0,Amiens,France,28.0,0.7,17.8,9.8
+677280,2023-12-19T19:45Z,Stade Laval,AJ Auxerre,1,3,Laval,France,54.0,0.6,21.1,11.1

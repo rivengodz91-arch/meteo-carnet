@@ -137,3 +137,91 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 662795,2023-09-26T01:35Z,Independiente Medellín,Atlético Bucaramanga,2,0,Medellin,Colombia,1405.0,0,6.2,20.8
 662792,2023-09-26T23:15Z,Unión Magdalena,Deportivo Cali,3,4,Magdalena,Colombia,1352.0,0,4.8,31.2
 662791,2023-09-27T01:30Z,Deportivo Pasto,Atlético Huila,1,0,Pasto,Colombia,2569.0,0,2.1,13.9
+662802,2023-09-29T23:00Z,Jaguares de Córdoba,Atlético Junior,0,0,Montería,Colombia,29.0,0,2.5,27.5
+662800,2023-09-30T01:10Z,Deportes Tolima,Boyacá Chicó FC,2,0,Ibague,Colombia,1047.0,0,7.7,21.6
+662803,2023-09-30T21:00Z,Atlético Bucaramanga,Independiente Santa Fe,1,1,Bucaramanga,Colombia,1010.0,6.3,9.0,24.4
+662801,2023-09-30T23:10Z,Atlético Nacional,Envigado FC,3,0,Medellin,Colombia,1405.0,0.1,3.3,22.5
+662804,2023-10-01T00:00Z,Águilas Doradas,Deportivo Pasto,3,0,Rionegro,Colombia,2090.0,0.2,5.4,17.3
+662798,2023-10-01T01:20Z,Deportivo Pereira,América de Cali,2,4,Pereira,Colombia,1445.0,4.7,5.7,18.8
+662805,2023-10-01T21:00Z,Once Caldas,Independiente Medellín,2,2,Manizales,Colombia,2144.0,1.5,9.5,16.6
+662799,2023-10-02T00:30Z,Deportivo Cali,Alianza FC,1,0,Cali,Colombia,758.0,0,2.4,22.9
+662807,2023-10-03T01:10Z,Atlético Huila,Internacional de Bogotá,1,1,Neiva,Colombia,423.0,0,12.8,32.9
+662808,2023-10-06T23:00Z,Jaguares de Córdoba,Deportes Tolima,0,1,Montería,Colombia,29.0,0.1,6.9,26.3
+662811,2023-10-07T01:10Z,Atlético Junior,Deportivo Cali,3,2,Barranquilla,Colombia,24.0,0,6.2,27.8
+662814,2023-10-07T21:00Z,Envigado FC,Deportivo Pereira,2,3,Envigado,Colombia,1539.0,7.4,1.5,20.7
+662809,2023-10-07T23:10Z,Unión Magdalena,Atlético Nacional,2,1,Magdalena,Colombia,1352.0,6.7,11.7,22.0
+662812,2023-10-08T01:20Z,Independiente Santa Fe,Águilas Doradas,0,5,Bogota,Colombia,2582.0,0,5.2,13.6
+662810,2023-10-08T21:00Z,Internacional de Bogotá,Deportivo Pasto,1,0,Bogota,Colombia,2582.0,0,7.6,18.8
+662813,2023-10-08T23:10Z,Independiente Medellín,Atlético Huila,2,0,Medellin,Colombia,1405.0,0,1.3,21.6
+662815,2023-10-09T01:20Z,Boyacá Chicó FC,Once Caldas,2,1,Tunja,Colombia,2693.0,0,4.6,11.8
+662817,2023-10-11T01:00Z,Alianza FC,Atlético Bucaramanga,1,0,Barrancabermeja,Colombia,83.0,0,4.7,27.5
+662712,2023-10-11T23:15Z,Deportivo Cali,Deportes Tolima,2,0,Cali,Colombia,758.0,0,4.7,25.0
+662733,2023-10-12T01:30Z,Deportivo Pereira,Águilas Doradas,0,0,Pereira,Colombia,1445.0,0,4.4,18.6
+662818,2023-10-13T23:00Z,Deportivo Pasto,Unión Magdalena,3,1,Pasto,Colombia,2569.0,1.2,2.7,13.7
+662821,2023-10-14T01:10Z,Once Caldas,Jaguares de Córdoba,0,0,Manizales,Colombia,2144.0,0,4.8,16.9
+662822,2023-10-14T21:00Z,Deportivo Pereira,Internacional de Bogotá,1,0,Pereira,Colombia,1445.0,0,8.9,19.5
+662824,2023-10-14T23:10Z,Atlético Nacional,Independiente Medellín,1,2,Medellin,Colombia,1405.0,0.1,3.2,20.4
+662820,2023-10-15T01:20Z,Millonarios,Atlético Junior,1,0,Bogota,Colombia,2582.0,0,8.9,13.3
+662827,2023-10-15T21:00Z,Águilas Doradas,Alianza FC,3,0,Rionegro,Colombia,2090.0,0.1,10.4,21.2
+662819,2023-10-15T23:10Z,Deportivo Cali,América de Cali,0,0,Cali,Colombia,758.0,0.8,3.0,21.5
+662823,2023-10-16T01:20Z,Deportes Tolima,Independiente Santa Fe,1,0,Ibague,Colombia,1047.0,0,8.8,19.3
+662825,2023-10-16T23:05Z,Atlético Huila,Envigado FC,3,3,Neiva,Colombia,423.0,0,10.1,34.4
+662826,2023-10-17T01:15Z,Atlético Bucaramanga,Boyacá Chicó FC,1,0,Bucaramanga,Colombia,1010.0,0.1,3.8,20.3
+662806,2023-10-19T01:00Z,Millonarios,Unión Magdalena,1,1,Bogota,Colombia,2582.0,0,10.0,13.1
+662836,2023-10-20T21:00Z,Envigado FC,Deportivo Cali,3,0,Envigado,Colombia,1539.0,1.1,4.1,19.5
+662833,2023-10-20T23:10Z,Jaguares de Córdoba,Deportivo Pasto,1,0,Montería,Colombia,29.0,2.5,3.6,25.9
+662828,2023-10-21T01:20Z,Internacional de Bogotá,Águilas Doradas,1,1,Bogota,Colombia,2582.0,0,1.8,14.2
+662834,2023-10-21T21:00Z,Independiente Santa Fe,Millonarios,2,3,Bogota,Colombia,2582.0,0.6,10.5,16.9
+662829,2023-10-21T23:10Z,Unión Magdalena,Atlético Bucaramanga,1,2,Magdalena,Colombia,1352.0,4.6,12.2,22.6
+662835,2023-10-22T01:20Z,Atlético Junior,Once Caldas,1,0,Barranquilla,Colombia,24.0,0,4.3,26.6
+662832,2023-10-22T21:00Z,Boyacá Chicó FC,Atlético Nacional,1,3,Tunja,Colombia,2693.0,0,12.2,15.4
+662837,2023-10-22T23:10Z,Independiente Medellín,Deportivo Pereira,1,0,Medellin,Colombia,1405.0,0,5.2,18.7
+662830,2023-10-23T01:20Z,Alianza FC,Deportes Tolima,0,1,Barrancabermeja,Colombia,83.0,0,2.5,26.0
+662831,2023-10-24T01:00Z,América de Cali,Atlético Huila,1,0,Cali,Colombia,758.0,0.5,5.2,22.0
+662844,2023-10-24T23:00Z,Águilas Doradas,Envigado FC,3,1,Rionegro,Colombia,2090.0,0,5.9,15.3
+662839,2023-10-25T01:10Z,Deportivo Cali,Jaguares de Córdoba,2,0,Cali,Colombia,758.0,0,3.7,20.9
+662843,2023-10-25T21:00Z,Atlético Bucaramanga,Internacional de Bogotá,2,3,Bucaramanga,Colombia,1010.0,0.1,6.5,22.6
+662845,2023-10-25T23:10Z,Deportivo Pereira,Atlético Junior,0,2,Pereira,Colombia,1445.0,2.2,5.7,17.8
+662846,2023-10-26T01:20Z,Millonarios,Boyacá Chicó FC,1,1,Bogota,Colombia,2582.0,0,1.1,13.2
+662838,2023-10-26T21:00Z,Deportivo Pasto,Independiente Medellín,0,0,Pasto,Colombia,2569.0,2.9,8.7,13.9
+662847,2023-10-26T23:10Z,Once Caldas,América de Cali,1,1,Manizales,Colombia,2144.0,2.0,3.1,13.7
+662841,2023-10-27T01:20Z,Atlético Nacional,Alianza FC,2,0,Medellin,Colombia,1405.0,0.5,3.8,18.1
+662842,2023-10-27T23:00Z,Atlético Huila,Independiente Santa Fe,2,2,Neiva,Colombia,423.0,0,8.3,27.4
+662840,2023-10-28T01:10Z,Deportes Tolima,Unión Magdalena,2,1,Ibague,Colombia,1047.0,0,1.0,20.2
+662816,2023-10-31T01:00Z,América de Cali,Millonarios,1,0,Cali,Colombia,758.0,1.8,3.2,20.8
+662848,2023-11-08T00:30Z,Alianza FC,Deportivo Pereira,2,1,Barrancabermeja,Colombia,83.0,0,4.4,25.9
+662855,2023-11-08T00:30Z,Atlético Junior,Atlético Huila,2,0,Barranquilla,Colombia,24.0,0,5.4,26.8
+662851,2023-11-08T00:30Z,Boyacá Chicó FC,Deportivo Cali,1,1,Tunja,Colombia,2693.0,0,5.4,11.1
+662857,2023-11-08T00:30Z,Envigado FC,Deportivo Pasto,1,1,Itagui,Colombia,1538.0,0,3.1,19.3
+662853,2023-11-08T00:30Z,Independiente Santa Fe,Once Caldas,0,1,Bogota,Colombia,2582.0,0,6.9,13.4
+662849,2023-11-09T00:30Z,América de Cali,Atlético Bucaramanga,1,2,Cali,Colombia,758.0,0,3.1,22.8
+662850,2023-11-09T00:30Z,Atlético Nacional,Deportes Tolima,2,3,Medellin,Colombia,1405.0,0,4.7,20.0
+662856,2023-11-09T00:30Z,Internacional de Bogotá,Millonarios,2,1,Bogota,Colombia,2582.0,0,7.0,13.6
+662854,2023-11-09T00:30Z,Jaguares de Córdoba,Águilas Doradas,0,1,Montería,Colombia,29.0,0.2,4.4,26.4
+662852,2023-11-09T00:30Z,Unión Magdalena,Independiente Medellín,0,4,Magdalena,Colombia,1352.0,0,10.0,25.5
+690092,2023-11-12T22:00Z,Atlético Nacional,Millonarios,0,1,Medellin,Colombia,1405.0,0.1,2.3,21.1
+690093,2023-11-13T00:30Z,América de Cali,Independiente Medellín,1,2,Cali,Colombia,758.0,0,3.1,21.3
+690094,2023-11-13T22:30Z,Deportivo Cali,Águilas Doradas,1,1,Cali,Colombia,758.0,0,2.4,24.4
+690095,2023-11-14T01:00Z,Deportes Tolima,Atlético Junior,3,1,Ibague,Colombia,1047.0,6.5,7.6,22.5
+690096,2023-11-18T22:00Z,Águilas Doradas,Deportes Tolima,0,4,Rionegro,Colombia,2090.0,0.1,6.6,17.5
+690097,2023-11-19T00:30Z,Atlético Junior,Deportivo Cali,3,0,Barranquilla,Colombia,24.0,1.5,13.7,25.3
+690098,2023-11-19T21:00Z,Millonarios,América de Cali,2,1,Bogota,Colombia,2582.0,3.4,3.2,15.1
+690099,2023-11-19T23:30Z,Independiente Medellín,Atlético Nacional,2,1,Medellin,Colombia,1405.0,0.1,1.5,19.4
+690100,2023-11-25T22:00Z,Deportes Tolima,Deportivo Cali,4,2,Ibague,Colombia,1047.0,0.3,3.4,23.0
+690101,2023-11-26T00:30Z,Atlético Junior,Águilas Doradas,3,1,Barranquilla,Colombia,24.0,0,7.4,25.9
+690102,2023-11-26T21:00Z,Millonarios,Independiente Medellín,1,0,Bogota,Colombia,2582.0,0,13.5,17.6
+690103,2023-11-26T23:30Z,Atlético Nacional,América de Cali,1,0,Medellin,Colombia,1405.0,0,5.4,20.8
+690367,2023-11-29T23:15Z,Águilas Doradas,Atlético Junior,1,1,Rionegro,Colombia,2090.0,0,4.3,15.7
+690368,2023-11-30T01:30Z,Deportivo Cali,Deportes Tolima,0,2,Cali,Colombia,758.0,0.1,3.3,20.2
+690369,2023-11-30T23:15Z,América de Cali,Atlético Nacional,0,1,Cali,Colombia,758.0,0,2.6,23.0
+690370,2023-12-01T01:30Z,Independiente Medellín,Millonarios,2,1,Itagui,Colombia,1538.0,0,4.2,19.1
+690371,2023-12-02T23:00Z,Deportes Tolima,Águilas Doradas,0,1,Ibague,Colombia,1047.0,0,1.8,24.5
+690372,2023-12-03T01:15Z,Deportivo Cali,Atlético Junior,0,2,Cali,Colombia,758.0,0,2.3,23.7
+690373,2023-12-03T20:30Z,Atlético Nacional,Independiente Medellín,0,5,Envigado,Colombia,1539.0,0,4.8,26.9
+690374,2023-12-04T00:00Z,América de Cali,Millonarios,1,0,Cali,Colombia,758.0,0,1.9,22.6
+690375,2023-12-06T23:00Z,Águilas Doradas,Deportivo Cali,3,1,Rionegro,Colombia,2090.0,0,4.8,17.2
+690376,2023-12-06T23:00Z,Millonarios,Atlético Nacional,0,1,Bogota,Colombia,2582.0,0,7.2,15.3
+690377,2023-12-07T01:15Z,Atlético Junior,Deportes Tolima,4,2,Barranquilla,Colombia,24.0,0,19.8,26.9
+690378,2023-12-07T01:15Z,Independiente Medellín,América de Cali,2,1,Medellin,Colombia,1405.0,0,5.4,18.0
+690703,2023-12-10T21:00Z,Atlético Junior,Independiente Medellín,3,2,Barranquilla,Colombia,24.0,0,17.9,31.2
+690704,2023-12-14T01:00Z,Independiente Medellín,Atlético Junior,2,1,Medellin,Colombia,1405.0,0.1,5.9,19.7

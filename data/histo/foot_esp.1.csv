@@ -68,3 +68,114 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 674075,2023-09-28T17:00Z,Celta Vigo,Alavés,1,1,Vigo,Spain,86.0,0,10.9,21.8
 674079,2023-09-28T17:00Z,Granada,Real Betis,1,1,Granada,Spain,689.0,0,12.6,30.5
 674077,2023-09-28T19:30Z,Osasuna,Atlético Madrid,0,2,Pamplona,Spain,460.0,0,6.2,20.5
+674089,2023-09-29T19:00Z,Barcelona,Sevilla,1,0,Barcelona,Spain,15.0,0,4.4,24.2
+674085,2023-09-30T12:00Z,Getafe,Villarreal,0,0,Getafe,Spain,623.0,0,4.8,27.8
+674082,2023-09-30T14:15Z,Rayo Vallecano,Mallorca,2,2,Madrid,Spain,665.0,0,3.7,29.6
+674084,2023-09-30T16:30Z,Girona,Real Madrid,0,3,Girona,Spain,81.0,0,14.7,27.7
+674090,2023-09-30T19:00Z,Real Sociedad,Athletic Club,3,0,San Sebastian,Spain,74.0,0,5.4,20.2
+674087,2023-10-01T12:00Z,Almería,Granada,3,3,Almería,Spain,21.0,0,12.6,30.3
+674086,2023-10-01T14:15Z,Alavés,Osasuna,0,2,Vitoria-Gasteiz,Spain,547.0,0,6.2,32.1
+674088,2023-10-01T19:00Z,Atlético Madrid,Cádiz,3,2,Madrid,Spain,665.0,0,5.2,26.5
+674081,2023-10-01T19:00Z,Real Betis,Valencia,3,0,Sevilla,Spain,16.0,0,4.4,30.6
+674083,2023-10-02T19:00Z,Las Palmas,Celta Vigo,2,1,Las Palmas de Gran Canaria,Spain,122.0,0,5.6,25.0
+674097,2023-10-06T19:00Z,Athletic Club,Almería,3,0,Bilbao,Spain,20.0,0,3.6,19.1
+674095,2023-10-07T12:00Z,Cádiz,Girona,0,1,La Línea de la Concepción,Spain,4.0,0,21.2,25.6
+674092,2023-10-07T14:15Z,Real Madrid,Osasuna,4,0,Madrid,Spain,665.0,0,4.6,29.4
+674091,2023-10-07T16:30Z,Mallorca,Valencia,1,1,Palma de Mallorca,Spain,4.0,0,4.6,26.6
+674093,2023-10-07T19:00Z,Sevilla,Rayo Vallecano,2,2,Sevilla,Spain,16.0,0,15.9,29.9
+674094,2023-10-08T12:00Z,Villarreal,Las Palmas,1,2,Villarreal,Spain,42.0,0,9.7,31.5
+674098,2023-10-08T14:15Z,Atlético Madrid,Real Sociedad,2,1,Madrid,Spain,665.0,0,1.8,29.8
+674096,2023-10-08T16:30Z,Alavés,Real Betis,1,1,Vitoria-Gasteiz,Spain,547.0,0,9.5,28.7
+674099,2023-10-08T16:30Z,Celta Vigo,Getafe,2,2,Vigo,Spain,86.0,0,6.6,26.6
+674100,2023-10-08T19:00Z,Granada,Barcelona,2,2,Granada,Spain,689.0,0,5.5,20.6
+674105,2023-10-20T19:00Z,Osasuna,Granada,2,0,Pamplona,Spain,460.0,0.1,4.8,10.4
+674106,2023-10-21T12:00Z,Real Sociedad,Mallorca,1,0,San Sebastian,Spain,74.0,0,22.0,17.6
+674110,2023-10-21T14:15Z,Getafe,Real Betis,1,1,Getafe,Spain,623.0,0,10.4,15.9
+674107,2023-10-21T16:30Z,Sevilla,Real Madrid,1,1,Sevilla,Spain,16.0,0,2.2,21.1
+674102,2023-10-21T19:00Z,Celta Vigo,Atlético Madrid,0,3,Vigo,Spain,86.0,0,4.6,11.8
+674104,2023-10-22T12:00Z,Las Palmas,Rayo Vallecano,0,1,Las Palmas de Gran Canaria,Spain,122.0,0.9,15.1,24.9
+674109,2023-10-22T14:15Z,Girona,Almería,5,2,Girona,Spain,81.0,0,6.1,20.1
+674108,2023-10-22T16:30Z,Villarreal,Alavés,1,1,Villarreal,Spain,42.0,11.5,19.9,13.7
+674101,2023-10-22T19:00Z,Barcelona,Athletic Club,1,0,Barcelona,Spain,15.0,1.3,11.5,17.5
+674103,2023-10-23T19:00Z,Valencia,Cádiz,2,0,Manises,Spain,55.0,0,7.3,20.2
+674120,2023-10-27T19:00Z,Girona,Celta Vigo,1,0,Girona,Spain,81.0,0,9.4,16.2
+674111,2023-10-28T12:00Z,Almería,Las Palmas,1,2,Almería,Spain,21.0,0,9.8,21.3
+674117,2023-10-28T14:15Z,Barcelona,Real Madrid,1,2,Barcelona,Spain,15.0,0,21.2,23.4
+674113,2023-10-28T16:30Z,Mallorca,Getafe,0,0,Palma de Mallorca,Spain,4.0,0,17.2,21.1
+674116,2023-10-28T19:00Z,Cádiz,Sevilla,2,2,La Línea de la Concepción,Spain,4.0,0,6.9,17.4
+674115,2023-10-29T13:00Z,Real Betis,Osasuna,2,1,Sevilla,Spain,16.0,0,20.8,21.8
+674112,2023-10-29T15:15Z,Rayo Vallecano,Real Sociedad,2,2,Madrid,Spain,665.0,1.4,20.5,16.4
+674119,2023-10-29T17:30Z,Athletic Club,Valencia,2,2,Bilbao,Spain,20.0,0,13.8,17.6
+674118,2023-10-29T20:00Z,Atlético Madrid,Alavés,2,1,Madrid,Spain,665.0,2.0,13.6,13.1
+674114,2023-10-30T20:00Z,Granada,Villarreal,2,3,Granada,Spain,689.0,0,5.2,10.2
+674124,2023-11-03T20:00Z,Las Palmas,Atlético Madrid,2,1,Las Palmas de Gran Canaria,Spain,122.0,0,12.8,20.8
+674125,2023-11-04T13:00Z,Osasuna,Girona,2,4,Pamplona,Spain,460.0,1.4,24.5,14.7
+674126,2023-11-04T15:15Z,Real Betis,Mallorca,2,0,Sevilla,Spain,16.0,0,34.8,21.0
+674122,2023-11-04T17:30Z,Celta Vigo,Sevilla,1,1,Vigo,Spain,86.0,2.9,38.2,13.4
+674123,2023-11-04T20:00Z,Real Sociedad,Barcelona,0,1,San Sebastian,Spain,74.0,0,37.1,14.2
+674121,2023-11-05T13:00Z,Alavés,Almería,1,0,Vitoria-Gasteiz,Spain,547.0,0,31.1,13.9
+674129,2023-11-05T15:15Z,Valencia,Granada,1,0,Manises,Spain,55.0,0,25.3,22.0
+674130,2023-11-05T17:30Z,Villarreal,Athletic Club,2,3,Villarreal,Spain,42.0,0,11.2,15.1
+674127,2023-11-05T20:00Z,Real Madrid,Rayo Vallecano,0,0,Madrid,Spain,665.0,0,15.0,9.8
+674128,2023-11-06T20:00Z,Getafe,Cádiz,1,0,Getafe,Spain,623.0,0,10.7,7.4
+674132,2023-11-10T20:00Z,Athletic Club,Celta Vigo,4,3,Bilbao,Spain,20.0,0.1,4.3,12.1
+674131,2023-11-11T13:00Z,Rayo Vallecano,Girona,1,2,Madrid,Spain,665.0,0,24.0,17.6
+674135,2023-11-11T15:15Z,Almería,Real Sociedad,1,3,Almería,Spain,21.0,0,6.6,22.2
+674140,2023-11-11T17:30Z,Granada,Getafe,1,1,Granada,Spain,689.0,0,6.4,16.4
+674137,2023-11-11T17:30Z,Osasuna,Las Palmas,1,1,Pamplona,Spain,460.0,0,6.9,12.5
+674139,2023-11-11T20:00Z,Real Madrid,Valencia,5,1,Madrid,Spain,665.0,0,18.0,13.8
+674134,2023-11-12T15:15Z,Barcelona,Alavés,2,1,Barcelona,Spain,15.0,0,8.2,19.8
+674138,2023-11-12T17:30Z,Sevilla,Real Betis,1,1,Sevilla,Spain,16.0,0,3.3,20.5
+674133,2023-11-12T20:00Z,Atlético Madrid,Villarreal,3,1,Madrid,Spain,665.0,0,12.8,13.9
+674142,2023-11-24T20:00Z,Alavés,Granada,3,1,Vitoria-Gasteiz,Spain,547.0,0,4.2,8.8
+674146,2023-11-25T13:00Z,Rayo Vallecano,Barcelona,1,1,Madrid,Spain,665.0,0,3.1,15.2
+674149,2023-11-25T15:15Z,Valencia,Celta Vigo,0,0,Manises,Spain,55.0,0,13.7,17.2
+674144,2023-11-25T17:30Z,Getafe,Almería,2,1,Getafe,Spain,623.0,0,3.3,13.5
+674141,2023-11-25T20:00Z,Atlético Madrid,Mallorca,1,0,Madrid,Spain,665.0,0,4.1,7.5
+674145,2023-11-26T13:00Z,Villarreal,Osasuna,3,1,Villarreal,Spain,42.0,0,3.4,14.3
+674148,2023-11-26T15:15Z,Real Sociedad,Sevilla,2,1,San Sebastian,Spain,74.0,0,6.2,12.6
+674143,2023-11-26T17:30Z,Cádiz,Real Madrid,0,3,La Línea de la Concepción,Spain,4.0,0,14.4,17.9
+674147,2023-11-26T20:00Z,Real Betis,Las Palmas,1,0,Sevilla,Spain,16.0,0,6.4,13.1
+674150,2023-11-27T20:00Z,Girona,Athletic Club,1,1,Girona,Spain,81.0,0,4.5,9.9
+674136,2023-11-29T20:00Z,Mallorca,Cádiz,1,1,Palma de Mallorca,Spain,4.0,0,21.7,17.2
+674156,2023-12-01T20:00Z,Las Palmas,Getafe,2,0,Las Palmas de Gran Canaria,Spain,122.0,1.0,8.4,20.2
+674155,2023-12-02T13:00Z,Girona,Valencia,2,1,Girona,Spain,81.0,0,13.5,10.8
+674152,2023-12-02T15:15Z,Athletic Club,Rayo Vallecano,4,0,Bilbao,Spain,20.0,1.3,9.2,9.0
+674159,2023-12-02T17:30Z,Real Madrid,Granada,2,0,Madrid,Spain,665.0,0,6.6,7.9
+674158,2023-12-02T20:00Z,Osasuna,Real Sociedad,1,1,Pamplona,Spain,460.0,0,11.9,5.0
+674157,2023-12-03T13:00Z,Mallorca,Alavés,0,0,Palma de Mallorca,Spain,4.0,0,13.2,15.5
+674151,2023-12-03T15:15Z,Almería,Real Betis,0,0,Almería,Spain,21.0,0,8.7,14.9
+674160,2023-12-03T17:30Z,Sevilla,Villarreal,1,1,Sevilla,Spain,16.0,0,6.8,12.3
+674153,2023-12-03T20:00Z,Barcelona,Atlético Madrid,1,0,Barcelona,Spain,15.0,0,4.7,7.8
+674154,2023-12-04T20:00Z,Celta Vigo,Cádiz,1,1,Vigo,Spain,86.0,0,5.0,9.2
+674165,2023-12-08T20:00Z,Getafe,Valencia,1,0,Getafe,Spain,623.0,0,10.9,6.7
+674161,2023-12-09T13:00Z,Alavés,Las Palmas,0,1,Vitoria-Gasteiz,Spain,547.0,0,31.4,15.4
+674169,2023-12-09T15:15Z,Real Betis,Real Madrid,1,1,Sevilla,Spain,16.0,0,1.1,17.8
+674170,2023-12-09T17:30Z,Villarreal,Real Sociedad,0,3,Villarreal,Spain,42.0,0,9.5,16.1
+674167,2023-12-09T20:00Z,Mallorca,Sevilla,1,0,Palma de Mallorca,Spain,4.0,0,9.3,14.0
+674162,2023-12-10T13:00Z,Atlético Madrid,Almería,2,1,Madrid,Spain,665.0,0.1,10.5,12.4
+674164,2023-12-10T17:30Z,Cádiz,Osasuna,1,1,La Línea de la Concepción,Spain,4.0,0,3.4,17.2
+674163,2023-12-10T20:00Z,Barcelona,Girona,2,4,Barcelona,Spain,15.0,0,5.0,12.3
+674166,2023-12-11T20:00Z,Granada,Athletic Club,1,1,Granada,Spain,689.0,0,4.2,19.6
+674168,2023-12-11T20:00Z,Rayo Vallecano,Celta Vigo,0,0,Madrid,Spain,665.0,0,1.5,8.2
+674176,2023-12-15T20:00Z,Osasuna,Rayo Vallecano,1,0,Pamplona,Spain,460.0,0,16.2,7.0
+674173,2023-12-16T13:00Z,Celta Vigo,Granada,1,0,Vigo,Spain,86.0,0,4.6,13.4
+674172,2023-12-16T15:15Z,Athletic Club,Atlético Madrid,2,0,Bilbao,Spain,20.0,0,6.9,11.7
+674179,2023-12-16T17:30Z,Sevilla,Getafe,0,3,Sevilla,Spain,16.0,0,12.5,14.0
+674180,2023-12-16T20:00Z,Valencia,Barcelona,1,1,Manises,Spain,55.0,0,1.5,8.4
+674171,2023-12-17T13:00Z,Almería,Mallorca,0,0,Almería,Spain,21.0,0,11.5,17.7
+674178,2023-12-17T15:15Z,Real Sociedad,Real Betis,0,0,San Sebastian,Spain,74.0,0,5.8,11.7
+674175,2023-12-17T17:30Z,Las Palmas,Cádiz,1,1,Las Palmas de Gran Canaria,Spain,122.0,0,13.8,19.2
+674177,2023-12-17T20:00Z,Real Madrid,Villarreal,4,1,Madrid,Spain,665.0,0,7.6,3.6
+674174,2023-12-18T20:00Z,Girona,Alavés,3,0,Girona,Spain,81.0,0,3.3,9.6
+674188,2023-12-19T18:00Z,Rayo Vallecano,Valencia,0,1,Madrid,Spain,665.0,0,9.4,4.1
+674183,2023-12-19T20:30Z,Atlético Madrid,Getafe,3,3,Madrid,Spain,665.0,0,6.4,2.8
+674185,2023-12-19T20:30Z,Granada,Sevilla,0,3,Granada,Spain,689.0,0,6.4,4.6
+674184,2023-12-20T18:00Z,Barcelona,Almería,3,2,Barcelona,Spain,15.0,0,9.6,10.6
+674182,2023-12-20T20:30Z,Athletic Club,Las Palmas,1,0,Bilbao,Spain,20.0,0.5,11.6,10.4
+674186,2023-12-20T20:30Z,Villarreal,Celta Vigo,3,2,Villarreal,Spain,42.0,0,10.9,9.2
+674190,2023-12-21T18:00Z,Cádiz,Real Sociedad,0,0,La Línea de la Concepción,Spain,4.0,0,1.5,14.5
+674189,2023-12-21T18:00Z,Real Betis,Girona,1,1,Sevilla,Spain,16.0,0,9.4,10.6
+674181,2023-12-21T20:30Z,Alavés,Real Madrid,0,1,Vitoria-Gasteiz,Spain,547.0,0.1,12.2,8.5
+674187,2023-12-21T20:30Z,Mallorca,Osasuna,3,2,Palma de Mallorca,Spain,4.0,0,11.2,12.2
+674046,2023-12-23T15:15Z,Atlético Madrid,Sevilla,1,0,Madrid,Spain,665.0,0,4.2,12.6

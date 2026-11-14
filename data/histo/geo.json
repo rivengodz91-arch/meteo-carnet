@@ -5,10 +5,20 @@
 10.211,
 10.0
 ],
+"Aberdeen|Scotland": [
+57.144,
+-2.098,
+13.0
+],
 "Adana|Türkiye": [
 36.986,
 35.325,
 30.0
+],
+"Adelaide|Australia": [
+-34.929,
+138.599,
+59.0
 ],
 "Agrinio|Greece": [
 38.621,
@@ -96,6 +106,11 @@ null
 30.696,
 61.0
 ],
+"Antwerp|Belgium": [
+51.22,
+4.4,
+13.0
+],
 "Arad|Romania": [
 46.183,
 21.317,
@@ -116,6 +131,11 @@ null
 13.574,
 154.0
 ],
+"Astana|Kazakhstan": [
+51.18,
+71.446,
+358.0
+],
 "Asunción|Paraguay": [
 -25.286,
 -57.647,
@@ -130,6 +150,11 @@ null
 33.749,
 -84.388,
 320.0
+],
+"Auckland|New Zealand": [
+-36.849,
+174.763,
+43.0
 ],
 "Aue|Germany": [
 50.59,
@@ -161,6 +186,11 @@ null
 -78.846,
 2720.0
 ],
+"Backa Topola|Serbia": [
+45.815,
+19.632,
+94.0
+],
 "Baerum|Norway": [
 59.941,
 10.503,
@@ -170,6 +200,11 @@ null
 40.378,
 49.892,
 -23.0
+],
+"Ballarat|Australia": [
+-37.566,
+143.85,
+445.0
 ],
 "Barcelona|Spain": [
 41.389,
@@ -196,6 +231,11 @@ null
 -74.781,
 24.0
 ],
+"Barueri|Brazil": [
+-23.511,
+-46.876,
+729.0
+],
 "Basel|Switzerland": [
 47.558,
 7.573,
@@ -205,6 +245,11 @@ null
 39.907,
 116.397,
 49.0
+],
+"Belgrade|Serbia": [
+44.804,
+20.465,
+120.0
 ],
 "Belo Horizonte|Brazil": [
 -19.921,
@@ -297,6 +342,11 @@ null
 -8.423,
 190.0
 ],
+"Brasília|Brazil": [
+-15.78,
+-47.93,
+1136.0
+],
 "Bratislava|Slovakia": [
 48.148,
 17.107,
@@ -306,6 +356,16 @@ null
 52.266,
 10.527,
 72.0
+],
+"Bregenz|Austria": [
+47.503,
+9.747,
+405.0
+],
+"Breidablik|Iceland": [
+63.35,
+-41.8,
+1.0
 ],
 "Bremen|Germany": [
 53.076,
@@ -321,6 +381,11 @@ null
 48.39,
 -4.486,
 49.0
+],
+"Brisbane|Australia": [
+-27.468,
+153.028,
+27.0
 ],
 "Bristol|England": [
 51.455,
@@ -627,6 +692,11 @@ null
 6.779,
 42.0
 ],
+"Edinburgh|Scotland": [
+55.952,
+-3.196,
+66.0
+],
 "Eibar|Spain": [
 43.185,
 -2.472,
@@ -782,6 +852,16 @@ null
 -3.733,
 623.0
 ],
+"Ghent|Belgium": [
+51.05,
+3.717,
+10.0
+],
+"Gifu|Japan": [
+35.423,
+136.76,
+14.0
+],
 "Gijón|Spain": [
 43.536,
 -5.662,
@@ -846,6 +926,11 @@ null
 57.683,
 11.951,
 23.0
+],
+"Haifa|Israel": [
+32.813,
+34.999,
+101.0
 ],
 "Hakata-ku, Fukuoka|Japan": null,
 "Halmstads|Sweden": null,
@@ -1035,6 +1120,11 @@ null
 135.183,
 35.0
 ],
+"Kolossi|Cyprus": [
+34.669,
+32.934,
+54.0
+],
 "Konya|Türkiye": [
 37.871,
 32.485,
@@ -1060,15 +1150,30 @@ null
 -57.954,
 27.0
 ],
+"La Spezia|Italy": [
+44.103,
+9.824,
+3.0
+],
 "Lamia|Greece": [
 38.899,
 22.433,
 88.0
 ],
+"Larnaca|Cyprus": [
+34.922,
+33.628,
+24.0
+],
 "Las Palmas de Gran Canaria|Spain": [
 28.102,
 -15.416,
 122.0
+],
+"Latacunga|Ecuador": [
+-0.934,
+-78.615,
+2770.0
 ],
 "Lausanne|Switzerland": [
 46.516,
@@ -1125,6 +1230,11 @@ null
 103.764,
 375.0
 ],
+"Leskovac|Serbia": [
+42.998,
+21.946,
+230.0
+],
 "Leverkusen|Germany": [
 51.03,
 6.984,
@@ -1160,6 +1270,11 @@ null
 53.411,
 -2.978,
 30.0
+],
+"Ljubljana|Slovenia": [
+46.051,
+14.505,
+295.0
 ],
 "Loja|Ecuador": [
 -3.993,
@@ -1291,6 +1406,11 @@ null
 24.35,
 301.0
 ],
+"Melbourne|Australia": [
+-37.814,
+144.963,
+25.0
+],
 "Mendoza|Argentina": [
 -32.889,
 -68.846,
@@ -1406,6 +1526,11 @@ null
 6.931,
 441.0
 ],
+"New South Wales|Australia": [
+25.24,
+55.2,
+-9999.0
+],
 "New York City|USA": [
 40.714,
 -74.006,
@@ -1415,6 +1540,11 @@ null
 40.714,
 -74.006,
 10.0
+],
+"Newcastle, New South Wales|Australia": [
+-32.93,
+151.78,
+48.0
 ],
 "Newcastle-upon-Tyne|England": [
 54.973,
@@ -1460,6 +1590,11 @@ null
 55.396,
 10.388,
 17.0
+],
+"Oradea|Romania": [
+47.046,
+21.918,
+126.0
 ],
 "Orlando, Florida|USA": [
 28.538,
@@ -1547,6 +1682,11 @@ null
 -75.695,
 1445.0
 ],
+"Perth|Australia": [
+-31.952,
+115.861,
+34.0
+],
 "Piacenza|Italy": [
 45.052,
 9.693,
@@ -1602,11 +1742,17 @@ null
 -8.611,
 91.0
 ],
+"Prague|Czechia": [
+50.088,
+14.421,
+202.0
+],
 "Preston|England": [
 53.763,
 -2.705,
 34.0
 ],
+"Prishtina|Kosovo": null,
 "Puebla|Mexico": [
 19.048,
 -98.207,
@@ -1651,6 +1797,11 @@ null
 48.111,
 -1.674,
 39.0
+],
+"Reykjavik|Iceland": [
+64.135,
+-21.895,
+37.0
 ],
 "Rio Maior|Portugal": [
 39.337,
@@ -1907,6 +2058,11 @@ null
 -8.469,
 13.0
 ],
+"Sosnowiec|Poland": [
+50.287,
+19.104,
+256.0
+],
 "Southampton|England": [
 50.904,
 -1.404,
@@ -1967,6 +2123,11 @@ null
 -3.943,
 18.0
 ],
+"Sydney|Australia": [
+-33.868,
+151.207,
+58.0
+],
 "Sölvesborg|Sweden": [
 56.052,
 14.575,
@@ -2001,6 +2162,11 @@ null
 32.503,
 -117.004,
 97.0
+],
+"Tirana|Albania": [
+41.327,
+19.819,
+113.0
 ],
 "Tiraspol|Moldova": [
 46.843,
@@ -2058,6 +2224,11 @@ null
 22.379,
 660.0
 ],
+"Trnava|Slovakia": [
+48.378,
+17.586,
+147.0
+],
 "Tromsø|Norway": [
 69.649,
 18.955,
@@ -2082,6 +2253,16 @@ null
 45.05,
 23.283,
 212.0
+],
+"Tórshavn|Faroe Islands": [
+62.01,
+-6.772,
+1.0
+],
+"Uberlandia|Brazil": [
+-18.919,
+-48.277,
+867.0
 ],
 "Udine|Italy": [
 46.069,
@@ -2227,6 +2408,11 @@ null
 51.655,
 -0.396,
 77.0
+],
+"Wellington|New Zealand": [
+-41.287,
+174.776,
+31.0
 ],
 "West Bromwich|England": [
 52.519,

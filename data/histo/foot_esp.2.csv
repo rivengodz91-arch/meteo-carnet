@@ -76,3 +76,157 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 676048,2023-09-24T16:30Z,Mirandés,Leganés,1,3,Miranda de Ebro,Spain,466.0,0,7.6,25.7
 676049,2023-09-25T19:00Z,Racing Ferrol,Real Zaragoza,1,0,Ferrol,Spain,24.0,0,1.8,19.0
 676052,2023-09-25T19:00Z,Tenerife,Espanyol,1,0,Santa Cruz de Tenerife,Spain,10.0,0,12.2,23.1
+676059,2023-09-29T19:00Z,Leganés,Racing Santander,2,1,"Leganés, Madrid",Spain,672.0,0,7.2,22.9
+676056,2023-09-30T14:15Z,Eibar,Tenerife,3,0,Eibar,Spain,133.0,0,5.4,31.0
+676063,2023-09-30T16:30Z,Elche,Levante,0,0,Elche,Spain,96.0,0,8.7,28.1
+676054,2023-09-30T19:00Z,Albacete,FC Andorra,3,1,Albacete,Spain,695.0,0,13.0,23.2
+676062,2023-09-30T19:00Z,Villarreal B,AD Alcorcón,2,2,Villarreal,Spain,42.0,0,7.9,28.0
+676064,2023-10-01T12:00Z,Eldense,Real Oviedo,1,3,Elda,Spain,412.0,0,10.4,29.6
+676057,2023-10-01T16:30Z,Amorebieta,FC Cartagena,0,0,Lezama,Spain,347.0,0,8.7,28.7
+676060,2023-10-01T16:30Z,Real Valladolid,Burgos,3,0,Valladolid,Spain,702.0,0,10.9,31.7
+676061,2023-10-01T16:30Z,Real Zaragoza,Mirandés,0,1,Zaragoza,Spain,214.0,0,6.8,32.7
+676058,2023-10-01T19:00Z,Huesca,Sporting Gijón,0,1,Huesca,Spain,476.0,0,6.1,23.4
+676055,2023-10-02T19:00Z,Espanyol,Racing Ferrol,3,0,Barcelona,Spain,15.0,0,3.9,22.5
+676066,2023-10-03T17:00Z,AD Alcorcón,Albacete,1,2,Madrid,Spain,665.0,0,4.7,28.5
+676067,2023-10-03T17:00Z,Levante,Villarreal B,1,1,Manises,Spain,55.0,0,9.5,23.7
+676073,2023-10-03T19:30Z,Tenerife,Racing Santander,2,0,Santa Cruz de Tenerife,Spain,10.0,0,7.0,24.3
+676065,2023-10-04T17:00Z,Eldense,Real Valladolid,0,1,Elda,Spain,412.0,0,11.0,22.7
+676070,2023-10-04T17:00Z,Real Oviedo,Huesca,1,0,Oviedo,Spain,237.0,0,6.3,21.6
+676068,2023-10-04T19:30Z,Burgos,Leganés,1,0,Burgos,Spain,863.0,0,10.5,18.8
+676069,2023-10-04T19:30Z,Sporting Gijón,Elche,2,0,Gijón,Spain,22.0,0,11.9,18.9
+676075,2023-10-05T17:00Z,FC Andorra,Real Zaragoza,0,1,Andorra la Vieja,Andorra,,,,
+676072,2023-10-05T17:00Z,Mirandés,Eibar,1,3,Miranda de Ebro,Spain,466.0,0,0.4,28.8
+676074,2023-10-05T19:30Z,FC Cartagena,Espanyol,0,2,Cartagena,Spain,1.0,0,3.6,21.5
+676071,2023-10-05T19:30Z,Racing Ferrol,Amorebieta,1,0,Ferrol,Spain,24.0,0,4.5,17.9
+676083,2023-10-06T19:00Z,Albacete,Levante,0,2,Albacete,Spain,695.0,0,14.7,23.7
+676080,2023-10-07T14:15Z,Huesca,Eldense,0,1,Huesca,Spain,476.0,0,6.6,27.4
+676078,2023-10-07T16:30Z,Racing Santander,Sporting Gijón,3,2,Santander,Spain,1.0,0,8.1,27.1
+676077,2023-10-07T19:00Z,Leganés,Real Oviedo,0,0,"Leganés, Madrid",Spain,672.0,0,10.1,21.1
+676082,2023-10-08T12:00Z,Amorebieta,Eibar,1,2,Lezama,Spain,347.0,0,4.3,30.0
+676079,2023-10-08T14:15Z,Real Valladolid,Mirandés,3,2,Valladolid,Spain,702.0,0,3.1,30.1
+676084,2023-10-08T16:30Z,Racing Ferrol,FC Cartagena,1,1,Ferrol,Spain,24.0,0,6.2,23.6
+676086,2023-10-08T16:30Z,Tenerife,Burgos,2,1,Santa Cruz de Tenerife,Spain,10.0,0,5.4,34.6
+676076,2023-10-08T19:00Z,Real Zaragoza,AD Alcorcón,0,2,Zaragoza,Spain,214.0,0,6.9,23.6
+676081,2023-10-09T17:00Z,Elche,FC Andorra,2,1,Elche,Spain,96.0,0,10.4,23.7
+676085,2023-10-09T19:00Z,Villarreal B,Espanyol,3,1,Villarreal,Spain,42.0,0,7.3,26.6
+676094,2023-10-13T19:00Z,Real Oviedo,Albacete,3,0,Oviedo,Spain,237.0,0.2,1.6,18.1
+676093,2023-10-14T14:15Z,Mirandés,Tenerife,1,1,Miranda de Ebro,Spain,466.0,0,15.0,20.8
+676090,2023-10-14T16:30Z,FC Cartagena,Racing Santander,2,3,Cartagena,Spain,1.0,0,5.4,25.9
+676095,2023-10-14T16:30Z,Sporting Gijón,Real Zaragoza,2,2,Gijón,Spain,22.0,0,13.0,17.5
+676088,2023-10-14T19:00Z,Espanyol,Real Valladolid,2,0,Barcelona,Spain,15.0,0,2.6,21.7
+676092,2023-10-15T12:00Z,Burgos,Villarreal B,3,2,Burgos,Spain,863.0,0,5.4,17.6
+676089,2023-10-15T14:15Z,Eldense,Elche,1,1,Elda,Spain,412.0,0,9.3,27.1
+676087,2023-10-15T14:15Z,FC Andorra,AD Alcorcón,2,0,Andorra la Vieja,Andorra,,,,
+676096,2023-10-15T16:30Z,Eibar,Huesca,1,1,Eibar,Spain,133.0,0,8.4,16.7
+676091,2023-10-15T16:30Z,Leganés,Amorebieta,6,0,"Leganés, Madrid",Spain,672.0,0,5.2,21.3
+676097,2023-10-16T19:00Z,Levante,Racing Ferrol,1,0,Manises,Spain,55.0,0,14.5,21.5
+676105,2023-10-20T19:00Z,Espanyol,Leganés,0,1,Barcelona,Spain,15.0,0,15.2,18.5
+676106,2023-10-21T14:15Z,Amorebieta,Real Oviedo,0,0,Lezama,Spain,347.0,0,10.8,16.9
+676103,2023-10-21T14:15Z,Villarreal B,Mirandés,0,3,Villarreal,Spain,42.0,0,7.9,20.2
+676108,2023-10-21T16:30Z,Tenerife,Levante,0,0,Santa Cruz de Tenerife,Spain,10.0,0,13.0,26.5
+676102,2023-10-21T19:00Z,Real Zaragoza,Eibar,2,3,Zaragoza,Spain,214.0,0,3.2,14.1
+676099,2023-10-22T12:00Z,Racing Ferrol,Eldense,1,1,Ferrol,Spain,24.0,0.1,12.3,17.4
+676104,2023-10-22T14:15Z,Huesca,Elche,0,1,Huesca,Spain,476.0,0,18.2,17.1
+676098,2023-10-22T16:30Z,Albacete,Sporting Gijón,1,3,Albacete,Spain,695.0,0,19.0,16.0
+676100,2023-10-22T16:30Z,Racing Santander,Burgos,3,0,Santander,Spain,1.0,0,11.6,20.1
+676101,2023-10-22T19:00Z,Real Valladolid,FC Andorra,2,0,Valladolid,Spain,702.0,1.2,7.0,11.9
+676107,2023-10-23T19:00Z,AD Alcorcón,FC Cartagena,1,1,Madrid,Spain,665.0,0,8.0,11.9
+676112,2023-10-27T19:00Z,Eibar,Real Valladolid,5,1,Eibar,Spain,133.0,0,1.8,12.1
+676119,2023-10-28T12:00Z,Eldense,Amorebieta,2,0,Elda,Spain,412.0,0,10.1,21.8
+676115,2023-10-28T16:30Z,FC Andorra,Levante,2,0,Andorra la Vieja,Andorra,,,,
+676110,2023-10-28T16:30Z,Sporting Gijón,Espanyol,2,0,Gijón,Spain,22.0,0.6,11.3,19.9
+676113,2023-10-28T19:00Z,Elche,Tenerife,2,1,Elche,Spain,96.0,0,2.6,17.0
+676118,2023-10-29T13:00Z,Mirandés,FC Cartagena,2,1,Miranda de Ebro,Spain,466.0,0,19.3,16.7
+676116,2023-10-29T15:15Z,Huesca,Albacete,0,0,Huesca,Spain,476.0,0,11.8,18.6
+676117,2023-10-29T17:30Z,Leganés,Villarreal B,1,0,"Leganés, Madrid",Spain,672.0,1.9,14.0,14.1
+676109,2023-10-29T17:30Z,Real Oviedo,AD Alcorcón,2,0,Oviedo,Spain,237.0,1.0,6.9,12.5
+676114,2023-10-29T20:00Z,Racing Santander,Racing Ferrol,1,3,Santander,Spain,1.0,0,12.4,14.6
+676111,2023-10-30T20:00Z,Burgos,Real Zaragoza,1,1,Burgos,Spain,863.0,0,21.9,7.7
+676125,2023-11-03T20:00Z,Espanyol,Eibar,2,2,Barcelona,Spain,15.0,0,20.9,13.5
+676124,2023-11-04T15:15Z,Villarreal B,Sporting Gijón,0,3,Villarreal,Spain,42.0,2.5,24.4,17.5
+676126,2023-11-04T17:30Z,Levante,Mirandés,2,2,Manises,Spain,55.0,0,22.1,21.6
+676128,2023-11-04T17:30Z,Real Valladolid,Tenerife,2,0,Valladolid,Spain,702.0,0,34.9,10.5
+676120,2023-11-04T20:00Z,Albacete,Elche,1,1,Albacete,Spain,695.0,0.3,35.6,15.5
+676127,2023-11-05T13:00Z,Racing Ferrol,FC Andorra,1,0,Ferrol,Spain,24.0,2.7,25.7,12.4
+676122,2023-11-05T15:15Z,Amorebieta,Huesca,0,1,Lezama,Spain,347.0,0.2,19.3,15.7
+676121,2023-11-05T17:30Z,AD Alcorcón,Racing Santander,3,1,Madrid,Spain,665.0,0,17.8,11.6
+676130,2023-11-05T17:30Z,FC Cartagena,Leganés,0,3,Cartagena,Spain,1.0,0,7.9,17.1
+676123,2023-11-05T20:00Z,Eldense,Burgos,2,0,Elda,Spain,412.0,0,19.1,14.7
+676129,2023-11-06T20:00Z,Real Zaragoza,Real Oviedo,0,0,Zaragoza,Spain,214.0,0,9.5,10.0
+676136,2023-11-10T19:30Z,Leganés,Levante,2,1,"Leganés, Madrid",Spain,672.0,0.3,18.7,11.1
+676138,2023-11-11T15:15Z,Racing Santander,Real Valladolid,2,3,Santander,Spain,1.0,0,7.3,19.0
+676133,2023-11-11T17:30Z,Elche,Real Zaragoza,2,0,Elche,Spain,96.0,0,13.4,22.1
+676137,2023-11-11T17:30Z,Mirandés,Racing Ferrol,1,2,Miranda de Ebro,Spain,466.0,0,21.7,16.8
+676140,2023-11-11T20:00Z,Sporting Gijón,Amorebieta,1,1,Gijón,Spain,22.0,0.2,22.2,19.2
+676131,2023-11-12T13:00Z,Burgos,AD Alcorcón,4,2,Burgos,Spain,863.0,0,28.0,15.5
+676134,2023-11-12T15:15Z,FC Andorra,Eldense,1,3,Andorra la Vieja,Andorra,,,,
+676135,2023-11-12T17:30Z,Huesca,Espanyol,1,1,Huesca,Spain,476.0,0,6.9,14.6
+676141,2023-11-12T17:30Z,Tenerife,Villarreal B,0,1,Santa Cruz de Tenerife,Spain,10.0,0,8.9,22.7
+676132,2023-11-12T20:00Z,Eibar,Albacete,1,1,Eibar,Spain,133.0,0,10.6,16.6
+676139,2023-11-13T20:00Z,Real Oviedo,FC Cartagena,1,1,Oviedo,Spain,237.0,0.3,7.0,16.3
+676150,2023-11-17T20:00Z,Real Valladolid,Leganés,1,1,Valladolid,Spain,702.0,0,5.6,10.2
+676142,2023-11-18T15:15Z,AD Alcorcón,Sporting Gijón,0,0,Madrid,Spain,665.0,0,1.5,17.0
+676143,2023-11-18T17:30Z,Amorebieta,Tenerife,2,0,Lezama,Spain,347.0,0,2.3,15.1
+676151,2023-11-18T17:30Z,Real Zaragoza,Huesca,0,2,Zaragoza,Spain,214.0,0,8.0,13.3
+676145,2023-11-18T20:00Z,Espanyol,Elche,2,0,Barcelona,Spain,15.0,0,6.0,12.7
+676148,2023-11-19T13:00Z,Racing Ferrol,Burgos,1,1,Ferrol,Spain,24.0,0,6.1,17.5
+676144,2023-11-19T15:15Z,Eldense,Mirandés,2,2,Elda,Spain,412.0,0,8.9,20.5
+676149,2023-11-19T15:15Z,Real Oviedo,Eibar,2,1,Oviedo,Spain,237.0,0,8.0,16.5
+676146,2023-11-19T17:30Z,FC Cartagena,Albacete,1,1,Cartagena,Spain,1.0,0,4.9,16.2
+676152,2023-11-19T17:30Z,Villarreal B,FC Andorra,0,0,Villarreal,Spain,42.0,0,4.1,19.5
+676147,2023-11-20T20:00Z,Levante,Racing Santander,2,4,Manises,Spain,55.0,0,4.0,11.1
+676158,2023-11-24T20:00Z,Huesca,Real Valladolid,0,1,Huesca,Spain,476.0,0,8.0,7.1
+676154,2023-11-25T15:15Z,Burgos,FC Andorra,0,0,Burgos,Spain,863.0,0,13.2,10.2
+676161,2023-11-25T15:15Z,Racing Santander,Villarreal B,2,0,Santander,Spain,1.0,0,12.0,13.6
+676153,2023-11-25T17:30Z,Albacete,Real Zaragoza,1,0,Albacete,Spain,695.0,0,9.8,11.8
+676155,2023-11-25T20:00Z,Eibar,Levante,3,1,Eibar,Spain,133.0,0,4.1,7.7
+676159,2023-11-26T13:00Z,Leganés,Racing Ferrol,2,2,"Leganés, Madrid",Spain,672.0,0,4.5,13.8
+676156,2023-11-26T15:15Z,Elche,Amorebieta,2,0,Elche,Spain,96.0,0,6.8,19.4
+676160,2023-11-26T15:15Z,Mirandés,Real Oviedo,2,1,Miranda de Ebro,Spain,466.0,0,5.2,13.3
+676163,2023-11-26T17:30Z,Tenerife,FC Cartagena,1,1,Santa Cruz de Tenerife,Spain,10.0,0,10.5,21.5
+676157,2023-11-26T20:00Z,Espanyol,AD Alcorcón,2,0,Barcelona,Spain,15.0,0,5.5,9.6
+676162,2023-11-27T20:00Z,Sporting Gijón,Eldense,2,0,Gijón,Spain,22.0,0.2,18.0,13.4
+676171,2023-12-01T19:30Z,Real Oviedo,Espanyol,2,0,Oviedo,Spain,237.0,1.1,18.5,7.6
+676165,2023-12-02T15:15Z,Eldense,Tenerife,0,3,Elda,Spain,412.0,0,25.7,13.4
+676169,2023-12-02T15:15Z,FC Cartagena,Sporting Gijón,1,0,Cartagena,Spain,1.0,0,5.0,18.5
+676172,2023-12-02T17:30Z,Real Zaragoza,Leganés,1,0,Zaragoza,Spain,214.0,0,16.5,8.9
+676173,2023-12-02T20:00Z,Levante,Real Valladolid,2,1,Manises,Spain,55.0,0,9.6,11.0
+676164,2023-12-03T13:00Z,FC Andorra,Huesca,1,0,Andorra la Vieja,Andorra,,,,
+676167,2023-12-03T15:15Z,AD Alcorcón,Elche,0,2,Madrid,Spain,665.0,0,10.2,8.2
+676174,2023-12-03T17:30Z,Mirandés,Racing Santander,0,0,Miranda de Ebro,Spain,466.0,0,12.8,8.3
+676170,2023-12-03T17:30Z,Racing Ferrol,Albacete,5,4,Ferrol,Spain,24.0,4.6,38.5,11.9
+676166,2023-12-03T20:00Z,Amorebieta,Burgos,0,1,Lezama,Spain,347.0,0,21.2,9.7
+676168,2023-12-04T19:30Z,Villarreal B,Eibar,1,0,Villarreal,Spain,42.0,0,7.3,11.0
+676181,2023-12-08T17:30Z,Albacete,Villarreal B,2,0,Albacete,Spain,695.0,0,22.0,9.7
+676185,2023-12-08T20:00Z,Espanyol,Real Zaragoza,1,1,Barcelona,Spain,15.0,0,7.4,9.7
+676177,2023-12-09T15:15Z,Real Valladolid,Amorebieta,2,1,Valladolid,Spain,702.0,0,20.1,13.5
+676178,2023-12-09T17:30Z,Sporting Gijón,Levante,0,0,Gijón,Spain,22.0,0.1,15.3,16.0
+676182,2023-12-09T20:00Z,Burgos,Mirandés,0,0,Burgos,Spain,863.0,0,16.8,11.1
+676184,2023-12-10T13:00Z,Elche,FC Cartagena,1,2,Elche,Spain,96.0,0,7.7,23.6
+676176,2023-12-10T15:15Z,Racing Santander,Real Oviedo,2,2,Santander,Spain,1.0,0,12.7,19.1
+676183,2023-12-10T17:30Z,Eibar,FC Andorra,2,2,Eibar,Spain,133.0,0,12.6,16.6
+676175,2023-12-10T17:30Z,Leganés,Eldense,1,1,"Leganés, Madrid",Spain,672.0,0,8.4,11.6
+676180,2023-12-10T20:00Z,Huesca,Racing Ferrol,1,0,Huesca,Spain,476.0,0,4.8,10.9
+676179,2023-12-11T20:00Z,Tenerife,AD Alcorcón,1,0,Santa Cruz de Tenerife,Spain,10.0,0,6.1,17.8
+676190,2023-12-15T19:30Z,Real Oviedo,Elche,3,2,Oviedo,Spain,237.0,0,6.4,8.0
+676194,2023-12-16T13:00Z,Eldense,Racing Santander,3,3,Elda,Spain,412.0,0,12.2,13.8
+676193,2023-12-16T15:15Z,FC Andorra,Espanyol,1,1,Andorra la Vieja,Andorra,,,,
+676192,2023-12-16T17:30Z,FC Cartagena,Burgos,0,3,Cartagena,Spain,1.0,0,6.4,12.0
+676186,2023-12-16T17:30Z,Sporting Gijón,Leganés,1,1,Gijón,Spain,22.0,0,19.4,11.1
+676188,2023-12-16T20:00Z,Mirandés,Albacete,2,0,Miranda de Ebro,Spain,466.0,0,7.3,1.9
+676196,2023-12-17T13:00Z,AD Alcorcón,Eibar,1,0,Madrid,Spain,665.0,0,4.5,9.9
+676187,2023-12-17T15:15Z,Levante,Huesca,2,1,Manises,Spain,55.0,0,8.0,14.6
+676195,2023-12-17T17:30Z,Amorebieta,Real Zaragoza,1,1,Lezama,Spain,347.0,0,12.1,6.4
+676189,2023-12-17T20:00Z,Racing Ferrol,Tenerife,3,1,Ferrol,Spain,24.0,0,5.0,7.6
+676191,2023-12-18T19:30Z,Villarreal B,Real Valladolid,1,0,Villarreal,Spain,42.0,0,5.4,7.0
+676202,2023-12-19T18:00Z,Albacete,Eldense,1,1,Albacete,Spain,695.0,0,9.7,3.7
+676203,2023-12-19T18:00Z,Racing Santander,FC Andorra,2,0,Santander,Spain,1.0,0,10.6,10.8
+676199,2023-12-19T20:30Z,Elche,Mirandés,0,0,Elche,Spain,96.0,0,8.2,10.8
+676200,2023-12-19T20:30Z,Espanyol,Burgos,3,3,Barcelona,Spain,15.0,0,8.4,7.6
+676205,2023-12-20T18:00Z,Real Zaragoza,Levante,2,2,Zaragoza,Spain,214.0,0,22.7,8.7
+676198,2023-12-20T20:30Z,Eibar,Sporting Gijón,1,1,Eibar,Spain,133.0,0.2,11.0,8.8
+676207,2023-12-20T20:30Z,Leganés,Tenerife,1,1,"Leganés, Madrid",Spain,672.0,0,7.0,3.7
+676201,2023-12-21T18:00Z,Huesca,FC Cartagena,3,0,Huesca,Spain,476.0,0,27.1,11.3
+676206,2023-12-21T18:00Z,Villarreal B,Real Oviedo,1,1,Villarreal,Spain,42.0,0,7.2,9.1
+676197,2023-12-21T20:30Z,Amorebieta,AD Alcorcón,1,2,Lezama,Spain,347.0,0.9,12.3,10.3
+676204,2023-12-21T20:30Z,Real Valladolid,Racing Ferrol,0,1,Valladolid,Spain,702.0,0,8.6,1.1

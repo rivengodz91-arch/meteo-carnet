@@ -95,3 +95,195 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 673546,2023-09-24T11:00Z,Stoke City,Hull City,1,3,Stoke-on-Trent,England,114.0,0,28.1,18.0
 673543,2023-09-24T14:00Z,Sunderland,Cardiff City,0,1,Sunderland,England,36.0,0,30.4,18.8
 673548,2023-09-25T19:00Z,Coventry City,Huddersfield Town,1,1,Coventry,England,89.0,0,9.2,15.1
+673564,2023-09-29T19:00Z,Sheffield Wednesday,Sunderland,0,3,Sheffield,England,75.0,0,10.1,12.8
+673563,2023-09-30T11:30Z,Southampton,Leeds United,3,1,Southampton,England,19.0,0,14.4,17.5
+673561,2023-09-30T14:00Z,Bristol City,Stoke City,2,3,Bristol,England,21.0,0,26.4,17.2
+673566,2023-09-30T14:00Z,Cardiff City,Rotherham United,2,0,Cardiff,Wales,17.0,0,22.3,17.0
+673559,2023-09-30T14:00Z,Huddersfield Town,Ipswich Town,1,1,Huddersfield,England,90.0,1.7,8.3,14.3
+673558,2023-09-30T14:00Z,Hull City,Plymouth Argyle,1,1,Hull,England,8.0,0.4,12.6,15.6
+673560,2023-09-30T14:00Z,Millwall,Swansea City,0,3,London,England,25.0,0,18.8,19.0
+673556,2023-09-30T14:00Z,Norwich City,Birmingham City,2,0,Norwich,England,19.0,0,12.8,17.9
+673555,2023-09-30T14:00Z,Preston North End,West Bromwich Albion,0,4,Preston,England,34.0,2.1,12.9,13.6
+673565,2023-09-30T14:00Z,Queens Park Rangers,Coventry City,1,3,London,England,25.0,0,18.8,19.0
+673557,2023-09-30T14:00Z,Watford,Middlesbrough,2,3,Watford,England,77.0,0,16.0,17.9
+673562,2023-10-01T11:00Z,Blackburn Rovers,Leicester City,1,4,Blackburn,England,121.0,0.2,20.9,17.3
+673567,2023-10-03T18:45Z,Birmingham City,Huddersfield Town,4,1,Birmingham,England,149.0,0,19.3,12.8
+673570,2023-10-03T18:45Z,Ipswich Town,Hull City,3,0,Ipswich,England,18.0,0,18.8,15.3
+673569,2023-10-03T18:45Z,Middlesbrough,Cardiff City,2,0,Middlesbrough,England,15.0,0,19.3,12.9
+673568,2023-10-03T18:45Z,Plymouth Argyle,Millwall,0,2,Plymouth,England,14.0,0,18.8,14.6
+673571,2023-10-03T19:00Z,Stoke City,Southampton,0,1,Stoke-on-Trent,England,114.0,0,17.7,12.0
+673572,2023-10-03T19:00Z,West Bromwich Albion,Sheffield Wednesday,1,0,West Bromwich,England,165.0,0,19.1,12.1
+673578,2023-10-04T18:45Z,Coventry City,Blackburn Rovers,1,0,Coventry,England,89.0,0,17.7,13.8
+673576,2023-10-04T18:45Z,Leeds United,Queens Park Rangers,1,0,Leeds,England,50.0,0,22.6,14.4
+673575,2023-10-04T18:45Z,Leicester City,Preston North End,3,0,Leicester,England,65.0,0,23.2,13.9
+673573,2023-10-04T18:45Z,Sunderland,Watford,2,0,Sunderland,England,36.0,0,23.6,15.1
+673577,2023-10-04T18:45Z,Swansea City,Norwich City,2,1,Swansea,Wales,18.0,0,20.0,14.3
+673574,2023-10-04T19:00Z,Rotherham United,Bristol City,1,2,Rotherham,England,41.0,0,23.9,13.8
+673590,2023-10-06T19:00Z,Birmingham City,West Bromwich Albion,3,1,Birmingham,England,149.0,0,22.6,16.9
+673585,2023-10-07T11:30Z,Sunderland,Middlesbrough,0,4,Sunderland,England,36.0,0.4,21.6,18.3
+673589,2023-10-07T14:00Z,Cardiff City,Watford,1,1,Cardiff,Wales,17.0,0,19.1,20.2
+673588,2023-10-07T14:00Z,Coventry City,Norwich City,1,1,Coventry,England,89.0,0,16.5,21.3
+673587,2023-10-07T14:00Z,Ipswich Town,Preston North End,4,2,Ipswich,England,18.0,0,19.3,22.4
+673586,2023-10-07T14:00Z,Leeds United,Bristol City,2,1,Leeds,England,50.0,0,17.6,20.1
+673579,2023-10-07T14:00Z,Leicester City,Stoke City,2,0,Leicester,England,65.0,0,18.7,21.5
+673584,2023-10-07T14:00Z,Millwall,Hull City,2,2,London,England,25.0,0,21.1,22.9
+673581,2023-10-07T14:00Z,Plymouth Argyle,Swansea City,1,3,Plymouth,England,14.0,0,7.5,18.8
+673582,2023-10-07T14:00Z,Queens Park Rangers,Blackburn Rovers,0,4,London,England,25.0,0,21.1,22.9
+673583,2023-10-07T14:00Z,Sheffield Wednesday,Huddersfield Town,0,0,Sheffield,England,75.0,0,23.7,20.9
+673580,2023-10-07T14:00Z,Southampton,Rotherham United,1,1,Southampton,England,19.0,0,14.1,21.8
+673596,2023-10-21T11:30Z,Preston North End,Millwall,1,1,Preston,England,34.0,0,14.8,11.7
+673595,2023-10-21T14:00Z,Blackburn Rovers,Cardiff City,1,0,Blackburn,England,121.0,0.1,16.3,10.7
+673594,2023-10-21T14:00Z,Bristol City,Coventry City,1,0,Bristol,England,21.0,0,11.1,10.9
+673593,2023-10-21T14:00Z,Huddersfield Town,Queens Park Rangers,2,1,Huddersfield,England,90.0,0,12.9,11.4
+673592,2023-10-21T14:00Z,Hull City,Southampton,1,2,Hull,England,8.0,0.2,9.8,10.9
+673591,2023-10-21T14:00Z,Middlesbrough,Birmingham City,1,0,Middlesbrough,England,15.0,0,11.4,12.0
+673602,2023-10-21T14:00Z,Norwich City,Leeds United,2,3,Norwich,England,19.0,0.3,20.3,14.8
+673600,2023-10-21T14:00Z,Stoke City,Sunderland,2,1,Stoke-on-Trent,England,114.0,0.1,16.8,11.2
+673599,2023-10-21T14:00Z,Swansea City,Leicester City,1,3,Swansea,Wales,18.0,0,19.4,12.9
+673598,2023-10-21T14:00Z,Watford,Sheffield Wednesday,1,0,Watford,England,77.0,3.6,3.7,14.8
+673597,2023-10-21T14:00Z,West Bromwich Albion,Plymouth Argyle,0,0,West Bromwich,England,165.0,0,14.8,10.8
+673607,2023-10-24T18:45Z,Huddersfield Town,Cardiff City,0,4,Huddersfield,England,90.0,0,4.2,8.9
+673605,2023-10-24T18:45Z,Millwall,Blackburn Rovers,1,2,London,England,25.0,0,7.8,10.1
+673603,2023-10-24T18:45Z,Norwich City,Middlesbrough,1,2,Norwich,England,19.0,0,14.6,9.7
+673604,2023-10-24T18:45Z,Swansea City,Watford,0,1,Swansea,Wales,18.0,0.4,10.0,10.6
+673606,2023-10-24T19:00Z,Leicester City,Sunderland,1,0,Leicester,England,65.0,0,5.4,8.9
+673608,2023-10-24T19:00Z,West Bromwich Albion,Queens Park Rangers,2,0,West Bromwich,England,165.0,0,5.4,7.4
+673611,2023-10-25T18:45Z,Birmingham City,Hull City,0,2,Birmingham,England,149.0,0,2.3,8.2
+673610,2023-10-25T18:45Z,Bristol City,Ipswich Town,0,1,Bristol,England,21.0,0,7.7,10.7
+673609,2023-10-25T18:45Z,Plymouth Argyle,Sheffield Wednesday,3,0,Plymouth,England,14.0,0,12.6,12.1
+673614,2023-10-25T18:45Z,Preston North End,Southampton,2,2,Preston,England,34.0,0,2.0,8.0
+673613,2023-10-25T18:45Z,Rotherham United,Coventry City,2,0,Rotherham,England,41.0,0,6.6,7.7
+673612,2023-10-25T19:00Z,Stoke City,Leeds United,1,0,Stoke-on-Trent,England,114.0,0,6.5,5.1
+673617,2023-10-28T11:30Z,Leeds United,Huddersfield Town,4,1,Leeds,England,50.0,0,9.7,8.4
+673625,2023-10-28T11:30Z,Southampton,Birmingham City,3,1,Southampton,England,19.0,0.1,23.4,15.3
+673619,2023-10-28T14:00Z,Blackburn Rovers,Swansea City,0,1,Blackburn,England,121.0,0.1,18.1,11.0
+673620,2023-10-28T14:00Z,Cardiff City,Bristol City,2,0,Cardiff,Wales,17.0,1.0,21.4,11.8
+673622,2023-10-28T14:00Z,Hull City,Preston North End,1,0,Hull,England,8.0,0.1,15.2,11.8
+673623,2023-10-28T14:00Z,Ipswich Town,Plymouth Argyle,3,2,Ipswich,England,18.0,0.1,19.7,14.1
+673618,2023-10-28T14:00Z,Middlesbrough,Stoke City,0,2,Middlesbrough,England,15.0,0.8,10.2,12.7
+673624,2023-10-28T14:00Z,Queens Park Rangers,Leicester City,1,2,London,England,25.0,0,20.5,14.5
+673616,2023-10-28T14:00Z,Sunderland,Norwich City,3,1,Sunderland,England,36.0,0.1,18.7,11.5
+673626,2023-10-28T14:00Z,Watford,Millwall,2,2,Watford,England,77.0,0.1,18.8,14.0
+673615,2023-10-29T13:00Z,Sheffield Wednesday,Rotherham United,2,0,Sheffield,England,75.0,0,17.1,13.0
+673621,2023-10-30T20:00Z,Coventry City,West Bromwich Albion,0,2,Coventry,England,89.0,0,5.1,6.8
+673634,2023-11-03T20:00Z,Leicester City,Leeds United,0,1,Leicester,England,65.0,0,15.6,6.8
+673637,2023-11-04T15:00Z,Birmingham City,Ipswich Town,2,2,Birmingham,England,149.0,1.8,7.1,8.1
+673636,2023-11-04T15:00Z,Bristol City,Sheffield Wednesday,1,0,Bristol,England,21.0,0.7,18.6,11.7
+673635,2023-11-04T15:00Z,Huddersfield Town,Watford,0,0,Huddersfield,England,90.0,0.6,19.5,7.5
+673633,2023-11-04T15:00Z,Millwall,Southampton,0,1,London,England,25.0,0,18.6,11.7
+673631,2023-11-04T15:00Z,Plymouth Argyle,Middlesbrough,3,3,Plymouth,England,14.0,2.3,26.8,11.4
+673630,2023-11-04T15:00Z,Preston North End,Coventry City,3,2,Preston,England,34.0,0.3,19.8,8.4
+673629,2023-11-04T15:00Z,Rotherham United,Queens Park Rangers,1,1,Rotherham,England,41.0,1.3,19.0,8.0
+673628,2023-11-04T15:00Z,Stoke City,Cardiff City,0,0,Stoke-on-Trent,England,114.0,0.1,24.3,7.5
+673627,2023-11-04T15:00Z,Swansea City,Sunderland,0,0,Swansea,Wales,18.0,0.1,24.5,10.7
+673632,2023-11-04T15:00Z,West Bromwich Albion,Hull City,3,1,West Bromwich,England,165.0,2.7,11.2,7.6
+673638,2023-11-05T12:00Z,Norwich City,Blackburn Rovers,1,3,Norwich,England,19.0,0,29.5,10.3
+673601,2023-11-07T20:00Z,Rotherham United,Ipswich Town,2,2,Rotherham,England,41.0,0,17.6,8.2
+673649,2023-11-10T20:00Z,Blackburn Rovers,Preston North End,1,2,Blackburn,England,121.0,0,8.2,3.1
+673639,2023-11-11T12:30Z,Sunderland,Birmingham City,3,1,Sunderland,England,36.0,0,14.8,8.1
+673648,2023-11-11T15:00Z,Cardiff City,Norwich City,2,3,Cardiff,Wales,17.0,0,6.4,9.5
+673647,2023-11-11T15:00Z,Coventry City,Stoke City,0,0,Coventry,England,89.0,0,1.5,9.0
+673646,2023-11-11T15:00Z,Hull City,Huddersfield Town,1,0,Hull,England,8.0,0,9.4,8.9
+673645,2023-11-11T15:00Z,Ipswich Town,Swansea City,3,2,Ipswich,England,18.0,0,11.0,9.1
+673650,2023-11-11T15:00Z,Leeds United,Plymouth Argyle,2,1,Leeds,England,50.0,0,2.8,8.4
+673643,2023-11-11T15:00Z,Middlesbrough,Leicester City,1,0,Middlesbrough,England,15.0,0,4.0,8.5
+673642,2023-11-11T15:00Z,Queens Park Rangers,Bristol City,0,0,London,England,25.0,0,4.5,9.7
+673641,2023-11-11T15:00Z,Sheffield Wednesday,Millwall,0,4,Sheffield,England,75.0,0,2.5,8.6
+673640,2023-11-11T15:00Z,Southampton,West Bromwich Albion,2,1,Southampton,England,19.0,0,1.6,10.1
+673644,2023-11-11T15:00Z,Watford,Rotherham United,5,0,Watford,England,77.0,0,3.7,9.0
+673657,2023-11-24T20:00Z,Rotherham United,Leeds United,1,1,Rotherham,England,41.0,0,18.9,2.4
+673661,2023-11-25T15:00Z,Birmingham City,Sheffield Wednesday,2,1,Birmingham,England,149.0,0,7.9,3.6
+673662,2023-11-25T15:00Z,Bristol City,Middlesbrough,3,2,Bristol,England,21.0,0,5.8,3.9
+673651,2023-11-25T15:00Z,Huddersfield Town,Southampton,1,1,Huddersfield,England,90.0,0,6.8,3.6
+673652,2023-11-25T15:00Z,Leicester City,Watford,2,0,Leicester,England,65.0,0,8.7,3.9
+673653,2023-11-25T15:00Z,Millwall,Coventry City,0,3,London,England,25.0,0,8.9,4.7
+673654,2023-11-25T15:00Z,Norwich City,Queens Park Rangers,1,0,Norwich,England,19.0,0,19.4,5.9
+673655,2023-11-25T15:00Z,Plymouth Argyle,Sunderland,2,0,Plymouth,England,14.0,0,5.9,7.9
+673656,2023-11-25T15:00Z,Preston North End,Cardiff City,1,2,Preston,England,34.0,0,1.6,4.0
+673658,2023-11-25T15:00Z,Stoke City,Blackburn Rovers,0,3,Stoke-on-Trent,England,114.0,0,7.9,3.0
+673659,2023-11-25T15:00Z,Swansea City,Hull City,2,2,Swansea,Wales,18.0,0,1.9,5.8
+673660,2023-11-25T17:30Z,West Bromwich Albion,Ipswich Town,2,0,West Bromwich,England,165.0,0,6.5,1.3
+673663,2023-11-28T19:45Z,Cardiff City,West Bromwich Albion,0,1,Cardiff,Wales,17.0,0,4.0,2.0
+673664,2023-11-28T19:45Z,Coventry City,Plymouth Argyle,1,0,Coventry,England,89.0,0,7.6,1.2
+673665,2023-11-28T19:45Z,Hull City,Rotherham United,4,1,Hull,England,8.0,0,15.3,1.3
+673666,2023-11-28T19:45Z,Middlesbrough,Preston North End,4,0,Middlesbrough,England,15.0,0,13.8,0.7
+673667,2023-11-28T19:45Z,Queens Park Rangers,Stoke City,4,2,London,England,25.0,0,7.2,1.4
+673668,2023-11-28T20:00Z,Watford,Norwich City,3,2,Watford,England,77.0,0,9.0,1.2
+673669,2023-11-29T19:45Z,Blackburn Rovers,Birmingham City,4,2,Blackburn,England,121.0,0,1.1,-0.6
+673672,2023-11-29T19:45Z,Leeds United,Swansea City,3,1,Leeds,England,50.0,0,7.9,-2.2
+673673,2023-11-29T19:45Z,Sheffield Wednesday,Leicester City,1,1,Sheffield,England,75.0,0,5.6,-1.4
+673674,2023-11-29T19:45Z,Southampton,Bristol City,1,0,Southampton,England,19.0,0,7.9,2.8
+673670,2023-11-29T19:45Z,Sunderland,Huddersfield Town,1,2,Sunderland,England,36.0,0.7,20.9,1.8
+673671,2023-11-29T20:00Z,Ipswich Town,Millwall,3,1,Ipswich,England,18.0,0,6.5,-2.1
+673678,2023-12-01T20:00Z,Preston North End,Queens Park Rangers,0,2,Preston,England,34.0,0,6.5,-4.7
+673686,2023-12-02T12:30Z,West Bromwich Albion,Leicester City,1,2,West Bromwich,England,165.0,0,11.8,-1.1
+673685,2023-12-02T15:00Z,Birmingham City,Rotherham United,0,0,Birmingham,England,149.0,0,13.2,-1.4
+673683,2023-12-02T15:00Z,Hull City,Watford,1,2,Hull,England,8.0,0,10.6,-1.3
+673682,2023-12-02T15:00Z,Ipswich Town,Coventry City,2,1,Ipswich,England,18.0,0,8.0,-0.4
+673681,2023-12-02T15:00Z,Leeds United,Middlesbrough,3,2,Leeds,England,50.0,0,6.4,-1.2
+673680,2023-12-02T15:00Z,Millwall,Sunderland,1,1,London,England,25.0,0,8.1,-0.6
+673679,2023-12-02T15:00Z,Plymouth Argyle,Stoke City,2,1,Plymouth,England,14.0,0,11.4,6.0
+673677,2023-12-02T15:00Z,Sheffield Wednesday,Blackburn Rovers,3,1,Sheffield,England,75.0,0,14.5,-0.1
+673676,2023-12-02T15:00Z,Southampton,Cardiff City,2,0,Southampton,England,19.0,0,6.4,0.4
+673675,2023-12-02T15:00Z,Swansea City,Huddersfield Town,1,1,Swansea,Wales,18.0,0,15.1,2.8
+673684,2023-12-03T13:30Z,Bristol City,Norwich City,1,2,Bristol,England,21.0,0.2,14.0,7.6
+673687,2023-12-08T20:00Z,Coventry City,Birmingham City,2,0,Coventry,England,89.0,0,23.5,6.7
+673689,2023-12-09T12:30Z,Blackburn Rovers,Leeds United,0,2,Blackburn,England,121.0,2.3,26.0,9.1
+673691,2023-12-09T12:30Z,Sunderland,West Bromwich Albion,2,1,Sunderland,England,36.0,3.0,27.3,7.7
+673688,2023-12-09T15:00Z,Cardiff City,Millwall,1,0,Cardiff,Wales,17.0,0,36.8,10.6
+673698,2023-12-09T15:00Z,Huddersfield Town,Bristol City,1,1,Huddersfield,England,90.0,1.9,37.9,8.7
+673697,2023-12-09T15:00Z,Leicester City,Plymouth Argyle,4,0,Leicester,England,65.0,0,35.8,9.8
+673696,2023-12-09T15:00Z,Middlesbrough,Ipswich Town,0,2,Middlesbrough,England,15.0,0.1,26.2,10.0
+673695,2023-12-09T15:00Z,Norwich City,Preston North End,0,0,Norwich,England,19.0,0,28.4,12.0
+673694,2023-12-09T15:00Z,Queens Park Rangers,Hull City,2,0,London,England,25.0,0,33.0,10.8
+673693,2023-12-09T15:00Z,Rotherham United,Swansea City,1,2,Rotherham,England,41.0,0.4,40.4,9.7
+673692,2023-12-09T15:00Z,Stoke City,Sheffield Wednesday,0,1,Stoke-on-Trent,England,114.0,1.2,34.5,8.9
+673690,2023-12-09T15:00Z,Watford,Southampton,1,1,Watford,England,77.0,0,32.8,10.3
+673703,2023-12-12T19:45Z,Blackburn Rovers,Bristol City,2,1,Blackburn,England,121.0,0,11.5,6.1
+673702,2023-12-12T19:45Z,Huddersfield Town,Preston North End,1,3,Huddersfield,England,90.0,0,11.5,6.3
+673701,2023-12-12T19:45Z,Rotherham United,West Bromwich Albion,0,2,Rotherham,England,41.0,0.1,12.6,6.9
+673700,2023-12-12T19:45Z,Stoke City,Swansea City,1,1,Stoke-on-Trent,England,114.0,0,7.8,5.8
+673704,2023-12-12T19:45Z,Watford,Ipswich Town,1,2,Watford,England,77.0,0,14.0,7.1
+673699,2023-12-12T20:00Z,Sunderland,Leeds United,1,0,Sunderland,England,36.0,0,20.6,7.8
+673705,2023-12-13T19:45Z,Cardiff City,Birmingham City,0,1,Cardiff,Wales,17.0,0,11.2,3.1
+673706,2023-12-13T19:45Z,Coventry City,Southampton,1,1,Coventry,England,89.0,0,18.7,4.7
+673707,2023-12-13T19:45Z,Leicester City,Millwall,3,2,Leicester,England,65.0,0,19.3,4.3
+673709,2023-12-13T19:45Z,Norwich City,Sheffield Wednesday,3,1,Norwich,England,19.0,0,24.1,6.5
+673710,2023-12-13T19:45Z,Queens Park Rangers,Plymouth Argyle,0,0,London,England,25.0,0,25.6,6.5
+673708,2023-12-13T20:00Z,Middlesbrough,Hull City,1,2,Middlesbrough,England,15.0,0,8.4,3.4
+673714,2023-12-16T12:30Z,Ipswich Town,Norwich City,2,2,Ipswich,England,18.0,0,17.2,9.9
+673712,2023-12-16T15:00Z,Bristol City,Sunderland,1,0,Bristol,England,21.0,0,18.4,10.7
+673713,2023-12-16T15:00Z,Hull City,Cardiff City,3,0,Hull,England,8.0,0,26.6,10.8
+673715,2023-12-16T15:00Z,Leeds United,Coventry City,1,1,Leeds,England,50.0,0,30.3,10.6
+673716,2023-12-16T15:00Z,Millwall,Huddersfield Town,1,1,London,England,25.0,0,18.7,11.2
+673717,2023-12-16T15:00Z,Plymouth Argyle,Rotherham United,3,2,Plymouth,England,14.0,0,16.0,11.3
+673718,2023-12-16T15:00Z,Preston North End,Watford,1,5,Preston,England,34.0,0,14.9,10.9
+673719,2023-12-16T15:00Z,Sheffield Wednesday,Queens Park Rangers,2,1,Sheffield,England,75.0,0,24.3,11.0
+673720,2023-12-16T15:00Z,Southampton,Blackburn Rovers,4,0,Southampton,England,19.0,0,15.6,11.4
+673721,2023-12-16T15:00Z,Swansea City,Middlesbrough,1,2,Swansea,Wales,18.0,0.1,18.7,10.3
+673722,2023-12-17T12:00Z,West Bromwich Albion,Stoke City,1,1,West Bromwich,England,165.0,0,26.6,9.6
+673711,2023-12-18T20:00Z,Birmingham City,Leicester City,2,3,Birmingham,England,149.0,0.4,22.9,11.9
+673726,2023-12-22T19:45Z,Bristol City,Hull City,3,2,Bristol,England,21.0,0,23.9,9.2
+673729,2023-12-22T19:45Z,Swansea City,Preston North End,2,1,Swansea,Wales,18.0,0,22.0,9.7
+673725,2023-12-23T12:30Z,Leeds United,Ipswich Town,4,0,Leeds,England,50.0,0.2,30.3,9.8
+673727,2023-12-23T15:00Z,Blackburn Rovers,Watford,1,2,Blackburn,England,121.0,0,32.2,8.1
+673724,2023-12-23T15:00Z,Leicester City,Rotherham United,3,0,Leicester,England,65.0,0,27.1,9.2
+673723,2023-12-23T15:00Z,Middlesbrough,West Bromwich Albion,1,0,Middlesbrough,England,15.0,0.1,30.2,10.7
+673728,2023-12-23T15:00Z,Norwich City,Huddersfield Town,2,0,Norwich,England,19.0,0,26.6,10.4
+673734,2023-12-23T15:00Z,Plymouth Argyle,Birmingham City,3,3,Plymouth,England,14.0,0.2,26.8,10.7
+673733,2023-12-23T15:00Z,Queens Park Rangers,Southampton,0,1,London,England,25.0,0,24.8,10.3
+673732,2023-12-23T15:00Z,Sheffield Wednesday,Cardiff City,1,2,Sheffield,England,75.0,0,29.1,9.8
+673731,2023-12-23T15:00Z,Stoke City,Millwall,0,0,Stoke-on-Trent,England,114.0,0,23.5,8.9
+673730,2023-12-23T15:00Z,Sunderland,Coventry City,0,3,Sunderland,England,36.0,0,24.3,11.2
+673742,2023-12-26T12:30Z,Preston North End,Leeds United,2,1,Preston,England,34.0,0,10.5,8.2
+673741,2023-12-26T13:00Z,Millwall,Queens Park Rangers,2,0,London,England,25.0,0,12.5,8.8
+673736,2023-12-26T15:00Z,Cardiff City,Plymouth Argyle,2,2,Cardiff,Wales,17.0,0,3.1,7.7
+673737,2023-12-26T15:00Z,Coventry City,Sheffield Wednesday,2,0,Coventry,England,89.0,0,5.4,6.4
+673738,2023-12-26T15:00Z,Huddersfield Town,Blackburn Rovers,3,0,Huddersfield,England,90.0,0,7.3,6.0
+673739,2023-12-26T15:00Z,Hull City,Sunderland,0,1,Hull,England,8.0,0,10.4,5.9
+673743,2023-12-26T15:00Z,Rotherham United,Middlesbrough,1,0,Rotherham,England,41.0,0,6.2,6.5
+673744,2023-12-26T15:00Z,Southampton,Swansea City,5,0,Southampton,England,19.0,0,3.8,8.2
+673745,2023-12-26T15:00Z,Watford,Bristol City,1,4,Watford,England,77.0,0,4.5,6.9
+673746,2023-12-26T15:00Z,West Bromwich Albion,Norwich City,1,0,West Bromwich,England,165.0,0,3.8,6.5
+673735,2023-12-26T17:15Z,Birmingham City,Stoke City,1,3,Birmingham,England,149.0,0,8.0,4.4
+673740,2023-12-26T19:45Z,Ipswich Town,Leicester City,1,1,Ipswich,England,18.0,0,4.4,3.9

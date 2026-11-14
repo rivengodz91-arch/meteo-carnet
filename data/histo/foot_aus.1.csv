@@ -1,1 +1,55 @@
 id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+686447,2023-10-20T08:45Z,Adelaide United FC,Central Coast Mariners FC,3,0,Adelaide,Australia,59.0,0.1,20.6,18.0
+686448,2023-10-21T04:30Z,Macarthur FC,Brisbane Roar FC,1,1,Sydney,Australia,58.0,0,30.5,24.1
+686449,2023-10-21T06:30Z,Melbourne City FC,Western United,1,2,Melbourne,Australia,25.0,0,13.0,21.4
+686450,2023-10-21T08:45Z,Sydney FC,Melbourne Victory,0,2,Sydney,Australia,58.0,0,26.2,20.4
+686451,2023-10-22T04:00Z,Western Sydney Wanderers FC,Wellington Phoenix,0,0,Sydney,Australia,58.0,0,9.4,26.5
+686452,2023-10-22T08:45Z,Perth Glory FC,Newcastle Jets,2,2,Perth,Australia,34.0,0,27.6,18.6
+686453,2023-10-27T08:45Z,Brisbane Roar FC,Sydney FC,3,0,Brisbane,Australia,27.0,0.1,18.4,17.5
+686454,2023-10-28T04:30Z,Wellington Phoenix,Perth Glory FC,2,1,Wellington,New Zealand,31.0,0,0.8,12.6
+686455,2023-10-28T08:45Z,Western Sydney Wanderers FC,Western United,5,0,Sydney,Australia,58.0,0,16.9,16.9
+686457,2023-10-29T04:00Z,Central Coast Mariners FC,Macarthur FC,1,2,New South Wales,Australia,-9999.0,0,7.0,26.6
+686458,2023-10-29T06:00Z,Melbourne Victory,Newcastle Jets,5,3,Melbourne,Australia,25.0,0,17.6,18.5
+686456,2023-10-29T08:00Z,Adelaide United FC,Melbourne City FC,6,0,Adelaide,Australia,59.0,0,17.1,15.2
+686459,2023-11-03T08:45Z,Melbourne City FC,Sydney FC,2,0,Melbourne,Australia,25.0,0,18.4,13.8
+686460,2023-11-04T04:30Z,Wellington Phoenix,Brisbane Roar FC,5,2,Wellington,New Zealand,31.0,0,31.4,15.8
+686461,2023-11-04T06:30Z,Macarthur FC,Western United,1,0,Sydney,Australia,58.0,0.9,22.2,18.3
+686462,2023-11-04T08:45Z,Melbourne Victory,Adelaide United FC,1,1,Melbourne,Australia,25.0,0,16.6,17.6
+686463,2023-11-04T10:45Z,Perth Glory FC,Central Coast Mariners FC,2,0,Perth,Australia,34.0,0,20.5,27.5
+686464,2023-11-05T04:00Z,Newcastle Jets,Western Sydney Wanderers FC,2,2,"Newcastle, New South Wales",Australia,48.0,3.8,26.3,16.8
+686465,2023-11-10T08:45Z,Melbourne Victory,Wellington Phoenix,1,1,Melbourne,Australia,25.0,0,19.2,28.4
+686466,2023-11-11T04:30Z,Western United,Newcastle Jets,0,1,Ballarat,Australia,445.0,0,14.8,18.5
+686469,2023-11-11T06:30Z,Western Sydney Wanderers FC,Perth Glory FC,2,0,Sydney,Australia,58.0,0,28.3,24.8
+686468,2023-11-11T08:45Z,Adelaide United FC,Sydney FC,1,5,Adelaide,Australia,59.0,0,21.0,18.5
+686467,2023-11-12T04:00Z,Melbourne City FC,Macarthur FC,3,3,Melbourne,Australia,25.0,0,29.1,16.7
+686470,2023-11-12T06:00Z,Central Coast Mariners FC,Brisbane Roar FC,1,2,New South Wales,Australia,-9999.0,0,10.2,28.9
+686471,2023-11-24T08:45Z,Macarthur FC,Melbourne Victory,1,1,Sydney,Australia,58.0,0.2,20.6,20.7
+686472,2023-11-25T03:30Z,Wellington Phoenix,Melbourne City FC,1,0,Auckland,New Zealand,43.0,0.1,23.3,17.6
+686557,2023-11-25T06:30Z,Central Coast Mariners FC,Newcastle Jets,3,1,New South Wales,Australia,-9999.0,0,11.8,26.0
+686474,2023-11-25T08:45Z,Sydney FC,Western Sydney Wanderers FC,0,1,Sydney,Australia,58.0,0.1,17.9,21.0
+686475,2023-11-26T04:00Z,Brisbane Roar FC,Perth Glory FC,2,1,Brisbane,Australia,27.0,0.2,9.0,26.6
+686476,2023-11-26T06:00Z,Western United,Adelaide United FC,1,3,Ballarat,Australia,445.0,0.1,16.9,14.7
+686477,2023-12-01T08:45Z,Brisbane Roar FC,Western Sydney Wanderers FC,2,2,Brisbane,Australia,27.0,1.0,5.4,27.7
+686478,2023-12-02T06:30Z,Western United,Wellington Phoenix,0,1,Ballarat,Australia,445.0,0,16.5,15.0
+686480,2023-12-02T08:45Z,Sydney FC,Perth Glory FC,3,2,Sydney,Australia,58.0,0,18.0,21.2
+686481,2023-12-03T04:00Z,Central Coast Mariners FC,Melbourne Victory,2,2,New South Wales,Australia,-9999.0,0,7.3,21.5
+686479,2023-12-03T06:00Z,Newcastle Jets,Melbourne City FC,0,2,"Newcastle, New South Wales",Australia,48.0,0,17.6,22.1
+686482,2023-12-04T08:00Z,Macarthur FC,Adelaide United FC,4,3,Sydney,Australia,58.0,0,17.3,20.3
+686483,2023-12-08T08:45Z,Central Coast Mariners FC,Western United,4,0,New South Wales,Australia,-9999.0,0,7.2,26.6
+686486,2023-12-08T10:45Z,Perth Glory FC,Melbourne City FC,1,2,Perth,Australia,34.0,0,38.8,21.9
+686484,2023-12-09T06:30Z,Wellington Phoenix,Newcastle Jets,0,3,Wellington,New Zealand,31.0,0,46.0,15.6
+686485,2023-12-09T08:45Z,Sydney FC,Macarthur FC,0,2,Sydney,Australia,58.0,0,25.3,28.1
+686487,2023-12-10T04:00Z,Adelaide United FC,Brisbane Roar FC,0,2,Adelaide,Australia,59.0,0.4,26.9,16.5
+686488,2023-12-10T06:00Z,Western Sydney Wanderers FC,Melbourne Victory,3,4,Sydney,Australia,58.0,0,13.8,24.9
+686490,2023-12-15T07:00Z,Western United,Brisbane Roar FC,2,1,Melbourne,Australia,25.0,0,21.0,19.2
+686489,2023-12-15T08:45Z,Western Sydney Wanderers FC,Adelaide United FC,1,0,Sydney,Australia,58.0,0,23.6,23.1
+686491,2023-12-16T07:00Z,Newcastle Jets,Perth Glory FC,2,2,"Newcastle, New South Wales",Australia,48.0,0,12.9,26.7
+686492,2023-12-16T08:45Z,Melbourne Victory,Sydney FC,3,0,Melbourne,Australia,25.0,0,15.1,20.1
+686493,2023-12-17T06:00Z,Melbourne City FC,Central Coast Mariners FC,3,3,Melbourne,Australia,25.0,0,16.6,21.8
+686494,2023-12-18T08:00Z,Macarthur FC,Wellington Phoenix,0,3,Sydney,Australia,58.0,0,20.0,24.9
+686495,2023-12-21T08:45Z,Brisbane Roar FC,Central Coast Mariners FC,0,3,Brisbane,Australia,27.0,1.7,9.5,22.5
+686496,2023-12-22T08:45Z,Adelaide United FC,Newcastle Jets,3,1,Adelaide,Australia,59.0,0,19.8,24.5
+686497,2023-12-23T04:30Z,Wellington Phoenix,Western Sydney Wanderers FC,2,0,Wellington,New Zealand,31.0,0.1,13.0,19.5
+686498,2023-12-23T06:30Z,Sydney FC,Western United,4,2,Sydney,Australia,58.0,0,13.7,22.0
+686499,2023-12-23T08:45Z,Melbourne City FC,Melbourne Victory,0,0,Melbourne,Australia,25.0,0,19.8,19.9
+686500,2023-12-23T11:30Z,Perth Glory FC,Macarthur FC,3,2,Perth,Australia,34.0,0,25.1,27.4

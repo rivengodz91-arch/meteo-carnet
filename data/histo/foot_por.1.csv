@@ -54,3 +54,76 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 680115,2023-09-24T19:30Z,Braga,Boavista,4,1,Braga,Portugal,190.0,0,5.8,18.4
 680118,2023-09-25T19:15Z,Sporting CP,Rio Ave,2,0,Lisbon,Portugal,68.0,0,20.0,21.8
 680120,2023-09-28T19:15Z,Estrela,Braga,2,4,Amadora,Portugal,138.0,0,19.9,21.1
+680122,2023-09-29T19:15Z,Benfica,FC Porto,1,0,Lisbon,Portugal,68.0,0,15.2,27.1
+680128,2023-09-30T14:30Z,Vizela,Portimonense,2,3,Vizela,Portugal,223.0,0,7.1,30.9
+680121,2023-09-30T17:00Z,Boavista,FC Famalicao,2,2,Porto,Portugal,91.0,0,7.1,25.5
+680126,2023-09-30T19:30Z,SC Farense,Sporting CP,2,3,Faro,Portugal,24.0,0,16.2,24.1
+680123,2023-10-01T14:30Z,Arouca,GD Chaves,0,2,Arouca,Portugal,313.0,0,1.1,30.3
+680127,2023-10-01T17:00Z,Vitória de Guimaraes,Estoril,3,2,Guimarães,Portugal,189.0,0,6.4,26.8
+680125,2023-10-01T19:30Z,Rio Ave,Moreirense,0,4,Vila do Conde,Portugal,12.0,0,7.2,20.0
+680124,2023-10-02T19:15Z,Gil Vicente,Casa Pia,2,0,Barcelos,Portugal,36.0,0,4.2,18.1
+680129,2023-10-06T19:15Z,Moreirense,Boavista,1,1,Moreira de Conegos,Portugal,151.0,0,7.6,24.5
+680135,2023-10-07T14:30Z,GD Chaves,Gil Vicente,4,2,Chaves,Portugal,362.0,0,7.9,30.4
+680130,2023-10-07T14:30Z,SC Farense,Vizela,0,0,Faro,Portugal,24.0,0,19.4,27.0
+680131,2023-10-07T17:00Z,Braga,Rio Ave,2,1,Braga,Portugal,190.0,0,6.9,27.5
+680134,2023-10-07T19:30Z,Estoril,Benfica,0,1,Estoril,Portugal,24.0,0,4.8,22.2
+680136,2023-10-08T14:30Z,Casa Pia,Estrela,0,1,Rio Maior,Portugal,82.0,0,5.9,31.8
+680137,2023-10-08T14:30Z,FC Famalicao,Vitória de Guimaraes,1,3,Vila Nova de Famalicão,Portugal,96.0,0,5.8,30.8
+680133,2023-10-08T17:00Z,FC Porto,Portimonense,1,0,Porto,Portugal,91.0,0,6.2,23.6
+680132,2023-10-08T19:30Z,Sporting CP,Arouca,2,1,Lisbon,Portugal,68.0,0,9.7,26.0
+680146,2023-10-27T19:15Z,Arouca,Moreirense,0,1,Arouca,Portugal,313.0,0.5,11.1,13.3
+680140,2023-10-28T14:30Z,Portimonense,Estoril,1,0,Portimão,Portugal,13.0,0.1,17.9,21.2
+680143,2023-10-28T17:00Z,Benfica,Casa Pia,1,1,Lisbon,Portugal,68.0,0.2,24.6,19.1
+680138,2023-10-28T17:00Z,Vitória de Guimaraes,GD Chaves,5,0,Guimarães,Portugal,189.0,6.1,25.8,14.8
+680141,2023-10-28T19:30Z,Gil Vicente,Braga,3,3,Barcelos,Portugal,36.0,10.1,28.1,16.1
+680139,2023-10-29T15:30Z,Rio Ave,SC Farense,3,4,Vila do Conde,Portugal,12.0,2.3,17.1,15.6
+680142,2023-10-29T18:00Z,Estrela,FC Famalicao,1,0,Amadora,Portugal,138.0,0.2,13.6,16.5
+680145,2023-10-29T20:30Z,Vizela,FC Porto,0,2,Vizela,Portugal,223.0,2.7,11.9,12.1
+680144,2023-10-30T20:15Z,Boavista,Sporting CP,0,2,Porto,Portugal,91.0,0.1,6.0,13.8
+680154,2023-11-03T20:15Z,FC Porto,Estoril,0,1,Porto,Portugal,91.0,1.1,24.0,15.4
+680148,2023-11-04T15:30Z,GD Chaves,Benfica,0,2,Chaves,Portugal,362.0,0.2,33.6,12.8
+680155,2023-11-04T18:00Z,FC Famalicao,Gil Vicente,3,1,Vila Nova de Famalicão,Portugal,96.0,0.8,31.3,14.5
+680150,2023-11-04T20:30Z,Braga,Portimonense,6,1,Braga,Portugal,190.0,1.9,26.4,12.8
+680147,2023-11-05T15:30Z,Casa Pia,Vizela,0,1,Rio Maior,Portugal,82.0,0,22.3,16.3
+680149,2023-11-05T15:30Z,Moreirense,Vitória de Guimaraes,1,0,Moreira de Conegos,Portugal,151.0,3.3,19.1,13.4
+680152,2023-11-05T18:00Z,Rio Ave,Boavista,2,0,Vila do Conde,Portugal,12.0,1.9,16.2,11.9
+680153,2023-11-05T20:30Z,Sporting CP,Estrela,3,2,Lisbon,Portugal,68.0,0,7.1,13.6
+680151,2023-11-06T20:15Z,SC Farense,Arouca,2,0,Faro,Portugal,24.0,0,7.4,13.0
+680161,2023-11-10T20:15Z,Estoril,Casa Pia,4,0,Estoril,Portugal,24.0,0,12.3,18.1
+680158,2023-11-11T15:30Z,Portimonense,GD Chaves,2,1,Portimão,Portugal,13.0,0,14.0,21.2
+680164,2023-11-11T18:00Z,Estrela,Moreirense,0,1,Amadora,Portugal,138.0,0,9.9,16.7
+680160,2023-11-11T18:00Z,Vizela,FC Famalicao,0,0,Vizela,Portugal,223.0,1.0,22.7,15.7
+680157,2023-11-11T20:30Z,Vitória de Guimaraes,FC Porto,1,2,Guimarães,Portugal,189.0,3.0,24.2,16.0
+680162,2023-11-12T15:30Z,Boavista,SC Farense,1,3,Porto,Portugal,91.0,3.7,21.7,18.3
+680159,2023-11-12T15:30Z,Gil Vicente,Rio Ave,1,1,Barcelos,Portugal,36.0,1.1,16.1,18.8
+680156,2023-11-12T18:00Z,Arouca,Braga,0,1,Arouca,Portugal,313.0,1.5,8.4,17.1
+680163,2023-11-12T20:30Z,Benfica,Sporting CP,2,1,Lisbon,Portugal,68.0,0,5.6,16.2
+680165,2023-12-01T20:30Z,GD Chaves,Vizela,2,1,Chaves,Portugal,362.0,0,7.1,5.3
+680166,2023-12-02T15:30Z,Rio Ave,Estrela,1,1,Vila do Conde,Portugal,12.0,0,4.2,13.3
+680170,2023-12-02T15:30Z,SC Farense,Vitória de Guimaraes,1,2,Faro,Portugal,24.0,0.3,11.2,15.5
+680173,2023-12-02T18:00Z,FC Famalicao,FC Porto,0,3,Vila Nova de Famalicão,Portugal,96.0,0,3.7,10.1
+680171,2023-12-02T20:30Z,Casa Pia,Portimonense,1,0,Rio Maior,Portugal,82.0,0,5.3,8.9
+680169,2023-12-03T15:30Z,Braga,Estoril,3,1,Braga,Portugal,190.0,1.0,21.7,11.6
+680172,2023-12-03T18:00Z,Moreirense,Benfica,0,0,Moreira de Conegos,Portugal,151.0,1.0,29.2,12.1
+680167,2023-12-03T20:30Z,Boavista,Arouca,0,4,Porto,Portugal,91.0,11.8,37.5,12.1
+680168,2023-12-04T20:15Z,Sporting CP,Gil Vicente,3,1,Lisbon,Portugal,68.0,0,7.2,11.9
+680178,2023-12-08T15:30Z,Vizela,Braga,1,3,Vizela,Portugal,223.0,0.4,14.2,13.1
+680181,2023-12-08T18:00Z,Benfica,SC Farense,1,1,Lisbon,Portugal,68.0,0,6.4,14.8
+680179,2023-12-09T15:30Z,Portimonense,FC Famalicao,1,1,Portimão,Portugal,13.0,0,8.7,17.4
+680180,2023-12-09T18:00Z,Vitória de Guimaraes,Sporting CP,3,2,Guimarães,Portugal,189.0,1.0,15.7,14.8
+680174,2023-12-09T20:30Z,FC Porto,Casa Pia,3,1,Porto,Portugal,91.0,0.9,19.0,16.3
+680175,2023-12-10T15:30Z,Estrela,Boavista,3,1,Amadora,Portugal,138.0,0.1,11.3,18.0
+680177,2023-12-10T18:00Z,Arouca,Rio Ave,2,2,Arouca,Portugal,313.0,0,5.4,13.9
+680176,2023-12-10T20:30Z,Estoril,GD Chaves,4,0,Estoril,Portugal,24.0,0,9.4,16.6
+680182,2023-12-11T20:15Z,Gil Vicente,Moreirense,1,1,Barcelos,Portugal,36.0,0.9,18.3,16.1
+680191,2023-12-15T20:15Z,SC Farense,Estrela,0,0,Faro,Portugal,24.0,0,18.4,13.1
+680187,2023-12-16T15:30Z,Rio Ave,Vizela,1,1,Vila do Conde,Portugal,12.0,0,5.6,15.2
+680186,2023-12-16T18:00Z,Arouca,Gil Vicente,3,0,Arouca,Portugal,313.0,0,7.4,7.9
+680189,2023-12-16T20:30Z,Boavista,Vitória de Guimaraes,1,1,Porto,Portugal,91.0,0,15.1,7.8
+680185,2023-12-17T15:30Z,GD Chaves,Casa Pia,1,3,Chaves,Portugal,362.0,0,4.2,7.2
+680183,2023-12-17T15:30Z,Moreirense,Portimonense,5,2,Moreira de Conegos,Portugal,151.0,0,3.6,13.4
+680184,2023-12-17T18:00Z,FC Famalicao,Estoril,1,1,Vila Nova de Famalicão,Portugal,96.0,0,3.9,7.0
+680190,2023-12-17T20:30Z,Braga,Benfica,0,1,Braga,Portugal,190.0,0,4.7,5.9
+680188,2023-12-18T20:15Z,Sporting CP,FC Porto,2,0,Lisbon,Portugal,68.0,0,6.6,8.6
+680194,2023-12-23T15:30Z,Vitória de Guimaraes,Rio Ave,1,0,Guimarães,Portugal,189.0,0,11.9,13.4
+680193,2023-12-23T15:30Z,Vizela,Moreirense,0,0,Vizela,Portugal,223.0,0,10.2,12.8

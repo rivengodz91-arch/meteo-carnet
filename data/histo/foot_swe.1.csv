@@ -93,3 +93,51 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 658579,2023-09-24T15:30Z,Varbergs BoIS FC,Hammarby IF,0,1,Varberg,Sweden,15.0,0,16.3,15.9
 658574,2023-09-25T17:00Z,Halmstads BK,IF Elfsborg,0,1,Halmstads,Sweden,,,,
 658576,2023-09-25T17:00Z,IFK Värnamo,IK Sirius,0,1,Värnamo,Sweden,156.0,0,16.4,14.1
+658581,2023-09-30T13:00Z,Djurgården,Halmstads BK,1,0,Stockholm,Sweden,17.0,0,23.8,15.8
+658584,2023-09-30T15:30Z,IFK Norrköping,Kalmar FF,1,0,Norrköping,Sweden,12.0,0.5,21.3,15.9
+658580,2023-10-01T13:00Z,BK Häcken,AIK,2,0,Gothenburg,Sweden,10.0,0.2,18.7,14.8
+658585,2023-10-01T13:00Z,IK Sirius,Degerfors IF,3,2,Uppsala,Sweden,20.0,0,11.7,15.9
+658582,2023-10-01T15:30Z,Hammarby IF,IFK Göteborg,1,1,Stockholm,Sweden,17.0,0,12.6,15.3
+658587,2023-10-01T15:30Z,Mjällby AIF,IFK Värnamo,2,3,Sölvesborg,Sweden,15.0,0,17.4,16.0
+658583,2023-10-02T17:00Z,IF Elfsborg,Varbergs BoIS FC,2,1,Boras,Sweden,143.0,0.1,11.0,12.8
+658586,2023-10-02T17:10Z,Malmö FF,IF Brommapojkarna,2,1,Malmo,Sweden,10.0,0,19.8,17.6
+658588,2023-10-07T13:00Z,AIK,Mjällby AIF,1,0,Stockholm,Sweden,17.0,0,28.6,8.8
+658589,2023-10-07T13:00Z,Halmstads BK,Degerfors IF,0,0,Halmstads,Sweden,,,,
+658592,2023-10-07T15:30Z,IFK Göteborg,IK Sirius,0,1,Göteborg,Sweden,23.0,0,8.7,10.6
+658591,2023-10-08T13:00Z,IF Brommapojkarna,IF Elfsborg,0,3,Stockholm,Sweden,17.0,0,23.5,8.6
+658593,2023-10-08T13:00Z,IFK Värnamo,IFK Norrköping,2,1,Värnamo,Sweden,156.0,0,15.4,9.3
+658594,2023-10-08T13:00Z,Kalmar FF,Malmö FF,1,0,Kalmar,Sweden,7.0,0,18.9,10.8
+658590,2023-10-08T15:30Z,Hammarby IF,BK Häcken,2,2,Stockholm,Sweden,17.0,0,12.5,8.3
+658595,2023-10-08T15:30Z,Varbergs BoIS FC,Djurgården,0,1,Varberg,Sweden,15.0,0,11.8,10.2
+658597,2023-10-21T13:00Z,Degerfors IF,Kalmar FF,1,3,Degerfors,Sweden,112.0,1.5,24.7,1.7
+658602,2023-10-21T15:30Z,IK Sirius,IF Brommapojkarna,3,2,Uppsala,Sweden,20.0,0.7,19.6,5.1
+658598,2023-10-22T13:00Z,Djurgården,Hammarby IF,0,0,Stockholm,Sweden,17.0,0.1,8.4,6.6
+658599,2023-10-22T13:00Z,Halmstads BK,Mjällby AIF,1,1,Halmstads,Sweden,,,,
+658596,2023-10-22T15:30Z,BK Häcken,IFK Norrköping,4,1,Gothenburg,Sweden,10.0,0,11.0,11.0
+658603,2023-10-22T15:30Z,Malmö FF,Varbergs BoIS FC,5,0,Malmo,Sweden,10.0,0,19.8,12.2
+658601,2023-10-23T17:00Z,IFK Värnamo,IFK Göteborg,3,1,Värnamo,Sweden,156.0,0,6.3,7.9
+658600,2023-10-23T17:10Z,IF Elfsborg,AIK,3,0,Boras,Sweden,143.0,0,3.6,9.0
+658606,2023-10-28T13:00Z,IF Brommapojkarna,Djurgården,1,2,Stockholm,Sweden,17.0,0,11.9,1.9
+658611,2023-10-28T15:30Z,Varbergs BoIS FC,Degerfors IF,1,1,Varberg,Sweden,15.0,0,11.6,5.5
+658608,2023-10-29T14:00Z,IFK Norrköping,Malmö FF,0,1,Norrköping,Sweden,12.0,0,14.9,4.9
+658609,2023-10-29T14:00Z,Kalmar FF,IFK Värnamo,1,3,Kalmar,Sweden,7.0,6.2,20.0,4.8
+658610,2023-10-29T14:00Z,Mjällby AIF,BK Häcken,2,1,Sölvesborg,Sweden,15.0,0.7,22.2,8.9
+658604,2023-10-29T16:30Z,AIK,Halmstads BK,1,1,Stockholm,Sweden,17.0,0,10.2,1.6
+658605,2023-10-30T18:00Z,Hammarby IF,IK Sirius,2,2,Stockholm,Sweden,17.0,0.1,16.5,4.1
+658607,2023-10-30T18:10Z,IFK Göteborg,IF Elfsborg,1,2,Göteborg,Sweden,23.0,0.6,31.0,10.3
+658618,2023-11-04T14:00Z,IFK Värnamo,Hammarby IF,0,0,Värnamo,Sweden,156.0,0,13.1,7.7
+658613,2023-11-04T16:30Z,Djurgården,IK Sirius,2,4,Stockholm,Sweden,17.0,0,5.8,6.7
+658612,2023-11-05T14:00Z,BK Häcken,Malmö FF,4,2,Gothenburg,Sweden,10.0,0.1,14.7,8.3
+658614,2023-11-05T14:00Z,Halmstads BK,Kalmar FF,3,0,Halmstads,Sweden,,,,
+658615,2023-11-05T16:30Z,IF Elfsborg,Degerfors IF,2,2,Boras,Sweden,143.0,0,10.9,5.9
+658619,2023-11-05T16:30Z,Mjällby AIF,IF Brommapojkarna,1,2,Sölvesborg,Sweden,15.0,0.6,13.2,8.6
+658617,2023-11-06T18:00Z,IFK Norrköping,Varbergs BoIS FC,4,3,Norrköping,Sweden,12.0,0,5.4,6.4
+658616,2023-11-06T18:10Z,IFK Göteborg,AIK,1,1,Göteborg,Sweden,23.0,0.2,22.2,7.3
+658620,2023-11-12T14:00Z,AIK,IFK Värnamo,3,1,Stockholm,Sweden,17.0,0,9.7,3.1
+658621,2023-11-12T14:00Z,Degerfors IF,Mjällby AIF,1,2,Degerfors,Sweden,112.0,0,10.9,1.1
+658622,2023-11-12T14:00Z,Hammarby IF,Halmstads BK,2,2,Stockholm,Sweden,17.0,0,9.7,3.1
+658623,2023-11-12T14:00Z,IF Brommapojkarna,BK Häcken,2,1,Stockholm,Sweden,17.0,0,9.7,3.1
+658624,2023-11-12T14:00Z,IK Sirius,IFK Norrköping,2,0,Uppsala,Sweden,20.0,0,12.0,2.7
+658625,2023-11-12T14:00Z,Kalmar FF,Djurgården,2,1,Kalmar,Sweden,7.0,0.1,11.8,6.0
+658626,2023-11-12T14:00Z,Malmö FF,IF Elfsborg,1,0,Malmo,Sweden,10.0,2.0,5.6,7.4
+658627,2023-11-12T14:00Z,Varbergs BoIS FC,IFK Göteborg,1,2,Varberg,Sweden,15.0,0,9.1,5.7

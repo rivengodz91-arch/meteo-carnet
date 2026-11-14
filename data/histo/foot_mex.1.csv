@@ -78,3 +78,91 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 670575,2023-09-25T02:05Z,Santos,Necaxa,2,5,Torreón,Mexico,1124.0,0,9.8,34.1
 670609,2023-09-27T01:05Z,Guadalajara,Mazatlán FC,1,3,Guadalajara,Mexico,1546.0,0,5.1,28.3
 670576,2023-09-29T02:00Z,Atlas,Puebla,2,3,Guadalajara,Mexico,1546.0,0,6.2,21.7
+670577,2023-09-30T01:00Z,Querétaro,León,1,1,Santiago de Querétaro,Mexico,1826.0,0,16.8,24.0
+670584,2023-09-30T03:00Z,Atlético de San Luis,Cruz Azul,1,2,San Luis Potosi,Mexico,1886.0,0,22.7,20.3
+670578,2023-09-30T03:10Z,Tijuana,FC Juárez,5,1,Tijuana,Mexico,97.0,0,11.5,17.7
+670580,2023-09-30T23:00Z,Pachuca,Necaxa,1,1,Pachuca,Mexico,2393.0,0,21.4,20.3
+670582,2023-10-01T00:40Z,América,Pumas UNAM,1,0,Mexico City,Mexico,2240.0,0,12.2,24.7
+670579,2023-10-01T01:06Z,Mazatlán FC,Tigres UANL,2,3,Mazatlán,Mexico,1.0,0,5.8,29.4
+670583,2023-10-01T23:20Z,Toluca,Guadalajara,1,1,Toluca,Mexico,2671.0,0,7.6,21.7
+670585,2023-10-04T01:00Z,Puebla,Monterrey,1,1,Puebla,Mexico,2166.0,0.6,6.6,17.1
+670586,2023-10-04T03:00Z,América,Pachuca,4,0,Mexico City,Mexico,2240.0,0,6.2,16.5
+670587,2023-10-05T01:00Z,Necaxa,Cruz Azul,1,3,Aguascalientes,Mexico,1885.0,0,3.3,18.4
+670588,2023-10-05T01:00Z,Pumas UNAM,Querétaro,4,0,Mexico City,Mexico,2240.0,0.1,7.0,19.3
+670589,2023-10-05T03:00Z,Tigres UANL,Toluca,2,2,San Nicolás de los Garza,Mexico,510.0,0,5.5,29.7
+670610,2023-10-05T03:10Z,Santos,Tijuana,2,1,Torreón,Mexico,1124.0,0,15.3,27.4
+670590,2023-10-07T03:00Z,Mazatlán FC,América,1,2,Mazatlán,Mexico,1.0,0,6.1,29.5
+670591,2023-10-07T23:00Z,Monterrey,FC Juárez,3,1,Guadalupe,Mexico,496.0,0.2,11.3,20.1
+670592,2023-10-08T01:00Z,Guadalajara,Atlas,4,1,Guadalajara,Mexico,1546.0,1.7,9.4,21.7
+670593,2023-10-08T01:00Z,Pachuca,Tigres UANL,1,1,Pachuca,Mexico,2393.0,0.2,22.2,12.0
+670594,2023-10-08T03:10Z,Cruz Azul,Pumas UNAM,1,4,Mexico City,Mexico,2240.0,0,17.8,14.3
+670595,2023-10-08T18:00Z,Toluca,Querétaro,3,1,Toluca,Mexico,2671.0,0,17.7,18.9
+670596,2023-10-08T23:00Z,Necaxa,Puebla,1,2,Aguascalientes,Mexico,1885.0,0,12.2,21.1
+670597,2023-10-09T01:05Z,Santos,León,0,2,Torreón,Mexico,1124.0,0.7,9.0,16.5
+670598,2023-10-09T03:00Z,Tijuana,Atlético de San Luis,2,1,Tijuana,Mexico,97.0,0,7.5,20.4
+670599,2023-10-21T01:00Z,Atlas,Mazatlán FC,1,3,Guadalajara,Mexico,1546.0,0,9.8,21.9
+670600,2023-10-21T01:06Z,FC Juárez,Pachuca,0,1,Ciudad Juárez,Mexico,1124.0,0,3.3,28.7
+670601,2023-10-21T03:10Z,Puebla,Guadalajara,0,2,Puebla,Mexico,2166.0,0,10.6,15.0
+670602,2023-10-21T23:00Z,León,Toluca,1,0,León de los Aldamas,Mexico,,,,
+670603,2023-10-22T01:00Z,América,Santos,4,3,Mexico City,Mexico,2240.0,0,15.7,20.7
+670607,2023-10-22T01:06Z,Querétaro,Tijuana,1,0,Santiago de Querétaro,Mexico,1826.0,0,10.9,24.2
+670604,2023-10-22T03:10Z,Tigres UANL,Cruz Azul,2,1,San Nicolás de los Garza,Mexico,510.0,0,3.9,25.4
+670605,2023-10-22T18:00Z,Pumas UNAM,Monterrey,0,1,Mexico City,Mexico,2240.0,0,6.6,24.4
+670606,2023-10-23T00:00Z,Atlético de San Luis,Necaxa,4,0,San Luis Potosi,Mexico,1886.0,0,13.3,21.4
+670608,2023-10-25T01:00Z,León,Atlas,1,1,León de los Aldamas,Mexico,,,,
+670526,2023-10-26T01:00Z,Monterrey,Tijuana,3,1,Guadalupe,Mexico,496.0,0,9.3,24.9
+670611,2023-10-26T03:06Z,FC Juárez,Atlético de San Luis,3,2,Ciudad Juárez,Mexico,1124.0,0,5.2,14.1
+670612,2023-10-28T01:00Z,Necaxa,Pumas UNAM,1,0,Aguascalientes,Mexico,1885.0,0.7,3.1,19.5
+670613,2023-10-28T03:00Z,Mazatlán FC,Querétaro,3,0,Mazatlán,Mexico,1.0,0,14.8,25.7
+670614,2023-10-28T23:00Z,Cruz Azul,León,1,0,Mexico City,Mexico,2240.0,0,23.8,22.2
+670615,2023-10-29T00:05Z,Guadalajara,Tigres UANL,0,4,Guadalajara,Mexico,1546.0,0,10.0,24.1
+670616,2023-10-29T01:00Z,Pachuca,Puebla,1,1,Pachuca,Mexico,2393.0,0,18.3,14.2
+670617,2023-10-29T03:10Z,Monterrey,América,0,3,Guadalupe,Mexico,496.0,0,5.5,23.7
+670618,2023-10-29T18:00Z,Toluca,Atlético de San Luis,3,1,Toluca,Mexico,2671.0,0,9.4,18.7
+670619,2023-10-30T01:05Z,Santos,FC Juárez,5,1,Torreón,Mexico,1124.0,0,8.0,24.3
+670620,2023-10-30T03:06Z,Tijuana,Atlas,2,0,Tijuana,Mexico,97.0,0,11.8,18.3
+670621,2023-11-01T01:00Z,Querétaro,Guadalajara,1,2,Santiago de Querétaro,Mexico,1826.0,0,23.0,15.5
+670622,2023-11-01T01:00Z,Toluca,Puebla,0,1,Toluca,Mexico,2671.0,0,5.9,12.5
+670623,2023-11-01T03:10Z,León,Pumas UNAM,1,1,León de los Aldamas,Mexico,,,,
+670624,2023-11-01T03:10Z,Monterrey,Necaxa,3,0,Guadalupe,Mexico,496.0,0,2.5,11.1
+670625,2023-11-02T01:00Z,Atlas,Pachuca,0,2,Guadalajara,Mexico,1546.0,0,8.3,20.3
+670626,2023-11-02T01:00Z,Cruz Azul,FC Juárez,2,0,Mexico City,Mexico,2240.0,0.1,17.4,16.3
+670628,2023-11-02T03:00Z,Atlético de San Luis,América,0,1,San Luis Potosi,Mexico,1886.0,0,7.4,8.5
+670629,2023-11-02T03:00Z,Mazatlán FC,Santos,3,1,Mazatlán,Mexico,1.0,0,10.3,26.8
+670627,2023-11-02T03:06Z,Tijuana,Tigres UANL,2,0,Tijuana,Mexico,97.0,0,6.4,20.1
+670630,2023-11-04T03:00Z,Puebla,León,5,4,Puebla,Mexico,2166.0,0,3.3,14.9
+670631,2023-11-04T22:55Z,Tigres UANL,Atlético de San Luis,2,2,San Nicolás de los Garza,Mexico,510.0,0,15.0,25.8
+670632,2023-11-05T01:00Z,América,Tijuana,3,0,Mexico City,Mexico,2240.0,0,19.8,18.8
+670634,2023-11-05T03:00Z,Pachuca,Monterrey,0,2,Pachuca,Mexico,2393.0,0,11.2,9.5
+670633,2023-11-05T03:05Z,Guadalajara,Cruz Azul,1,0,Guadalajara,Mexico,1546.0,0,8.4,21.4
+670635,2023-11-05T18:00Z,Pumas UNAM,Atlas,3,0,Mexico City,Mexico,2240.0,0,4.3,22.3
+670636,2023-11-05T22:00Z,Necaxa,Mazatlán FC,4,0,Aguascalientes,Mexico,1885.0,0,11.7,26.1
+670637,2023-11-06T00:05Z,Santos,Toluca,3,1,Torreón,Mexico,1124.0,0,4.1,21.9
+670638,2023-11-06T02:06Z,FC Juárez,Querétaro,0,3,Ciudad Juárez,Mexico,1124.0,0,0.4,23.6
+670581,2023-11-09T02:00Z,Monterrey,Santos,3,0,Guadalupe,Mexico,496.0,0,4.1,24.0
+670639,2023-11-11T01:00Z,Atlas,Necaxa,0,0,Guadalajara,Mexico,1546.0,0,4.2,19.9
+670640,2023-11-11T01:06Z,Mazatlán FC,Toluca,1,0,Mazatlán,Mexico,1.0,0,13.6,27.1
+670641,2023-11-11T03:10Z,Tijuana,Pachuca,2,3,Tijuana,Mexico,97.0,0,7.5,15.4
+670643,2023-11-11T23:00Z,Atlético de San Luis,Santos,0,2,San Luis Potosi,Mexico,1886.0,0,18.9,18.0
+670642,2023-11-11T23:00Z,Querétaro,Monterrey,0,0,Santiago de Querétaro,Mexico,1826.0,0.6,18.4,22.7
+670644,2023-11-12T01:00Z,Pumas UNAM,Guadalajara,1,0,Mexico City,Mexico,2240.0,0,11.8,17.8
+670645,2023-11-12T03:10Z,Tigres UANL,América,0,0,San Nicolás de los Garza,Mexico,510.0,3.6,4.7,14.9
+670646,2023-11-13T00:00Z,Cruz Azul,Puebla,1,2,Mexico City,Mexico,2240.0,0,13.1,21.0
+670647,2023-11-13T02:05Z,León,FC Juárez,2,1,León de los Aldamas,Mexico,,,,
+690132,2023-11-24T01:00Z,Atlético de San Luis,León,3,2,San Luis Potosi,Mexico,1886.0,0,8.6,14.4
+690131,2023-11-24T03:10Z,Santos,Mazatlán FC,2,1,Torreón,Mexico,1124.0,0,4.8,10.1
+690339,2023-11-27T02:06Z,León,Santos,3,2,León de los Aldamas,Mexico,,,,
+690133,2023-11-30T01:06Z,León,América,2,2,León de los Aldamas,Mexico,,,,
+690134,2023-11-30T03:10Z,Atlético de San Luis,Monterrey,1,0,San Luis Potosi,Mexico,1886.0,0.6,9.5,13.7
+690135,2023-12-01T01:00Z,Puebla,Tigres UANL,2,2,Puebla,Mexico,2166.0,0,7.9,14.5
+690136,2023-12-01T03:05Z,Guadalajara,Pumas UNAM,1,0,Guadalajara,Mexico,1546.0,0,7.0,15.8
+690140,2023-12-03T01:00Z,América,León,2,0,Mexico City,Mexico,2240.0,0,6.3,18.3
+690137,2023-12-03T03:10Z,Monterrey,Atlético de San Luis,1,1,Guadalupe,Mexico,496.0,0,2.4,17.4
+690138,2023-12-04T00:00Z,Pumas UNAM,Guadalajara,3,0,Mexico City,Mexico,2240.0,1.6,11.4,16.2
+690139,2023-12-04T02:10Z,Tigres UANL,Puebla,3,0,San Nicolás de los Garza,Mexico,510.0,0,6.1,15.2
+690682,2023-12-07T03:00Z,Atlético de San Luis,América,0,5,San Luis Potosi,Mexico,1886.0,0,5.4,11.7
+690681,2023-12-08T03:00Z,Pumas UNAM,Tigres UANL,0,1,Mexico City,Mexico,2240.0,0,3.5,12.7
+690684,2023-12-10T02:00Z,América,Atlético de San Luis,0,2,Mexico City,Mexico,2240.0,0,3.8,15.3
+690683,2023-12-11T02:00Z,Tigres UANL,Pumas UNAM,1,1,San Nicolás de los Garza,Mexico,510.0,0,7.2,10.8
+690857,2023-12-15T03:00Z,Tigres UANL,América,1,1,San Nicolás de los Garza,Mexico,510.0,0.2,6.1,16.8
+690858,2023-12-18T01:30Z,América,Tigres UANL,3,0,Mexico City,Mexico,2240.0,0,9.7,14.2

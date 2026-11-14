@@ -1,1 +1,5 @@
 id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+678249,2023-11-01T19:45Z,Heart of Midlothian,Livingston,1,0,Edinburgh,Scotland,66.0,0,26.1,8.8
+678268,2023-11-25T15:00Z,Heart of Midlothian,St Johnstone,1,0,Edinburgh,Scotland,66.0,0,6.9,2.8
+678287,2023-12-09T15:00Z,Rangers,Dundee,3,1,Glasgow,Scotland,40.0,0.5,21.9,6.8
+678306,2023-12-27T20:00Z,Hibernian,Heart of Midlothian,0,1,Edinburgh,Scotland,66.0,0,35.2,6.2

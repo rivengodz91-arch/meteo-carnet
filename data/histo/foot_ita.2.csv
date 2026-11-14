@@ -63,3 +63,129 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 681326,2023-09-27T18:30Z,Catanzaro,Cittadella,1,1,Catanzaro,Italy,320.0,0,4.6,20.8
 681327,2023-09-27T18:30Z,Como,Sampdoria,1,0,Como,Italy,201.0,0,4.6,18.9
 681330,2023-09-27T18:30Z,Parma,Bari,2,1,Parma,Italy,57.0,0,6.9,23.9
+681337,2023-09-30T12:00Z,Brescia,Ascoli,1,1,Brescia,Italy,149.0,0,4.7,26.4
+681338,2023-09-30T12:00Z,FeralpiSalo,Spezia,1,2,Piacenza,Italy,61.0,0,3.4,27.6
+681343,2023-09-30T12:00Z,Modena,Venezia,1,3,Modena,Italy,34.0,0,2.2,27.5
+681341,2023-09-30T12:00Z,Pisa,Cosenza,1,2,Pisa,Italy,4.0,0,3.9,27.3
+681336,2023-09-30T14:15Z,Ternana,Reggiana,3,0,Terni,Italy,130.0,0,5.5,27.9
+681335,2023-10-01T14:15Z,Bari,Como,1,1,Bari,Italy,5.0,0,15.8,24.8
+681340,2023-10-01T14:15Z,Cittadella,Lecco,2,1,Cittadella,Italy,48.0,0,2.7,26.7
+681342,2023-10-01T14:15Z,Palermo,Sudtirol,2,1,Palermo,Italy,14.0,0,4.7,25.0
+681339,2023-10-01T14:15Z,Sampdoria,Catanzaro,1,2,Genova,Italy,3.0,0,2.2,27.5
+681344,2023-10-01T16:30Z,Cremonese,Parma,1,2,Cremona,Italy,45.0,0,3.4,26.2
+681353,2023-10-06T18:30Z,Brescia,FeralpiSalo,1,1,Brescia,Italy,149.0,0,4.7,19.5
+681348,2023-10-07T12:00Z,Cosenza,Lecco,3,0,Cosenza,Italy,238.0,0,6.7,26.5
+681349,2023-10-07T12:00Z,Modena,Palermo,0,2,Modena,Italy,34.0,0,1.6,25.6
+681350,2023-10-07T12:00Z,Reggiana,Bari,1,1,Reggio Emilia,Italy,58.0,0,5.0,25.3
+681352,2023-10-07T12:00Z,Sudtirol,Catanzaro,0,1,Bolzano,Italy,262.0,0,3.1,26.8
+681345,2023-10-07T14:15Z,Ascoli,Sampdoria,1,1,Ascoli Piceno,Italy,154.0,0,6.4,25.0
+681346,2023-10-07T14:15Z,Cittadella,Ternana,2,2,Cittadella,Italy,48.0,0,0.8,25.5
+681354,2023-10-07T14:15Z,Venezia,Parma,3,2,Venezia,Italy,160.0,0,6.9,25.8
+681347,2023-10-08T14:15Z,Como,Cremonese,1,3,Como,Italy,201.0,0,5.9,29.1
+681351,2023-10-08T14:15Z,Spezia,Pisa,0,0,Cesena,Italy,44.0,0,3.1,29.4
+681360,2023-10-20T18:30Z,Parma,Como,2,1,Parma,Italy,57.0,0.1,6.7,17.5
+681355,2023-10-21T12:00Z,Bari,Modena,1,1,Bari,Italy,5.0,3.2,14.8,25.9
+681357,2023-10-21T12:00Z,Cremonese,Sudtirol,0,1,Cremona,Italy,45.0,0.7,12.6,22.0
+681358,2023-10-21T12:00Z,Lecco,Ascoli,0,2,Lecco,Italy,214.0,3.3,7.6,17.1
+681361,2023-10-21T12:00Z,Pisa,Cittadella,2,1,Pisa,Italy,4.0,1.7,7.6,20.4
+681364,2023-10-21T12:00Z,Ternana,Brescia,0,1,Terni,Italy,130.0,1.5,12.6,19.8
+681356,2023-10-21T14:15Z,Catanzaro,FeralpiSalo,3,0,Catanzaro,Italy,320.0,1.0,6.4,21.0
+681363,2023-10-22T14:15Z,Sampdoria,Cosenza,2,0,Genova,Italy,3.0,0,9.0,22.1
+681362,2023-10-22T16:30Z,Reggiana,Venezia,1,0,Reggio Emilia,Italy,58.0,0,7.3,18.3
+681359,2023-10-23T18:30Z,Palermo,Spezia,2,2,Palermo,Italy,14.0,0,3.3,21.5
+681272,2023-10-24T16:30Z,Brescia,Modena,0,1,Brescia,Italy,149.0,1.0,5.2,15.7
+681270,2023-10-24T16:30Z,Pisa,Lecco,1,2,Pisa,Italy,4.0,2.6,19.4,18.1
+681366,2023-10-27T18:30Z,Cittadella,Cremonese,1,2,Cittadella,Italy,48.0,0,9.6,14.4
+681367,2023-10-28T12:00Z,Como,Catanzaro,1,0,Como,Italy,201.0,0,9.0,17.1
+681368,2023-10-28T12:00Z,FeralpiSalo,Reggiana,0,3,Piacenza,Italy,61.0,0.2,3.6,18.6
+681371,2023-10-28T12:00Z,Spezia,Cosenza,0,0,La Spezia,Italy,3.0,0,21.0,20.5
+681372,2023-10-28T12:00Z,Sudtirol,Sampdoria,3,1,Bolzano,Italy,262.0,0,4.7,17.6
+681365,2023-10-28T14:15Z,Ascoli,Parma,1,3,Ascoli Piceno,Italy,154.0,0,11.9,23.7
+681369,2023-10-29T15:15Z,Brescia,Bari,1,2,Brescia,Italy,149.0,0.4,7.8,16.5
+681374,2023-10-29T15:15Z,Modena,Ternana,2,1,Modena,Italy,34.0,0,4.4,20.6
+681370,2023-10-29T15:15Z,Palermo,Lecco,1,2,Palermo,Italy,14.0,0,8.7,24.8
+681373,2023-10-29T15:15Z,Venezia,Pisa,2,1,Venezia,Italy,160.0,0,4.2,19.9
+681375,2023-11-04T13:00Z,Bari,Ascoli,1,0,Bari,Italy,5.0,0,17.0,21.5
+681376,2023-11-04T13:00Z,Catanzaro,Modena,1,2,Catanzaro,Italy,320.0,0,25.1,18.7
+681377,2023-11-04T13:00Z,Cittadella,Brescia,3,2,Cittadella,Italy,48.0,0,2.6,14.0
+681378,2023-11-04T13:00Z,Cosenza,FeralpiSalo,1,1,Cosenza,Italy,238.0,0.6,5.6,15.9
+681381,2023-11-04T13:00Z,Pisa,Como,1,1,Pisa,Italy,4.0,0.5,19.5,16.6
+681384,2023-11-04T13:00Z,Ternana,Venezia,0,1,Terni,Italy,130.0,0,11.8,16.5
+681383,2023-11-04T15:15Z,Sampdoria,Palermo,1,0,Genova,Italy,3.0,0,5.7,14.4
+681379,2023-11-05T15:15Z,Cremonese,Spezia,3,0,Cremona,Italy,45.0,0,5.3,15.3
+681380,2023-11-05T15:15Z,Parma,Sudtirol,2,0,Parma,Italy,57.0,0,10.1,14.7
+681382,2023-11-05T15:15Z,Reggiana,Lecco,1,1,Reggio Emilia,Italy,58.0,0,7.4,16.2
+681279,2023-11-08T17:30Z,Lecco,Spezia,0,0,Lecco,Italy,214.0,0,3.4,10.9
+681281,2023-11-08T17:30Z,Palermo,Brescia,1,0,Palermo,Italy,14.0,0,8.9,17.1
+681394,2023-11-10T19:30Z,Venezia,Catanzaro,2,1,Venezia,Italy,160.0,0,6.2,9.5
+681385,2023-11-11T13:00Z,Ascoli,Como,0,1,Ascoli Piceno,Italy,154.0,0,12.1,17.8
+681386,2023-11-11T13:00Z,Cosenza,Reggiana,2,0,Cosenza,Italy,238.0,0.2,9.4,16.4
+681387,2023-11-11T13:00Z,FeralpiSalo,Bari,3,3,Piacenza,Italy,61.0,0,11.9,15.5
+681392,2023-11-11T13:00Z,Sudtirol,Pisa,1,2,Bolzano,Italy,262.0,0,5.6,11.5
+681389,2023-11-11T15:15Z,Modena,Sampdoria,0,2,Modena,Italy,34.0,0,3.6,12.1
+681393,2023-11-12T15:15Z,Brescia,Cremonese,0,3,Brescia,Italy,149.0,0,5.6,10.5
+681388,2023-11-12T15:15Z,Lecco,Parma,3,2,Lecco,Italy,214.0,0,2.8,10.4
+681390,2023-11-12T15:15Z,Palermo,Cittadella,0,1,Palermo,Italy,14.0,0.3,18.3,20.4
+681391,2023-11-12T15:15Z,Spezia,Ternana,2,2,La Spezia,Italy,3.0,0,5.8,14.1
+681399,2023-11-24T19:30Z,Sampdoria,Spezia,2,1,Genova,Italy,3.0,0.1,6.5,3.8
+681395,2023-11-25T13:00Z,Bari,Venezia,0,3,Bari,Italy,5.0,0.5,34.8,11.0
+681397,2023-11-25T13:00Z,Cittadella,Sudtirol,2,1,Cittadella,Italy,48.0,0,9.8,11.2
+681398,2023-11-25T13:00Z,Como,FeralpiSalo,2,1,Como,Italy,201.0,0,19.0,8.5
+681404,2023-11-25T13:00Z,Cremonese,Lecco,1,0,Cremona,Italy,45.0,0,30.5,10.8
+681400,2023-11-25T13:00Z,Parma,Modena,1,1,Parma,Italy,57.0,0,22.6,11.4
+681402,2023-11-25T13:00Z,Reggiana,Ascoli,1,1,Reggio Emilia,Italy,58.0,0,20.3,11.1
+681401,2023-11-25T15:15Z,Pisa,Brescia,1,1,Pisa,Italy,4.0,0,7.3,9.4
+681396,2023-11-26T15:15Z,Catanzaro,Cosenza,2,0,Catanzaro,Italy,320.0,0,15.0,9.6
+681403,2023-11-26T15:15Z,Ternana,Palermo,1,1,Terni,Italy,130.0,0,4.0,9.1
+681288,2023-11-28T17:30Z,Como,Lecco,0,0,Como,Italy,201.0,0,13.3,9.0
+681289,2023-11-28T17:30Z,Sudtirol,Brescia,1,1,Bolzano,Italy,262.0,0,6.4,3.6
+681405,2023-12-01T19:30Z,Palermo,Catanzaro,1,2,Palermo,Italy,14.0,0,4.7,17.7
+681411,2023-12-02T13:00Z,Cosenza,Ternana,1,3,Cosenza,Italy,238.0,0,10.3,17.5
+681412,2023-12-02T13:00Z,FeralpiSalo,Cittadella,0,1,Piacenza,Italy,61.0,0,32.0,11.4
+681414,2023-12-02T13:00Z,Modena,Reggiana,2,1,Modena,Italy,34.0,0,26.5,12.3
+681406,2023-12-02T13:00Z,Pisa,Cremonese,0,0,Pisa,Italy,4.0,4.7,18.8,12.1
+681410,2023-12-02T13:00Z,Venezia,Ascoli,3,1,Venezia,Italy,160.0,0.1,21.3,12.9
+681407,2023-12-02T15:15Z,Spezia,Parma,0,1,La Spezia,Italy,3.0,0,7.8,12.7
+681409,2023-12-03T15:15Z,Brescia,Sampdoria,3,1,Brescia,Italy,149.0,0,6.8,6.3
+681413,2023-12-03T15:15Z,Lecco,Bari,1,0,Lecco,Italy,214.0,0,3.8,6.5
+681408,2023-12-03T15:15Z,Sudtirol,Como,0,1,Bolzano,Italy,262.0,0,4.4,2.5
+681421,2023-12-09T13:00Z,Ascoli,Spezia,1,2,Ascoli Piceno,Italy,154.0,0,4.6,11.1
+681422,2023-12-09T13:00Z,Bari,Sudtirol,2,1,Bari,Italy,5.0,0,3.3,12.5
+681416,2023-12-09T13:00Z,Cittadella,Cosenza,2,0,Cittadella,Italy,48.0,0,5.2,9.1
+681424,2023-12-09T13:00Z,Cremonese,Venezia,1,0,Cremona,Italy,45.0,0.2,5.8,4.0
+681419,2023-12-09T13:00Z,Sampdoria,Lecco,2,0,Genova,Italy,3.0,0,8.9,6.9
+681420,2023-12-09T13:00Z,Ternana,FeralpiSalo,2,1,Terni,Italy,130.0,0,4.4,11.9
+681423,2023-12-09T15:15Z,Catanzaro,Pisa,2,0,Catanzaro,Italy,320.0,0,2.3,10.9
+681415,2023-12-10T15:15Z,Como,Modena,2,1,Como,Italy,201.0,0,5.7,9.9
+681417,2023-12-10T15:15Z,Parma,Palermo,3,3,Parma,Italy,57.0,0,8.3,10.5
+681418,2023-12-10T15:15Z,Reggiana,Brescia,1,1,Reggio Emilia,Italy,58.0,0,4.0,12.4
+681429,2023-12-15T19:30Z,Spezia,Bari,1,0,La Spezia,Italy,3.0,0,13.3,5.9
+681428,2023-12-16T13:00Z,Brescia,Como,2,0,Brescia,Italy,149.0,0,6.4,9.1
+681434,2023-12-16T13:00Z,FeralpiSalo,Cremonese,1,0,Piacenza,Italy,61.0,0,2.9,6.9
+681432,2023-12-16T13:00Z,Modena,Cittadella,1,1,Modena,Italy,34.0,0,3.1,8.9
+681430,2023-12-16T13:00Z,Reggiana,Sampdoria,1,2,Reggio Emilia,Italy,58.0,0,4.1,8.3
+681427,2023-12-16T13:00Z,Venezia,Sudtirol,2,3,Venezia,Italy,160.0,0,5.2,8.1
+681425,2023-12-16T15:15Z,Ascoli,Catanzaro,1,0,Ascoli Piceno,Italy,154.0,0,7.6,7.8
+681426,2023-12-16T15:15Z,Cosenza,Parma,0,0,Cosenza,Italy,238.0,0.5,13.8,8.2
+681431,2023-12-16T15:15Z,Palermo,Pisa,3,2,Palermo,Italy,14.0,2.5,18.2,12.2
+681433,2023-12-17T15:15Z,Lecco,Ternana,2,3,Lecco,Italy,214.0,0,0.8,11.1
+681439,2023-12-23T13:00Z,Cittadella,Spezia,4,1,Cittadella,Italy,48.0,0,6.3,10.3
+681436,2023-12-23T13:00Z,Como,Palermo,3,3,Como,Italy,201.0,0,8.7,19.2
+681437,2023-12-23T13:00Z,Cremonese,Modena,4,0,Cremona,Italy,45.0,0,18.4,20.1
+681438,2023-12-23T13:00Z,Parma,Ternana,3,1,Parma,Italy,57.0,0,20.9,20.8
+681442,2023-12-23T13:00Z,Venezia,Lecco,2,2,Venezia,Italy,160.0,0,13.0,21.1
+681443,2023-12-23T14:00Z,Catanzaro,Brescia,2,3,Catanzaro,Italy,320.0,0,29.6,15.3
+681435,2023-12-23T15:15Z,Bari,Cosenza,0,0,Bari,Italy,5.0,0,9.6,17.4
+681444,2023-12-23T15:15Z,Pisa,Ascoli,1,0,Pisa,Italy,4.0,0,7.3,13.2
+681440,2023-12-23T15:15Z,Sampdoria,FeralpiSalo,2,3,Genova,Italy,3.0,0,20.6,16.5
+681441,2023-12-23T15:15Z,Sudtirol,Reggiana,2,3,Bolzano,Italy,262.0,0,6.9,7.4
+681454,2023-12-26T11:30Z,Reggiana,Catanzaro,1,0,Reggio Emilia,Italy,58.0,0,2.9,10.3
+681445,2023-12-26T14:00Z,Ascoli,Cittadella,0,0,Ascoli Piceno,Italy,154.0,0,6.1,13.1
+681446,2023-12-26T14:00Z,Brescia,Parma,0,2,Brescia,Italy,149.0,0,11.5,11.4
+681453,2023-12-26T14:00Z,Cosenza,Como,1,2,Cosenza,Italy,238.0,0,4.3,13.5
+681452,2023-12-26T14:00Z,FeralpiSalo,Venezia,2,2,Piacenza,Italy,61.0,0,9.3,11.8
+681451,2023-12-26T14:00Z,Lecco,Sudtirol,2,1,Lecco,Italy,214.0,0,7.2,10.7
+681447,2023-12-26T14:00Z,Spezia,Modena,1,1,La Spezia,Italy,3.0,0,6.0,13.3
+681449,2023-12-26T14:00Z,Ternana,Pisa,1,1,Terni,Italy,130.0,0.1,8.1,13.6
+681450,2023-12-26T17:00Z,Palermo,Cremonese,3,2,Palermo,Italy,14.0,0,2.6,12.1
+681448,2023-12-26T19:30Z,Sampdoria,Bari,1,1,Genova,Italy,3.0,0,2.8,7.8

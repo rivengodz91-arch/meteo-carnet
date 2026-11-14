@@ -47,3 +47,57 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 675201,2023-09-24T12:30Z,LASK Linz,TSV Hartberg,0,0,Linz,Austria,266.0,0,3.8,17.7
 675199,2023-09-24T12:30Z,SC Rheindorf Altach,Austria Vienna,2,1,Altach,Austria,413.0,0,4.8,16.2
 675203,2023-09-24T15:00Z,Rapid Vienna,SK Sturm Graz,1,1,Wien,Austria,876.0,0,16.8,12.1
+675208,2023-09-30T15:00Z,Austria Lustenau,RB Salzburg,0,4,Lustenau,Austria,405.0,0,5.4,20.3
+675205,2023-09-30T15:00Z,FC Blau-Weiß Linz,SK Austria Klagenfurt,0,0,Linz,Austria,266.0,0,13.8,20.7
+675207,2023-09-30T15:00Z,Wolfsberger,LASK Linz,2,1,Wolfsberg,Austria,461.0,0,1.1,20.4
+675209,2023-10-01T12:30Z,SK Sturm Graz,WSG Swarovski Tirol,1,0,Graz,Austria,362.0,0,9.0,21.2
+675210,2023-10-01T12:30Z,TSV Hartberg,SC Rheindorf Altach,0,0,Hartberg,Austria,396.0,0,9.0,20.9
+675206,2023-10-01T15:00Z,Austria Vienna,Rapid Vienna,0,0,Wien,Austria,876.0,0,10.1,16.3
+675214,2023-10-07T15:00Z,Austria Lustenau,Rapid Vienna,0,5,Lustenau,Austria,405.0,0,5.7,19.6
+675212,2023-10-07T15:00Z,Austria Vienna,FC Blau-Weiß Linz,4,0,Wien,Austria,876.0,0,17.9,14.6
+675216,2023-10-07T15:00Z,TSV Hartberg,WSG Swarovski Tirol,3,0,Hartberg,Austria,396.0,0,6.8,22.7
+675211,2023-10-08T12:30Z,LASK Linz,SC Rheindorf Altach,1,0,Linz,Austria,266.0,0.7,12.3,18.8
+675213,2023-10-08T12:30Z,Wolfsberger,SK Sturm Graz,1,2,Wolfsberg,Austria,461.0,0,7.6,23.6
+675215,2023-10-08T15:00Z,SK Austria Klagenfurt,RB Salzburg,2,2,Klagenfurt,Austria,450.0,0,6.0,23.8
+675217,2023-10-21T15:00Z,FC Blau-Weiß Linz,Austria Lustenau,0,0,Linz,Austria,266.0,0,3.7,19.0
+675219,2023-10-21T15:00Z,RB Salzburg,LASK Linz,0,1,Salzburg,Austria,424.0,0,2.6,17.9
+675222,2023-10-21T15:00Z,SK Sturm Graz,TSV Hartberg,2,1,Graz,Austria,362.0,0,7.3,18.3
+675218,2023-10-22T12:30Z,SC Rheindorf Altach,Wolfsberger,0,0,Altach,Austria,413.0,0,3.1,15.5
+675220,2023-10-22T12:30Z,WSG Swarovski Tirol,Austria Vienna,0,2,Innsbruck,Austria,570.0,0,3.9,15.0
+675221,2023-10-22T15:00Z,Rapid Vienna,SK Austria Klagenfurt,2,3,Wien,Austria,876.0,0.1,14.1,10.7
+675223,2023-10-28T15:00Z,FC Blau-Weiß Linz,Wolfsberger,2,0,Linz,Austria,266.0,0,5.7,14.1
+675224,2023-10-28T15:00Z,RB Salzburg,SC Rheindorf Altach,3,0,Salzburg,Austria,424.0,0,3.3,13.3
+675226,2023-10-28T15:00Z,SK Austria Klagenfurt,WSG Swarovski Tirol,1,0,Klagenfurt,Austria,450.0,0,2.9,12.5
+675227,2023-10-29T13:30Z,Austria Lustenau,TSV Hartberg,0,4,Lustenau,Austria,405.0,0,5.2,19.4
+675225,2023-10-29T13:30Z,SK Sturm Graz,Austria Vienna,0,1,Graz,Austria,362.0,0,20.8,16.6
+675228,2023-10-29T16:00Z,Rapid Vienna,LASK Linz,3,3,Wien,Austria,876.0,0,13.0,10.7
+675230,2023-11-04T16:00Z,Austria Vienna,Austria Lustenau,1,0,Wien,Austria,876.0,0,16.8,4.1
+675232,2023-11-04T16:00Z,Wolfsberger,SK Austria Klagenfurt,4,0,Wolfsberg,Austria,461.0,0,4.7,6.3
+675234,2023-11-04T16:00Z,WSG Swarovski Tirol,RB Salzburg,0,2,Innsbruck,Austria,570.0,0,6.3,6.4
+675229,2023-11-05T13:30Z,SC Rheindorf Altach,Rapid Vienna,0,2,Altach,Austria,413.0,1.9,10.0,13.1
+675233,2023-11-05T13:30Z,TSV Hartberg,FC Blau-Weiß Linz,3,2,Hartberg,Austria,396.0,0,14.1,13.6
+675231,2023-11-05T16:00Z,LASK Linz,SK Sturm Graz,3,1,Linz,Austria,266.0,0.2,5.9,10.0
+675237,2023-11-11T16:00Z,Austria Lustenau,Wolfsberger,2,3,Lustenau,Austria,405.0,1.6,11.0,6.0
+675235,2023-11-11T16:00Z,TSV Hartberg,Rapid Vienna,1,0,Hartberg,Austria,396.0,0,6.6,5.8
+675240,2023-11-11T16:00Z,WSG Swarovski Tirol,SC Rheindorf Altach,5,1,Innsbruck,Austria,570.0,0.2,5.8,4.0
+675239,2023-11-12T13:30Z,FC Blau-Weiß Linz,LASK Linz,2,0,Linz,Austria,266.0,0,4.4,9.3
+675236,2023-11-12T13:30Z,SK Austria Klagenfurt,SK Sturm Graz,0,3,Klagenfurt,Austria,450.0,0,4.1,5.8
+675238,2023-11-12T16:00Z,Austria Vienna,RB Salzburg,0,0,Wien,Austria,876.0,0,5.4,2.9
+675243,2023-11-25T16:00Z,LASK Linz,WSG Swarovski Tirol,1,0,Linz,Austria,266.0,0.5,20.2,2.1
+675242,2023-11-25T16:00Z,RB Salzburg,TSV Hartberg,3,2,Salzburg,Austria,424.0,1.3,9.0,-0.3
+675245,2023-11-25T16:00Z,SK Sturm Graz,Austria Lustenau,2,0,Graz,Austria,362.0,0,22.0,0.4
+675241,2023-11-26T13:30Z,SC Rheindorf Altach,SK Austria Klagenfurt,0,1,Altach,Austria,413.0,0.2,5.8,4.2
+675244,2023-11-26T13:30Z,Wolfsberger,Austria Vienna,1,0,Wolfsberg,Austria,461.0,0,10.7,4.1
+675246,2023-11-26T16:00Z,Rapid Vienna,FC Blau-Weiß Linz,1,0,Wien,Austria,876.0,0.1,15.9,-3.9
+675248,2023-12-03T13:30Z,FC Blau-Weiß Linz,SK Sturm Graz,1,1,Linz,Austria,266.0,0,15.1,-3.2
+675249,2023-12-03T13:30Z,RB Salzburg,Wolfsberger,1,0,Salzburg,Austria,424.0,0,3.3,-3.1
+675250,2023-12-03T16:00Z,Austria Vienna,LASK Linz,0,0,Wien,Austria,876.0,0,8.7,-8.6
+675252,2023-12-04T18:00Z,SK Austria Klagenfurt,TSV Hartberg,1,1,Klagenfurt,Austria,450.0,0.1,3.1,-3.6
+675247,2023-12-05T18:00Z,SC Rheindorf Altach,Austria Lustenau,3,0,Altach,Austria,413.0,0,4.6,-2.4
+675251,2023-12-05T18:00Z,WSG Swarovski Tirol,Rapid Vienna,1,2,Innsbruck,Austria,570.0,0.5,2.3,2.4
+675258,2023-12-09T13:30Z,Rapid Vienna,RB Salzburg,0,1,Wien,Austria,876.0,0,8.0,-1.1
+675254,2023-12-09T16:00Z,Austria Lustenau,LASK Linz,1,3,Bregenz,Austria,405.0,0.2,2.6,5.1
+675253,2023-12-09T16:00Z,SK Austria Klagenfurt,Austria Vienna,2,2,Klagenfurt,Austria,450.0,0,4.5,-0.6
+675257,2023-12-10T13:30Z,FC Blau-Weiß Linz,WSG Swarovski Tirol,1,2,Linz,Austria,266.0,0,24.5,7.9
+675256,2023-12-10T13:30Z,TSV Hartberg,Wolfsberger,2,0,Hartberg,Austria,396.0,0,1.5,6.1
+675255,2023-12-10T16:00Z,SK Sturm Graz,SC Rheindorf Altach,1,0,Graz,Austria,362.0,0,3.9,3.4

@@ -71,3 +71,52 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 660494,2023-09-24T18:00Z,Copiapó,Universidad de Chile,3,1,Coquimbo,Chile,22.0,0,13.0,19.7
 660497,2023-09-24T20:30Z,Universidad Católica,Magallanes,1,0,Santiago,Chile,556.0,0,11.7,18.2
 660490,2023-09-24T23:00Z,Audax Italiano,Unión La Calera,2,1,Santiago,Chile,556.0,0,6.9,12.5
+660381,2023-09-30T15:30Z,Coquimbo Unido,Ñublense,1,3,Coquimbo,Chile,22.0,0,8.2,13.9
+660501,2023-09-30T18:00Z,Magallanes,Everton CD,1,4,San Bernardo,Chile,571.0,0,13.4,21.4
+660500,2023-09-30T20:30Z,Huachipato,Copiapó,1,0,Talcahuano,Chile,15.0,0,9.8,15.1
+660504,2023-09-30T23:00Z,Unión Española,Curicó Unido,2,2,Santiago,Chile,556.0,0,7.7,14.2
+660502,2023-10-01T14:15Z,O'Higgins,Unión La Calera,0,1,Rancagua,Chile,520.0,0,6.8,13.8
+660499,2023-10-01T18:00Z,Colo Colo,Universidad Católica,2,1,Santiago,Chile,556.0,0,15.8,16.9
+660498,2023-10-01T21:00Z,Cobresal,Palestino,2,1,El Salvador,Chile,694.0,0.3,12.2,27.8
+660503,2023-10-02T22:00Z,Universidad de Chile,Audax Italiano,2,0,Santiago,Chile,556.0,0,11.2,13.8
+660513,2023-10-06T22:00Z,Unión La Calera,Huachipato,2,4,La Calera,Chile,217.0,0,6.9,16.2
+660508,2023-10-07T15:30Z,Curicó Unido,Cobresal,1,2,Curicó,Chile,217.0,0,15.2,14.8
+660510,2023-10-07T18:00Z,O'Higgins,Universidad Católica,0,3,Rancagua,Chile,520.0,0,10.6,17.8
+660507,2023-10-07T23:00Z,Coquimbo Unido,Unión Española,3,1,Coquimbo,Chile,22.0,0,11.7,15.2
+660509,2023-10-08T15:30Z,Copiapó,Magallanes,2,1,Coquimbo,Chile,22.0,0,11.9,16.9
+660511,2023-10-08T18:00Z,Palestino,Colo Colo,1,0,Santiago,Chile,556.0,0,11.0,23.0
+660506,2023-10-08T23:00Z,Audax Italiano,Ñublense,1,0,Santiago,Chile,556.0,0,6.5,17.0
+660512,2023-11-06T22:00Z,Universidad de Chile,Everton CD,1,2,Santiago,Chile,556.0,0,14.5,16.9
+660356,2023-11-07T21:00Z,Magallanes,Colo Colo,1,2,Rancagua,Chile,520.0,0,12.3,19.7
+660519,2023-11-11T18:00Z,Universidad Católica,Universidad de Chile,1,3,Santiago,Chile,556.0,0,5.5,14.7
+660514,2023-11-11T21:30Z,Cobresal,Audax Italiano,3,4,El Salvador,Chile,694.0,0,1.6,26.8
+660521,2023-11-12T00:00Z,Ñublense,Palestino,1,1,Chillán,Chile,132.0,0,8.9,9.1
+660518,2023-11-12T15:30Z,Magallanes,Huachipato,1,1,San Bernardo,Chile,571.0,0,9.7,13.6
+660517,2023-11-12T18:00Z,Everton CD,Curicó Unido,1,1,Vina del Mar,Chile,17.0,0,22.9,17.3
+660515,2023-11-12T20:30Z,Colo Colo,Unión La Calera,2,0,Santiago,Chile,556.0,0,12.1,17.3
+660516,2023-11-12T23:00Z,Coquimbo Unido,Copiapó,1,0,Coquimbo,Chile,22.0,0,21.4,15.5
+660520,2023-11-12T23:00Z,Unión Española,O'Higgins,3,3,Santiago,Chile,556.0,0,10.0,14.5
+660527,2023-11-23T21:00Z,Palestino,Everton CD,0,2,Santiago,Chile,556.0,0,16.6,29.3
+660528,2023-11-24T21:00Z,Universidad de Chile,Coquimbo Unido,1,2,Santiago,Chile,556.0,0,17.1,24.6
+660529,2023-11-24T23:30Z,Unión La Calera,Unión Española,4,0,La Calera,Chile,217.0,0,6.4,17.4
+660525,2023-11-25T21:00Z,Huachipato,Universidad Católica,1,1,Talcahuano,Chile,15.0,0,23.2,17.4
+660526,2023-11-25T21:00Z,O'Higgins,Cobresal,0,0,Rancagua,Chile,520.0,0,11.3,24.8
+660522,2023-11-26T21:00Z,Audax Italiano,Colo Colo,0,1,Santiago,Chile,556.0,0,14.5,24.6
+660524,2023-11-26T23:30Z,Copiapó,Ñublense,1,1,Coquimbo,Chile,22.0,0,9.9,16.2
+660523,2023-11-26T23:30Z,Curicó Unido,Magallanes,3,4,Curicó,Chile,217.0,0,9.7,22.6
+660534,2023-12-01T23:00Z,Coquimbo Unido,Unión La Calera,1,2,Coquimbo,Chile,22.0,0,15.0,17.1
+660530,2023-12-02T21:00Z,Audax Italiano,Magallanes,0,2,Santiago,Chile,556.0,0,16.3,24.4
+660536,2023-12-02T21:00Z,Palestino,Curicó Unido,4,0,Santiago,Chile,556.0,0,16.3,24.4
+660537,2023-12-02T21:00Z,Universidad Católica,Copiapó,2,2,Santiago,Chile,556.0,0,16.3,24.4
+660535,2023-12-02T23:30Z,Everton CD,O'Higgins,0,2,Vina del Mar,Chile,17.0,0,24.5,16.8
+660532,2023-12-03T21:00Z,Cobresal,Universidad de Chile,4,3,El Salvador,Chile,694.0,0,8.7,33.1
+660533,2023-12-03T21:00Z,Colo Colo,Unión Española,0,2,Santiago,Chile,556.0,0,15.5,26.6
+660531,2023-12-03T21:00Z,Ñublense,Huachipato,0,1,Chillán,Chile,132.0,0,25.9,23.9
+660541,2023-12-08T21:00Z,Curicó Unido,Colo Colo,0,1,Curicó,Chile,217.0,0,13.0,27.9
+660542,2023-12-08T21:00Z,Huachipato,Audax Italiano,2,0,Talcahuano,Chile,15.0,0,33.4,16.4
+660540,2023-12-08T21:00Z,Unión Española,Cobresal,1,0,Santiago,Chile,556.0,0,18.6,25.6
+660545,2023-12-09T21:00Z,Copiapó,Everton CD,2,0,Coquimbo,Chile,22.0,0,9.8,21.9
+660543,2023-12-09T21:00Z,Magallanes,Coquimbo Unido,2,3,San Bernardo,Chile,571.0,0,13.3,31.0
+660544,2023-12-09T21:00Z,O'Higgins,Palestino,0,1,Rancagua,Chile,520.0,0,16.0,26.8
+660539,2023-12-09T21:00Z,Unión La Calera,Universidad Católica,0,3,La Calera,Chile,217.0,0,19.1,32.1
+660538,2023-12-09T21:00Z,Universidad de Chile,Ñublense,3,1,Santiago,Chile,556.0,0,13.7,31.3

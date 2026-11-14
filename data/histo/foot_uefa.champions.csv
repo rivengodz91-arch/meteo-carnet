@@ -15,3 +15,83 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 687546,2023-09-20T19:00Z,Braga,Napoli,1,2,Braga,Portugal,190.0,0.3,17.2,18.0
 687548,2023-09-20T19:00Z,Real Sociedad,Internazionale,1,1,San Sebastian,Spain,74.0,0,5.8,20.8
 687547,2023-09-20T19:00Z,Sevilla,Lens,1,1,Sevilla,Spain,16.0,0,14.0,22.3
+687553,2023-10-03T16:45Z,1. FC Union Berlin,Braga,2,3,Berlin,Germany,74.0,6.0,21.6,18.1
+687552,2023-10-03T16:45Z,RB Salzburg,Real Sociedad,0,2,Salzburg,Austria,424.0,0,4.7,22.4
+687555,2023-10-03T19:00Z,F.C. København,Bayern Munich,1,2,Copenhagen,Denmark,14.0,0,28.5,13.2
+687558,2023-10-03T19:00Z,Internazionale,Benfica,1,0,Milano,Italy,635.0,0,4.4,17.7
+687557,2023-10-03T19:00Z,Lens,Arsenal,2,1,Lens,France,37.0,0,17.8,14.7
+687556,2023-10-03T19:00Z,Manchester United,Galatasaray,2,3,Manchester,England,51.0,0.1,16.6,13.0
+687554,2023-10-03T19:00Z,Napoli,Real Madrid,2,3,Napoli,Italy,58.0,0,4.0,19.2
+687559,2023-10-03T19:00Z,PSV Eindhoven,Sevilla,2,2,Eindhoven,Netherlands,22.0,0,15.6,13.7
+687560,2023-10-04T16:45Z,Antwerp,Shakhtar Donetsk,2,3,Antwerp,Belgium,13.0,0,16.4,16.6
+687561,2023-10-04T16:45Z,Atlético Madrid,Feyenoord Rotterdam,3,2,Madrid,Spain,665.0,0,6.2,28.1
+687565,2023-10-04T19:00Z,Borussia Dortmund,AC Milan,0,0,Aue,Germany,399.0,0,10.7,11.8
+687567,2023-10-04T19:00Z,Celtic,Lazio,1,2,Glasgow,Scotland,40.0,0,13.0,11.4
+687562,2023-10-04T19:00Z,FC Porto,Barcelona,0,1,Porto,Portugal,91.0,0,5.1,17.9
+687563,2023-10-04T19:00Z,Newcastle United,Paris Saint-Germain,4,1,Newcastle-upon-Tyne,England,54.0,0.6,19.5,15.0
+687564,2023-10-04T19:00Z,RB Leipzig,Manchester City,1,3,Leipzig,Germany,116.0,0,13.7,14.3
+687566,2023-10-04T19:00Z,Red Star Belgrade,Young Boys,2,2,Belgrade,Serbia,120.0,0,9.4,16.8
+687569,2023-10-24T16:45Z,Galatasaray,Bayern Munich,1,3,Istanbul,Türkiye,39.0,0,4.9,20.3
+687568,2023-10-24T16:45Z,Internazionale,RB Salzburg,2,1,Milano,Italy,635.0,1.5,18.8,15.8
+687571,2023-10-24T19:00Z,1. FC Union Berlin,Napoli,0,1,Berlin,Germany,74.0,2.8,4.9,11.7
+687570,2023-10-24T19:00Z,Benfica,Real Sociedad,0,1,Lisbon,Portugal,68.0,1.0,18.2,18.5
+687572,2023-10-24T19:00Z,Braga,Real Madrid,1,2,Braga,Portugal,190.0,0.6,9.2,15.9
+687575,2023-10-24T19:00Z,Lens,PSV Eindhoven,1,1,Lens,France,37.0,0,10.1,10.0
+687574,2023-10-24T19:00Z,Manchester United,F.C. København,1,0,Manchester,England,51.0,0,7.9,7.6
+687573,2023-10-24T19:00Z,Sevilla,Arsenal,1,2,Sevilla,Spain,16.0,2.0,13.3,17.6
+687577,2023-10-25T16:45Z,Barcelona,Shakhtar Donetsk,2,1,Barcelona,Spain,15.0,0,13.7,21.5
+687576,2023-10-25T16:45Z,Feyenoord Rotterdam,Lazio,3,1,Rotterdam,Netherlands,9.0,1.4,16.6,10.6
+687579,2023-10-25T19:00Z,Antwerp,FC Porto,1,4,Antwerp,Belgium,13.0,0,15.9,10.5
+687578,2023-10-25T19:00Z,Celtic,Atlético Madrid,2,2,Glasgow,Scotland,40.0,0,14.7,9.1
+687582,2023-10-25T19:00Z,Newcastle United,Borussia Dortmund,0,1,Newcastle-upon-Tyne,England,54.0,0.2,4.2,9.8
+687581,2023-10-25T19:00Z,Paris Saint-Germain,AC Milan,3,0,Paris,France,42.0,0,12.1,12.0
+687583,2023-10-25T19:00Z,RB Leipzig,Red Star Belgrade,3,1,Leipzig,Germany,116.0,1.7,15.6,10.9
+687580,2023-10-25T19:00Z,Young Boys,Manchester City,1,3,Bern,Switzerland,549.0,1.7,26.3,11.7
+687585,2023-11-07T17:45Z,Borussia Dortmund,Newcastle United,2,0,Aue,Germany,399.0,0,13.6,7.0
+687584,2023-11-07T17:45Z,Shakhtar Donetsk,Barcelona,1,0,Hamburg Norderstedt,Germany,,,,
+687586,2023-11-07T20:00Z,AC Milan,Paris Saint-Germain,2,1,Milano,Italy,635.0,1.3,5.0,9.7
+687591,2023-11-07T20:00Z,Atlético Madrid,Celtic,6,0,Madrid,Spain,665.0,0,9.0,6.6
+687589,2023-11-07T20:00Z,FC Porto,Antwerp,2,0,Porto,Portugal,91.0,0,5.1,12.7
+687588,2023-11-07T20:00Z,Lazio,Feyenoord Rotterdam,1,0,Roma,Italy,576.0,0,9.7,5.6
+687587,2023-11-07T20:00Z,Manchester City,Young Boys,3,0,Manchester,England,51.0,0,7.7,6.9
+687590,2023-11-07T20:00Z,Red Star Belgrade,RB Leipzig,1,2,Belgrade,Serbia,120.0,0,16.9,16.2
+687593,2023-11-08T17:45Z,Napoli,1. FC Union Berlin,1,1,Napoli,Italy,58.0,0,5.5,13.0
+687592,2023-11-08T17:45Z,Real Sociedad,Benfica,3,1,San Sebastian,Spain,74.0,1.0,21.4,14.2
+687595,2023-11-08T20:00Z,Arsenal,Sevilla,2,0,London,England,25.0,0,6.6,8.2
+687594,2023-11-08T20:00Z,Bayern Munich,Galatasaray,2,1,München,Germany,524.0,0,8.6,3.2
+687596,2023-11-08T20:00Z,F.C. København,Manchester United,4,3,Copenhagen,Denmark,14.0,0,19.1,8.7
+687598,2023-11-08T20:00Z,PSV Eindhoven,Lens,1,0,Eindhoven,Netherlands,22.0,1.1,27.9,10.4
+687599,2023-11-08T20:00Z,RB Salzburg,Internazionale,0,1,Salzburg,Austria,424.0,0,8.2,0.3
+687597,2023-11-08T20:00Z,Real Madrid,Braga,3,0,Madrid,Spain,665.0,0,10.2,9.5
+687601,2023-11-28T17:45Z,Lazio,Celtic,2,0,Roma,Italy,576.0,1.0,6.5,2.2
+687600,2023-11-28T17:45Z,Shakhtar Donetsk,Antwerp,1,0,Hamburg Norderstedt,Germany,,,,
+687604,2023-11-28T20:00Z,AC Milan,Borussia Dortmund,1,3,Milano,Italy,635.0,0.2,5.6,4.9
+687607,2023-11-28T20:00Z,Barcelona,FC Porto,2,1,Barcelona,Spain,15.0,0,5.8,12.0
+687606,2023-11-28T20:00Z,Feyenoord Rotterdam,Atlético Madrid,1,3,Rotterdam,Netherlands,9.0,0.3,20.6,2.7
+687605,2023-11-28T20:00Z,Manchester City,RB Leipzig,3,2,Manchester,England,51.0,0.1,5.1,2.2
+687603,2023-11-28T20:00Z,Paris Saint-Germain,Newcastle United,1,1,Paris,France,42.0,0,5.2,1.5
+687602,2023-11-28T20:00Z,Young Boys,Red Star Belgrade,2,0,Bern,Switzerland,549.0,0,4.5,-2.3
+687609,2023-11-29T17:45Z,Galatasaray,Manchester United,3,3,Istanbul,Türkiye,39.0,7.2,15.0,13.9
+687608,2023-11-29T17:45Z,Sevilla,PSV Eindhoven,2,3,Sevilla,Spain,16.0,0,13.3,17.2
+687611,2023-11-29T20:00Z,Arsenal,Lens,6,0,London,England,25.0,0,6.8,-0.4
+687615,2023-11-29T20:00Z,Bayern Munich,F.C. København,0,0,München,Germany,524.0,0,7.8,-1.6
+687614,2023-11-29T20:00Z,Benfica,Internazionale,3,3,Lisbon,Portugal,68.0,0,14.0,16.9
+687610,2023-11-29T20:00Z,Braga,1. FC Union Berlin,1,1,Braga,Portugal,190.0,0.2,18.0,14.8
+687613,2023-11-29T20:00Z,Real Madrid,Napoli,4,2,Madrid,Spain,665.0,0.2,17.9,13.0
+687612,2023-11-29T20:00Z,Real Sociedad,RB Salzburg,0,0,San Sebastian,Spain,74.0,1.5,15.0,15.0
+687617,2023-12-12T17:45Z,Lens,Sevilla,2,1,Lens,France,37.0,0,13.8,9.0
+687616,2023-12-12T17:45Z,PSV Eindhoven,Arsenal,1,1,Eindhoven,Netherlands,22.0,2.3,13.7,9.2
+687619,2023-12-12T20:00Z,1. FC Union Berlin,Real Madrid,2,3,Berlin,Germany,74.0,0,10.0,3.1
+687623,2023-12-12T20:00Z,F.C. København,Galatasaray,1,0,Copenhagen,Denmark,14.0,0,19.7,0.6
+687618,2023-12-12T20:00Z,Internazionale,Real Sociedad,0,0,Milano,Italy,635.0,0,15.1,10.9
+687621,2023-12-12T20:00Z,Manchester United,Bayern Munich,0,1,Manchester,England,51.0,0,10.5,7.2
+687622,2023-12-12T20:00Z,Napoli,Braga,2,0,Napoli,Italy,58.0,0,5.3,13.1
+687620,2023-12-12T20:00Z,RB Salzburg,Benfica,1,3,Salzburg,Austria,424.0,0.8,8.6,4.9
+687624,2023-12-13T17:45Z,RB Leipzig,Young Boys,2,1,Leipzig,Germany,116.0,0,3.0,7.2
+687625,2023-12-13T17:45Z,Red Star Belgrade,Manchester City,2,3,Belgrade,Serbia,120.0,0,17.7,14.4
+687627,2023-12-13T20:00Z,Antwerp,Barcelona,3,2,Antwerp,Belgium,13.0,0,10.1,6.0
+687626,2023-12-13T20:00Z,Atlético Madrid,Lazio,2,0,Madrid,Spain,665.0,0,16.2,7.0
+687628,2023-12-13T20:00Z,Borussia Dortmund,Paris Saint-Germain,1,1,Aue,Germany,399.0,3.7,6.5,2.6
+687629,2023-12-13T20:00Z,Celtic,Feyenoord Rotterdam,2,1,Glasgow,Scotland,40.0,0,6.6,-0.4
+687630,2023-12-13T20:00Z,FC Porto,Shakhtar Donetsk,5,3,Porto,Portugal,91.0,0,11.5,10.5
+687631,2023-12-13T20:00Z,Newcastle United,AC Milan,1,2,Newcastle-upon-Tyne,England,54.0,0,8.1,2.1

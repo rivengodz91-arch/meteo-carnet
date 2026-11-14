@@ -52,3 +52,94 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 675341,2023-09-27T16:45Z,PSV Eindhoven,Go Ahead Eagles,3,0,Eindhoven,Netherlands,22.0,0,5.8,22.9
 675373,2023-09-27T18:00Z,FC Twente,Vitesse,1,0,Enschede,Netherlands,45.0,0,10.0,18.2
 675375,2023-09-28T18:00Z,AZ Alkmaar,Heracles Almelo,1,1,Alkmaar,Netherlands,5.0,0,14.7,17.2
+675376,2023-09-30T14:30Z,Feyenoord Rotterdam,Go Ahead Eagles,3,1,Rotterdam,Netherlands,9.0,0,14.2,18.7
+675377,2023-09-30T16:45Z,FC Utrecht,Almere City,0,2,Utrecht,Netherlands,13.0,0,7.6,18.0
+675378,2023-09-30T16:45Z,PSV Eindhoven,FC Volendam,3,1,Eindhoven,Netherlands,22.0,0,6.1,18.2
+675379,2023-09-30T19:00Z,FC Twente,Heerenveen,1,0,Enschede,Netherlands,45.0,0,8.2,15.4
+675381,2023-10-01T10:15Z,NEC Nijmegen,Vitesse,1,3,Nijmegen,Netherlands,25.0,0,14.2,19.0
+675383,2023-10-01T12:30Z,Excelsior,Sparta Rotterdam,2,1,Rotterdam,Netherlands,9.0,0,16.8,21.9
+675382,2023-10-01T12:30Z,Heracles Almelo,PEC Zwolle,2,1,Almelo,Netherlands,15.0,0,17.6,21.4
+675384,2023-10-01T14:45Z,AZ Alkmaar,Fortuna Sittard,4,0,Alkmaar,Netherlands,5.0,0,24.9,19.3
+675385,2023-10-06T18:00Z,FC Volendam,FC Utrecht,1,0,Volendam,Netherlands,,0,29.4,17.1
+675386,2023-10-07T14:30Z,Heerenveen,NEC Nijmegen,1,1,Heerenveen,Netherlands,,0,28.0,17.7
+675387,2023-10-07T16:45Z,Almere City,RKC Waalwijk,1,0,Almere,Netherlands,-3.0,0,24.9,18.8
+675388,2023-10-07T18:00Z,Go Ahead Eagles,Heracles Almelo,4,0,Deventer,Netherlands,12.0,0,21.5,17.7
+675389,2023-10-07T19:00Z,Vitesse,Excelsior,0,0,Arnhem,Netherlands,16.0,0,22.8,17.8
+675390,2023-10-08T10:15Z,PEC Zwolle,Feyenoord Rotterdam,0,2,Zwolle,Netherlands,9.0,0,9.8,15.0
+675391,2023-10-08T12:30Z,Ajax Amsterdam,AZ Alkmaar,1,2,Amsterdam,Netherlands,13.0,0,11.1,16.6
+675392,2023-10-08T12:30Z,Fortuna Sittard,FC Twente,0,3,Sittard,Netherlands,48.0,0,4.3,20.5
+675393,2023-10-08T14:45Z,Sparta Rotterdam,PSV Eindhoven,0,4,Rotterdam,Netherlands,9.0,0,8.2,19.4
+675395,2023-10-21T16:45Z,PSV Eindhoven,Fortuna Sittard,3,1,Eindhoven,Netherlands,22.0,0.2,25.4,14.8
+675396,2023-10-21T16:45Z,RKC Waalwijk,FC Volendam,2,1,Waalwijk,Netherlands,4.0,1.4,27.4,13.4
+675397,2023-10-21T18:00Z,NEC Nijmegen,Almere City,1,1,Nijmegen,Netherlands,25.0,0,23.4,14.3
+675398,2023-10-21T19:00Z,AZ Alkmaar,Heerenveen,3,0,Alkmaar,Netherlands,5.0,0.3,29.2,13.0
+675394,2023-10-21T19:00Z,Feyenoord Rotterdam,Vitesse,4,0,Rotterdam,Netherlands,9.0,0,28.1,13.6
+675399,2023-10-22T10:15Z,FC Utrecht,Ajax Amsterdam,4,3,Utrecht,Netherlands,13.0,0,14.4,12.6
+675401,2023-10-22T12:30Z,Excelsior,PEC Zwolle,2,4,Rotterdam,Netherlands,9.0,0.2,17.6,14.2
+675400,2023-10-22T12:30Z,Heracles Almelo,FC Twente,2,2,Almelo,Netherlands,15.0,0,19.6,14.2
+675402,2023-10-22T14:45Z,Go Ahead Eagles,Sparta Rotterdam,0,0,Deventer,Netherlands,12.0,0,14.6,13.7
+675403,2023-10-27T18:00Z,Vitesse,PEC Zwolle,1,1,Arnhem,Netherlands,16.0,0,14.6,10.9
+675405,2023-10-28T16:45Z,Heerenveen,Heracles Almelo,3,0,Heerenveen,Netherlands,,0,15.8,12.1
+675404,2023-10-28T18:00Z,Almere City,Go Ahead Eagles,0,0,Almere,Netherlands,-3.0,0,18.2,11.2
+675406,2023-10-28T18:00Z,Sparta Rotterdam,RKC Waalwijk,2,0,Rotterdam,Netherlands,9.0,0,20.1,11.7
+675407,2023-10-28T19:00Z,Fortuna Sittard,FC Utrecht,0,0,Sittard,Netherlands,48.0,1.0,18.4,12.3
+675408,2023-10-29T11:15Z,FC Twente,Feyenoord Rotterdam,2,1,Enschede,Netherlands,45.0,0,24.1,15.4
+675410,2023-10-29T13:30Z,FC Volendam,Excelsior,3,1,Volendam,Netherlands,,1.0,32.0,13.9
+675409,2023-10-29T13:30Z,PSV Eindhoven,Ajax Amsterdam,5,2,Eindhoven,Netherlands,22.0,0.3,23.6,14.1
+675374,2023-11-02T19:00Z,Ajax Amsterdam,FC Volendam,2,0,Amsterdam,Netherlands,13.0,0.3,44.5,9.9
+675416,2023-11-04T15:30Z,Heracles Almelo,PSV Eindhoven,0,6,Almelo,Netherlands,15.0,1.7,27.1,9.2
+675413,2023-11-04T17:45Z,Excelsior,AZ Alkmaar,1,1,Rotterdam,Netherlands,9.0,0.6,20.6,10.3
+675414,2023-11-04T17:45Z,RKC Waalwijk,Feyenoord Rotterdam,1,2,Waalwijk,Netherlands,4.0,1.1,21.7,10.4
+675415,2023-11-04T20:00Z,Go Ahead Eagles,Vitesse,5,1,Deventer,Netherlands,12.0,0.1,21.5,9.7
+675417,2023-11-05T11:15Z,FC Utrecht,FC Twente,1,1,Utrecht,Netherlands,13.0,1.0,24.0,10.6
+675418,2023-11-05T13:30Z,NEC Nijmegen,FC Volendam,3,3,Nijmegen,Netherlands,25.0,0.3,28.8,11.0
+675419,2023-11-05T13:30Z,PEC Zwolle,Fortuna Sittard,2,0,Zwolle,Netherlands,9.0,0.2,23.2,11.2
+675412,2023-11-05T15:45Z,Ajax Amsterdam,Heerenveen,4,1,Amsterdam,Netherlands,13.0,2.9,30.9,10.6
+675420,2023-11-05T15:45Z,Sparta Rotterdam,Almere City,1,2,Rotterdam,Netherlands,9.0,0.2,31.5,11.7
+675421,2023-11-10T19:00Z,Fortuna Sittard,Heracles Almelo,4,1,Sittard,Netherlands,48.0,4.2,5.4,7.6
+675424,2023-11-11T17:45Z,RKC Waalwijk,Go Ahead Eagles,0,1,Waalwijk,Netherlands,4.0,0,10.3,6.7
+675426,2023-11-11T19:00Z,FC Twente,NEC Nijmegen,3,3,Enschede,Netherlands,45.0,0,14.5,5.5
+675422,2023-11-11T20:00Z,Vitesse,Heerenveen,1,3,Arnhem,Netherlands,16.0,0,10.9,5.3
+675423,2023-11-12T11:15Z,PSV Eindhoven,PEC Zwolle,4,0,Eindhoven,Netherlands,22.0,0,4.3,7.9
+675427,2023-11-12T13:30Z,Almere City,Ajax Amsterdam,2,2,Almere,Netherlands,-3.0,0.2,13.3,9.4
+675425,2023-11-12T13:30Z,FC Volendam,Sparta Rotterdam,1,4,Volendam,Netherlands,,0.1,13.2,9.3
+675428,2023-11-12T15:45Z,Feyenoord Rotterdam,AZ Alkmaar,1,0,Rotterdam,Netherlands,9.0,0,10.1,7.9
+675429,2023-11-12T19:00Z,FC Utrecht,Excelsior,2,2,Utrecht,Netherlands,13.0,0,8.1,4.3
+675430,2023-11-25T15:30Z,Excelsior,Feyenoord Rotterdam,2,4,Rotterdam,Netherlands,9.0,0,23.7,7.4
+675432,2023-11-25T17:45Z,FC Twente,PSV Eindhoven,0,3,Enschede,Netherlands,45.0,0,9.9,3.3
+675431,2023-11-25T17:45Z,Heerenveen,Fortuna Sittard,3,0,Heerenveen,Netherlands,,0,9.3,4.2
+675433,2023-11-25T20:00Z,Ajax Amsterdam,Vitesse,5,0,Amsterdam,Netherlands,13.0,0,8.6,4.5
+675434,2023-11-25T20:00Z,PEC Zwolle,RKC Waalwijk,1,2,Zwolle,Netherlands,9.0,0,7.4,2.6
+675435,2023-11-26T11:15Z,Almere City,Heracles Almelo,0,5,Almere,Netherlands,-3.0,0.8,10.6,7.4
+675436,2023-11-26T13:30Z,AZ Alkmaar,FC Volendam,3,0,Alkmaar,Netherlands,5.0,0.5,12.0,7.7
+675437,2023-11-26T13:30Z,NEC Nijmegen,Go Ahead Eagles,1,1,Nijmegen,Netherlands,25.0,0.1,13.6,6.7
+675438,2023-11-26T15:45Z,Sparta Rotterdam,FC Utrecht,1,2,Rotterdam,Netherlands,9.0,0,13.9,7.1
+675439,2023-12-01T19:00Z,Heerenveen,Almere City,3,0,Heerenveen,Netherlands,,0,2.4,-1.9
+675441,2023-12-02T17:45Z,FC Volendam,PEC Zwolle,0,5,Volendam,Netherlands,,0,8.2,-0.4
+675442,2023-12-02T19:00Z,Fortuna Sittard,Vitesse,3,1,Sittard,Netherlands,48.0,0,11.7,-2.0
+675443,2023-12-02T19:00Z,RKC Waalwijk,Excelsior,2,2,Waalwijk,Netherlands,4.0,0,12.2,-0.6
+675440,2023-12-02T20:00Z,Heracles Almelo,Sparta Rotterdam,0,1,Almelo,Netherlands,15.0,0,13.4,-1.0
+675444,2023-12-03T11:15Z,Feyenoord Rotterdam,PSV Eindhoven,1,2,Rotterdam,Netherlands,9.0,0,16.9,1.0
+675446,2023-12-03T13:30Z,Go Ahead Eagles,FC Twente,1,3,Deventer,Netherlands,12.0,0,14.5,2.3
+675445,2023-12-03T13:30Z,NEC Nijmegen,Ajax Amsterdam,1,2,Nijmegen,Netherlands,25.0,0,14.0,2.4
+675447,2023-12-03T15:45Z,FC Utrecht,AZ Alkmaar,1,1,Utrecht,Netherlands,13.0,0.1,18.6,1.5
+675411,2023-12-06T18:00Z,AZ Alkmaar,NEC Nijmegen,1,2,Alkmaar,Netherlands,5.0,0,7.3,2.9
+675380,2023-12-06T19:00Z,RKC Waalwijk,Ajax Amsterdam,2,3,Waalwijk,Netherlands,4.0,0,7.8,-0.1
+675450,2023-12-07T17:45Z,PSV Eindhoven,Heerenveen,2,0,Eindhoven,Netherlands,22.0,0,15.2,1.9
+675448,2023-12-07T20:00Z,Feyenoord Rotterdam,FC Volendam,3,1,Rotterdam,Netherlands,9.0,0,21.7,3.1
+675449,2023-12-08T19:00Z,FC Twente,Excelsior,4,2,Enschede,Netherlands,45.0,0,14.6,6.9
+675455,2023-12-09T17:45Z,Ajax Amsterdam,Sparta Rotterdam,2,1,Amsterdam,Netherlands,13.0,7.0,21.8,8.4
+675451,2023-12-09T19:00Z,PEC Zwolle,NEC Nijmegen,1,3,Zwolle,Netherlands,9.0,1.1,26.1,8.7
+675452,2023-12-09T20:00Z,AZ Alkmaar,Almere City,4,1,Alkmaar,Netherlands,5.0,0,35.3,9.9
+675453,2023-12-10T11:15Z,Go Ahead Eagles,FC Utrecht,0,2,Deventer,Netherlands,12.0,0,27.9,9.1
+675454,2023-12-10T13:30Z,Fortuna Sittard,RKC Waalwijk,1,0,Sittard,Netherlands,48.0,0,23.7,10.4
+675456,2023-12-10T15:45Z,Vitesse,Heracles Almelo,2,0,Arnhem,Netherlands,16.0,0.1,23.4,9.6
+675457,2023-12-15T19:00Z,NEC Nijmegen,Fortuna Sittard,4,1,Nijmegen,Netherlands,25.0,0,11.6,4.9
+675458,2023-12-16T15:30Z,FC Utrecht,RKC Waalwijk,1,1,Utrecht,Netherlands,13.0,0,19.6,9.2
+675460,2023-12-16T17:45Z,Excelsior,Go Ahead Eagles,1,1,Rotterdam,Netherlands,9.0,0,21.4,10.1
+675459,2023-12-16T20:00Z,Heerenveen,FC Volendam,1,2,Heerenveen,Netherlands,,0,24.5,9.5
+675461,2023-12-17T11:15Z,Almere City,Vitesse,5,0,Almere,Netherlands,-3.0,0,27.9,8.6
+675463,2023-12-17T13:30Z,Heracles Almelo,Feyenoord Rotterdam,0,4,Almelo,Netherlands,15.0,0,26.2,8.7
+675462,2023-12-17T13:30Z,Sparta Rotterdam,FC Twente,2,2,Rotterdam,Netherlands,9.0,0,20.7,9.0
+675464,2023-12-17T15:45Z,Ajax Amsterdam,PEC Zwolle,2,2,Amsterdam,Netherlands,13.0,0,26.5,8.6
+675465,2023-12-17T19:00Z,AZ Alkmaar,PSV Eindhoven,0,4,Alkmaar,Netherlands,5.0,0,31.5,8.5

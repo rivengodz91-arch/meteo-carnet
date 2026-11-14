@@ -55,3 +55,69 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 664065,2023-09-24T21:30Z,Delfín,Guayaquil City FC,1,0,Manta,Ecuador,3.0,0,14.3,27.7
 664064,2023-09-25T00:00Z,Deportivo Cuenca,Barcelona SC,1,2,Cuenca,Ecuador,2484.0,0,4.7,15.7
 664069,2023-09-26T00:00Z,Libertad (Ecuador),El Nacional,0,1,Loja,Ecuador,2060.0,0,4.7,16.5
+664073,2023-09-30T00:00Z,Gualaceo,Deportivo Cuenca,1,1,Azogues,Ecuador,2720.0,0,10.0,16.6
+664074,2023-09-30T18:00Z,Mushuc Runa,Cumbayá,1,1,Ambato,Ecuador,2597.0,2.3,13.7,17.9
+664072,2023-09-30T20:30Z,El Nacional,Delfín,2,2,Quito,Ecuador,2854.0,0.7,10.0,17.5
+664076,2023-09-30T23:00Z,Independiente del Valle,Emelec,2,1,Quito,Ecuador,2854.0,0.4,7.2,12.7
+664077,2023-10-01T18:00Z,Guayaquil City FC,Aucas,0,1,Quito,Ecuador,2854.0,1.3,11.5,19.1
+664070,2023-10-01T20:30Z,Orense,Libertad (Ecuador),3,0,Machala,Ecuador,16.0,0,17.2,27.7
+664071,2023-10-01T23:00Z,Barcelona SC,Técnico Universitario,1,0,Quito,Ecuador,2854.0,0.5,9.3,13.4
+664082,2023-10-07T00:00Z,Deportivo Cuenca,Universidad Católica (Quito),2,3,Cuenca,Ecuador,2484.0,0,5.4,14.7
+664079,2023-10-07T18:00Z,Técnico Universitario,Orense,2,1,Ambato,Ecuador,2597.0,0,12.4,22.0
+664084,2023-10-07T20:30Z,Emelec,Cumbayá,3,0,Quito,Ecuador,2854.0,1.6,8.0,15.9
+664080,2023-10-07T23:00Z,Aucas,Barcelona SC,3,2,Quito,Ecuador,2854.0,2.2,7.2,13.2
+664083,2023-10-08T18:00Z,El Nacional,Mushuc Runa,2,0,Quito,Ecuador,2854.0,1.5,10.9,20.1
+664085,2023-10-08T20:30Z,Independiente del Valle,Gualaceo,2,0,Quito,Ecuador,2854.0,9.0,5.2,16.2
+664081,2023-10-08T23:00Z,Delfín,Liga de Quito,0,0,Manta,Ecuador,3.0,0,13.3,25.3
+664078,2023-10-10T00:00Z,Libertad (Ecuador),Guayaquil City FC,1,0,Loja,Ecuador,2060.0,0.2,4.2,17.7
+664091,2023-10-21T00:00Z,Orense,El Nacional,1,1,Machala,Ecuador,16.0,0,10.4,24.4
+664093,2023-10-21T18:00Z,Cumbayá,Técnico Universitario,0,1,Quito,Ecuador,2854.0,1.6,13.4,18.0
+664090,2023-10-21T20:30Z,Mushuc Runa,Deportivo Cuenca,1,1,Ambato,Ecuador,2597.0,0,12.5,19.3
+664087,2023-10-21T23:00Z,Barcelona SC,Libertad (Ecuador),1,0,Quito,Ecuador,2854.0,0.2,6.1,12.7
+664088,2023-10-22T17:30Z,Gualaceo,Aucas,1,2,Azogues,Ecuador,2720.0,0.1,4.8,19.5
+664086,2023-10-22T20:00Z,Guayaquil City FC,Independiente del Valle,0,2,Quito,Ecuador,2854.0,0.7,11.8,18.9
+664089,2023-10-23T17:00Z,Liga de Quito,Emelec,1,0,Quito,Ecuador,2854.0,5.5,10.8,19.6
+664092,2023-10-24T00:00Z,Universidad Católica (Quito),Delfín,2,2,Quito,Ecuador,2854.0,0.2,3.8,11.7
+664094,2023-10-28T00:00Z,Libertad (Ecuador),Gualaceo,3,0,Loja,Ecuador,2060.0,0.5,11.4,14.7
+664098,2023-10-28T18:00Z,Independiente del Valle,Deportivo Cuenca,2,0,Quito,Ecuador,2854.0,0.4,7.7,14.6
+664099,2023-10-28T23:00Z,Emelec,Universidad Católica (Quito),2,1,Quito,Ecuador,2854.0,0,2.5,11.1
+664100,2023-10-29T18:00Z,Delfín,Cumbayá,4,0,Manta,Ecuador,3.0,0,16.0,29.4
+664096,2023-10-29T20:30Z,Aucas,Mushuc Runa,4,0,Quito,Ecuador,2854.0,0.5,7.0,15.0
+664097,2023-10-29T23:00Z,Orense,Barcelona SC,2,3,Machala,Ecuador,16.0,0,11.2,25.0
+664101,2023-10-31T00:00Z,El Nacional,Guayaquil City FC,2,0,Quito,Ecuador,2854.0,0.2,4.1,11.3
+664075,2023-11-02T00:00Z,Liga de Quito,Universidad Católica (Quito),1,0,Quito,Ecuador,2854.0,1.3,1.8,11.1
+664105,2023-11-04T00:00Z,Deportivo Cuenca,Aucas,0,0,Cuenca,Ecuador,2484.0,0,10.1,13.5
+664108,2023-11-04T18:00Z,Gualaceo,Delfín,2,2,Cuenca,Ecuador,2484.0,0.3,5.0,21.1
+664109,2023-11-04T20:30Z,Guayaquil City FC,Emelec,0,0,Quito,Ecuador,2854.0,0.3,9.0,15.8
+664104,2023-11-04T23:00Z,Liga de Quito,Independiente del Valle,2,0,Quito,Ecuador,2854.0,0.4,6.8,12.8
+664103,2023-11-05T17:30Z,Mushuc Runa,Técnico Universitario,1,0,Ambato,Ecuador,2597.0,0,11.5,20.0
+664106,2023-11-05T20:00Z,Cumbayá,Orense,0,1,Quito,Ecuador,2854.0,0.3,8.0,15.6
+664107,2023-11-05T23:00Z,Barcelona SC,El Nacional,3,2,Quito,Ecuador,2854.0,0.3,7.1,11.8
+664102,2023-11-07T00:00Z,Universidad Católica (Quito),Libertad (Ecuador),0,0,Quito,Ecuador,2854.0,0.1,1.9,11.4
+664095,2023-11-09T00:00Z,Técnico Universitario,Liga de Quito,0,2,Ambato,Ecuador,2597.0,0,6.7,14.4
+664112,2023-11-11T00:00Z,Orense,Mushuc Runa,1,0,Machala,Ecuador,16.0,0,11.5,24.4
+664113,2023-11-11T18:00Z,Universidad Católica (Quito),Cumbayá,1,0,Quito,Ecuador,2854.0,0.6,11.1,18.6
+664111,2023-11-11T20:30Z,Guayaquil City FC,Técnico Universitario,1,0,Quito,Ecuador,2854.0,1.7,8.8,16.7
+664115,2023-11-11T23:00Z,Aucas,Independiente del Valle,2,0,Quito,Ecuador,2854.0,0.7,6.8,12.9
+664117,2023-11-12T17:30Z,El Nacional,Gualaceo,4,2,Quito,Ecuador,2854.0,5.3,11.3,19.1
+664110,2023-11-12T20:00Z,Libertad (Ecuador),Liga de Quito,0,2,Loja,Ecuador,2060.0,0.7,13.6,22.6
+664114,2023-11-12T23:00Z,Emelec,Barcelona SC,0,0,Quito,Ecuador,2854.0,1.2,6.1,12.5
+664116,2023-11-14T00:00Z,Delfín,Deportivo Cuenca,0,0,Manta,Ecuador,3.0,0,16.2,24.7
+664122,2023-11-25T23:00Z,Aucas,Delfín,0,0,Quito,Ecuador,2854.0,2.3,4.3,11.9
+664124,2023-11-25T23:00Z,Deportivo Cuenca,El Nacional,1,0,Cuenca,Ecuador,2484.0,0.4,7.8,14.9
+664118,2023-11-25T23:00Z,Independiente del Valle,Orense,2,2,Quito,Ecuador,2854.0,2.3,4.3,11.9
+664119,2023-11-25T23:00Z,Mushuc Runa,Universidad Católica (Quito),0,2,Ambato,Ecuador,2597.0,5.3,4.2,14.0
+664121,2023-11-26T23:00Z,Barcelona SC,Guayaquil City FC,2,1,Quito,Ecuador,2854.0,0,5.6,13.1
+664120,2023-11-26T23:00Z,Cumbayá,Liga de Quito,1,2,Quito,Ecuador,2854.0,0,5.6,13.1
+664123,2023-11-26T23:00Z,Gualaceo,Emelec,0,2,Azogues,Ecuador,2720.0,0,7.7,16.4
+664125,2023-11-26T23:00Z,Técnico Universitario,Libertad (Ecuador),1,1,Ambato,Ecuador,2597.0,0,8.2,14.5
+664128,2023-12-02T17:30Z,El Nacional,Independiente del Valle,2,1,Latacunga,Ecuador,2770.0,0.8,12.5,17.7
+664129,2023-12-02T20:00Z,Guayaquil City FC,Gualaceo,0,2,Quito,Ecuador,2854.0,1.9,11.5,17.2
+664126,2023-12-02T20:00Z,Libertad (Ecuador),Cumbayá,3,1,Loja,Ecuador,2060.0,0,18.5,22.1
+664131,2023-12-02T23:00Z,Liga de Quito,Mushuc Runa,3,1,Quito,Ecuador,2854.0,0.4,4.7,13.1
+664127,2023-12-03T23:00Z,Delfín,Técnico Universitario,2,2,Manta,Ecuador,3.0,0,16.8,25.1
+664133,2023-12-03T23:00Z,Emelec,Deportivo Cuenca,2,1,Quito,Ecuador,2854.0,0.6,6.8,13.7
+664132,2023-12-03T23:00Z,Orense,Aucas,1,2,Machala,Ecuador,16.0,0,13.0,25.2
+664130,2023-12-03T23:00Z,Universidad Católica (Quito),Barcelona SC,0,1,Latacunga,Ecuador,2770.0,0,8.0,15.1
+690834,2023-12-10T21:30Z,Independiente del Valle,Liga de Quito,0,0,Quito,Ecuador,2854.0,3.9,3.3,15.2
+690835,2023-12-17T21:30Z,Liga de Quito,Independiente del Valle,1,1,Quito,Ecuador,2854.0,0.4,7.8,15.1
