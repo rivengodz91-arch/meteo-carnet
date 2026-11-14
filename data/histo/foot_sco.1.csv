@@ -3,3 +3,15 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 678268,2023-11-25T15:00Z,Heart of Midlothian,St Johnstone,1,0,Edinburgh,Scotland,66.0,0,6.9,2.8
 678287,2023-12-09T15:00Z,Rangers,Dundee,3,1,Glasgow,Scotland,40.0,0.5,21.9,6.8
 678306,2023-12-27T20:00Z,Hibernian,Heart of Midlothian,0,1,Edinburgh,Scotland,66.0,0,35.2,6.2
+678324,2024-01-27T12:30Z,St Mirren,Rangers,0,1,Paisley,Scotland,50.0,0,26.2,8.2
+678323,2024-01-27T15:00Z,St Johnstone,Motherwell,1,1,Perth,Scotland,34.0,0,16.8,22.0
+678326,2024-02-03T15:00Z,Dundee,Heart of Midlothian,2,3,Dundee,Scotland,77.0,0,25.3,7.2
+678328,2024-02-03T15:00Z,Motherwell,Kilmarnock,1,1,Motherwell,Scotland,87.0,0,21.1,25.4
+678329,2024-02-03T15:00Z,Rangers,Livingston,3,0,Glasgow,Scotland,40.0,0.3,30.5,8.0
+678330,2024-02-03T15:00Z,Ross County,St Johnstone,0,1,Dingwell,Scotland,23.0,1.5,28.6,-3.2
+678335,2024-02-07T19:45Z,St Johnstone,Heart of Midlothian,0,1,Perth,Scotland,34.0,0,17.1,24.2
+678331,2024-02-07T20:00Z,Hibernian,Celtic,1,2,Edinburgh,Scotland,66.0,0,10.0,-0.0
+678336,2024-02-07T20:15Z,St Mirren,Dundee,2,0,Paisley,Scotland,50.0,0,5.9,-1.5
+678337,2024-02-17T15:00Z,Aberdeen,Hibernian,2,2,Aberdeen,Scotland,13.0,0,22.0,7.3
+678339,2024-02-17T15:00Z,Dundee,Ross County,2,0,Dundee,Scotland,77.0,0.8,10.6,9.5
+678341,2024-02-17T15:00Z,Livingston,St Mirren,1,0,Livingston,Scotland,969.0,0,10.0,37.1

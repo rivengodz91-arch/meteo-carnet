@@ -127,3 +127,108 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 680188,2023-12-18T20:15Z,Sporting CP,FC Porto,2,0,Lisbon,Portugal,68.0,0,6.6,8.6
 680194,2023-12-23T15:30Z,Vitória de Guimaraes,Rio Ave,1,0,Guimarães,Portugal,189.0,0,11.9,13.4
 680193,2023-12-23T15:30Z,Vizela,Moreirense,0,0,Vizela,Portugal,223.0,0,10.2,12.8
+680196,2023-12-28T20:15Z,Estrela,Arouca,1,4,Amadora,Portugal,138.0,0,6.3,11.7
+680192,2023-12-29T18:45Z,Benfica,FC Famalicao,3,0,Lisbon,Portugal,68.0,0,5.7,11.3
+680198,2023-12-29T20:45Z,FC Porto,GD Chaves,1,0,Porto,Portugal,91.0,0,12.4,12.6
+680200,2023-12-30T15:30Z,Estoril,SC Farense,4,0,Estoril,Portugal,24.0,1.4,14.6,16.2
+680199,2023-12-30T15:30Z,Gil Vicente,Boavista,1,0,Barcelos,Portugal,36.0,0.4,15.2,12.5
+680197,2023-12-30T18:00Z,Casa Pia,Braga,1,3,Rio Maior,Portugal,82.0,0.6,3.8,13.0
+680195,2023-12-30T20:30Z,Portimonense,Sporting CP,1,2,Portimão,Portugal,13.0,0,5.4,13.4
+680206,2024-01-05T18:45Z,Sporting CP,Estoril,5,1,Lisbon,Portugal,68.0,0,14.2,11.6
+680207,2024-01-05T20:45Z,Boavista,FC Porto,1,1,Porto,Portugal,91.0,0,13.7,8.6
+680205,2024-01-06T15:30Z,Estrela,Vizela,1,1,Amadora,Portugal,138.0,0,5.2,13.5
+680204,2024-01-06T15:30Z,SC Farense,Gil Vicente,1,0,Faro,Portugal,24.0,0,8.8,15.0
+680208,2024-01-06T18:00Z,Arouca,Benfica,0,3,Arouca,Portugal,313.0,0,5.5,7.8
+680209,2024-01-06T20:30Z,Braga,Vitória de Guimaraes,1,1,Braga,Portugal,190.0,0,5.2,6.2
+680203,2024-01-07T18:00Z,Rio Ave,Portimonense,2,0,Vila do Conde,Portugal,12.0,0,10.7,6.7
+680201,2024-01-07T20:30Z,FC Famalicao,GD Chaves,2,2,Vila Nova de Famalicão,Portugal,96.0,0,0.5,8.2
+680202,2024-01-08T20:15Z,Moreirense,Casa Pia,1,4,Moreira de Conegos,Portugal,151.0,0.4,7.6,6.5
+680215,2024-01-12T20:15Z,Portimonense,SC Farense,1,0,Portimão,Portugal,13.0,0,27.8,15.7
+680210,2024-01-13T15:30Z,Casa Pia,FC Famalicao,0,2,Rio Maior,Portugal,82.0,0.5,17.3,17.5
+680211,2024-01-13T18:00Z,GD Chaves,Sporting CP,0,3,Chaves,Portugal,362.0,1.3,4.7,8.6
+680212,2024-01-13T20:30Z,Estoril,Moreirense,1,3,Estoril,Portugal,24.0,0.5,21.8,16.8
+680214,2024-01-14T15:30Z,Gil Vicente,Estrela,1,1,Barcelos,Portugal,36.0,2.3,9.0,15.2
+680217,2024-01-14T18:00Z,Benfica,Rio Ave,4,1,Lisbon,Portugal,68.0,0.1,12.6,17.1
+680213,2024-01-14T18:00Z,Vizela,Boavista,1,4,Vizela,Portugal,223.0,5.0,5.8,12.0
+680218,2024-01-14T20:30Z,FC Porto,Braga,2,0,Porto,Portugal,91.0,6.1,17.7,14.6
+680216,2024-01-15T20:15Z,Vitória de Guimaraes,Arouca,2,1,Guimarães,Portugal,189.0,0.7,8.9,13.8
+680225,2024-01-18T18:45Z,FC Famalicao,Braga,1,2,Vila Nova de Famalicão,Portugal,96.0,0.2,4.1,10.8
+680221,2024-01-18T20:45Z,Vizela,Sporting CP,2,5,Vizela,Portugal,223.0,0.3,4.8,9.7
+680219,2024-01-19T20:15Z,Benfica,Boavista,2,0,Lisbon,Portugal,68.0,0,18.8,12.6
+680226,2024-01-20T15:30Z,Estoril,Arouca,1,2,Estoril,Portugal,24.0,0,10.9,13.9
+680220,2024-01-20T18:00Z,Casa Pia,SC Farense,1,3,Lisbon,Portugal,68.0,0,12.5,10.8
+680224,2024-01-20T20:30Z,FC Porto,Moreirense,5,0,Porto,Portugal,91.0,0,5.1,6.4
+680223,2024-01-21T15:30Z,Portimonense,Gil Vicente,0,2,Portimão,Portugal,13.0,0,5.7,16.1
+680227,2024-01-21T18:00Z,GD Chaves,Rio Ave,0,0,Chaves,Portugal,362.0,0,3.7,6.8
+680222,2024-01-21T20:30Z,Vitória de Guimaraes,Estrela,3,0,Guimarães,Portugal,189.0,0,5.2,10.6
+680235,2024-01-28T15:30Z,Boavista,Portimonense,1,4,Porto,Portugal,91.0,0,12.8,19.7
+680232,2024-01-28T15:30Z,Moreirense,FC Famalicao,1,0,Moreira de Conegos,Portugal,151.0,0,10.4,18.4
+680230,2024-01-28T18:00Z,SC Farense,FC Porto,1,3,Faro,Portugal,24.0,0,11.1,14.6
+680228,2024-01-28T20:30Z,Arouca,Vizela,5,0,Arouca,Portugal,313.0,0,10.2,14.3
+680233,2024-01-28T20:30Z,Gil Vicente,Vitória de Guimaraes,1,0,Barcelos,Portugal,36.0,0,7.1,10.9
+680234,2024-01-29T18:45Z,Estrela,Benfica,1,4,Amadora,Portugal,138.0,0,5.9,14.1
+680236,2024-01-29T20:45Z,Sporting CP,Casa Pia,8,0,Lisbon,Portugal,68.0,0,7.1,13.9
+680231,2024-01-31T18:45Z,Rio Ave,Estoril,1,1,Vila do Conde,Portugal,12.0,0,7.1,13.8
+680229,2024-01-31T20:45Z,Braga,GD Chaves,1,1,Braga,Portugal,190.0,0,6.8,10.8
+680245,2024-02-03T15:30Z,Portimonense,Arouca,1,2,Portimão,Portugal,13.0,0,19.8,17.3
+680244,2024-02-03T20:30Z,FC Porto,Rio Ave,0,0,Porto,Portugal,91.0,0,6.1,11.3
+680241,2024-02-04T15:30Z,GD Chaves,SC Farense,1,1,Chaves,Portugal,362.0,0,2.3,16.2
+680242,2024-02-04T15:30Z,Vizela,Vitória de Guimaraes,0,1,Vizela,Portugal,223.0,0,1.4,17.6
+680239,2024-02-04T18:00Z,Benfica,Gil Vicente,3,0,Lisbon,Portugal,68.0,0,2.2,15.4
+680238,2024-02-04T18:00Z,Estoril,Estrela,1,0,Estoril,Portugal,24.0,0,5.3,14.1
+680237,2024-02-04T20:30Z,Braga,Moreirense,1,0,Braga,Portugal,190.0,0,3.6,13.2
+680240,2024-02-05T20:15Z,Casa Pia,Boavista,0,0,Rio Maior,Portugal,82.0,0,5.9,11.9
+680251,2024-02-09T20:15Z,Estrela,Portimonense,3,0,Amadora,Portugal,138.0,0,29.4,12.3
+680247,2024-02-10T15:30Z,SC Farense,FC Famalicao,1,1,Faro,Portugal,24.0,0,28.3,16.9
+680249,2024-02-10T18:00Z,Moreirense,GD Chaves,1,0,Moreira de Conegos,Portugal,151.0,0.2,15.0,9.0
+680252,2024-02-10T20:30Z,Boavista,Estoril,2,1,Porto,Portugal,91.0,0,12.5,10.4
+680248,2024-02-11T15:30Z,Rio Ave,Casa Pia,1,0,Vila do Conde,Portugal,12.0,0,13.8,12.2
+680246,2024-02-11T18:00Z,Sporting CP,Braga,5,0,Lisbon,Portugal,68.0,3.3,21.1,16.3
+680250,2024-02-11T20:30Z,Vitória de Guimaraes,Benfica,2,2,Guimarães,Portugal,189.0,9.7,8.9,9.5
+680253,2024-02-12T20:15Z,Arouca,FC Porto,3,2,Arouca,Portugal,313.0,0,7.0,12.4
+680254,2024-02-13T15:30Z,Gil Vicente,Vizela,0,1,Barcelos,Portugal,36.0,0,14.7,17.0
+680257,2024-02-16T20:15Z,FC Famalicao,Rio Ave,2,1,Vila Nova de Famalicão,Portugal,96.0,0,5.6,9.9
+680255,2024-02-17T15:30Z,GD Chaves,Boavista,2,1,Chaves,Portugal,362.0,0,2.3,16.4
+680260,2024-02-17T18:00Z,Portimonense,Vitória de Guimaraes,1,1,Portimão,Portugal,13.0,0,8.8,18.1
+680258,2024-02-17T20:30Z,FC Porto,Estrela,2,0,Porto,Portugal,91.0,0,8.6,12.1
+680262,2024-02-18T15:30Z,Casa Pia,Arouca,1,0,Rio Maior,Portugal,82.0,0,4.6,19.6
+680263,2024-02-18T18:00Z,Benfica,Vizela,6,1,Lisbon,Portugal,68.0,0,8.1,16.3
+680256,2024-02-18T18:00Z,Estoril,Gil Vicente,1,3,Estoril,Portugal,24.0,0,11.7,17.1
+680261,2024-02-18T20:30Z,Braga,SC Farense,2,1,Braga,Portugal,190.0,0,2.4,14.9
+680259,2024-02-19T20:15Z,Moreirense,Sporting CP,0,2,Moreira de Conegos,Portugal,151.0,0,6.5,13.8
+680264,2024-02-23T20:15Z,Arouca,FC Famalicao,3,2,Arouca,Portugal,313.0,1.2,18.4,5.6
+680266,2024-02-24T15:30Z,SC Farense,Moreirense,0,1,Faro,Portugal,24.0,0,22.0,16.7
+680269,2024-02-24T18:00Z,Estrela,GD Chaves,1,1,Amadora,Portugal,138.0,0,13.5,12.9
+680265,2024-02-24T20:30Z,Vitória de Guimaraes,Casa Pia,0,2,Guimarães,Portugal,189.0,5.2,13.3,9.3
+680272,2024-02-25T15:30Z,Vizela,Estoril,3,3,Vizela,Portugal,223.0,6.9,35.1,12.1
+680271,2024-02-25T18:00Z,Benfica,Portimonense,4,0,Lisbon,Portugal,68.0,0.1,27.4,15.4
+680268,2024-02-25T18:00Z,Gil Vicente,FC Porto,1,1,Barcelos,Portugal,36.0,0.2,21.1,12.1
+680267,2024-02-25T20:30Z,Rio Ave,Sporting CP,3,3,Vila do Conde,Portugal,12.0,0.3,26.5,12.7
+680270,2024-02-26T20:15Z,Boavista,Braga,0,4,Porto,Portugal,91.0,0,22.2,9.3
+680279,2024-03-01T20:15Z,GD Chaves,Arouca,1,5,Chaves,Portugal,362.0,0.5,15.3,9.2
+680274,2024-03-02T15:30Z,Moreirense,Rio Ave,0,0,Moreira de Conegos,Portugal,151.0,2.1,23.4,8.9
+680278,2024-03-02T18:00Z,Estoril,Vitória de Guimaraes,1,3,Estoril,Portugal,24.0,0.7,29.7,11.9
+680276,2024-03-02T20:30Z,Braga,Estrela,3,0,Braga,Portugal,190.0,0,6.2,4.8
+680280,2024-03-03T15:30Z,Casa Pia,Gil Vicente,0,0,Rio Maior,Portugal,82.0,0,22.5,13.7
+680275,2024-03-03T15:30Z,Portimonense,Vizela,0,0,Portimão,Portugal,13.0,0,22.2,16.5
+680281,2024-03-03T18:00Z,Sporting CP,SC Farense,3,2,Lisbon,Portugal,68.0,0,8.7,14.4
+680273,2024-03-03T20:30Z,FC Porto,Benfica,5,0,Porto,Portugal,91.0,2.2,13.8,11.7
+680277,2024-03-04T20:15Z,FC Famalicao,Boavista,1,1,Vila Nova de Famalicão,Portugal,96.0,0.1,6.3,8.9
+680283,2024-03-08T18:45Z,Portimonense,FC Porto,0,3,Portimão,Portugal,13.0,2.9,29.3,13.8
+680286,2024-03-08T20:45Z,Estrela,Casa Pia,3,1,Amadora,Portugal,138.0,0.4,25.4,12.1
+680287,2024-03-09T15:30Z,Vizela,SC Farense,2,1,Vizela,Portugal,223.0,0.1,20.9,8.6
+680290,2024-03-09T18:00Z,Boavista,Moreirense,1,0,Porto,Portugal,91.0,3.5,22.5,9.7
+680284,2024-03-09T18:00Z,Rio Ave,Braga,0,0,Vila do Conde,Portugal,12.0,2.5,21.0,9.5
+680285,2024-03-09T20:30Z,Vitória de Guimaraes,FC Famalicao,1,0,Guimarães,Portugal,189.0,2.4,19.0,6.8
+680288,2024-03-10T18:00Z,Arouca,Sporting CP,0,3,Arouca,Portugal,313.0,1.0,17.4,8.2
+680289,2024-03-10T20:30Z,Benfica,Estoril,3,1,Lisbon,Portugal,68.0,0,11.7,12.2
+680282,2024-03-11T20:15Z,Gil Vicente,GD Chaves,0,0,Barcelos,Portugal,36.0,0,7.6,8.2
+680295,2024-03-15T20:15Z,Estoril,Portimonense,1,0,Estoril,Portugal,24.0,0,7.2,15.4
+680299,2024-03-16T15:30Z,FC Famalicao,Estrela,0,0,Vila Nova de Famalicão,Portugal,96.0,0,22.8,19.0
+680294,2024-03-16T18:00Z,Braga,Gil Vicente,2,1,Braga,Portugal,190.0,0,8.0,16.1
+680298,2024-03-16T18:00Z,SC Farense,Rio Ave,1,1,Faro,Portugal,24.0,0,9.4,19.8
+680296,2024-03-16T20:30Z,FC Porto,Vizela,4,1,Porto,Portugal,91.0,0,3.4,15.2
+680292,2024-03-17T15:30Z,GD Chaves,Vitória de Guimaraes,1,2,Chaves,Portugal,362.0,0.1,5.7,19.1
+680297,2024-03-17T15:30Z,Moreirense,Arouca,1,0,Moreira de Conegos,Portugal,151.0,0,11.5,20.7
+680291,2024-03-17T18:00Z,Casa Pia,Benfica,0,1,Rio Maior,Portugal,82.0,0,4.1,21.5
+680293,2024-03-17T20:30Z,Sporting CP,Boavista,6,1,Lisbon,Portugal,68.0,0,6.1,15.9

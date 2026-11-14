@@ -131,3 +131,62 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 675042,2023-12-01T22:30Z,Cerro Porteño,Guaraní,4,0,Asunción,Paraguay,113.0,0,14.5,31.1
 675043,2023-12-01T22:30Z,General Caballero JLM,Club Olimpia,0,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,10.2,31.0
 675044,2023-12-01T22:30Z,Sportivo Luqueño,Nacional Asunción,1,1,Luque,Paraguay,129.0,0,13.7,31.1
+690692,2024-01-19T21:00Z,Sportivo Ameliano,Nacional Asunción,1,0,Asunción,Paraguay,113.0,0.1,9.2,31.7
+690694,2024-01-19T23:30Z,Club Olimpia,Sol de América,1,1,Asunción,Paraguay,113.0,0,5.2,29.4
+690691,2024-01-20T21:00Z,Sportivo Luqueño,2 de Mayo,2,0,Luque,Paraguay,129.0,0,10.8,32.9
+690693,2024-01-20T23:30Z,General Caballero JLM,Tacuary,2,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,8.8,28.5
+690689,2024-01-21T21:00Z,Cerro Porteño,Sportivo Trinidense,3,1,Asunción,Paraguay,113.0,0.5,21.8,30.8
+690690,2024-01-21T23:30Z,Guaraní,Libertad,1,1,Asunción,Paraguay,113.0,0.8,21.6,27.5
+695668,2024-01-23T21:30Z,Nacional Asunción,General Caballero JLM,2,2,Asunción,Paraguay,113.0,0.8,16.7,29.1
+695671,2024-01-23T23:30Z,Tacuary,Club Olimpia,0,1,Encarnación,Paraguay,99.0,0,14.8,24.1
+695669,2024-01-24T21:30Z,Sol de América,Guaraní,2,2,Asunción,Paraguay,113.0,0.2,12.2,30.0
+695667,2024-01-24T23:30Z,Libertad,Sportivo Luqueño,2,1,Asunción,Paraguay,113.0,0,11.7,27.3
+695666,2024-01-25T21:30Z,2 de Mayo,Sportivo Trinidense,2,1,Pedro Juan Caballero,Paraguay,649.0,0,12.9,26.1
+695670,2024-01-25T23:30Z,Sportivo Ameliano,Cerro Porteño,1,4,Asunción,Paraguay,113.0,0,16.9,27.7
+695672,2024-01-27T21:30Z,Sportivo Luqueño,Sol de América,1,1,Luque,Paraguay,129.0,0,14.9,30.0
+695673,2024-01-27T23:50Z,Club Olimpia,Nacional Asunción,2,2,Asunción,Paraguay,113.0,0,8.3,26.9
+695674,2024-01-28T21:30Z,General Caballero JLM,Sportivo Ameliano,1,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,4.0,29.0
+695675,2024-01-28T23:50Z,Guaraní,Tacuary,3,0,Asunción,Paraguay,113.0,0,9.5,27.8
+695677,2024-01-29T21:30Z,Sportivo Trinidense,Libertad,1,2,Asunción,Paraguay,113.0,0,8.8,32.6
+695676,2024-01-29T23:50Z,Cerro Porteño,2 de Mayo,0,3,Asunción,Paraguay,113.0,0,7.8,28.3
+695680,2024-02-02T21:15Z,Nacional Asunción,Guaraní,1,4,Asunción,Paraguay,113.0,0,10.0,35.2
+695679,2024-02-02T23:45Z,Sol de América,Sportivo Trinidense,2,3,Asunción,Paraguay,113.0,0,7.9,31.5
+695683,2024-02-03T22:00Z,Tacuary,Sportivo Luqueño,1,1,Asunción,Paraguay,113.0,0,4.0,34.1
+695682,2024-02-04T21:15Z,General Caballero JLM,Cerro Porteño,2,2,Doctor Juan León Mallorquín,Paraguay,247.0,0,5.6,32.8
+695681,2024-02-04T23:45Z,Libertad,2 de Mayo,3,0,Asunción,Paraguay,113.0,0,12.1,32.4
+695678,2024-02-05T22:30Z,Sportivo Ameliano,Club Olimpia,2,1,Encarnación,Paraguay,99.0,0,8.4,30.4
+695684,2024-02-09T21:15Z,2 de Mayo,Sol de América,3,0,Pedro Juan Caballero,Paraguay,649.0,0.1,6.9,28.5
+695689,2024-02-09T23:45Z,Sportivo Trinidense,Tacuary,1,3,Asunción,Paraguay,113.0,0,12.4,30.2
+695686,2024-02-10T21:15Z,Guaraní,Sportivo Ameliano,0,0,Asunción,Paraguay,113.0,0.2,13.6,32.7
+695687,2024-02-10T23:45Z,Club Olimpia,General Caballero JLM,1,1,Asunción,Paraguay,113.0,0,7.3,31.0
+695685,2024-02-11T21:15Z,Cerro Porteño,Libertad,1,1,Asunción,Paraguay,113.0,0,12.2,35.3
+695688,2024-02-11T23:45Z,Sportivo Luqueño,Nacional Asunción,2,0,Luque,Paraguay,129.0,0,14.2,32.1
+695690,2024-02-16T21:15Z,General Caballero JLM,Guaraní,0,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,10.0,30.0
+695694,2024-02-16T23:45Z,Sportivo Ameliano,Sportivo Luqueño,1,3,Asunción,Paraguay,113.0,0,6.8,25.8
+695692,2024-02-17T21:15Z,Club Olimpia,Cerro Porteño,1,1,Asunción,Paraguay,113.0,0,10.9,31.6
+695693,2024-02-18T21:15Z,Sol de América,Libertad,1,2,Asunción,Paraguay,113.0,0,22.0,29.9
+695691,2024-02-18T23:45Z,Nacional Asunción,Sportivo Trinidense,2,1,Asunción,Paraguay,113.0,0,10.8,27.8
+695695,2024-02-19T22:30Z,Tacuary,2 de Mayo,1,1,Asunción,Paraguay,113.0,0,19.1,29.4
+695700,2024-02-23T22:30Z,Sportivo Luqueño,General Caballero JLM,1,1,Luque,Paraguay,129.0,0,8.4,30.6
+695697,2024-02-24T21:15Z,2 de Mayo,Nacional Asunción,2,0,Pedro Juan Caballero,Paraguay,649.0,1.7,9.0,25.8
+695696,2024-02-24T23:45Z,Cerro Porteño,Sol de América,0,0,Asunción,Paraguay,113.0,0,7.3,30.6
+695701,2024-02-25T21:15Z,Sportivo Trinidense,Sportivo Ameliano,0,1,Asunción,Paraguay,113.0,0,7.5,32.6
+695698,2024-02-25T23:45Z,Guaraní,Club Olimpia,1,3,Encarnación,Paraguay,99.0,0,9.9,27.2
+695699,2024-02-26T22:30Z,Libertad,Tacuary,1,1,Asunción,Paraguay,113.0,0.3,6.0,32.2
+695702,2024-03-01T22:30Z,Guaraní,Cerro Porteño,1,1,Asunción,Paraguay,113.0,0,7.0,31.5
+695706,2024-03-02T21:00Z,Sportivo Ameliano,2 de Mayo,0,2,Asunción,Paraguay,113.0,0.1,8.7,35.1
+695705,2024-03-02T23:30Z,Club Olimpia,Sportivo Luqueño,1,0,Asunción,Paraguay,113.0,0,6.8,31.6
+695703,2024-03-03T21:00Z,General Caballero JLM,Sportivo Trinidense,3,2,Doctor Juan León Mallorquín,Paraguay,247.0,0,8.5,27.1
+695707,2024-03-04T22:30Z,Tacuary,Sol de América,0,2,Asunción,Paraguay,113.0,0.2,16.2,27.6
+695713,2024-03-08T21:00Z,Sol de América,Nacional Asunción,1,0,Asunción,Paraguay,113.0,0,5.8,33.3
+695709,2024-03-08T23:30Z,2 de Mayo,General Caballero JLM,1,1,Pedro Juan Caballero,Paraguay,649.0,0,6.3,26.8
+695708,2024-03-09T22:30Z,Cerro Porteño,Tacuary,0,1,Asunción,Paraguay,113.0,0.2,26.8,26.7
+695711,2024-03-10T21:00Z,Sportivo Trinidense,Club Olimpia,1,1,Asunción,Paraguay,113.0,0,10.1,34.1
+695712,2024-03-10T23:30Z,Sportivo Luqueño,Guaraní,1,0,Luque,Paraguay,129.0,0,9.0,31.6
+695710,2024-03-11T22:30Z,Libertad,Sportivo Ameliano,4,1,Asunción,Paraguay,113.0,0,8.1,32.1
+695719,2024-03-15T22:30Z,Sportivo Luqueño,Cerro Porteño,0,1,Asunción,Paraguay,113.0,0,7.7,35.0
+695717,2024-03-16T21:40Z,Club Olimpia,2 de Mayo,2,1,Asunción,Paraguay,113.0,0,9.5,37.7
+695715,2024-03-17T00:00Z,General Caballero JLM,Libertad,0,2,Doctor Juan León Mallorquín,Paraguay,247.0,0,7.4,31.5
+695716,2024-03-17T21:40Z,Nacional Asunción,Tacuary,0,1,Asunción,Paraguay,113.0,0,17.2,31.2
+695714,2024-03-18T00:00Z,Guaraní,Sportivo Trinidense,1,2,Asunción,Paraguay,113.0,0,16.8,30.0
+695718,2024-03-18T22:30Z,Sportivo Ameliano,Sol de América,2,1,Asunción,Paraguay,113.0,0,9.6,32.5

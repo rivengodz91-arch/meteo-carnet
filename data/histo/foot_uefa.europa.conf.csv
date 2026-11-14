@@ -95,3 +95,35 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 687820,2023-12-14T20:00Z,Maccabi Tel-Aviv,KAA Gent,3,1,Backa Topola,Serbia,94.0,0,12.3,6.7
 687821,2023-12-14T20:00Z,Slovan Bratislava,Olimpija Ljubljana,1,2,Bratislava,Slovakia,157.0,0,13.4,5.0
 687822,2023-12-14T20:00Z,Viktoria Plzen,FC Astana,3,0,Plzen,Czechia,354.0,0,10.5,4.2
+691783,2024-02-15T17:45Z,Molde,Legia Warsaw,3,2,Molde,Norway,3.0,0,8.0,-0.4
+691784,2024-02-15T17:45Z,Olympiacos,Ferencvaros,1,0,Piraeus,Greece,29.0,0,10.2,10.2
+691786,2024-02-15T17:45Z,SK Sturm Graz,Slovan Bratislava,4,1,Graz,Austria,362.0,0,7.9,7.0
+691788,2024-02-15T17:45Z,Union St.-Gilloise,Eintracht Frankfurt,2,2,Brussels,Belgium,28.0,0,17.0,14.0
+691790,2024-02-15T20:00Z,Ajax Amsterdam,Bodo/Glimt,2,2,Amsterdam,Netherlands,13.0,0,16.5,12.3
+691789,2024-02-15T20:00Z,Maccabi Haifa,KAA Gent,1,0,Budapest,Hungary,104.0,0,7.9,3.7
+691785,2024-02-15T20:00Z,Real Betis,Dinamo Zagreb,0,1,Sevilla,Spain,16.0,0,10.3,14.3
+691787,2024-02-15T20:00Z,Servette,Ludogorets Razgrad,0,0,Geneva,Switzerland,400.0,0,6.1,5.2
+691791,2024-02-21T17:00Z,KAA Gent,Maccabi Haifa,1,1,Ghent,Belgium,10.0,2.0,28.5,9.5
+691797,2024-02-22T17:45Z,Bodo/Glimt,Ajax Amsterdam,1,2,Bodø/Glimt,Norway,,,,
+691792,2024-02-22T17:45Z,Dinamo Zagreb,Real Betis,1,1,Zagreb,Croatia,135.0,0,20.6,10.0
+691798,2024-02-22T17:45Z,Ludogorets Razgrad,Servette,0,1,Razgrad,Bulgaria,190.0,0,7.2,6.8
+691793,2024-02-22T20:00Z,Eintracht Frankfurt,Union St.-Gilloise,1,2,Frankfurt,Germany,113.0,0.1,35.5,10.8
+691794,2024-02-22T20:00Z,Ferencvaros,Olympiacos,0,1,Budapest,Hungary,104.0,0,23.4,10.0
+691795,2024-02-22T20:00Z,Legia Warsaw,Molde,0,3,Warsaw,Poland,113.0,0,18.1,7.5
+691796,2024-02-22T20:00Z,Slovan Bratislava,SK Sturm Graz,0,1,Bratislava,Slovakia,157.0,0.2,20.6,8.9
+699164,2024-03-07T17:45Z,Ajax Amsterdam,Aston Villa,0,0,Amsterdam,Netherlands,13.0,0,19.8,7.2
+699158,2024-03-07T17:45Z,Molde,Club Brugge,2,1,Molde,Norway,3.0,0,4.0,2.8
+699159,2024-03-07T17:45Z,Olympiacos,Maccabi Tel-Aviv,1,4,Piraeus,Greece,29.0,0,3.5,13.3
+699160,2024-03-07T17:45Z,SK Sturm Graz,Lille,0,3,Graz,Austria,362.0,0,9.8,3.9
+699163,2024-03-07T20:00Z,Dinamo Zagreb,PAOK,2,0,Zagreb,Croatia,135.0,0,6.1,3.0
+699157,2024-03-07T20:00Z,Maccabi Haifa,Fiorentina,3,4,Budapest,Hungary,104.0,4.5,9.7,4.7
+699161,2024-03-07T20:00Z,Servette,Viktoria Plzen,0,0,Geneva,Switzerland,400.0,0,6.6,3.5
+699162,2024-03-07T20:00Z,Union St.-Gilloise,Fenerbahce,0,3,Brussels,Belgium,28.0,0,19.5,5.8
+699167,2024-03-14T17:45Z,Fenerbahce,Union St.-Gilloise,0,1,Istanbul,Türkiye,39.0,0.5,6.3,9.8
+699168,2024-03-14T17:45Z,Fiorentina,Maccabi Haifa,1,1,Firenze,Italy,58.0,0,2.3,14.2
+699171,2024-03-14T17:45Z,PAOK,Dinamo Zagreb,5,1,Thessaloniki,Greece,-9999.0,0,13.8,12.9
+699165,2024-03-14T17:45Z,Viktoria Plzen,Servette,0,0,Plzen,Czechia,354.0,0,6.2,11.3
+699172,2024-03-14T20:00Z,Aston Villa,Ajax Amsterdam,4,0,Birmingham,England,149.0,0,23.7,10.8
+699166,2024-03-14T20:00Z,Club Brugge,Molde,3,0,Brugge,Belgium,13.0,0,16.7,12.2
+699169,2024-03-14T20:00Z,Lille,SK Sturm Graz,1,1,Lille,France,20.0,0,17.9,12.8
+699170,2024-03-14T20:00Z,Maccabi Tel-Aviv,Olympiacos,1,6,Backa Topola,Serbia,94.0,0,5.8,7.1

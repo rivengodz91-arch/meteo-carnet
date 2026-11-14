@@ -169,3 +169,122 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 679386,2023-12-23T17:00Z,Hellas Verona,Cagliari,2,0,Verona,Italy,59.0,0,11.8,12.8
 679380,2023-12-23T17:00Z,Internazionale,Lecce,2,0,Milano,Italy,635.0,0,6.4,4.6
 679382,2023-12-23T19:45Z,AS Roma,Napoli,2,0,Roma,Italy,576.0,1.0,20.2,-2.1
+679397,2023-12-29T17:30Z,Fiorentina,Torino,1,0,Firenze,Italy,58.0,0,3.6,9.4
+679392,2023-12-29T17:30Z,Napoli,Monza,0,0,Napoli,Italy,58.0,0,0.4,14.4
+679396,2023-12-29T19:45Z,Genoa,Internazionale,1,1,Genova,Italy,3.0,0,4.3,6.8
+679399,2023-12-29T19:45Z,Lazio,Frosinone,3,1,Roma,Italy,576.0,0,9.1,1.2
+679390,2023-12-30T11:30Z,Atalanta,Lecce,1,0,Bergamo,Italy,249.0,0,2.3,10.3
+679398,2023-12-30T14:00Z,Cagliari,Empoli,0,0,Cagliari,Italy,6.0,0,3.7,15.2
+679394,2023-12-30T14:00Z,Udinese,Bologna,3,0,Udine,Italy,113.0,0,3.5,10.7
+679393,2023-12-30T17:00Z,AC Milan,Sassuolo,1,0,Milano,Italy,635.0,0,0.8,9.5
+679391,2023-12-30T17:00Z,Hellas Verona,Salernitana,0,1,Verona,Italy,59.0,0,2.9,7.4
+679395,2023-12-30T19:45Z,Juventus,AS Roma,1,0,Torino,Italy,239.0,0,2.6,4.2
+679408,2024-01-05T19:45Z,Bologna,Genoa,1,1,Bologna,Italy,54.0,1.1,17.4,9.9
+679405,2024-01-06T11:30Z,Internazionale,Hellas Verona,2,1,Milano,Italy,635.0,0.1,10.5,10.6
+679406,2024-01-06T14:00Z,Frosinone,Monza,2,3,Frosinone,Italy,291.0,0,3.3,14.0
+679409,2024-01-06T17:00Z,Lecce,Cagliari,1,1,Lecce,Italy,49.0,4.7,20.3,13.1
+679401,2024-01-06T19:45Z,Sassuolo,Fiorentina,1,0,Reggio Emilia,Italy,58.0,1.1,12.7,6.6
+679407,2024-01-07T11:30Z,Empoli,AC Milan,0,3,Empoli,Italy,28.0,0.4,18.7,8.4
+679400,2024-01-07T14:00Z,Torino,Napoli,3,0,Torino,Italy,239.0,0,3.3,8.7
+679404,2024-01-07T14:00Z,Udinese,Lazio,1,2,Udine,Italy,113.0,0.1,2.8,10.0
+679402,2024-01-07T17:00Z,Salernitana,Juventus,1,2,Salerno,Italy,4.0,0.9,5.1,9.4
+679403,2024-01-07T19:45Z,AS Roma,Atalanta,1,1,Roma,Italy,576.0,0,11.9,2.5
+679415,2024-01-13T14:00Z,Genoa,Torino,0,0,Genova,Italy,3.0,0,9.4,5.2
+679413,2024-01-13T14:00Z,Napoli,Salernitana,2,1,Napoli,Italy,58.0,0,2.9,12.0
+679414,2024-01-13T17:00Z,Hellas Verona,Empoli,2,1,Verona,Italy,59.0,0,7.4,-0.4
+679412,2024-01-13T19:45Z,Monza,Internazionale,1,5,Monza,Italy,162.0,0,6.0,-0.1
+679410,2024-01-14T11:30Z,Lazio,Lecce,1,0,Roma,Italy,576.0,0,25.3,1.5
+679417,2024-01-14T14:00Z,Cagliari,Bologna,2,1,Cagliari,Italy,6.0,0,6.8,14.5
+679416,2024-01-14T17:00Z,Fiorentina,Udinese,2,2,Firenze,Italy,58.0,0,6.5,8.8
+679411,2024-01-14T19:45Z,AC Milan,AS Roma,3,1,Milano,Italy,635.0,0.2,8.0,5.9
+679418,2024-01-15T19:45Z,Atalanta,Frosinone,5,0,Bergamo,Italy,249.0,0,1.6,0.7
+679419,2024-01-16T19:45Z,Juventus,Sassuolo,3,0,Torino,Italy,239.0,0,4.1,-0.4
+679428,2024-01-20T17:00Z,AS Roma,Hellas Verona,2,1,Roma,Italy,576.0,0,7.1,-6.8
+679421,2024-01-20T19:45Z,Udinese,AC Milan,2,3,Udine,Italy,113.0,0,6.4,-5.1
+679425,2024-01-21T11:30Z,Frosinone,Cagliari,3,1,Frosinone,Italy,291.0,0,3.4,9.0
+679422,2024-01-21T14:00Z,Empoli,Monza,3,0,Empoli,Italy,28.0,0,13.2,10.2
+679429,2024-01-21T17:00Z,Salernitana,Genoa,1,2,Salerno,Italy,4.0,0,8.0,7.0
+679427,2024-01-21T19:45Z,Lecce,Juventus,0,3,Lecce,Italy,49.0,0,22.4,8.9
+679439,2024-01-26T19:45Z,Cagliari,Torino,1,2,Cagliari,Italy,6.0,0,20.9,13.0
+679430,2024-01-27T14:00Z,Atalanta,Udinese,2,0,Bergamo,Italy,249.0,0,2.8,11.4
+679437,2024-01-27T17:00Z,Juventus,Empoli,1,1,Torino,Italy,239.0,0,2.6,10.6
+679433,2024-01-27T19:45Z,AC Milan,Bologna,2,2,Milano,Italy,635.0,0,5.7,4.2
+679436,2024-01-28T11:30Z,Genoa,Lecce,2,1,Genova,Italy,3.0,0,6.3,5.4
+679438,2024-01-28T14:00Z,Hellas Verona,Frosinone,1,1,Verona,Italy,59.0,0,4.1,7.5
+679432,2024-01-28T14:00Z,Monza,Sassuolo,1,0,Monza,Italy,162.0,0,4.4,6.1
+679434,2024-01-28T17:00Z,Lazio,Napoli,0,0,Roma,Italy,576.0,0.1,5.2,-1.3
+679435,2024-01-28T19:45Z,Fiorentina,Internazionale,0,1,Firenze,Italy,58.0,0,4.8,3.9
+679431,2024-01-29T19:45Z,Salernitana,AS Roma,1,2,Salerno,Italy,4.0,0,7.9,7.1
+679449,2024-02-02T19:45Z,Lecce,Fiorentina,3,2,Lecce,Italy,49.0,0,14.2,10.4
+679441,2024-02-03T14:00Z,Empoli,Genoa,0,0,Empoli,Italy,28.0,0,7.6,13.2
+679448,2024-02-03T14:00Z,Udinese,Monza,0,0,Udine,Italy,113.0,0,2.1,9.0
+679447,2024-02-03T17:00Z,Frosinone,AC Milan,2,3,Frosinone,Italy,291.0,0,1.1,11.5
+679440,2024-02-03T19:45Z,Bologna,Sassuolo,4,2,Bologna,Italy,54.0,0,13.6,8.8
+679442,2024-02-04T11:30Z,Torino,Salernitana,0,0,Torino,Italy,239.0,0,0.8,8.9
+679445,2024-02-04T14:00Z,Napoli,Hellas Verona,2,1,Napoli,Italy,58.0,0,8.7,14.8
+679444,2024-02-04T17:00Z,Atalanta,Lazio,3,1,Bergamo,Italy,249.0,0,6.7,8.6
+679443,2024-02-04T19:45Z,Internazionale,Juventus,1,0,Milano,Italy,635.0,0,5.7,2.8
+679446,2024-02-05T19:45Z,AS Roma,Cagliari,4,0,Roma,Italy,576.0,0,27.7,6.4
+679450,2024-02-09T19:45Z,Salernitana,Empoli,1,3,Salerno,Italy,4.0,0,2.9,11.1
+679459,2024-02-10T14:00Z,Cagliari,Lazio,1,3,Cagliari,Italy,6.0,0.3,19.9,14.3
+679451,2024-02-10T17:00Z,AS Roma,Internazionale,2,4,Roma,Italy,576.0,0,3.8,11.8
+679454,2024-02-10T19:45Z,Sassuolo,Torino,1,1,Reggio Emilia,Italy,58.0,1.1,16.5,9.7
+679455,2024-02-11T11:30Z,Fiorentina,Frosinone,5,1,Firenze,Italy,58.0,0,15.5,11.9
+679453,2024-02-11T14:00Z,Bologna,Lecce,4,0,Bologna,Italy,54.0,0.4,11.7,11.7
+679452,2024-02-11T14:00Z,Monza,Hellas Verona,0,0,Monza,Italy,162.0,0.1,10.4,12.0
+679456,2024-02-11T17:00Z,Genoa,Atalanta,1,4,Genova,Italy,3.0,1.0,6.7,9.3
+679458,2024-02-11T19:45Z,AC Milan,Napoli,1,0,Milano,Italy,635.0,0,7.0,5.0
+679457,2024-02-12T19:45Z,Juventus,Udinese,0,1,Torino,Italy,239.0,0,4.0,6.4
+679423,2024-02-14T18:00Z,Bologna,Fiorentina,2,0,Bologna,Italy,54.0,0,3.6,8.5
+679469,2024-02-16T18:00Z,Torino,Lecce,2,0,Torino,Italy,239.0,0,8.6,7.0
+679467,2024-02-16T20:00Z,Internazionale,Salernitana,4,0,Milano,Italy,635.0,0,2.6,5.2
+679468,2024-02-17T14:00Z,Napoli,Genoa,1,1,Napoli,Italy,58.0,0,9.5,17.2
+679460,2024-02-17T17:00Z,Hellas Verona,Juventus,2,2,Verona,Italy,59.0,0,2.5,12.4
+679462,2024-02-17T19:45Z,Atalanta,Sassuolo,3,0,Bergamo,Italy,249.0,0,6.2,7.8
+679466,2024-02-18T11:30Z,Lazio,Bologna,1,2,Roma,Italy,576.0,0,9.3,5.1
+679463,2024-02-18T14:00Z,Empoli,Fiorentina,1,1,Empoli,Italy,28.0,0,5.2,17.5
+679461,2024-02-18T14:00Z,Udinese,Cagliari,1,1,Udine,Italy,113.0,0,6.0,15.6
+679464,2024-02-18T17:00Z,Frosinone,AS Roma,0,3,Frosinone,Italy,291.0,0,8.2,11.9
+679465,2024-02-18T19:45Z,Monza,AC Milan,4,2,Monza,Italy,162.0,0,6.6,9.5
+679420,2024-02-22T19:45Z,Torino,Lazio,0,2,Torino,Italy,239.0,1.0,3.8,7.1
+679479,2024-02-23T19:45Z,Bologna,Hellas Verona,2,0,Bologna,Italy,54.0,0,15.8,9.5
+679475,2024-02-24T14:00Z,Sassuolo,Empoli,2,3,Reggio Emilia,Italy,58.0,0,11.7,11.6
+679471,2024-02-24T17:00Z,Salernitana,Monza,0,2,Salerno,Italy,4.0,0,3.8,10.2
+679477,2024-02-24T19:45Z,Genoa,Udinese,2,0,Genova,Italy,3.0,0,9.0,8.3
+679478,2024-02-25T11:30Z,Juventus,Frosinone,3,2,Torino,Italy,239.0,0,3.2,6.9
+679474,2024-02-25T14:00Z,Cagliari,Napoli,1,1,Cagliari,Italy,6.0,0,22.2,15.1
+679470,2024-02-25T17:00Z,Lecce,Internazionale,0,4,Lecce,Italy,49.0,0.1,16.1,13.8
+679473,2024-02-25T19:45Z,AC Milan,Atalanta,1,1,Milano,Italy,635.0,0,5.8,7.4
+679472,2024-02-26T17:30Z,AS Roma,Torino,3,2,Roma,Italy,576.0,0,10.5,9.9
+679476,2024-02-26T19:45Z,Fiorentina,Lazio,2,1,Firenze,Italy,58.0,1.3,7.3,10.2
+679424,2024-02-28T17:00Z,Sassuolo,Napoli,1,6,Reggio Emilia,Italy,58.0,0.5,9.8,11.8
+679426,2024-02-28T19:45Z,Internazionale,Atalanta,4,0,Milano,Italy,635.0,0,6.4,10.0
+679484,2024-03-01T19:45Z,Lazio,AC Milan,0,1,Roma,Italy,576.0,0,18.1,9.3
+679480,2024-03-02T14:00Z,Udinese,Salernitana,1,1,Udine,Italy,113.0,1.0,1.8,13.4
+679483,2024-03-02T17:00Z,Monza,AS Roma,1,4,Monza,Italy,162.0,0.5,12.3,9.6
+679481,2024-03-02T19:45Z,Torino,Fiorentina,0,0,Torino,Italy,239.0,2.7,11.6,8.0
+679489,2024-03-03T11:30Z,Hellas Verona,Sassuolo,1,0,Verona,Italy,59.0,0.1,23.1,13.7
+679487,2024-03-03T14:00Z,Empoli,Cagliari,0,1,Empoli,Italy,28.0,1.9,8.0,13.7
+679486,2024-03-03T14:00Z,Frosinone,Lecce,1,1,Frosinone,Italy,291.0,0,13.9,14.4
+679488,2024-03-03T17:00Z,Atalanta,Bologna,1,2,Bergamo,Italy,249.0,0.6,18.0,10.2
+679482,2024-03-03T19:45Z,Napoli,Juventus,2,1,Napoli,Italy,58.0,0,7.0,9.5
+679485,2024-03-04T19:45Z,Internazionale,Genoa,2,1,Milano,Italy,635.0,1.6,8.4,5.7
+679490,2024-03-08T19:45Z,Napoli,Torino,1,1,Napoli,Italy,58.0,0.5,3.1,8.2
+679117,2024-03-09T14:00Z,Cagliari,Salernitana,4,2,Cagliari,Italy,6.0,0,22.1,14.7
+679119,2024-03-09T14:00Z,Sassuolo,Frosinone,1,0,Reggio Emilia,Italy,58.0,0,8.0,11.7
+679118,2024-03-09T17:00Z,Bologna,Internazionale,0,1,Bologna,Italy,54.0,0.7,10.1,11.2
+679495,2024-03-09T19:45Z,Genoa,Monza,2,3,Genova,Italy,3.0,0,4.5,8.0
+679492,2024-03-10T11:30Z,Lecce,Hellas Verona,0,1,Lecce,Italy,49.0,0,30.2,18.0
+679491,2024-03-10T14:00Z,AC Milan,Empoli,1,0,Milano,Italy,635.0,4.9,25.9,11.8
+679494,2024-03-10T17:00Z,Juventus,Atalanta,2,2,Torino,Italy,239.0,0,3.1,8.1
+679116,2024-03-10T19:45Z,Fiorentina,AS Roma,2,2,Firenze,Italy,58.0,0,10.4,9.1
+679493,2024-03-11T19:45Z,Lazio,Udinese,1,2,Roma,Italy,576.0,1.0,24.5,6.2
+679121,2024-03-15T19:45Z,Empoli,Bologna,0,1,Empoli,Italy,28.0,0.2,4.4,11.2
+679126,2024-03-16T14:00Z,Monza,Cagliari,1,0,Monza,Italy,162.0,0,8.6,18.4
+679123,2024-03-16T14:00Z,Udinese,Torino,0,2,Udine,Italy,113.0,0,5.2,16.7
+679124,2024-03-16T17:00Z,Salernitana,Lecce,0,1,Salerno,Italy,4.0,0.2,1.6,13.0
+679129,2024-03-16T19:45Z,Frosinone,Lazio,2,3,Frosinone,Italy,291.0,0,3.2,11.7
+679127,2024-03-17T11:30Z,Juventus,Genoa,0,0,Torino,Italy,239.0,0,4.1,14.9
+679122,2024-03-17T14:00Z,Hellas Verona,AC Milan,1,3,Verona,Italy,59.0,0.2,5.6,17.7
+679125,2024-03-17T17:00Z,AS Roma,Sassuolo,1,0,Roma,Italy,576.0,0,8.7,6.5
+679128,2024-03-17T19:45Z,Internazionale,Napoli,1,1,Milano,Italy,635.0,0,4.9,10.4

@@ -101,3 +101,33 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 670970,2023-12-03T15:00Z,Brøndby IF,Hvidovre IF,4,0,Brøndby,Denmark,11.0,0,3.4,-1.9
 670969,2023-12-03T17:00Z,F.C. København,AGF,1,2,Copenhagen,Denmark,14.0,0,3.7,-1.6
 670972,2023-12-04T18:00Z,FC Midtjylland,Viborg FF,5,1,Herning,Denmark,60.0,0.1,17.4,-0.6
+670976,2024-02-16T18:00Z,Viborg FF,Odense Boldklub,1,2,Viborg,Denmark,50.0,0,21.7,6.0
+670979,2024-02-18T13:00Z,FC Nordsjælland,Lyngby Boldklub,3,2,Farum,Denmark,33.0,2.6,23.4,3.6
+670975,2024-02-18T13:00Z,Hvidovre IF,Randers FC,1,3,Hvidovre,Denmark,5.0,2.8,27.1,4.0
+670980,2024-02-18T15:00Z,Silkeborg IF,F.C. København,0,3,Silkeborg,Denmark,19.0,1.4,15.8,7.4
+670978,2024-02-18T17:00Z,Brøndby IF,FC Midtjylland,1,0,Brøndby,Denmark,11.0,2.6,25.6,5.9
+670977,2024-02-19T18:00Z,Vejle Boldklub,AGF,0,0,Vejle,Denmark,5.0,0,14.0,6.2
+670985,2024-02-23T18:00Z,Randers FC,Lyngby Boldklub,1,0,Randers,Denmark,12.0,1.0,21.4,3.9
+670986,2024-02-25T13:00Z,Hvidovre IF,Viborg FF,2,2,Hvidovre,Denmark,5.0,0,14.7,5.6
+670981,2024-02-25T13:00Z,Vejle Boldklub,Silkeborg IF,2,0,Vejle,Denmark,5.0,1.2,15.6,4.0
+670982,2024-02-25T15:00Z,Odense Boldklub,Brøndby IF,0,3,Odense,Denmark,17.0,0.1,12.2,5.0
+670984,2024-02-25T17:00Z,AGF,FC Midtjylland,2,3,Aarhus,Denmark,10.0,0.1,6.8,3.1
+670983,2024-02-26T18:00Z,F.C. København,FC Nordsjælland,2,0,Copenhagen,Denmark,14.0,0,17.9,3.1
+670987,2024-03-01T18:00Z,FC Midtjylland,F.C. København,2,0,Herning,Denmark,60.0,0,11.0,6.3
+670990,2024-03-03T13:00Z,Lyngby Boldklub,Hvidovre IF,2,4,Lyngby,Denmark,19.0,0,21.4,9.4
+670991,2024-03-03T13:00Z,Viborg FF,Randers FC,3,0,Viborg,Denmark,50.0,0,18.2,8.6
+670989,2024-03-03T15:00Z,Brøndby IF,Vejle Boldklub,1,1,Brøndby,Denmark,11.0,0.2,18.7,6.5
+670988,2024-03-03T17:00Z,AGF,Odense Boldklub,1,1,Aarhus,Denmark,10.0,0.9,14.9,5.6
+670992,2024-03-04T18:00Z,FC Nordsjælland,Silkeborg IF,3,1,Farum,Denmark,33.0,0,20.2,3.5
+670998,2024-03-08T18:00Z,Hvidovre IF,FC Nordsjælland,1,2,Hvidovre,Denmark,5.0,0,8.5,0.9
+670995,2024-03-10T13:00Z,Silkeborg IF,AGF,0,1,Silkeborg,Denmark,19.0,0.2,26.4,2.4
+670994,2024-03-10T13:00Z,Vejle Boldklub,Odense Boldklub,0,1,Vejle,Denmark,5.0,0,32.1,4.0
+670996,2024-03-10T15:00Z,F.C. København,Lyngby Boldklub,4,0,Copenhagen,Denmark,14.0,0,33.8,3.5
+670993,2024-03-10T17:00Z,Viborg FF,Brøndby IF,1,2,Viborg,Denmark,50.0,0,21.9,3.1
+670997,2024-03-11T18:00Z,Randers FC,FC Midtjylland,0,1,Randers,Denmark,12.0,0,15.9,5.1
+671000,2024-03-17T16:00Z,AGF,Hvidovre IF,1,0,Aarhus,Denmark,10.0,0,9.9,2.4
+671001,2024-03-17T16:00Z,Brøndby IF,Silkeborg IF,4,1,Brøndby,Denmark,11.0,0,6.1,4.4
+671003,2024-03-17T16:00Z,FC Midtjylland,Vejle Boldklub,3,0,Herning,Denmark,60.0,0,17.4,4.2
+670999,2024-03-17T16:00Z,FC Nordsjælland,Randers FC,1,1,Farum,Denmark,33.0,0,8.1,3.4
+671002,2024-03-17T16:00Z,Lyngby Boldklub,Viborg FF,2,0,Lyngby,Denmark,19.0,0,16.4,4.4
+671004,2024-03-17T16:00Z,Odense Boldklub,F.C. København,0,2,Odense,Denmark,17.0,0,9.0,2.8

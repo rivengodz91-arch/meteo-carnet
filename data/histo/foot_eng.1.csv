@@ -185,3 +185,100 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 671220,2023-12-27T19:30Z,Brentford,Wolverhampton Wanderers,1,4,London,England,25.0,0,30.3,10.8
 671213,2023-12-27T19:30Z,Chelsea,Crystal Palace,2,1,London,England,25.0,0,30.3,10.8
 671214,2023-12-27T20:15Z,Everton,Manchester City,1,3,Liverpool,England,30.0,0,35.0,8.7
+671211,2023-12-28T19:30Z,Brighton & Hove Albion,Tottenham Hotspur,4,2,Falmer,England,97.0,0.3,38.8,10.1
+671218,2023-12-28T20:15Z,Arsenal,West Ham United,0,2,London,England,25.0,0.1,30.8,9.8
+671228,2023-12-30T12:30Z,Luton Town,Chelsea,2,3,Luton,England,117.0,0,28.4,9.5
+671227,2023-12-30T15:00Z,Aston Villa,Burnley,3,2,Birmingham,England,149.0,0.1,31.7,10.1
+671226,2023-12-30T15:00Z,Crystal Palace,Brentford,3,1,London,England,25.0,0,28.6,11.1
+671225,2023-12-30T15:00Z,Manchester City,Sheffield United,2,0,Manchester,England,51.0,0.7,29.9,9.9
+671222,2023-12-30T15:00Z,Wolverhampton Wanderers,Everton,3,0,Wolverhampton,England,160.0,0.5,29.0,9.9
+671230,2023-12-30T17:30Z,Nottingham Forest,Manchester United,2,1,Nottingham,England,46.0,0.1,32.6,10.1
+671221,2023-12-31T14:00Z,Fulham,Arsenal,2,1,London,England,25.0,0,29.1,9.6
+671224,2023-12-31T14:00Z,Tottenham Hotspur,AFC Bournemouth,3,1,London,England,25.0,0,29.1,9.6
+671229,2024-01-01T20:00Z,Liverpool,Newcastle United,4,2,Liverpool,England,30.0,3.3,29.7,7.0
+671223,2024-01-02T19:30Z,West Ham United,Brighton & Hove Albion,0,0,London,England,25.0,0,33.7,9.8
+671235,2024-01-12T19:45Z,Burnley,Luton Town,1,1,Burnley,England,140.0,0,9.7,1.7
+671236,2024-01-13T12:30Z,Chelsea,Fulham,1,0,London,England,25.0,0,10.7,3.5
+671239,2024-01-13T17:30Z,Newcastle United,Manchester City,2,3,Newcastle-upon-Tyne,England,54.0,0,11.8,3.2
+671237,2024-01-14T14:00Z,Everton,Aston Villa,0,0,Liverpool,England,30.0,0,21.7,4.8
+671238,2024-01-14T16:30Z,Manchester United,Tottenham Hotspur,2,2,Manchester,England,51.0,0,10.7,3.3
+671231,2024-01-20T12:30Z,Arsenal,Crystal Palace,5,0,London,England,25.0,0,25.1,4.9
+671233,2024-01-20T17:30Z,Brentford,Nottingham Forest,3,2,London,England,25.0,0,21.9,2.7
+671240,2024-01-21T14:00Z,Sheffield United,West Ham United,2,2,Sheffield,England,75.0,0.2,48.8,11.3
+671232,2024-01-21T16:30Z,AFC Bournemouth,Liverpool,0,4,Bournemouth,England,19.0,0.1,49.8,11.5
+671234,2024-01-22T19:45Z,Brighton & Hove Albion,Wolverhampton Wanderers,0,0,Falmer,England,97.0,0,33.4,8.1
+671245,2024-01-30T19:30Z,Nottingham Forest,Arsenal,1,2,Nottingham,England,46.0,0,7.9,2.1
+671244,2024-01-30T19:45Z,Fulham,Everton,0,0,London,England,25.0,0,4.7,6.4
+671247,2024-01-30T19:45Z,Luton Town,Brighton & Hove Albion,4,0,Luton,England,117.0,0,6.4,5.6
+671248,2024-01-30T20:00Z,Crystal Palace,Sheffield United,3,2,London,England,25.0,0,5.8,6.1
+671241,2024-01-30T20:15Z,Aston Villa,Newcastle United,1,3,Birmingham,England,149.0,0,7.3,1.4
+671250,2024-01-31T19:30Z,Manchester City,Burnley,3,1,Manchester,England,51.0,2.0,28.9,9.7
+671243,2024-01-31T19:30Z,Tottenham Hotspur,Brentford,3,2,London,England,25.0,0,29.0,10.5
+671249,2024-01-31T20:15Z,Liverpool,Chelsea,4,1,Liverpool,England,30.0,0,25.0,7.9
+671242,2024-02-01T19:30Z,West Ham United,AFC Bournemouth,1,1,London,England,25.0,0,10.2,4.0
+671246,2024-02-01T20:15Z,Wolverhampton Wanderers,Manchester United,3,4,Wolverhampton,England,160.0,0,12.0,3.1
+671253,2024-02-03T12:30Z,Everton,Tottenham Hotspur,2,2,Liverpool,England,30.0,0,23.1,9.4
+671256,2024-02-03T15:00Z,Brighton & Hove Albion,Crystal Palace,4,1,Falmer,England,97.0,0,23.4,9.9
+671260,2024-02-03T15:00Z,Burnley,Fulham,2,2,Burnley,England,140.0,0,23.1,7.3
+671251,2024-02-03T15:00Z,Newcastle United,Luton Town,4,4,Newcastle-upon-Tyne,England,54.0,0,22.8,9.3
+671255,2024-02-03T17:30Z,Sheffield United,Aston Villa,0,5,Sheffield,England,75.0,0.2,16.0,8.6
+671258,2024-02-04T14:00Z,AFC Bournemouth,Nottingham Forest,1,1,Bournemouth,England,19.0,0,25.2,11.3
+671254,2024-02-04T14:00Z,Chelsea,Wolverhampton Wanderers,2,4,London,England,25.0,0,32.0,12.9
+671252,2024-02-04T14:00Z,Manchester United,West Ham United,3,0,Manchester,England,51.0,1.1,34.1,12.0
+671259,2024-02-04T16:30Z,Arsenal,Liverpool,3,1,London,England,25.0,0,28.0,12.4
+671257,2024-02-05T20:00Z,Brentford,Manchester City,1,3,London,England,25.0,0,25.8,10.6
+671264,2024-02-10T12:30Z,Manchester City,Everton,2,0,Manchester,England,51.0,0.1,6.8,8.2
+671268,2024-02-10T15:00Z,Fulham,AFC Bournemouth,3,1,London,England,25.0,0,9.0,11.0
+671269,2024-02-10T15:00Z,Liverpool,Burnley,3,1,Liverpool,England,30.0,0,13.8,9.1
+671270,2024-02-10T15:00Z,Luton Town,Sheffield United,1,3,Luton,England,117.0,0.1,8.7,9.5
+671262,2024-02-10T15:00Z,Tottenham Hotspur,Brighton & Hove Albion,2,1,London,England,25.0,0,9.0,11.0
+671265,2024-02-10T15:00Z,Wolverhampton Wanderers,Brentford,0,2,Wolverhampton,England,160.0,0,10.2,9.3
+671263,2024-02-10T17:30Z,Nottingham Forest,Newcastle United,2,3,Nottingham,England,46.0,0,3.4,8.3
+671261,2024-02-11T14:00Z,West Ham United,Arsenal,0,6,London,England,25.0,0.4,19.5,10.3
+671266,2024-02-11T16:30Z,Aston Villa,Manchester United,1,2,Birmingham,England,149.0,0.1,16.2,7.9
+671267,2024-02-12T20:00Z,Crystal Palace,Chelsea,1,3,London,England,25.0,0,10.7,3.7
+671279,2024-02-17T12:30Z,Brentford,Liverpool,1,4,London,England,25.0,0.1,17.7,13.3
+671280,2024-02-17T15:00Z,Burnley,Arsenal,0,5,Burnley,England,140.0,1.3,21.0,11.3
+671271,2024-02-17T15:00Z,Fulham,Aston Villa,1,2,London,England,25.0,0,21.6,12.1
+671274,2024-02-17T15:00Z,Newcastle United,AFC Bournemouth,2,2,Newcastle-upon-Tyne,England,54.0,0.1,19.4,11.7
+671275,2024-02-17T15:00Z,Nottingham Forest,West Ham United,2,0,Nottingham,England,46.0,0,21.8,13.3
+671277,2024-02-17T15:00Z,Tottenham Hotspur,Wolverhampton Wanderers,1,2,London,England,25.0,0,21.6,12.1
+671273,2024-02-17T17:30Z,Manchester City,Chelsea,1,1,Manchester,England,51.0,2.3,24.5,12.2
+671276,2024-02-18T14:00Z,Sheffield United,Brighton & Hove Albion,0,5,Sheffield,England,75.0,0,22.7,12.4
+671278,2024-02-18T16:30Z,Luton Town,Manchester United,1,2,Luton,England,117.0,0,17.7,12.5
+671272,2024-02-19T20:00Z,Everton,Crystal Palace,1,1,Liverpool,England,30.0,0,10.4,7.7
+671203,2024-02-20T19:30Z,Manchester City,Brentford,1,0,Manchester,England,51.0,0.3,17.4,10.3
+671284,2024-02-21T19:30Z,Liverpool,Luton Town,4,1,Liverpool,England,30.0,0,15.0,9.4
+671289,2024-02-24T15:00Z,Aston Villa,Nottingham Forest,4,2,Birmingham,England,149.0,0.1,10.5,6.8
+671287,2024-02-24T15:00Z,Brighton & Hove Albion,Everton,1,1,Falmer,England,97.0,0.9,12.0,5.3
+671283,2024-02-24T15:00Z,Crystal Palace,Burnley,3,0,London,England,25.0,0.5,6.8,7.2
+671290,2024-02-24T15:00Z,Manchester United,Fulham,1,2,Manchester,England,51.0,0,9.9,7.9
+671288,2024-02-24T17:30Z,AFC Bournemouth,Manchester City,0,1,Bournemouth,England,19.0,0,8.2,7.1
+671281,2024-02-24T20:00Z,Arsenal,Newcastle United,4,1,London,England,25.0,0,5.8,2.2
+671286,2024-02-25T13:30Z,Wolverhampton Wanderers,Sheffield United,1,0,Wolverhampton,England,160.0,0,21.3,7.6
+671285,2024-02-26T20:00Z,West Ham United,Brentford,4,2,London,England,25.0,0,19.8,4.4
+671295,2024-03-02T15:00Z,Brentford,Chelsea,2,2,London,England,25.0,0.1,21.4,8.0
+671293,2024-03-02T15:00Z,Everton,West Ham United,1,3,Liverpool,England,30.0,2.1,11.9,4.6
+671297,2024-03-02T15:00Z,Fulham,Brighton & Hove Albion,3,0,London,England,25.0,0.1,21.4,8.0
+671298,2024-03-02T15:00Z,Newcastle United,Wolverhampton Wanderers,3,0,Newcastle-upon-Tyne,England,54.0,0.3,15.8,6.2
+671299,2024-03-02T15:00Z,Nottingham Forest,Liverpool,0,1,Nottingham,England,46.0,0.2,19.1,6.5
+671291,2024-03-02T15:00Z,Tottenham Hotspur,Crystal Palace,3,1,London,England,25.0,0.1,21.4,8.0
+671296,2024-03-02T17:30Z,Luton Town,Aston Villa,2,3,Luton,England,117.0,0,17.1,5.3
+671294,2024-03-03T13:00Z,Burnley,AFC Bournemouth,0,2,Burnley,England,140.0,0,10.7,5.8
+671292,2024-03-03T15:30Z,Manchester City,Manchester United,3,1,Manchester,England,51.0,0.1,5.1,7.8
+671300,2024-03-04T20:00Z,Sheffield United,Arsenal,0,6,Sheffield,England,75.0,0.5,25.8,7.1
+671308,2024-03-09T12:30Z,Manchester United,Everton,2,0,Manchester,England,51.0,0,20.9,9.7
+671303,2024-03-09T15:00Z,AFC Bournemouth,Sheffield United,2,2,Bournemouth,England,19.0,0.2,22.7,9.2
+671310,2024-03-09T15:00Z,Crystal Palace,Luton Town,1,1,London,England,25.0,0.3,24.1,11.4
+671306,2024-03-09T15:00Z,Wolverhampton Wanderers,Fulham,2,1,Wolverhampton,England,160.0,0.3,22.4,11.1
+671305,2024-03-09T17:30Z,Arsenal,Brentford,2,1,London,England,25.0,0,18.7,10.0
+671304,2024-03-10T13:00Z,Aston Villa,Tottenham Hotspur,0,4,Birmingham,England,149.0,1.3,17.2,7.4
+671307,2024-03-10T14:00Z,Brighton & Hove Albion,Nottingham Forest,1,0,Falmer,England,97.0,1.0,4.3,8.8
+671302,2024-03-10T14:00Z,West Ham United,Burnley,2,2,London,England,25.0,2.4,9.2,8.9
+671309,2024-03-10T15:45Z,Liverpool,Manchester City,1,1,Liverpool,England,30.0,1.4,20.1,8.4
+671301,2024-03-11T20:00Z,Chelsea,Newcastle United,3,2,London,England,25.0,0,9.1,8.1
+671194,2024-03-13T19:30Z,AFC Bournemouth,Luton Town,4,3,Bournemouth,England,19.0,0,15.4,10.1
+671316,2024-03-16T15:00Z,Burnley,Brentford,2,1,Burnley,England,140.0,0.2,16.8,7.9
+671317,2024-03-16T15:00Z,Luton Town,Nottingham Forest,1,1,Luton,England,117.0,0,14.8,11.3
+671313,2024-03-16T17:30Z,Fulham,Tottenham Hotspur,3,0,London,England,25.0,0,13.8,10.5
+671320,2024-03-17T14:00Z,West Ham United,Aston Villa,1,1,London,England,25.0,0.2,15.4,14.4

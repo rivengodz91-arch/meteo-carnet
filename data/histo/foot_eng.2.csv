@@ -287,3 +287,168 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 673746,2023-12-26T15:00Z,West Bromwich Albion,Norwich City,1,0,West Bromwich,England,165.0,0,3.8,6.5
 673735,2023-12-26T17:15Z,Birmingham City,Stoke City,1,3,Birmingham,England,149.0,0,8.0,4.4
 673740,2023-12-26T19:45Z,Ipswich Town,Leicester City,1,1,Ipswich,England,18.0,0,4.4,3.9
+673756,2023-12-29T18:00Z,Southampton,Plymouth Argyle,2,1,Southampton,England,19.0,0,19.6,8.1
+673747,2023-12-29T19:45Z,Birmingham City,Bristol City,0,0,Birmingham,England,149.0,0,20.5,4.5
+673753,2023-12-29T19:45Z,Cardiff City,Leicester City,0,2,Cardiff,Wales,17.0,0,18.7,6.7
+673748,2023-12-29T19:45Z,Coventry City,Swansea City,2,2,Coventry,England,89.0,0,21.8,5.0
+673751,2023-12-29T19:45Z,Huddersfield Town,Middlesbrough,1,2,Huddersfield,England,90.0,0.3,33.6,4.0
+673750,2023-12-29T19:45Z,Hull City,Blackburn Rovers,3,2,Hull,England,8.0,0,29.4,5.3
+673749,2023-12-29T19:45Z,Ipswich Town,Queens Park Rangers,0,0,Ipswich,England,18.0,0,26.1,6.8
+673752,2023-12-29T19:45Z,Millwall,Norwich City,1,0,London,England,25.0,0,23.1,7.4
+673754,2023-12-29T19:45Z,Preston North End,Sheffield Wednesday,0,1,Preston,England,34.0,1.2,24.1,4.6
+673755,2023-12-29T19:45Z,Rotherham United,Sunderland,1,1,Rotherham,England,41.0,0.1,32.4,5.0
+673757,2023-12-29T19:45Z,Watford,Stoke City,1,1,Watford,England,77.0,0,22.5,6.5
+673758,2023-12-29T20:15Z,West Bromwich Albion,Leeds United,1,0,West Bromwich,England,165.0,0,20.5,4.2
+673760,2024-01-01T12:30Z,Sunderland,Preston North End,2,0,Sunderland,England,36.0,0,21.6,6.3
+673763,2024-01-01T15:00Z,Blackburn Rovers,Rotherham United,2,2,Blackburn,England,121.0,0,11.9,5.0
+673762,2024-01-01T15:00Z,Bristol City,Millwall,0,1,Bristol,England,21.0,3.6,17.6,7.6
+673761,2024-01-01T15:00Z,Leeds United,Birmingham City,3,0,Leeds,England,50.0,0,9.7,5.6
+673769,2024-01-01T15:00Z,Leicester City,Huddersfield Town,4,1,Leicester,England,65.0,0,14.5,6.5
+673768,2024-01-01T15:00Z,Middlesbrough,Coventry City,1,3,Middlesbrough,England,15.0,0,12.4,5.6
+673764,2024-01-01T15:00Z,Norwich City,Southampton,1,1,Norwich,England,19.0,0,18.3,6.7
+673765,2024-01-01T15:00Z,Plymouth Argyle,Watford,3,3,Plymouth,England,14.0,3.9,33.3,11.0
+673766,2024-01-01T15:00Z,Queens Park Rangers,Cardiff City,1,2,London,England,25.0,0.6,14.9,8.5
+673759,2024-01-01T15:00Z,Stoke City,Ipswich Town,0,0,Stoke-on-Trent,England,114.0,0,15.9,5.8
+673770,2024-01-01T15:00Z,Swansea City,West Bromwich Albion,1,0,Swansea,Wales,18.0,4.6,21.0,7.9
+673767,2024-01-01T17:15Z,Sheffield Wednesday,Hull City,3,1,Sheffield,England,75.0,0,13.4,4.8
+673775,2024-01-12T20:00Z,Hull City,Norwich City,1,2,Hull,England,8.0,0,9.0,3.6
+673773,2024-01-13T12:30Z,Coventry City,Leicester City,3,1,Coventry,England,89.0,0,10.5,5.1
+673771,2024-01-13T15:00Z,Birmingham City,Swansea City,2,2,Birmingham,England,149.0,0,9.3,5.6
+673772,2024-01-13T15:00Z,Cardiff City,Leeds United,0,3,Cardiff,Wales,17.0,0,1.8,3.9
+673774,2024-01-13T15:00Z,Huddersfield Town,Plymouth Argyle,1,1,Huddersfield,England,90.0,0,14.4,6.4
+673778,2024-01-13T15:00Z,Preston North End,Bristol City,2,0,Preston,England,34.0,0.2,13.6,7.2
+673779,2024-01-13T15:00Z,Rotherham United,Stoke City,0,1,Rotherham,England,41.0,0,13.6,6.4
+673780,2024-01-13T15:00Z,Southampton,Sheffield Wednesday,4,0,Southampton,England,19.0,0,6.7,3.2
+673777,2024-01-13T15:00Z,West Bromwich Albion,Blackburn Rovers,4,1,West Bromwich,England,165.0,0,10.0,5.4
+673776,2024-01-13T15:15Z,Millwall,Middlesbrough,1,3,London,England,25.0,0,7.9,3.9
+673782,2024-01-13T17:30Z,Ipswich Town,Sunderland,2,1,Ipswich,England,18.0,0,10.7,3.6
+673465,2024-01-14T12:00Z,Queens Park Rangers,Watford,1,2,London,England,25.0,0.1,16.5,4.9
+673793,2024-01-19T20:00Z,Sunderland,Hull City,0,1,Sunderland,England,36.0,0,17.9,3.3
+673794,2024-01-20T12:30Z,Swansea City,Southampton,1,3,Swansea,Wales,18.0,0.3,26.0,7.0
+673783,2024-01-20T15:00Z,Blackburn Rovers,Huddersfield Town,1,1,Blackburn,England,121.0,0.1,28.5,4.9
+673784,2024-01-20T15:00Z,Bristol City,Watford,1,1,Bristol,England,21.0,0,26.6,5.5
+673787,2024-01-20T15:00Z,Middlesbrough,Rotherham United,1,1,Middlesbrough,England,15.0,0,33.7,6.2
+673788,2024-01-20T15:00Z,Norwich City,West Bromwich Albion,2,0,Norwich,England,19.0,0,25.3,4.6
+673789,2024-01-20T15:00Z,Plymouth Argyle,Cardiff City,3,1,Plymouth,England,14.0,0.7,32.0,7.7
+673790,2024-01-20T15:00Z,Queens Park Rangers,Millwall,2,0,London,England,25.0,0,22.0,4.3
+673791,2024-01-20T15:00Z,Sheffield Wednesday,Coventry City,1,2,Sheffield,England,75.0,0.3,30.1,5.1
+673792,2024-01-20T15:00Z,Stoke City,Birmingham City,1,2,Stoke-on-Trent,England,114.0,0.3,26.9,4.3
+673785,2024-01-21T12:00Z,Leeds United,Preston North End,2,1,Leeds,England,50.0,1.3,39.0,9.2
+673786,2024-01-22T20:00Z,Leicester City,Ipswich Town,1,1,Leicester,England,65.0,0,31.0,6.0
+673799,2024-01-24T19:45Z,Leeds United,Norwich City,1,0,Leeds,England,50.0,0,25.2,6.1
+673801,2024-01-27T15:00Z,Millwall,Preston North End,1,1,London,England,25.0,0,15.9,8.1
+673806,2024-01-27T15:00Z,Sunderland,Stoke City,3,1,Sunderland,England,36.0,0,19.9,9.0
+673803,2024-01-28T13:30Z,Queens Park Rangers,Huddersfield Town,1,1,London,England,25.0,0,13.4,10.8
+673797,2024-01-30T19:45Z,Coventry City,Bristol City,2,2,Coventry,England,89.0,0,6.5,1.8
+673800,2024-01-30T19:45Z,Leicester City,Swansea City,3,1,Leicester,England,65.0,0,7.2,1.6
+673804,2024-01-31T19:45Z,Sheffield Wednesday,Watford,0,0,Sheffield,England,75.0,1.8,35.7,10.0
+673813,2024-02-02T20:00Z,Bristol City,Leeds United,0,1,Bristol,England,21.0,0,29.3,9.3
+673807,2024-02-03T15:00Z,Blackburn Rovers,Queens Park Rangers,1,2,Blackburn,England,121.0,0,22.1,7.4
+673818,2024-02-03T15:00Z,Huddersfield Town,Sheffield Wednesday,4,0,Huddersfield,England,90.0,0,21.9,8.7
+673811,2024-02-03T15:00Z,Hull City,Millwall,1,0,Hull,England,8.0,0,21.1,10.5
+673817,2024-02-03T15:00Z,Norwich City,Coventry City,2,1,Norwich,England,19.0,0.3,20.9,12.0
+673816,2024-02-03T15:00Z,Preston North End,Ipswich Town,3,2,Preston,England,34.0,0,22.0,9.1
+673815,2024-02-03T15:00Z,Rotherham United,Southampton,0,2,Rotherham,England,41.0,0,8.8,9.8
+673814,2024-02-03T15:00Z,Stoke City,Leicester City,0,5,Stoke-on-Trent,England,114.0,1.0,9.5,9.4
+673812,2024-02-03T15:00Z,Swansea City,Plymouth Argyle,0,1,Swansea,Wales,18.0,0.3,20.2,10.0
+673809,2024-02-03T15:00Z,Watford,Cardiff City,0,1,Watford,England,77.0,0.3,21.3,12.3
+673808,2024-02-03T15:00Z,West Bromwich Albion,Birmingham City,1,0,West Bromwich,England,165.0,0.1,20.3,11.7
+673810,2024-02-04T12:00Z,Middlesbrough,Sunderland,1,1,Middlesbrough,England,15.0,0.2,18.7,9.9
+673830,2024-02-09T20:00Z,Sheffield Wednesday,Birmingham City,2,0,Sheffield,England,75.0,0,7.1,6.8
+673826,2024-02-10T12:30Z,Ipswich Town,West Bromwich Albion,2,2,Ipswich,England,18.0,0,12.0,10.0
+673822,2024-02-10T15:00Z,Blackburn Rovers,Stoke City,3,1,Blackburn,England,121.0,0,11.7,7.6
+673823,2024-02-10T15:00Z,Cardiff City,Preston North End,0,2,Cardiff,Wales,17.0,0.3,23.1,9.9
+673825,2024-02-10T15:00Z,Hull City,Swansea City,0,1,Hull,England,8.0,0.1,10.3,9.5
+673827,2024-02-10T15:00Z,Leeds United,Rotherham United,3,0,Leeds,England,50.0,0,7.4,6.4
+673828,2024-02-10T15:00Z,Middlesbrough,Bristol City,1,2,Middlesbrough,England,15.0,0,8.3,8.8
+673829,2024-02-10T15:00Z,Queens Park Rangers,Norwich City,2,2,London,England,25.0,0,9.0,11.0
+673819,2024-02-10T15:00Z,Southampton,Huddersfield Town,5,3,Southampton,England,19.0,0,15.5,10.3
+673820,2024-02-10T15:00Z,Sunderland,Plymouth Argyle,3,1,Sunderland,England,36.0,0,10.1,8.3
+673821,2024-02-10T15:00Z,Watford,Leicester City,1,2,Watford,England,77.0,0,7.9,10.2
+673824,2024-02-11T12:00Z,Coventry City,Millwall,2,1,Coventry,England,89.0,0,14.8,6.4
+673831,2024-02-13T19:45Z,Birmingham City,Blackburn Rovers,1,0,Birmingham,England,149.0,0.2,18.8,9.9
+673833,2024-02-13T19:45Z,Leicester City,Sheffield Wednesday,2,0,Leicester,England,65.0,0.9,16.4,9.3
+673834,2024-02-13T19:45Z,Norwich City,Watford,4,2,Norwich,England,19.0,0.7,22.2,8.2
+673835,2024-02-13T19:45Z,Rotherham United,Hull City,1,2,Rotherham,England,41.0,0.2,6.3,6.7
+673836,2024-02-13T19:45Z,Swansea City,Leeds United,0,4,Swansea,Wales,18.0,0.4,26.8,10.8
+673832,2024-02-13T20:00Z,Bristol City,Southampton,3,1,Bristol,England,21.0,0.1,26.2,11.2
+673842,2024-02-13T20:00Z,West Bromwich Albion,Cardiff City,2,0,West Bromwich,England,165.0,0.2,17.6,9.6
+673837,2024-02-14T19:45Z,Huddersfield Town,Sunderland,1,0,Huddersfield,England,90.0,0.3,15.9,11.2
+673839,2024-02-14T19:45Z,Plymouth Argyle,Coventry City,2,2,Plymouth,England,14.0,0.9,24.6,12.0
+673840,2024-02-14T19:45Z,Preston North End,Middlesbrough,2,1,Preston,England,34.0,0.3,12.1,11.4
+673841,2024-02-14T19:45Z,Stoke City,Queens Park Rangers,1,0,Stoke-on-Trent,England,114.0,0.3,19.3,11.5
+673838,2024-02-14T20:00Z,Millwall,Ipswich Town,0,4,London,England,25.0,0.1,18.3,12.2
+673854,2024-02-16T20:00Z,West Bromwich Albion,Southampton,0,2,West Bromwich,England,165.0,0,11.2,8.8
+673849,2024-02-17T12:30Z,Plymouth Argyle,Leeds United,0,2,Plymouth,England,14.0,0.1,23.8,12.0
+673843,2024-02-17T15:00Z,Birmingham City,Sunderland,2,1,Birmingham,England,149.0,0.1,25.7,12.4
+673844,2024-02-17T15:00Z,Bristol City,Queens Park Rangers,0,1,Bristol,England,21.0,0.6,25.5,11.4
+673845,2024-02-17T15:00Z,Huddersfield Town,Hull City,1,2,Huddersfield,England,90.0,0.2,16.7,12.7
+673846,2024-02-17T15:00Z,Leicester City,Middlesbrough,1,2,Leicester,England,65.0,0,19.5,12.5
+673847,2024-02-17T15:00Z,Millwall,Sheffield Wednesday,0,2,London,England,25.0,0,21.6,12.1
+673848,2024-02-17T15:00Z,Norwich City,Cardiff City,4,1,Norwich,England,19.0,0,19.6,11.8
+673850,2024-02-17T15:00Z,Preston North End,Blackburn Rovers,2,2,Preston,England,34.0,1.9,21.7,13.2
+673851,2024-02-17T15:00Z,Rotherham United,Watford,0,1,Rotherham,England,41.0,0,23.3,12.8
+673852,2024-02-17T15:00Z,Stoke City,Coventry City,0,1,Stoke-on-Trent,England,114.0,0.1,22.6,12.4
+673853,2024-02-17T15:00Z,Swansea City,Ipswich Town,1,2,Swansea,Wales,18.0,3.9,22.1,11.4
+673796,2024-02-20T19:45Z,Cardiff City,Blackburn Rovers,0,0,Cardiff,Wales,17.0,0.9,21.6,9.7
+673798,2024-02-20T19:45Z,Ipswich Town,Rotherham United,4,3,Ipswich,England,18.0,0,20.6,9.7
+673802,2024-02-20T19:45Z,Plymouth Argyle,West Bromwich Albion,0,3,Plymouth,England,14.0,0.4,21.9,9.9
+673805,2024-02-20T19:45Z,Southampton,Hull City,1,2,Southampton,England,19.0,0,19.6,9.4
+673857,2024-02-23T19:45Z,Coventry City,Preston North End,0,3,Coventry,England,89.0,0.2,6.8,2.8
+673866,2024-02-23T20:00Z,Leeds United,Leicester City,3,1,Leeds,England,50.0,0,7.0,1.5
+673858,2024-02-24T12:30Z,Hull City,West Bromwich Albion,1,1,Hull,England,8.0,0,7.6,7.7
+673855,2024-02-24T15:00Z,Blackburn Rovers,Norwich City,1,1,Blackburn,England,121.0,0.3,12.8,5.8
+673856,2024-02-24T15:00Z,Cardiff City,Stoke City,2,1,Cardiff,Wales,17.0,0.2,6.8,7.3
+673859,2024-02-24T15:00Z,Ipswich Town,Birmingham City,3,1,Ipswich,England,18.0,0.2,9.4,7.9
+673861,2024-02-24T15:00Z,Middlesbrough,Plymouth Argyle,0,2,Middlesbrough,England,15.0,0,9.9,8.1
+673862,2024-02-24T15:00Z,Queens Park Rangers,Rotherham United,2,1,London,England,25.0,0.5,6.8,7.2
+673863,2024-02-24T15:00Z,Sheffield Wednesday,Bristol City,2,1,Sheffield,England,75.0,0.5,7.8,8.1
+673864,2024-02-24T15:00Z,Southampton,Millwall,1,2,Southampton,England,19.0,0.1,9.7,8.0
+673860,2024-02-24T15:00Z,Sunderland,Swansea City,1,2,Sunderland,England,36.0,0,7.6,8.2
+673865,2024-02-24T15:00Z,Watford,Huddersfield Town,1,2,Watford,England,77.0,0.6,5.4,6.7
+673870,2024-03-01T20:00Z,West Bromwich Albion,Coventry City,2,1,West Bromwich,England,165.0,0.4,8.3,1.8
+673867,2024-03-02T12:30Z,Bristol City,Cardiff City,0,1,Bristol,England,21.0,2.0,17.4,2.4
+673878,2024-03-02T12:30Z,Huddersfield Town,Leeds United,1,1,Huddersfield,England,90.0,0.4,15.9,4.1
+673876,2024-03-02T15:00Z,Birmingham City,Southampton,3,4,Birmingham,England,149.0,0.1,15.6,3.8
+673868,2024-03-02T15:00Z,Leicester City,Queens Park Rangers,1,2,Leicester,England,65.0,0.9,17.3,5.8
+673877,2024-03-02T15:00Z,Millwall,Watford,1,0,London,England,25.0,0.1,21.4,8.0
+673875,2024-03-02T15:00Z,Norwich City,Sunderland,1,0,Norwich,England,19.0,0.1,27.2,8.1
+673874,2024-03-02T15:00Z,Plymouth Argyle,Ipswich Town,0,2,Plymouth,England,14.0,0,27.1,6.9
+673873,2024-03-02T15:00Z,Preston North End,Hull City,0,0,Preston,England,34.0,2.6,11.7,3.7
+673872,2024-03-02T15:00Z,Rotherham United,Sheffield Wednesday,0,1,Rotherham,England,41.0,0.1,17.3,6.5
+673871,2024-03-02T15:00Z,Stoke City,Middlesbrough,2,0,Stoke-on-Trent,England,114.0,0.2,14.2,5.3
+673869,2024-03-02T15:00Z,Swansea City,Blackburn Rovers,2,1,Swansea,Wales,18.0,0,18.2,6.7
+673884,2024-03-05T19:45Z,Blackburn Rovers,Millwall,1,1,Blackburn,England,121.0,0,9.7,4.6
+673879,2024-03-05T19:45Z,Coventry City,Rotherham United,5,0,Coventry,England,89.0,0,6.1,4.8
+673880,2024-03-05T19:45Z,Hull City,Birmingham City,1,1,Hull,England,8.0,0,6.3,4.6
+673882,2024-03-05T19:45Z,Leeds United,Stoke City,1,0,Leeds,England,50.0,0,6.5,4.6
+673889,2024-03-05T19:45Z,Sheffield Wednesday,Plymouth Argyle,1,0,Sheffield,England,75.0,0,5.4,6.5
+673883,2024-03-05T19:45Z,Sunderland,Leicester City,0,1,Sunderland,England,36.0,0,13.9,6.0
+673881,2024-03-05T20:00Z,Ipswich Town,Bristol City,3,2,Ipswich,England,18.0,0,6.6,5.9
+673885,2024-03-06T19:45Z,Cardiff City,Huddersfield Town,1,0,Cardiff,Wales,17.0,0,10.3,6.1
+673887,2024-03-06T19:45Z,Middlesbrough,Norwich City,3,1,Middlesbrough,England,15.0,0,11.2,6.2
+673890,2024-03-06T19:45Z,Watford,Swansea City,1,1,Watford,England,77.0,0,11.2,5.9
+673888,2024-03-06T20:00Z,Queens Park Rangers,West Bromwich Albion,2,2,London,England,25.0,0,8.4,5.6
+673900,2024-03-08T20:00Z,Sheffield Wednesday,Leeds United,0,2,Sheffield,England,75.0,0,17.9,2.9
+673892,2024-03-09T12:30Z,Cardiff City,Ipswich Town,2,1,Cardiff,Wales,17.0,0.3,26.0,10.7
+673897,2024-03-09T15:00Z,Blackburn Rovers,Plymouth Argyle,1,1,Blackburn,England,121.0,0,29.7,7.2
+673894,2024-03-09T15:00Z,Hull City,Leicester City,2,2,Hull,England,8.0,0,23.8,8.7
+673895,2024-03-09T15:00Z,Millwall,Birmingham City,1,0,London,England,25.0,0.3,24.1,11.4
+673898,2024-03-09T15:00Z,Norwich City,Rotherham United,5,0,Norwich,England,19.0,0,20.7,10.5
+673896,2024-03-09T15:00Z,Preston North End,Stoke City,1,2,Preston,England,34.0,0,30.3,9.1
+673899,2024-03-09T15:00Z,Queens Park Rangers,Middlesbrough,0,2,London,England,25.0,0.3,24.1,11.4
+673901,2024-03-09T15:00Z,Southampton,Sunderland,4,2,Southampton,England,19.0,0,20.6,10.4
+673902,2024-03-09T15:00Z,Watford,Coventry City,1,2,Watford,England,77.0,0,22.7,10.8
+673893,2024-03-10T12:00Z,Huddersfield Town,West Bromwich Albion,1,4,Huddersfield,England,90.0,1.7,24.5,6.4
+673891,2024-03-10T12:30Z,Bristol City,Swansea City,1,0,Bristol,England,21.0,0,8.3,9.6
+673795,2024-03-12T19:45Z,Birmingham City,Middlesbrough,0,1,Birmingham,England,149.0,0,22.0,11.3
+673909,2024-03-16T12:30Z,Swansea City,Cardiff City,2,0,Swansea,Wales,18.0,0.4,20.0,9.3
+673903,2024-03-16T15:00Z,Birmingham City,Watford,0,1,Birmingham,England,149.0,0,16.8,10.0
+673914,2024-03-16T15:00Z,Ipswich Town,Sheffield Wednesday,6,0,Ipswich,England,18.0,0,9.8,10.7
+673911,2024-03-16T15:00Z,Middlesbrough,Blackburn Rovers,0,0,Middlesbrough,England,15.0,0,18.2,10.9
+673908,2024-03-16T15:00Z,Plymouth Argyle,Preston North End,0,1,Plymouth,England,14.0,0.7,20.8,11.7
+673905,2024-03-16T15:00Z,Rotherham United,Huddersfield Town,0,0,Rotherham,England,41.0,0.1,15.5,9.6
+673907,2024-03-16T15:00Z,Stoke City,Norwich City,0,3,Stoke-on-Trent,England,114.0,0.2,18.7,8.7
+673906,2024-03-16T15:00Z,Sunderland,Queens Park Rangers,0,0,Sunderland,England,36.0,0,16.1,9.6
+673910,2024-03-16T15:00Z,West Bromwich Albion,Bristol City,2,0,West Bromwich,England,165.0,0,17.1,9.7
+673913,2024-03-17T15:00Z,Leeds United,Millwall,2,0,Leeds,England,50.0,0.1,13.3,14.5

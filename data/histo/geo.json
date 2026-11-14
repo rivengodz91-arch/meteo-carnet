@@ -447,6 +447,11 @@ null
 9.119,
 6.0
 ],
+"Calama|Chile": [
+-22.457,
+-68.924,
+2275.0
+],
 "Cali|Colombia": [
 3.431,
 -76.52,
@@ -652,6 +657,11 @@ null
 6.164,
 12.0
 ],
+"Dingwell|Scotland": [
+46.417,
+-62.665,
+23.0
+],
 "Doctor Juan León Mallorquín|Paraguay": [
 -25.431,
 -55.254,
@@ -681,6 +691,11 @@ null
 39.251,
 -76.521,
 5.0
+],
+"Dundee|Scotland": [
+56.469,
+-2.975,
+77.0
 ],
 "Dunkerque|France": [
 51.041,
@@ -822,6 +837,11 @@ null
 28.05,
 24.0
 ],
+"Galway|Republic of Ireland": [
+53.272,
+-9.051,
+10.0
+],
 "Gaziantep|Türkiye": [
 37.059,
 37.383,
@@ -940,6 +960,11 @@ null
 137.0
 ],
 "Hamburg Norderstedt|Germany": null,
+"Hangzhou|China PR": [
+30.294,
+120.161,
+12.0
+],
 "Hannover|Germany": [
 52.371,
 9.733,
@@ -979,6 +1004,11 @@ null
 56.136,
 8.977,
 60.0
+],
+"Hertson|Australia": [
+65.586,
+22.212,
+21.0
 ],
 "Hiroshima|Japan": [
 34.4,
@@ -1025,6 +1055,11 @@ null
 -75.203,
 1047.0
 ],
+"Ibarra|Ecuador": [
+0.349,
+-78.125,
+2192.0
+],
 "Innsbruck|Austria": [
 47.263,
 11.395,
@@ -1040,6 +1075,11 @@ null
 1.155,
 18.0
 ],
+"Iquique|Chile": [
+-20.213,
+-70.15,
+15.0
+],
 "Iraklio|Greece": [
 38.053,
 23.765,
@@ -1054,6 +1094,11 @@ null
 6.185,
 -75.599,
 1538.0
+],
+"Iwata|Japan": [
+34.7,
+137.85,
+5.0
 ],
 "Jinan|China PR": [
 36.668,
@@ -1270,6 +1315,11 @@ null
 53.411,
 -2.978,
 30.0
+],
+"Livingston|Scotland": [
+-17.842,
+25.854,
+969.0
 ],
 "Ljubljana|Slovenia": [
 46.051,
@@ -1491,6 +1541,11 @@ null
 17.808,
 66.0
 ],
+"Motherwell|Scotland": [
+-33.794,
+25.586,
+87.0
+],
 "Mönchengladbach|Germany": [
 51.185,
 6.442,
@@ -1571,6 +1626,11 @@ null
 16.183,
 12.0
 ],
+"North Hobart|Australia": [
+-42.874,
+147.316,
+54.0
+],
 "Norwich|England": [
 52.628,
 1.298,
@@ -1636,6 +1696,11 @@ null
 8.754,
 118.0
 ],
+"Paisley|Scotland": [
+55.832,
+-4.433,
+50.0
+],
 "Palermo|Italy": [
 38.117,
 13.364,
@@ -1677,12 +1742,22 @@ null
 -0.356,
 219.0
 ],
+"Pedro Juan Caballero|Paraguay": [
+-22.549,
+-55.739,
+649.0
+],
 "Pereira|Colombia": [
 4.814,
 -75.695,
 1445.0
 ],
 "Perth|Australia": [
+-31.952,
+115.861,
+34.0
+],
+"Perth|Scotland": [
 -31.952,
 115.861,
 34.0
@@ -2403,6 +2478,11 @@ null
 38.895,
 -77.036,
 7.0
+],
+"Waterford|Republic of Ireland": [
+42.693,
+-83.412,
+294.0
 ],
 "Watford|England": [
 51.655,

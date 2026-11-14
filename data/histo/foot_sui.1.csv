@@ -107,3 +107,63 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 672247,2023-12-17T13:15Z,Winterthur,Lausanne Sports,1,0,Winterthur,Switzerland,441.0,0,3.0,3.2
 672244,2023-12-17T15:30Z,FC Luzern,FC Basel,0,1,Luzern,Switzerland,437.0,0,1.8,1.6
 672246,2023-12-17T15:30Z,Servette,FC Lugano,2,2,Geneva,Switzerland,400.0,0,2.6,5.6
+672251,2024-01-20T17:00Z,Young Boys,Grasshoppers,1,0,Bern,Switzerland,549.0,0,4.9,-4.8
+672254,2024-01-20T19:30Z,Lausanne Sports,St. Gallen,0,1,Lausanne,Switzerland,453.0,0,7.8,-5.0
+672253,2024-01-21T15:30Z,FC Lugano,FC Stade Lausanne-Ouchy,2,3,Lugano,Switzerland,284.0,0,3.8,7.1
+672255,2024-01-21T15:30Z,FC Zürich,FC Basel,0,0,Zürich,Switzerland,429.0,0,7.0,0.4
+672252,2024-01-23T18:00Z,Winterthur,Servette,3,3,Winterthur,Switzerland,441.0,0.3,16.1,5.5
+672250,2024-01-23T18:00Z,Yverdon,FC Luzern,2,1,Yverdon-les-Bains,Switzerland,438.0,0.1,9.3,6.4
+672261,2024-01-27T17:00Z,FC Stade Lausanne-Ouchy,Winterthur,1,3,Lausanne,Switzerland,453.0,0,9.8,5.4
+672257,2024-01-27T17:00Z,Servette,Yverdon,1,0,Geneva,Switzerland,400.0,0,8.0,3.8
+672260,2024-01-27T19:30Z,FC Basel,Young Boys,1,0,Basel,Switzerland,279.0,0,4.4,4.0
+672256,2024-01-28T13:15Z,St. Gallen,FC Lugano,1,4,St. Gallen,Switzerland,684.0,0,2.9,5.3
+672258,2024-01-28T15:30Z,FC Luzern,Lausanne Sports,2,1,Luzern,Switzerland,437.0,0,2.2,5.8
+672259,2024-01-28T15:30Z,Grasshoppers,FC Zürich,2,1,Zürich,Switzerland,429.0,0,3.4,5.6
+672265,2024-01-30T19:30Z,Winterthur,FC Basel,1,3,Winterthur,Switzerland,441.0,0,6.8,5.5
+672266,2024-01-30T19:30Z,Young Boys,Yverdon,5,1,Bern,Switzerland,549.0,0,3.6,1.6
+672262,2024-01-31T19:30Z,FC Lugano,Grasshoppers,0,0,Lugano,Switzerland,284.0,0,0.7,8.3
+672267,2024-01-31T19:30Z,FC Zürich,Lausanne Sports,2,2,Zürich,Switzerland,429.0,0,5.9,-0.3
+672263,2024-01-31T19:30Z,St. Gallen,Servette,0,2,St. Gallen,Switzerland,684.0,0,5.5,2.2
+672264,2024-02-01T19:30Z,FC Stade Lausanne-Ouchy,FC Luzern,0,3,Lausanne,Switzerland,453.0,0,4.6,3.8
+672269,2024-02-03T17:00Z,Grasshoppers,Winterthur,0,1,Zürich,Switzerland,429.0,0,7.7,4.8
+672272,2024-02-03T17:00Z,Lausanne Sports,Young Boys,0,1,Lausanne,Switzerland,453.0,0,6.3,7.7
+672268,2024-02-03T19:30Z,FC Basel,FC Lugano,0,1,Basel,Switzerland,279.0,0,14.8,6.0
+672273,2024-02-04T13:15Z,Yverdon,FC Zürich,3,0,Yverdon-les-Bains,Switzerland,438.0,0,10.2,11.2
+672271,2024-02-04T15:30Z,FC Luzern,St. Gallen,1,0,Luzern,Switzerland,437.0,0,7.2,9.0
+672270,2024-02-04T15:30Z,Servette,FC Stade Lausanne-Ouchy,3,1,Geneva,Switzerland,400.0,0,8.2,9.6
+692535,2024-02-10T17:00Z,FC Stade Lausanne-Ouchy,Lausanne Sports,1,1,Lausanne,Switzerland,453.0,0.2,5.9,7.6
+692536,2024-02-10T17:00Z,FC Zürich,Grasshoppers,1,0,Zürich,Switzerland,429.0,0,4.4,7.8
+692537,2024-02-10T19:30Z,FC Lugano,Young Boys,3,3,Lugano,Switzerland,284.0,2.5,4.1,7.6
+692538,2024-02-11T13:15Z,Winterthur,FC Luzern,2,1,Winterthur,Switzerland,441.0,0,19.4,8.5
+692539,2024-02-11T15:30Z,FC Basel,St. Gallen,1,0,Basel,Switzerland,279.0,0,17.2,9.9
+692540,2024-02-11T15:30Z,Yverdon,Servette,2,1,Yverdon-les-Bains,Switzerland,438.0,0.2,15.8,7.9
+692542,2024-02-17T17:00Z,Lausanne Sports,Yverdon,3,1,Lausanne,Switzerland,453.0,0,16.0,11.1
+692541,2024-02-17T17:00Z,St. Gallen,Winterthur,2,2,St. Gallen,Switzerland,684.0,0.1,1.8,7.7
+692543,2024-02-17T19:30Z,Grasshoppers,FC Basel,2,1,Zürich,Switzerland,429.0,0,3.7,8.4
+692544,2024-02-18T13:15Z,Young Boys,FC Stade Lausanne-Ouchy,1,0,Bern,Switzerland,549.0,0,8.3,10.7
+692545,2024-02-18T15:30Z,FC Luzern,FC Zürich,0,1,Luzern,Switzerland,437.0,0,4.7,11.5
+692546,2024-02-18T15:30Z,Servette,FC Lugano,2,1,Geneva,Switzerland,400.0,0,10.2,13.2
+692548,2024-02-24T17:00Z,St. Gallen,FC Stade Lausanne-Ouchy,1,0,St. Gallen,Switzerland,684.0,0.3,2.4,2.0
+692547,2024-02-24T17:00Z,Yverdon,FC Basel,0,2,Yverdon-les-Bains,Switzerland,438.0,0,7.0,4.8
+692549,2024-02-24T19:30Z,Grasshoppers,FC Luzern,0,1,Zürich,Switzerland,429.0,0,6.8,1.5
+692550,2024-02-25T13:15Z,FC Lugano,FC Zürich,2,0,Lugano,Switzerland,284.0,0.2,2.9,7.4
+692551,2024-02-25T15:30Z,Lausanne Sports,Winterthur,1,1,Lausanne,Switzerland,453.0,0,5.8,6.9
+692552,2024-02-25T15:30Z,Young Boys,Servette,0,1,Bern,Switzerland,549.0,0,7.6,9.5
+692554,2024-03-02T17:00Z,FC Stade Lausanne-Ouchy,Grasshoppers,1,1,Lausanne,Switzerland,453.0,0,4.9,7.8
+692553,2024-03-02T17:00Z,Servette,St. Gallen,2,0,Geneva,Switzerland,400.0,0,5.8,7.8
+692555,2024-03-02T19:30Z,FC Basel,Lausanne Sports,1,2,Basel,Switzerland,279.0,0,5.7,8.0
+692556,2024-03-03T13:15Z,FC Luzern,FC Lugano,0,1,Luzern,Switzerland,437.0,0,12.5,15.0
+692558,2024-03-03T15:30Z,FC Zürich,Young Boys,1,0,Zürich,Switzerland,429.0,0,13.0,14.5
+692557,2024-03-03T15:30Z,Winterthur,Yverdon,2,1,Winterthur,Switzerland,441.0,0,6.8,15.5
+692559,2024-03-09T17:00Z,Winterthur,Grasshoppers,2,0,Winterthur,Switzerland,441.0,0,9.2,11.1
+692560,2024-03-09T17:00Z,Yverdon,FC Zürich,3,2,Yverdon-les-Bains,Switzerland,438.0,0,8.1,9.2
+692561,2024-03-09T19:30Z,St. Gallen,FC Lugano,2,3,St. Gallen,Switzerland,684.0,0,6.8,6.4
+692562,2024-03-10T13:15Z,Servette,Lausanne Sports,3,1,Geneva,Switzerland,400.0,0.4,14.4,9.7
+692563,2024-03-10T15:30Z,FC Stade Lausanne-Ouchy,FC Luzern,2,1,Lausanne,Switzerland,453.0,0.3,8.8,7.3
+692564,2024-03-10T15:30Z,Young Boys,FC Basel,5,1,Bern,Switzerland,549.0,1.7,2.4,6.9
+692566,2024-03-16T17:00Z,FC Basel,Winterthur,1,1,Basel,Switzerland,279.0,0.1,11.2,11.6
+692565,2024-03-16T17:00Z,Grasshoppers,St. Gallen,1,1,Zürich,Switzerland,429.0,0,6.4,10.8
+692567,2024-03-16T19:30Z,FC Lugano,Yverdon,2,0,Lugano,Switzerland,284.0,0,7.3,12.9
+692568,2024-03-17T13:15Z,FC Zürich,FC Stade Lausanne-Ouchy,2,2,Zürich,Switzerland,429.0,0.2,4.4,11.6
+692570,2024-03-17T15:30Z,FC Luzern,Servette,2,2,Luzern,Switzerland,437.0,0,2.7,11.0
+692569,2024-03-17T15:30Z,Lausanne Sports,Young Boys,2,0,Lausanne,Switzerland,453.0,0,1.0,13.1

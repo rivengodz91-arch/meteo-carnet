@@ -95,3 +95,35 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 687724,2023-12-14T20:00Z,Real Betis,Rangers,2,3,Sevilla,Spain,16.0,0,8.4,9.9
 687725,2023-12-14T20:00Z,Sporting CP,SK Sturm Graz,3,0,Lisbon,Portugal,68.0,0,12.0,11.1
 687727,2023-12-14T20:00Z,West Ham United,SC Freiburg,2,0,London,England,25.0,0,8.3,3.9
+691532,2024-02-15T17:45Z,Feyenoord Rotterdam,AS Roma,1,1,Rotterdam,Netherlands,9.0,0,17.1,14.0
+691526,2024-02-15T17:45Z,Galatasaray,Sparta Prague,3,2,Istanbul,Türkiye,39.0,0.1,23.4,6.8
+691529,2024-02-15T17:45Z,Shakhtar Donetsk,Marseille,2,2,Hamburg Norderstedt,Germany,,,,
+691531,2024-02-15T17:45Z,Young Boys,Sporting CP,1,3,Bern,Switzerland,549.0,0,6.4,7.6
+691528,2024-02-15T20:00Z,AC Milan,Stade Rennais,3,0,Milano,Italy,635.0,0,4.8,4.1
+691533,2024-02-15T20:00Z,Benfica,Toulouse,2,1,Lisbon,Portugal,68.0,0,12.0,14.1
+691530,2024-02-15T20:00Z,Braga,FK Qarabag,2,4,Braga,Portugal,190.0,0.4,2.9,11.5
+691527,2024-02-15T20:00Z,Lens,SC Freiburg,0,0,Lens,France,37.0,0,18.4,13.1
+691535,2024-02-22T17:45Z,FK Qarabag,Braga,2,3,Baku,Azerbaijan,-23.0,0.2,9.4,4.6
+691538,2024-02-22T17:45Z,SC Freiburg,Lens,3,2,Freiburg im Breisgau,Germany,278.0,0.4,22.8,10.9
+691536,2024-02-22T17:45Z,Stade Rennais,AC Milan,3,2,Rennes,France,39.0,0,29.3,7.5
+691534,2024-02-22T17:45Z,Toulouse,Benfica,0,0,Toulouse,France,150.0,0.8,35.1,11.7
+691537,2024-02-22T20:00Z,AS Roma,Feyenoord Rotterdam,1,1,Roma,Italy,576.0,0,5.8,3.3
+691541,2024-02-22T20:00Z,Marseille,Shakhtar Donetsk,3,1,Marseille,France,28.0,0,19.9,13.5
+691539,2024-02-22T20:00Z,Sparta Prague,Galatasaray,4,1,Wien,Austria,876.0,0,13.3,4.7
+691540,2024-02-22T20:00Z,Sporting CP,Young Boys,1,1,Lisbon,Portugal,68.0,0,18.2,12.1
+699141,2024-03-06T17:45Z,Sporting CP,Atalanta,1,1,Lisbon,Portugal,68.0,0,15.6,14.0
+699144,2024-03-07T17:45Z,AS Roma,Brighton & Hove Albion,4,0,Roma,Italy,576.0,0,18.2,2.7
+699145,2024-03-07T17:45Z,FK Qarabag,Bayer Leverkusen,2,2,Baku,Azerbaijan,-23.0,4.7,34.7,6.7
+699142,2024-03-07T17:45Z,Sparta Prague,Liverpool,1,5,Wien,Austria,876.0,0.4,11.8,-0.1
+699146,2024-03-07T20:00Z,AC Milan,Slavia Prague,4,2,Milano,Italy,635.0,0,4.5,2.4
+699148,2024-03-07T20:00Z,Benfica,Rangers,2,2,Lisbon,Portugal,68.0,0,31.3,10.8
+699147,2024-03-07T20:00Z,Marseille,Villarreal,4,0,Marseille,France,28.0,0,13.1,9.6
+699143,2024-03-07T20:00Z,SC Freiburg,West Ham United,1,0,Freiburg im Breisgau,Germany,278.0,0,2.3,3.4
+699156,2024-03-14T17:45Z,Rangers,Benfica,0,1,Glasgow,Scotland,40.0,2.2,20.1,6.3
+699149,2024-03-14T17:45Z,Slavia Prague,AC Milan,1,3,Prague,Czechia,202.0,0,5.0,11.4
+699150,2024-03-14T17:45Z,Villarreal,Marseille,3,1,Villarreal,Spain,42.0,0,5.1,18.3
+699155,2024-03-14T17:45Z,West Ham United,SC Freiburg,5,0,London,England,25.0,0.5,23.7,13.4
+699151,2024-03-14T20:00Z,Atalanta,Sporting CP,2,1,Bergamo,Italy,249.0,0,9.6,9.3
+699152,2024-03-14T20:00Z,Bayer Leverkusen,FK Qarabag,3,2,Leverkusen,Germany,52.0,0,11.3,11.4
+699153,2024-03-14T20:00Z,Brighton & Hove Albion,AS Roma,1,0,Falmer,England,97.0,0.3,26.9,11.2
+699154,2024-03-14T20:00Z,Liverpool,Sparta Prague,6,1,Liverpool,England,30.0,0.1,18.4,12.1

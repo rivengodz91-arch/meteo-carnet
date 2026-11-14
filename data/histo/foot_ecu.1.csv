@@ -121,3 +121,39 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 664130,2023-12-03T23:00Z,Universidad Católica (Quito),Barcelona SC,0,1,Latacunga,Ecuador,2770.0,0,8.0,15.1
 690834,2023-12-10T21:30Z,Independiente del Valle,Liga de Quito,0,0,Quito,Ecuador,2854.0,3.9,3.3,15.2
 690835,2023-12-17T21:30Z,Liga de Quito,Independiente del Valle,1,1,Quito,Ecuador,2854.0,0.4,7.8,15.1
+697753,2024-03-02T00:00Z,Delfín,Independiente del Valle,0,1,Manta,Ecuador,3.0,0,5.4,25.9
+697750,2024-03-02T18:00Z,Mushuc Runa,Libertad (Ecuador),2,1,Ambato,Ecuador,2597.0,7.7,11.2,17.1
+697751,2024-03-02T20:30Z,Aucas,Orense,2,0,Quito,Ecuador,2854.0,8.7,7.8,15.4
+697749,2024-03-02T23:00Z,Deportivo Cuenca,Emelec,1,2,Cuenca,Ecuador,2484.0,0.5,0.8,15.0
+697747,2024-03-03T18:00Z,Universidad Católica (Quito),El Nacional,3,0,Quito,Ecuador,2854.0,4.3,7.1,15.7
+697748,2024-03-03T20:30Z,Técnico Universitario,Cumbayá,1,0,Ambato,Ecuador,2597.0,2.2,7.3,17.2
+697752,2024-03-03T23:00Z,Barcelona SC,Imbabura,2,0,Quito,Ecuador,2854.0,3.9,4.1,12.5
+697746,2024-03-05T00:00Z,Liga de Quito,Macará,2,1,Quito,Ecuador,2854.0,0,2.9,11.5
+697760,2024-03-09T00:00Z,Emelec,Mushuc Runa,0,0,Quito,Ecuador,2854.0,0.2,2.5,12.0
+697759,2024-03-09T18:00Z,Macará,El Nacional,1,0,Ambato,Ecuador,2597.0,1.3,11.4,18.4
+697761,2024-03-09T20:30Z,Imbabura,Delfín,3,0,Ibarra,Ecuador,2192.0,0,5.9,23.3
+697757,2024-03-09T23:00Z,Independiente del Valle,Barcelona SC,3,1,Quito,Ecuador,2854.0,0,4.7,13.6
+697756,2024-03-10T18:00Z,Aucas,Técnico Universitario,3,1,Quito,Ecuador,2854.0,0.1,12.1,19.8
+697754,2024-03-10T20:30Z,Orense,Deportivo Cuenca,1,1,Machala,Ecuador,16.0,0,11.3,28.8
+697758,2024-03-10T23:00Z,Cumbayá,Liga de Quito,1,3,Quito,Ecuador,2854.0,0,8.7,14.7
+697755,2024-03-12T00:00Z,Libertad (Ecuador),Universidad Católica (Quito),0,1,Loja,Ecuador,2060.0,0,8.2,16.0
+697768,2024-03-15T21:30Z,Macará,Libertad (Ecuador),3,0,Ambato,Ecuador,2597.0,0.2,10.9,18.9
+697762,2024-03-16T00:00Z,Independiente del Valle,Cumbayá,3,0,Quito,Ecuador,2854.0,0.1,5.5,13.6
+697765,2024-03-16T18:00Z,Mushuc Runa,Imbabura,3,0,Ambato,Ecuador,2597.0,3.3,13.1,20.4
+697767,2024-03-16T20:30Z,Liga de Quito,Aucas,1,2,Quito,Ecuador,2854.0,0.1,10.0,20.3
+697529,2024-03-16T23:00Z,Barcelona SC,Orense,0,0,Quito,Ecuador,2854.0,0.1,9.9,16.0
+697763,2024-03-17T18:00Z,Universidad Católica (Quito),Deportivo Cuenca,3,3,Quito,Ecuador,2854.0,0,13.0,20.9
+697764,2024-03-17T20:30Z,Delfín,Técnico Universitario,2,0,Manta,Ecuador,3.0,0,14.2,29.6
+697766,2024-03-17T23:00Z,El Nacional,Emelec,0,1,Quito,Ecuador,2854.0,0,7.1,16.3
+697535,2024-03-19T21:30Z,Cumbayá,Mushuc Runa,2,1,Quito,Ecuador,2854.0,0.3,10.0,18.2
+697531,2024-03-20T00:00Z,Orense,Imbabura,1,2,Machala,Ecuador,16.0,0,5.1,27.4
+697534,2024-03-20T21:30Z,Deportivo Cuenca,Macará,1,1,Cuenca,Ecuador,2484.0,0,4.8,18.7
+697536,2024-03-21T00:00Z,Aucas,El Nacional,3,4,Quito,Ecuador,2854.0,0,2.2,12.8
+697530,2024-03-21T21:30Z,Técnico Universitario,Independiente del Valle,1,1,Ambato,Ecuador,2597.0,0.1,9.7,18.6
+697533,2024-03-22T00:00Z,Emelec,Delfín,2,0,Quito,Ecuador,2854.0,0.7,3.4,12.0
+697544,2024-03-23T20:30Z,Imbabura,Cumbayá,0,0,Ibarra,Ecuador,2192.0,0,8.2,22.7
+697545,2024-03-24T17:00Z,El Nacional,Deportivo Cuenca,2,1,Latacunga,Ecuador,2770.0,0,4.3,19.8
+697540,2024-03-24T20:30Z,Técnico Universitario,Macará,1,1,Ambato,Ecuador,2597.0,0,7.1,18.9
+697543,2024-03-24T23:00Z,Independiente del Valle,Aucas,1,1,Quito,Ecuador,2854.0,4.0,6.1,13.3
+697539,2024-03-25T21:30Z,Delfín,Libertad (Ecuador),1,1,Manta,Ecuador,3.0,0,15.4,28.0
+697541,2024-03-26T00:00Z,Orense,Emelec,1,1,Machala,Ecuador,16.0,0,9.4,27.0
