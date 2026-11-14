@@ -1,0 +1,31 @@
+name: ouinego
+on:
+  schedule:
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+    inputs:
+      forcer:
+        description: "tout = lancer les 3 robots maintenant"
+        required: false
+        default: "tout"
+permissions:
+  contents: write
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python ouinego.py
+        env:
+          FORCER: ${{ github.event.inputs.forcer }}
+      - run: |
+          git config user.name "ouinego-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ouinego
+          git commit -m "ouinego $(date -u +%F_%H%M)" || echo "rien de neuf"
+          git pull --rebase || true
+          git push
