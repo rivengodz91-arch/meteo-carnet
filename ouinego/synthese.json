@@ -1,0 +1,24 @@
+{
+ "historique": [
+  {
+   "date": "2026-11-14",
+   "fournisseurs": [
+    {
+     "source": "BODACC",
+     "fournisseur_connu": false,
+     "date": "2026-11-13",
+     "fournisseur": "ADONE CONFORT",
+     "siren": "910144435",
+     "quoi": "Jugement d'ouverture de liquidation judiciaire",
+     "lien": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602186299"
+    }
+   ]
+  }
+ ],
+ "maj": "2026-11-14T08:14+00:00",
+ "etat": {
+  "ouvertures": "ok",
+  "fournisseurs": "ok",
+  "prix": "ok"
+ }
+}

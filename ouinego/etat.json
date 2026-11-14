@@ -1,0 +1,112 @@
+{
+ "maj": "2026-11-14T08:14+00:00",
+ "robots": {
+  "ouvertures": {
+   "statut": "ok",
+   "resultat": {
+    "reseaux": {
+     "Boulangerie Ange": {
+      "statut": "référence créée",
+      "magasins": 325
+     },
+     "Biocoop": {
+      "statut": "référence créée",
+      "magasins": 724
+     },
+     "5àSec": {
+      "statut": "référence créée",
+      "magasins": 197
+     },
+     "Domino's": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "Carrefour Contact": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "Tutti Pizza": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 8,
+      "urls_vues": 131
+     },
+     "Kyriad": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "B&B Hotels": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "Yelloh Village": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "Moustache Glaces": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     },
+     "Fitness Park": {
+      "statut": "référence créée",
+      "magasins": 1719
+     },
+     "Keep Cool": {
+      "statut": "référence créée",
+      "magasins": 245
+     },
+     "L'Orange Bleue": {
+      "statut": "référence créée",
+      "magasins": 402
+     },
+     "Magic Form": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 6,
+      "urls_vues": 4
+     },
+     "Wefit": {
+      "statut": "aucune fiche magasin trouvée",
+      "sitemaps_lus": 3,
+      "urls_vues": 0
+     }
+    },
+    "nouveaux": []
+   }
+  },
+  "fournisseurs": {
+   "statut": "ok",
+   "resultat": {
+    "alertes": [
+     {
+      "source": "BODACC",
+      "fournisseur_connu": false,
+      "date": "2026-11-13",
+      "fournisseur": "ADONE CONFORT",
+      "siren": "910144435",
+      "quoi": "Jugement d'ouverture de liquidation judiciaire",
+      "lien": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602186299"
+     }
+    ],
+    "fournisseurs_suivis": 1373
+   }
+  },
+  "prix": {
+   "statut": "ok",
+   "resultat": {
+    "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
+    "dernier_jour": "2026-11-14",
+    "moy_7j": 249.1,
+    "moy_30j": 208.7,
+    "moy_365j": 93.9,
+    "seuil_bas_20pct": 41.1,
+    "rang_7j_sur_an_pct": 98,
+    "alerte": null
+   }
+  }
+ }
+}
