@@ -1,0 +1,64 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+677890,2023-07-28T18:30Z,Hamburg SV,Schalke 04,5,3,Hamburg Norderstedt,Germany,,,,
+677898,2023-07-29T11:00Z,Hannover 96,SV Elversberg,2,2,Hannover,Germany,57.0,0.1,18.7,21.6
+677896,2023-07-29T11:00Z,Kaiserslautern,St. Pauli,1,2,Kaiserslautern,Germany,240.0,0.6,23.2,21.7
+677894,2023-07-29T11:00Z,SV Wehen Wiesbaden,1. FC Magdeburg,1,1,Wiesbaden,Germany,147.0,0.2,12.0,21.1
+677892,2023-07-29T11:00Z,VfL Osnabruck,Karlsruher SC,2,3,Osnabrück,Germany,65.0,0.3,20.9,21.3
+677893,2023-07-29T18:30Z,Fortuna Düsseldorf,Hertha Berlin,1,0,Düsseldorf,Germany,42.0,0.8,20.9,20.5
+677891,2023-07-30T11:30Z,Hansa Rostock,1. FC Nürnberg,2,0,Rostock,Germany,18.0,0.2,15.6,21.6
+677895,2023-07-30T11:30Z,SpVgg Greuther Fürth,SC Paderborn 07,5,0,Fürth,Germany,302.0,0.1,16.9,21.5
+677897,2023-07-30T11:30Z,TSV Eintracht Braunschweig,Holstein Kiel,0,1,Braunschweig,Germany,72.0,0,20.7,21.5
+677903,2023-08-04T16:30Z,Hertha Berlin,SV Wehen Wiesbaden,0,1,Berlin,Germany,74.0,0,7.6,21.4
+677906,2023-08-04T16:30Z,SC Paderborn 07,VfL Osnabruck,1,1,Paderborn,Germany,118.0,0.1,14.1,18.8
+677904,2023-08-05T11:00Z,Holstein Kiel,SpVgg Greuther Fürth,2,1,Kiel,Germany,7.0,0.1,9.2,19.4
+677902,2023-08-05T11:00Z,St. Pauli,Fortuna Düsseldorf,0,0,Hamburg Norderstedt,Germany,,,,
+677907,2023-08-05T11:00Z,SV Elversberg,Hansa Rostock,1,2,Saarbrücken,Germany,195.0,0.5,11.6,19.3
+677901,2023-08-05T18:30Z,Schalke 04,Kaiserslautern,3,0,Gelsenkirchen,Germany,48.0,0.2,7.4,16.2
+677899,2023-08-06T11:30Z,1. FC Magdeburg,TSV Eintracht Braunschweig,2,1,Magdeburg,Germany,47.0,0.2,7.1,19.5
+677900,2023-08-06T11:30Z,1. FC Nürnberg,Hannover 96,2,2,Nürnberg,Germany,300.0,1.2,16.4,17.6
+677905,2023-08-06T11:30Z,Karlsruher SC,Hamburg SV,2,2,Karlsruhe,Germany,118.0,0.1,32.0,16.3
+677908,2023-08-18T16:30Z,Kaiserslautern,SV Elversberg,3,2,Kaiserslautern,Germany,240.0,0,5.9,29.4
+677914,2023-08-18T16:30Z,SV Wehen Wiesbaden,Karlsruher SC,1,0,Wiesbaden,Germany,147.0,0,6.4,28.8
+677911,2023-08-19T11:00Z,Fortuna Düsseldorf,SC Paderborn 07,1,2,Düsseldorf,Germany,42.0,0,6.8,29.1
+677910,2023-08-19T11:00Z,Hansa Rostock,Hannover 96,1,2,Rostock,Germany,18.0,0,14.9,28.0
+677915,2023-08-19T11:00Z,SpVgg Greuther Fürth,St. Pauli,0,0,Fürth,Germany,302.0,0,8.2,30.0
+677912,2023-08-19T18:30Z,Hamburg SV,Hertha Berlin,3,0,Hamburg Norderstedt,Germany,,,,
+677913,2023-08-20T11:30Z,Holstein Kiel,1. FC Magdeburg,2,4,Kiel,Germany,7.0,0,13.5,23.0
+677909,2023-08-20T11:30Z,TSV Eintracht Braunschweig,Schalke 04,1,0,Braunschweig,Germany,72.0,0,7.4,26.3
+677916,2023-08-20T11:30Z,VfL Osnabruck,1. FC Nürnberg,2,3,Osnabrück,Germany,65.0,1.3,10.3,24.1
+677921,2023-08-25T16:30Z,SC Paderborn 07,Kaiserslautern,1,2,Paderborn,Germany,118.0,0.3,8.7,24.2
+677919,2023-08-25T16:30Z,Schalke 04,Holstein Kiel,0,2,Gelsenkirchen,Germany,48.0,0.6,19.0,23.5
+677918,2023-08-26T11:00Z,Hansa Rostock,VfL Osnabruck,2,1,Rostock,Germany,18.0,0.1,20.6,20.5
+677922,2023-08-26T11:00Z,Hertha Berlin,SpVgg Greuther Fürth,5,0,Berlin,Germany,74.0,0,19.7,24.3
+677924,2023-08-26T11:00Z,SV Elversberg,Fortuna Düsseldorf,0,5,Spiesen-Elversberg,Germany,353.0,0.8,16.0,19.3
+677925,2023-08-26T18:30Z,Hannover 96,Hamburg SV,0,1,Hannover,Germany,57.0,0,7.5,17.7
+677917,2023-08-27T11:30Z,1. FC Nürnberg,SV Wehen Wiesbaden,2,1,Nürnberg,Germany,300.0,0.5,6.0,18.1
+677923,2023-08-27T11:30Z,Karlsruher SC,TSV Eintracht Braunschweig,2,0,Karlsruhe,Germany,118.0,0.3,8.8,21.9
+677920,2023-08-27T11:30Z,St. Pauli,1. FC Magdeburg,0,0,Hamburg Norderstedt,Germany,,,,
+677929,2023-09-01T16:30Z,Fortuna Düsseldorf,Karlsruher SC,3,1,Düsseldorf,Germany,42.0,0.2,7.9,19.6
+677928,2023-09-01T16:30Z,TSV Eintracht Braunschweig,St. Pauli,1,1,Braunschweig,Germany,72.0,0.5,1.4,17.8
+677927,2023-09-02T11:00Z,1. FC Magdeburg,Hertha Berlin,6,4,Magdeburg,Germany,47.0,0.1,4.8,21.2
+677931,2023-09-02T11:00Z,Holstein Kiel,SC Paderborn 07,2,1,Kiel,Germany,7.0,0,10.4,20.6
+677932,2023-09-02T11:00Z,SV Wehen Wiesbaden,Schalke 04,1,1,Wiesbaden,Germany,147.0,0,2.2,22.5
+677926,2023-09-02T18:30Z,Kaiserslautern,1. FC Nürnberg,3,1,Kaiserslautern,Germany,240.0,0,8.4,20.1
+677930,2023-09-03T11:30Z,Hamburg SV,Hansa Rostock,2,0,Hamburg Norderstedt,Germany,,,,
+677933,2023-09-03T11:30Z,SpVgg Greuther Fürth,Hannover 96,1,3,Fürth,Germany,302.0,0,7.7,22.5
+677934,2023-09-03T11:30Z,VfL Osnabruck,SV Elversberg,0,1,Osnabrück,Germany,65.0,0,3.1,19.8
+677935,2023-09-15T16:30Z,1. FC Nürnberg,SpVgg Greuther Fürth,1,1,Nürnberg,Germany,300.0,0,7.4,22.8
+677942,2023-09-15T16:30Z,SC Paderborn 07,SV Wehen Wiesbaden,2,1,Paderborn,Germany,118.0,0,8.0,21.2
+677936,2023-09-16T11:00Z,Hansa Rostock,Fortuna Düsseldorf,1,3,Rostock,Germany,18.0,0,12.1,21.3
+677941,2023-09-16T11:00Z,Karlsruher SC,Kaiserslautern,1,1,Karlsruhe,Germany,118.0,0,6.4,27.0
+677943,2023-09-16T11:00Z,SV Elversberg,Hamburg SV,2,1,Spiesen-Elversberg,Germany,353.0,0,5.7,24.3
+677937,2023-09-16T18:30Z,Schalke 04,1. FC Magdeburg,4,3,Gelsenkirchen,Germany,48.0,0,7.6,20.7
+677939,2023-09-17T11:30Z,Hannover 96,VfL Osnabruck,7,0,Hannover,Germany,57.0,0,10.0,24.4
+677940,2023-09-17T11:30Z,Hertha Berlin,TSV Eintracht Braunschweig,3,0,Berlin,Germany,74.0,0,3.4,25.4
+677938,2023-09-17T11:30Z,St. Pauli,Holstein Kiel,5,1,Hamburg Norderstedt,Germany,,,,
+677945,2023-09-22T16:30Z,1. FC Magdeburg,SC Paderborn 07,1,1,Magdeburg,Germany,47.0,0,8.7,18.5
+677952,2023-09-22T16:30Z,VfL Osnabruck,Hamburg SV,2,1,Osnabrück,Germany,65.0,0,12.6,16.9
+677951,2023-09-23T11:00Z,SpVgg Greuther Fürth,Karlsruher SC,4,3,Fürth,Germany,302.0,0,14.5,16.2
+677950,2023-09-23T11:00Z,SV Wehen Wiesbaden,SV Elversberg,0,2,Wiesbaden,Germany,147.0,0.3,18.6,16.6
+677946,2023-09-23T11:00Z,TSV Eintracht Braunschweig,1. FC Nürnberg,2,2,Braunschweig,Germany,72.0,0,21.3,17.0
+677947,2023-09-23T18:30Z,St. Pauli,Schalke 04,3,1,Hamburg Norderstedt,Germany,,,,
+677948,2023-09-24T11:30Z,Fortuna Düsseldorf,Hannover 96,1,1,Düsseldorf,Germany,42.0,0,13.5,18.2
+677949,2023-09-24T11:30Z,Holstein Kiel,Hertha Berlin,2,3,Kiel,Germany,7.0,0.1,18.4,17.9
+677944,2023-09-24T11:30Z,Kaiserslautern,Hansa Rostock,3,1,Kaiserslautern,Germany,240.0,0,5.9,17.7

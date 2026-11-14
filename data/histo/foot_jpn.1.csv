@@ -1,0 +1,91 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+663693,2023-07-01T09:00Z,Albirex Niigata,Sanfrecce Hiroshima,2,0,Niigata,Japan,1.0,0,10.0,22.5
+663694,2023-07-01T09:00Z,Kashima Antlers,Kyoto Sanga,0,0,Kashima,Japan,20.0,0.3,4.0,27.0
+663695,2023-07-01T09:00Z,Nagoya Grampus,Kawasaki Frontale,2,0,Toyota,Japan,55.0,10.6,7.0,22.6
+663696,2023-07-01T09:30Z,Yokohama FC,Gamba Osaka,0,0,Yokohama,Japan,21.0,0,14.5,26.0
+663697,2023-07-01T10:00Z,FC Tokyo,Kashiwa Reysol,1,0,Tokyo,Japan,44.0,0,4.6,26.1
+663698,2023-07-01T10:00Z,Sagan Tosu,Urawa Red Diamonds,1,2,Tosu,Japan,17.0,0.1,9.1,25.2
+663699,2023-07-01T10:00Z,Vissel Kobe,Consadole Sapporo,1,1,Kobe,Japan,35.0,0.3,14.0,23.3
+663700,2023-07-02T10:00Z,Yokohama F. Marinos,Shonan Bellmare,4,1,Yokohama,Japan,21.0,0,20.6,24.0
+663701,2023-07-07T10:00Z,Albirex Niigata,Vissel Kobe,0,1,Niigata,Japan,1.0,0,13.7,26.0
+663702,2023-07-08T09:00Z,Nagoya Grampus,Yokohama F. Marinos,2,2,Toyota,Japan,55.0,0.9,12.1,26.8
+663703,2023-07-08T09:30Z,Sanfrecce Hiroshima,Kashima Antlers,1,1,Hiroshima,Japan,16.0,1.7,13.1,25.2
+663706,2023-07-08T10:00Z,Avispa Fukuoka,Consadole Sapporo,2,1,"Hakata-ku, Fukuoka",Japan,,,,
+663705,2023-07-08T10:00Z,Gamba Osaka,Kyoto Sanga,1,0,Osaka,Japan,4.0,0,21.6,27.8
+663704,2023-07-08T10:00Z,Kashiwa Reysol,Shonan Bellmare,1,1,Kashiwa,Japan,24.0,1.6,13.7,26.5
+663707,2023-07-08T10:00Z,Kawasaki Frontale,Yokohama FC,3,0,Kawasaki,Japan,1.0,0.1,35.4,27.0
+663708,2023-07-08T10:00Z,Urawa Red Diamonds,FC Tokyo,0,0,Saitama,Japan,16.0,1.9,7.3,25.7
+663709,2023-07-08T10:30Z,Sagan Tosu,Cerezo Osaka,2,1,Tosu,Japan,17.0,1.3,20.1,26.0
+663710,2023-07-15T04:00Z,Consadole Sapporo,Albirex Niigata,0,1,Sapporo,Japan,26.0,4.9,27.4,20.3
+663711,2023-07-15T10:00Z,Yokohama F. Marinos,Kawasaki Frontale,0,1,Yokohama,Japan,21.0,0,31.0,27.1
+663712,2023-07-16T09:00Z,Sanfrecce Hiroshima,Yokohama FC,1,1,Hiroshima,Japan,16.0,0,12.5,27.4
+663716,2023-07-16T10:00Z,Cerezo Osaka,Urawa Red Diamonds,2,0,Osaka,Japan,4.0,0,18.9,27.7
+663718,2023-07-16T10:00Z,FC Tokyo,Kashima Antlers,1,3,Tokyo,Japan,44.0,0,10.4,32.4
+663715,2023-07-16T10:00Z,Gamba Osaka,Kashiwa Reysol,3,1,Osaka,Japan,4.0,0,18.9,27.7
+663714,2023-07-16T10:00Z,Kyoto Sanga,Nagoya Grampus,2,1,Kyoto,Japan,50.0,0,5.2,27.0
+663717,2023-07-16T10:00Z,Shonan Bellmare,Avispa Fukuoka,0,1,Shonan,Japan,36.0,0,9.8,28.8
+663713,2023-07-16T10:00Z,Vissel Kobe,Sagan Tosu,2,1,Kobe,Japan,35.0,0,16.5,26.3
+663664,2023-07-22T10:00Z,Vissel Kobe,Kawasaki Frontale,2,2,Kobe,Japan,35.0,0,9.4,26.0
+663719,2023-08-05T10:00Z,Nagoya Grampus,Albirex Niigata,1,0,Tokyo,Japan,44.0,0,36.1,29.2
+663720,2023-08-05T10:00Z,Shonan Bellmare,Sanfrecce Hiroshima,1,0,Shonan,Japan,36.0,0,26.2,28.3
+663721,2023-08-06T09:00Z,Kashima Antlers,Consadole Sapporo,3,0,Kashima,Japan,20.0,0,12.6,32.5
+663722,2023-08-06T09:30Z,Yokohama FC,Vissel Kobe,2,0,Yokohama,Japan,21.0,0.4,23.8,27.6
+663726,2023-08-06T10:00Z,Cerezo Osaka,FC Tokyo,0,1,Osaka,Japan,4.0,0,24.2,31.0
+663725,2023-08-06T10:00Z,Kawasaki Frontale,Gamba Osaka,3,4,Kawasaki,Japan,1.0,0.1,22.7,27.7
+663724,2023-08-06T10:00Z,Kyoto Sanga,Kashiwa Reysol,0,1,Kyoto,Japan,50.0,0,14.8,28.3
+663723,2023-08-06T10:00Z,Sagan Tosu,Avispa Fukuoka,0,1,Tosu,Japan,17.0,0,11.8,30.9
+663727,2023-08-06T10:00Z,Urawa Red Diamonds,Yokohama F. Marinos,0,0,Saitama,Japan,16.0,0,25.1,28.7
+663728,2023-08-12T05:00Z,Consadole Sapporo,Sagan Tosu,1,1,Sapporo,Japan,26.0,0,7.1,29.9
+663729,2023-08-12T09:00Z,Albirex Niigata,Shonan Bellmare,2,2,Niigata,Japan,1.0,0,17.1,27.4
+663730,2023-08-12T10:00Z,Avispa Fukuoka,Yokohama FC,2,0,"Hakata-ku, Fukuoka",Japan,,,,
+663731,2023-08-12T10:00Z,FC Tokyo,Kyoto Sanga,2,0,Tokyo,Japan,44.0,0,15.6,28.5
+663732,2023-08-12T10:00Z,Kashiwa Reysol,Cerezo Osaka,1,1,Kashiwa,Japan,24.0,0,11.2,28.0
+663733,2023-08-12T10:00Z,Kawasaki Frontale,Vissel Kobe,0,1,Kawasaki,Japan,1.0,0,12.2,29.2
+663734,2023-08-12T10:30Z,Yokohama F. Marinos,Gamba Osaka,2,1,Yokohama,Japan,21.0,0,3.7,28.9
+663735,2023-08-13T09:00Z,Nagoya Grampus,Kashima Antlers,1,0,Toyota,Japan,55.0,14.3,9.6,27.6
+663736,2023-08-13T09:00Z,Sanfrecce Hiroshima,Urawa Red Diamonds,2,1,Hiroshima,Japan,16.0,0,13.7,31.0
+663737,2023-08-18T10:00Z,Avispa Fukuoka,Albirex Niigata,0,1,"Hakata-ku, Fukuoka",Japan,,,,
+663742,2023-08-18T10:30Z,Urawa Red Diamonds,Nagoya Grampus,1,0,Saitama,Japan,16.0,0,13.7,28.6
+663738,2023-08-19T09:00Z,Kashima Antlers,Sagan Tosu,2,1,Kashima,Japan,20.0,0,5.6,30.1
+663739,2023-08-19T10:00Z,Gamba Osaka,Shonan Bellmare,2,1,Osaka,Japan,4.0,0,10.5,27.9
+663740,2023-08-19T10:00Z,Kyoto Sanga,Consadole Sapporo,3,0,Kyoto,Japan,50.0,0,4.8,28.5
+663741,2023-08-19T10:00Z,Sanfrecce Hiroshima,Kawasaki Frontale,3,2,Hiroshima,Japan,16.0,0,3.6,26.9
+663743,2023-08-19T10:00Z,Vissel Kobe,Kashiwa Reysol,1,1,Kobe,Japan,35.0,0,7.0,27.5
+663744,2023-08-19T10:30Z,Yokohama F. Marinos,FC Tokyo,2,1,Yokohama,Japan,21.0,0,10.1,27.8
+663745,2023-08-20T09:30Z,Yokohama FC,Cerezo Osaka,0,1,Yokohama,Japan,21.0,0.4,8.8,29.3
+663746,2023-08-25T10:00Z,Shonan Bellmare,Urawa Red Diamonds,0,1,Shonan,Japan,36.0,0,12.8,27.4
+663747,2023-08-26T09:00Z,Kashima Antlers,Albirex Niigata,2,0,Kashima,Japan,20.0,0.1,5.8,27.0
+663748,2023-08-26T09:30Z,Yokohama FC,Yokohama F. Marinos,4,1,Yokohama,Japan,21.0,0,12.2,25.6
+663753,2023-08-26T10:00Z,Cerezo Osaka,Nagoya Grampus,3,1,Osaka,Japan,4.0,0.3,7.6,27.9
+663752,2023-08-26T10:00Z,FC Tokyo,Vissel Kobe,2,2,Tokyo,Japan,44.0,0,11.4,24.8
+663754,2023-08-26T10:00Z,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,Kashiwa,Japan,24.0,0,8.8,24.4
+663751,2023-08-26T10:00Z,Kawasaki Frontale,Consadole Sapporo,2,2,Kawasaki,Japan,1.0,0,12.2,25.1
+663749,2023-08-26T10:00Z,Kyoto Sanga,Avispa Fukuoka,2,0,Kyoto,Japan,50.0,0,3.3,27.1
+663750,2023-08-26T10:00Z,Sagan Tosu,Gamba Osaka,1,1,Tosu,Japan,17.0,0,2.6,28.1
+663760,2023-09-02T04:00Z,Consadole Sapporo,Gamba Osaka,4,0,Sapporo,Japan,26.0,0.1,11.3,25.4
+663762,2023-09-02T09:00Z,Albirex Niigata,Urawa Red Diamonds,1,1,Niigata,Japan,1.0,0,7.4,28.2
+663757,2023-09-02T09:00Z,Nagoya Grampus,Yokohama FC,1,1,Toyota,Japan,55.0,0,8.6,28.4
+663761,2023-09-02T10:00Z,Cerezo Osaka,Kawasaki Frontale,3,0,Osaka,Japan,4.0,0,10.4,28.3
+663758,2023-09-02T10:00Z,Kashiwa Reysol,Yokohama F. Marinos,2,0,Kashiwa,Japan,24.0,0,14.3,29.3
+663756,2023-09-02T10:00Z,Sagan Tosu,Sanfrecce Hiroshima,0,2,Tosu,Japan,17.0,0,5.0,25.9
+663755,2023-09-02T10:00Z,Shonan Bellmare,Kashima Antlers,2,2,Shonan,Japan,36.0,0,8.0,27.6
+663763,2023-09-03T10:00Z,FC Tokyo,Avispa Fukuoka,1,2,Tokyo,Japan,44.0,0,22.7,29.2
+663759,2023-09-03T10:00Z,Vissel Kobe,Kyoto Sanga,2,1,Kobe,Japan,35.0,0,11.9,29.3
+663767,2023-09-15T10:00Z,Kawasaki Frontale,FC Tokyo,1,0,Kawasaki,Japan,1.0,0.1,8.5,26.7
+663764,2023-09-15T10:00Z,Yokohama F. Marinos,Sagan Tosu,1,1,Yokohama,Japan,21.0,0,11.7,25.9
+663765,2023-09-15T10:30Z,Urawa Red Diamonds,Kyoto Sanga,0,0,Saitama,Japan,16.0,1.9,3.6,26.1
+663768,2023-09-16T09:00Z,Kashima Antlers,Cerezo Osaka,1,0,Kashima,Japan,20.0,0.1,4.9,26.0
+663771,2023-09-16T10:00Z,Avispa Fukuoka,Nagoya Grampus,1,0,"Hakata-ku, Fukuoka",Japan,,,,
+663770,2023-09-16T10:00Z,Consadole Sapporo,Shonan Bellmare,0,1,Sapporo,Japan,26.0,0,8.4,19.0
+663766,2023-09-16T10:00Z,Sanfrecce Hiroshima,Vissel Kobe,2,0,Hiroshima,Japan,16.0,0,6.2,26.4
+663772,2023-09-17T09:30Z,Yokohama FC,Kashiwa Reysol,1,2,Yokohama,Japan,21.0,0,26.2,27.8
+663769,2023-09-17T10:00Z,Gamba Osaka,Albirex Niigata,1,1,Osaka,Japan,4.0,0,16.2,29.2
+663773,2023-09-23T05:00Z,Albirex Niigata,Yokohama FC,3,1,Niigata,Japan,1.0,0,17.3,24.6
+663774,2023-09-23T06:00Z,FC Tokyo,Sagan Tosu,3,2,Tokyo,Japan,44.0,0,21.7,24.6
+663777,2023-09-23T07:00Z,Nagoya Grampus,Consadole Sapporo,1,1,Toyota,Japan,55.0,0,16.1,26.0
+663779,2023-09-23T10:00Z,Kashiwa Reysol,Avispa Fukuoka,1,3,Kashiwa,Japan,24.0,0.1,13.1,22.5
+663778,2023-09-23T10:00Z,Kyoto Sanga,Sanfrecce Hiroshima,1,0,Kyoto,Japan,50.0,0,4.2,20.7
+663775,2023-09-23T10:00Z,Vissel Kobe,Cerezo Osaka,1,0,Kobe,Japan,35.0,0,12.3,22.0
+663780,2023-09-24T06:00Z,Kashima Antlers,Yokohama F. Marinos,1,2,Kashima,Japan,20.0,0,17.0,26.7
+663776,2023-09-24T07:00Z,Shonan Bellmare,Kawasaki Frontale,0,2,Tokyo,Japan,44.0,0,24.3,23.9
+663781,2023-09-24T08:00Z,Gamba Osaka,Urawa Red Diamonds,1,3,Osaka,Japan,4.0,0,14.9,27.5

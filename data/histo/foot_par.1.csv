@@ -1,0 +1,73 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+657435,2023-07-07T21:00Z,Resistencia SC,General Caballero JLM,1,1,Asunción,Paraguay,113.0,0,10.8,26.7
+657433,2023-07-07T23:30Z,Libertad,Nacional Asunción,2,0,Asunción,Paraguay,113.0,0,9.8,24.5
+657437,2023-07-08T20:00Z,Sportivo Trinidense,Sportivo Ameliano,3,2,Asunción,Paraguay,113.0,0.3,0.8,26.0
+657434,2023-07-08T22:30Z,Club Olimpia,Tacuary,1,2,Asunción,Paraguay,113.0,0.1,4.0,23.1
+657436,2023-07-09T20:00Z,Sportivo Luqueño,Guaraní,1,2,Luque,Paraguay,129.0,1.0,8.8,24.3
+657432,2023-07-09T22:30Z,Cerro Porteño,Guaireña,1,3,Asunción,Paraguay,113.0,0,6.2,22.8
+674922,2023-07-15T20:00Z,Resistencia SC,Club Olimpia,3,2,Ciudad del Este,Paraguay,197.0,0,6.4,17.7
+674927,2023-07-15T22:30Z,Sportivo Ameliano,Cerro Porteño,0,1,Encarnación,Paraguay,99.0,0,7.9,12.9
+674925,2023-07-16T20:00Z,General Caballero JLM,Sportivo Trinidense,2,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,2.4,21.0
+674926,2023-07-16T22:30Z,Guaraní,Libertad,0,3,Asunción,Paraguay,113.0,0,15.9,18.6
+674924,2023-07-17T21:00Z,Guaireña,Sportivo Luqueño,2,2,Villarrica,Paraguay,143.0,0,18.1,14.1
+674923,2023-07-17T23:30Z,Nacional Asunción,Tacuary,1,1,Asunción,Paraguay,113.0,0,14.5,13.6
+674933,2023-07-21T23:00Z,Tacuary,Guaraní,0,1,Asunción,Paraguay,113.0,0,25.8,25.9
+674932,2023-07-22T20:00Z,Sportivo Trinidense,Resistencia SC,1,2,Asunción,Paraguay,113.0,0,29.0,28.6
+674928,2023-07-22T22:30Z,Cerro Porteño,General Caballero JLM,2,0,Asunción,Paraguay,113.0,0,30.3,27.2
+674931,2023-07-23T20:00Z,Sportivo Luqueño,Sportivo Ameliano,1,2,Luque,Paraguay,129.0,0,13.1,29.0
+674930,2023-07-23T22:30Z,Club Olimpia,Nacional Asunción,1,2,Asunción,Paraguay,113.0,0,15.0,25.6
+674929,2023-07-24T23:00Z,Libertad,Guaireña,4,3,Asunción,Paraguay,113.0,0,6.5,22.6
+674935,2023-07-28T21:00Z,General Caballero JLM,Sportivo Luqueño,1,0,Doctor Juan León Mallorquín,Paraguay,247.0,0.6,4.9,20.8
+674934,2023-07-28T23:30Z,Guaraní,Nacional Asunción,1,1,Asunción,Paraguay,113.0,0,16.9,20.3
+674939,2023-07-29T20:30Z,Sportivo Trinidense,Club Olimpia,1,1,Encarnación,Paraguay,99.0,0,6.5,19.3
+674938,2023-07-29T23:00Z,Sportivo Ameliano,Libertad,0,2,Asunción,Paraguay,113.0,0,6.7,19.1
+674936,2023-07-30T20:00Z,Guaireña,Tacuary,1,2,Villarrica,Paraguay,143.0,0,7.3,25.5
+674937,2023-07-30T22:30Z,Resistencia SC,Cerro Porteño,0,1,Asunción,Paraguay,113.0,0,8.5,22.0
+674943,2023-08-04T23:00Z,Libertad,General Caballero JLM,0,0,Asunción,Paraguay,113.0,0,7.1,23.4
+674944,2023-08-05T20:30Z,Cerro Porteño,Sportivo Trinidense,4,1,Asunción,Paraguay,113.0,0,11.5,29.1
+674940,2023-08-05T23:00Z,Sportivo Luqueño,Resistencia SC,2,2,Luque,Paraguay,129.0,0,11.9,24.7
+674941,2023-08-06T20:00Z,Club Olimpia,Guaraní,5,3,Asunción,Paraguay,113.0,0,15.0,30.6
+674942,2023-08-06T22:30Z,Nacional Asunción,Guaireña,2,0,Asunción,Paraguay,113.0,0,15.4,27.3
+674945,2023-08-07T23:00Z,Tacuary,Sportivo Ameliano,2,2,Asunción,Paraguay,113.0,0,18.2,25.8
+674946,2023-08-11T23:00Z,Sportivo Ameliano,Nacional Asunción,2,0,Asunción,Paraguay,113.0,0,15.1,24.2
+674947,2023-08-12T21:00Z,Resistencia SC,Libertad,0,1,Asunción,Paraguay,113.0,0,23.5,17.6
+674948,2023-08-12T23:30Z,Guaireña,Guaraní,2,1,Villarrica,Paraguay,143.0,0,24.3,15.0
+674950,2023-08-13T20:30Z,Cerro Porteño,Club Olimpia,1,1,Asunción,Paraguay,113.0,0,13.8,16.5
+674949,2023-08-14T21:00Z,General Caballero JLM,Tacuary,0,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,4.0,23.0
+674951,2023-08-14T23:30Z,Sportivo Trinidense,Sportivo Luqueño,1,2,Asunción,Paraguay,113.0,0,8.0,17.9
+674955,2023-08-18T23:00Z,Club Olimpia,Guaireña,1,1,Asunción,Paraguay,113.0,0,10.1,19.3
+674952,2023-08-19T21:00Z,Guaraní,Sportivo Ameliano,0,3,Asunción,Paraguay,113.0,0,5.8,19.9
+674953,2023-08-19T23:30Z,Libertad,Sportivo Trinidense,0,1,Asunción,Paraguay,113.0,0,8.4,16.9
+674956,2023-08-20T21:00Z,Sportivo Luqueño,Cerro Porteño,2,2,Encarnación,Paraguay,99.0,0,5.2,20.7
+674954,2023-08-20T23:30Z,Nacional Asunción,General Caballero JLM,2,3,Asunción,Paraguay,113.0,0,7.2,20.0
+674957,2023-08-21T23:00Z,Tacuary,Resistencia SC,1,0,Asunción,Paraguay,113.0,0,18.7,26.3
+674961,2023-08-25T23:00Z,Sportivo Ameliano,Guaireña,4,0,Asunción,Paraguay,113.0,0,25.8,18.5
+674963,2023-08-26T21:00Z,Sportivo Trinidense,Tacuary,1,1,Asunción,Paraguay,113.0,0,20.3,18.3
+674958,2023-08-26T23:30Z,Cerro Porteño,Libertad,1,1,Asunción,Paraguay,113.0,0,20.8,16.0
+674962,2023-08-27T20:30Z,Sportivo Luqueño,Club Olimpia,0,1,Asunción,Paraguay,113.0,0,17.6,20.2
+674959,2023-08-27T23:00Z,General Caballero JLM,Guaraní,0,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,15.3,15.7
+674960,2023-08-28T23:00Z,Resistencia SC,Nacional Asunción,2,1,Asunción,Paraguay,113.0,0,13.6,20.7
+674964,2023-09-02T13:00Z,Guaireña,General Caballero JLM,2,1,Villarrica,Paraguay,143.0,0,23.7,21.5
+674969,2023-09-02T21:00Z,Tacuary,Cerro Porteño,1,1,Asunción,Paraguay,113.0,0,22.0,27.9
+674966,2023-09-02T23:30Z,Libertad,Sportivo Luqueño,2,0,Asunción,Paraguay,113.0,0,17.2,26.8
+674965,2023-09-03T20:30Z,Guaraní,Resistencia SC,3,2,Asunción,Paraguay,113.0,2.1,18.2,31.6
+674967,2023-09-03T23:00Z,Nacional Asunción,Sportivo Trinidense,1,2,Asunción,Paraguay,113.0,0.2,17.3,25.7
+674973,2023-09-09T20:30Z,Sportivo Trinidense,Guaraní,0,0,Asunción,Paraguay,113.0,0,1.4,25.0
+674970,2023-09-09T23:00Z,General Caballero JLM,Sportivo Ameliano,1,4,Doctor Juan León Mallorquín,Paraguay,247.0,0,5.6,22.3
+674974,2023-09-10T20:30Z,Sportivo Luqueño,Tacuary,3,1,Luque,Paraguay,129.0,0,13.6,28.9
+674971,2023-09-10T23:00Z,Cerro Porteño,Nacional Asunción,1,1,Asunción,Paraguay,113.0,0,11.4,25.2
+674975,2023-09-11T23:30Z,Resistencia SC,Guaireña,1,0,Asunción,Paraguay,113.0,0,20.3,29.3
+674977,2023-09-15T21:00Z,Guaireña,Sportivo Trinidense,2,0,Villarrica,Paraguay,143.0,0,6.5,21.1
+674980,2023-09-15T23:30Z,Nacional Asunción,Sportivo Luqueño,2,1,Asunción,Paraguay,113.0,0,8.5,17.3
+674981,2023-09-16T20:30Z,Tacuary,Libertad,0,4,Asunción,Paraguay,113.0,0,22.9,29.8
+674979,2023-09-16T23:00Z,Club Olimpia,General Caballero JLM,3,1,Asunción,Paraguay,113.0,0,19.4,26.8
+674978,2023-09-17T20:30Z,Sportivo Ameliano,Resistencia SC,1,2,Asunción,Paraguay,113.0,0,26.6,32.6
+674976,2023-09-17T23:00Z,Guaraní,Cerro Porteño,1,0,Asunción,Paraguay,113.0,0,28.7,31.5
+674968,2023-09-20T23:30Z,Club Olimpia,Sportivo Ameliano,4,0,Asunción,Paraguay,113.0,0,7.6,26.7
+674983,2023-09-22T21:30Z,General Caballero JLM,Resistencia SC,2,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,5.2,31.9
+674984,2023-09-23T00:00Z,Guaireña,Cerro Porteño,1,4,Villarrica,Paraguay,143.0,0,11.8,28.6
+674987,2023-09-23T21:30Z,Tacuary,Club Olimpia,0,0,Asunción,Paraguay,113.0,0,9.2,33.1
+674985,2023-09-24T00:00Z,Nacional Asunción,Libertad,2,3,Asunción,Paraguay,113.0,0,13.6,30.7
+674982,2023-09-24T21:30Z,Guaraní,Sportivo Luqueño,2,1,Asunción,Paraguay,113.0,0,4.9,34.1
+674986,2023-09-25T00:00Z,Sportivo Ameliano,Sportivo Trinidense,0,3,Asunción,Paraguay,113.0,0,7.9,29.8
+674972,2023-09-27T23:30Z,Libertad,Club Olimpia,4,0,Asunción,Paraguay,113.0,0,13.6,18.1

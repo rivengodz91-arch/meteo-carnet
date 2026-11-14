@@ -1,0 +1,47 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+672142,2023-07-22T16:00Z,Grasshoppers,Servette,1,3,Zürich,Switzerland,429.0,0,12.0,23.8
+672143,2023-07-22T16:00Z,St. Gallen,FC Basel,2,1,St. Gallen,Switzerland,684.0,0,10.1,21.0
+672144,2023-07-22T18:30Z,Winterthur,FC Luzern,0,0,Winterthur,Switzerland,441.0,0,6.0,22.3
+672146,2023-07-23T14:30Z,FC Zürich,Yverdon,2,0,Zürich,Switzerland,429.0,0,12.1,26.8
+672145,2023-07-23T14:30Z,Young Boys,Lausanne Sports,2,1,Bern,Switzerland,549.0,0,20.3,26.7
+672147,2023-07-26T18:30Z,FC Stade Lausanne-Ouchy,FC Lugano,0,3,Lausanne,Switzerland,453.0,0,2.2,18.2
+672149,2023-07-29T16:00Z,FC Lugano,St. Gallen,1,0,Lugano,Switzerland,284.0,0.7,0.8,26.1
+672148,2023-07-29T16:00Z,Lausanne Sports,Grasshoppers,1,1,Lausanne,Switzerland,453.0,0,5.4,21.2
+672150,2023-07-29T18:30Z,Servette,FC Zürich,2,2,Geneva,Switzerland,400.0,1.1,5.0,23.1
+672151,2023-07-30T12:15Z,FC Luzern,FC Stade Lausanne-Ouchy,2,1,Luzern,Switzerland,437.0,0.1,10.4,23.4
+672152,2023-07-30T14:30Z,FC Basel,Winterthur,5,2,Basel,Switzerland,279.0,0,22.5,22.7
+672153,2023-07-30T14:30Z,Yverdon,Young Boys,2,2,Neuchâtel,Switzerland,441.0,0,17.0,23.4
+672154,2023-08-05T16:00Z,FC Stade Lausanne-Ouchy,Servette,1,1,Lausanne,Switzerland,453.0,0,9.7,20.2
+672155,2023-08-05T16:00Z,Young Boys,Winterthur,5,2,Bern,Switzerland,549.0,0,9.1,20.0
+672156,2023-08-05T18:30Z,FC Zürich,FC Lugano,3,0,Zürich,Switzerland,429.0,0,2.8,18.4
+672157,2023-08-06T12:15Z,Lausanne Sports,Yverdon,1,2,Lausanne,Switzerland,453.0,0.1,20.1,15.0
+672158,2023-08-06T14:30Z,Grasshoppers,FC Basel,3,1,Zürich,Switzerland,429.0,0.2,19.8,13.9
+672159,2023-08-06T14:30Z,St. Gallen,FC Luzern,2,1,St. Gallen,Switzerland,684.0,1.1,26.2,13.4
+672161,2023-08-12T16:00Z,FC Stade Lausanne-Ouchy,FC Zürich,0,3,Lausanne,Switzerland,453.0,0,8.9,26.6
+672160,2023-08-12T16:00Z,Winterthur,Grasshoppers,3,1,Winterthur,Switzerland,441.0,0,16.6,26.0
+672162,2023-08-12T18:30Z,Servette,St. Gallen,1,1,Geneva,Switzerland,400.0,0,2.9,28.8
+672163,2023-08-13T12:15Z,FC Basel,Lausanne Sports,1,2,Basel,Switzerland,279.0,0.7,5.8,28.2
+672164,2023-08-13T14:30Z,FC Lugano,Yverdon,6,1,Lugano,Switzerland,284.0,0.1,7.8,31.0
+672165,2023-08-13T14:30Z,FC Luzern,Young Boys,1,1,Luzern,Switzerland,437.0,0,1.3,28.3
+672166,2023-08-26T16:00Z,FC Zürich,St. Gallen,1,1,Zürich,Switzerland,429.0,0,4.7,17.0
+672167,2023-08-26T16:00Z,Yverdon,Servette,4,1,Neuchâtel,Switzerland,441.0,2.5,0.8,20.9
+672170,2023-08-27T14:30Z,Grasshoppers,FC Luzern,0,1,Zürich,Switzerland,429.0,1.8,5.1,16.7
+672171,2023-08-27T14:30Z,Lausanne Sports,Winterthur,2,5,Lausanne,Switzerland,453.0,0.2,12.0,18.4
+672173,2023-09-02T16:00Z,FC Stade Lausanne-Ouchy,Grasshoppers,2,1,Lausanne,Switzerland,453.0,0,4.7,25.6
+672172,2023-09-02T16:00Z,St. Gallen,Lausanne Sports,2,1,St. Gallen,Switzerland,684.0,0,2.6,22.4
+672174,2023-09-02T18:30Z,Winterthur,Yverdon,1,1,Winterthur,Switzerland,441.0,0,4.8,21.2
+672175,2023-09-03T12:15Z,Servette,Young Boys,0,1,Geneva,Switzerland,400.0,0,11.5,25.9
+672176,2023-09-03T14:30Z,FC Basel,FC Zürich,2,2,Basel,Switzerland,279.0,0,8.4,25.9
+672177,2023-09-03T14:30Z,FC Luzern,FC Lugano,3,2,Luzern,Switzerland,437.0,0,6.9,25.5
+672178,2023-09-23T16:00Z,Lausanne Sports,FC Zürich,0,0,Lausanne,Switzerland,453.0,0,3.5,15.8
+672179,2023-09-23T16:00Z,Winterthur,FC Stade Lausanne-Ouchy,2,1,Winterthur,Switzerland,441.0,0,4.8,14.7
+672180,2023-09-23T18:30Z,Grasshoppers,St. Gallen,1,1,Zürich,Switzerland,429.0,0,6.8,11.5
+672181,2023-09-24T12:15Z,Yverdon,FC Basel,3,2,Yverdon-les-Bains,Switzerland,438.0,0,17.7,16.7
+672182,2023-09-24T14:30Z,FC Luzern,Servette,2,0,Luzern,Switzerland,437.0,0,8.7,18.3
+672183,2023-09-24T14:30Z,Young Boys,FC Lugano,4,1,Bern,Switzerland,549.0,0,18.7,16.8
+672184,2023-09-26T18:30Z,FC Zürich,Grasshoppers,2,1,Zürich,Switzerland,429.0,0,2.4,17.7
+672185,2023-09-27T18:30Z,FC Lugano,Lausanne Sports,2,1,Lugano,Switzerland,284.0,0,2.5,20.9
+672186,2023-09-27T18:30Z,Servette,Winterthur,2,2,Geneva,Switzerland,400.0,0,5.2,21.3
+672187,2023-09-27T18:30Z,St. Gallen,Young Boys,2,1,St. Gallen,Switzerland,684.0,0,3.9,15.3
+672188,2023-09-28T18:30Z,FC Basel,FC Luzern,1,1,Basel,Switzerland,279.0,0,3.1,19.6
+672189,2023-09-28T18:30Z,FC Stade Lausanne-Ouchy,Yverdon,1,1,Lausanne,Switzerland,453.0,0,2.6,20.9

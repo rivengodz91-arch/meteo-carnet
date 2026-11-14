@@ -1,0 +1,82 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+656513,2023-07-01T18:00Z,Barracas Central,River Plate,2,1,Buenos Aires,Argentina,31.0,0,9.0,15.0
+656521,2023-07-01T20:30Z,San Lorenzo,Rosario Central,1,0,Buenos Aires,Argentina,31.0,0,11.8,13.5
+656524,2023-07-01T22:00Z,Estudiantes de La Plata,Central Córdoba (Santiago del Estero),1,1,La Plata,Argentina,27.0,0,9.7,10.4
+656523,2023-07-02T00:30Z,Talleres (Córdoba),Godoy Cruz Antonio Tomba,1,1,Córdoba,Argentina,378.0,0,15.0,14.3
+656517,2023-07-02T18:00Z,Independiente,Huracán,1,0,Avellaneda,Argentina,13.0,0,16.6,18.8
+656515,2023-07-02T20:00Z,Colón (Santa Fe),Racing Club,0,4,"Rosario, Santa Fe",Argentina,38.0,0,18.5,23.3
+656522,2023-07-02T22:00Z,Instituto (Córdoba),Belgrano (Córdoba),1,0,Córdoba,Argentina,378.0,0,8.7,21.0
+656512,2023-07-02T22:30Z,Banfield,Argentinos Juniors,1,0,Buenos Aires,Argentina,31.0,0,25.3,17.6
+656516,2023-07-02T22:30Z,Defensa y Justicia,Tigre,1,0,Buenos Aires,Argentina,31.0,0,25.3,17.6
+656514,2023-07-03T00:30Z,Boca Juniors,Sarmiento (Junín),2,0,Buenos Aires,Argentina,31.0,0,28.1,16.6
+656519,2023-07-03T23:00Z,Newell's Old Boys,Gimnasia La Plata,2,2,Rosario,Argentina,38.0,0,9.7,19.2
+656532,2023-07-04T23:00Z,Lanús,Vélez Sarsfield,0,1,Buenos Aires,Argentina,31.0,0.9,18.0,19.0
+656530,2023-07-05T18:30Z,Godoy Cruz Antonio Tomba,Platense,2,1,Mendoza,Argentina,853.0,0,5.4,12.7
+656537,2023-07-05T20:00Z,Tigre,Banfield,1,2,Buenos Aires,Argentina,31.0,0,14.4,15.9
+656535,2023-07-05T21:00Z,Rosario Central,Estudiantes de La Plata,0,0,Rosario,Argentina,38.0,0,13.1,19.5
+656533,2023-07-05T22:30Z,Racing Club,San Lorenzo,1,1,Buenos Aires,Argentina,31.0,0,18.2,13.8
+656534,2023-07-06T00:30Z,River Plate,Colón (Santa Fe),2,0,Buenos Aires,Argentina,31.0,2.3,14.0,14.1
+656526,2023-07-06T17:00Z,Arsenal Sarandi,Defensa y Justicia,1,2,Buenos Aires,Argentina,31.0,0,17.5,17.5
+656538,2023-07-06T20:00Z,Unión (Santa Fe),Boca Juniors,0,0,"Rosario, Santa Fe",Argentina,38.0,0,16.8,17.2
+656525,2023-07-06T22:00Z,Argentinos Juniors,Instituto (Córdoba),0,0,Buenos Aires,Argentina,31.0,0,7.3,12.5
+656536,2023-07-06T22:00Z,Sarmiento (Junín),Talleres (Córdoba),0,1,Junin,Argentina,73.0,0,13.4,13.4
+656527,2023-07-07T00:30Z,Belgrano (Córdoba),Barracas Central,0,2,Córdoba,Argentina,378.0,0,10.2,12.8
+656531,2023-07-07T00:30Z,Huracán,Atlético Tucumán,0,1,Buenos Aires,Argentina,31.0,0,7.7,10.6
+656529,2023-07-07T22:00Z,Gimnasia La Plata,Independiente,1,1,La Plata,Argentina,27.0,0,15.5,10.6
+656528,2023-07-08T00:30Z,Central Córdoba (Santiago del Estero),Newell's Old Boys,2,0,Santiago del Estero,Argentina,176.0,0,7.4,15.9
+656545,2023-07-08T21:00Z,Estudiantes de La Plata,Racing Club,0,0,La Plata,Argentina,27.0,0,16.6,12.5
+656549,2023-07-08T23:30Z,San Lorenzo,River Plate,0,0,Buenos Aires,Argentina,31.0,0,15.1,13.2
+656550,2023-07-09T18:30Z,Instituto (Córdoba),Tigre,0,1,Córdoba,Argentina,378.0,0,8.0,16.1
+656547,2023-07-09T18:30Z,Platense,Sarmiento (Junín),1,0,Buenos Aires,Argentina,31.0,0.5,6.7,15.4
+656552,2023-07-09T21:00Z,Vélez Sarsfield,Godoy Cruz Antonio Tomba,1,1,Buenos Aires,Argentina,31.0,0.3,9.7,14.6
+656540,2023-07-09T23:30Z,Banfield,Arsenal Sarandi,0,0,Buenos Aires,Argentina,31.0,0,8.4,12.9
+656544,2023-07-09T23:30Z,Defensa y Justicia,Lanús,2,2,Buenos Aires,Argentina,31.0,0,8.4,12.9
+656541,2023-07-10T17:00Z,Barracas Central,Argentinos Juniors,0,0,Buenos Aires,Argentina,31.0,0,11.8,14.7
+656543,2023-07-10T19:30Z,Colón (Santa Fe),Belgrano (Córdoba),0,0,"Rosario, Santa Fe",Argentina,38.0,0.2,12.7,14.7
+656542,2023-07-10T22:30Z,Boca Juniors,Huracán,1,0,Buenos Aires,Argentina,31.0,0,4.9,11.4
+656551,2023-07-11T00:30Z,Talleres (Córdoba),Unión (Santa Fe),0,0,Córdoba,Argentina,378.0,1.0,10.1,12.2
+656548,2023-07-11T21:45Z,Rosario Central,Central Córdoba (Santiago del Estero),2,0,Rosario,Argentina,38.0,0,18.9,13.1
+656546,2023-07-11T23:00Z,Independiente,Newell's Old Boys,0,2,Avellaneda,Argentina,13.0,0,24.8,9.7
+656539,2023-07-12T00:30Z,Atlético Tucumán,Gimnasia La Plata,2,0,Tucuman,Argentina,735.0,0.1,17.7,9.4
+656558,2023-07-14T22:00Z,Godoy Cruz Antonio Tomba,Defensa y Justicia,2,2,Mendoza,Argentina,853.0,0,1.8,6.4
+656564,2023-07-14T22:00Z,Sarmiento (Junín),Vélez Sarsfield,1,1,Junin,Argentina,73.0,0,14.5,8.2
+656559,2023-07-15T00:30Z,Huracán,Talleres (Córdoba),0,1,Buenos Aires,Argentina,31.0,0,10.7,8.8
+656566,2023-07-15T17:00Z,Unión (Santa Fe),Platense,0,0,"Rosario, Santa Fe",Argentina,38.0,0,12.4,12.6
+656562,2023-07-15T19:00Z,Racing Club,Rosario Central,1,1,Buenos Aires,Argentina,31.0,0,22.5,13.3
+656563,2023-07-15T22:00Z,River Plate,Estudiantes de La Plata,3,1,Buenos Aires,Argentina,31.0,0,11.7,11.7
+656555,2023-07-16T17:00Z,Belgrano (Córdoba),San Lorenzo,0,1,Córdoba,Argentina,378.0,0,6.1,11.6
+656557,2023-07-16T19:30Z,Gimnasia La Plata,Boca Juniors,1,3,La Plata,Argentina,27.0,0,17.7,11.2
+656560,2023-07-16T22:00Z,Lanús,Banfield,2,2,Buenos Aires,Argentina,31.0,0,10.2,7.5
+656553,2023-07-17T00:30Z,Argentinos Juniors,Colón (Santa Fe),1,0,Buenos Aires,Argentina,31.0,0,10.2,5.9
+656556,2023-07-17T00:30Z,Central Córdoba (Santiago del Estero),Independiente,0,1,Santiago del Estero,Argentina,176.0,0,8.7,13.4
+656554,2023-07-17T21:00Z,Arsenal Sarandi,Instituto (Córdoba),0,2,Buenos Aires,Argentina,31.0,0,7.7,6.9
+656565,2023-07-17T21:00Z,Tigre,Barracas Central,0,1,Buenos Aires,Argentina,31.0,0,7.7,6.9
+656561,2023-07-17T23:30Z,Newell's Old Boys,Atlético Tucumán,0,0,Rosario,Argentina,38.0,0,9.9,4.5
+656577,2023-07-22T18:30Z,San Lorenzo,Argentinos Juniors,0,2,Buenos Aires,Argentina,31.0,0,30.7,25.6
+656580,2023-07-22T21:00Z,Estudiantes de La Plata,Belgrano (Córdoba),4,0,La Plata,Argentina,27.0,0,24.6,21.6
+656573,2023-07-22T23:30Z,Platense,Huracán,0,1,Buenos Aires,Argentina,31.0,4.0,31.1,16.1
+656567,2023-07-23T19:30Z,Atlético Tucumán,Independiente,1,0,Tucuman,Argentina,735.0,0,15.0,18.8
+656572,2023-07-23T21:45Z,Defensa y Justicia,Sarmiento (Junín),3,0,Buenos Aires,Argentina,31.0,0,12.1,13.4
+656576,2023-07-24T00:00Z,Rosario Central,River Plate,3,3,Rosario,Argentina,38.0,0,15.5,13.4
+656579,2023-07-24T19:30Z,Talleres (Córdoba),Gimnasia La Plata,2,2,Córdoba,Argentina,378.0,0,6.6,14.7
+656574,2023-07-24T19:30Z,Vélez Sarsfield,Unión (Santa Fe),0,0,Buenos Aires,Argentina,31.0,0,23.9,11.3
+656568,2023-07-24T21:30Z,Banfield,Godoy Cruz Antonio Tomba,2,0,Buenos Aires,Argentina,31.0,0,18.2,10.6
+656575,2023-07-24T22:30Z,Racing Club,Central Córdoba (Santiago del Estero),3,1,Buenos Aires,Argentina,31.0,0,17.6,9.8
+656570,2023-07-24T23:45Z,Boca Juniors,Newell's Old Boys,2,1,Buenos Aires,Argentina,31.0,0,18.8,9.3
+656569,2023-07-25T18:30Z,Barracas Central,Arsenal Sarandi,0,0,Buenos Aires,Argentina,31.0,0,17.0,13.6
+656571,2023-07-25T21:00Z,Colón (Santa Fe),Tigre,1,3,"Rosario, Santa Fe",Argentina,38.0,0,7.3,11.9
+656578,2023-07-25T23:30Z,Instituto (Córdoba),Lanús,2,1,Córdoba,Argentina,378.0,0,8.1,9.5
+656593,2023-07-28T19:30Z,Argentinos Juniors,Estudiantes de La Plata,2,3,Buenos Aires,Argentina,31.0,0,13.2,12.0
+656592,2023-07-28T19:30Z,Unión (Santa Fe),Defensa y Justicia,2,0,"Rosario, Santa Fe",Argentina,38.0,0,5.4,16.9
+656581,2023-07-28T22:00Z,Belgrano (Córdoba),Rosario Central,0,0,Córdoba,Argentina,378.0,0,8.0,13.7
+656588,2023-07-28T22:00Z,Newell's Old Boys,Talleres (Córdoba),1,1,Rosario,Argentina,38.0,0,7.9,11.3
+656589,2023-07-29T00:30Z,River Plate,Racing Club,2,1,Buenos Aires,Argentina,31.0,0,11.9,10.3
+656582,2023-07-29T17:30Z,Central Córdoba (Santiago del Estero),Atlético Tucumán,0,2,Santiago del Estero,Argentina,176.0,0,14.4,21.3
+656590,2023-07-29T18:00Z,Sarmiento (Junín),Banfield,0,0,Junin,Argentina,73.0,0,23.0,18.6
+656586,2023-07-29T20:00Z,Independiente,Boca Juniors,0,2,Avellaneda,Argentina,13.0,0,20.1,15.1
+656591,2023-07-29T23:00Z,Tigre,San Lorenzo,2,0,Buenos Aires,Argentina,31.0,0,23.0,13.5
+656594,2023-07-30T18:00Z,Arsenal Sarandi,Colón (Santa Fe),2,0,Buenos Aires,Argentina,31.0,0,10.8,18.4
+656587,2023-07-30T18:00Z,Lanús,Barracas Central,2,0,Buenos Aires,Argentina,31.0,0,10.8,18.4
+656583,2023-07-30T20:30Z,Gimnasia La Plata,Platense,1,1,La Plata,Argentina,27.0,0,13.9,15.9
+656585,2023-07-30T20:30Z,Huracán,Vélez Sarsfield,1,0,Buenos Aires,Argentina,31.0,0,10.8,17.5
+656584,2023-07-30T23:00Z,Godoy Cruz Antonio Tomba,Instituto (Córdoba),4,2,Mendoza,Argentina,853.0,0,1.8,18.4

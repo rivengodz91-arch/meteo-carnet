@@ -1,0 +1,55 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+670873,2023-07-21T17:00Z,FC Midtjylland,Hvidovre IF,1,0,Herning,Denmark,60.0,0,19.5,15.3
+670874,2023-07-22T14:00Z,Lyngby Boldklub,F.C. København,1,2,Lyngby,Denmark,19.0,0.2,20.9,16.0
+670875,2023-07-23T12:00Z,AGF,Vejle Boldklub,1,0,Aarhus,Denmark,10.0,2.7,17.3,15.3
+670876,2023-07-23T14:00Z,Odense Boldklub,Randers FC,2,2,Odense,Denmark,17.0,2.3,17.2,16.1
+670877,2023-07-23T16:00Z,Silkeborg IF,Brøndby IF,1,2,Silkeborg,Denmark,19.0,1.9,13.5,15.6
+670878,2023-07-24T17:00Z,FC Nordsjælland,Viborg FF,4,1,Farum,Denmark,33.0,0.9,9.3,18.4
+670879,2023-07-28T17:00Z,Viborg FF,Lyngby Boldklub,2,2,Viborg,Denmark,50.0,0,8.4,20.4
+670880,2023-07-29T14:00Z,Vejle Boldklub,F.C. København,2,3,Vejle,Denmark,5.0,0.2,18.4,20.1
+670881,2023-07-30T12:00Z,FC Midtjylland,Silkeborg IF,2,0,Herning,Denmark,60.0,4.0,13.8,17.4
+670882,2023-07-30T14:00Z,Randers FC,Hvidovre IF,2,2,Randers,Denmark,12.0,2.0,13.7,19.8
+670883,2023-07-30T16:00Z,Brøndby IF,Odense Boldklub,1,2,Brøndby,Denmark,11.0,0.6,25.9,18.9
+670884,2023-07-31T17:00Z,AGF,FC Nordsjælland,1,3,Aarhus,Denmark,10.0,0.1,11.7,18.9
+670886,2023-08-04T17:00Z,Silkeborg IF,Vejle Boldklub,2,1,Silkeborg,Denmark,19.0,0,22.5,16.0
+670885,2023-08-05T14:00Z,F.C. København,Randers FC,4,0,Copenhagen,Denmark,14.0,0.2,11.8,18.1
+670887,2023-08-06T12:00Z,Hvidovre IF,AGF,0,2,Hvidovre,Denmark,5.0,0.7,15.0,16.2
+670888,2023-08-06T14:00Z,Lyngby Boldklub,FC Midtjylland,4,1,Lyngby,Denmark,19.0,0,16.4,17.9
+670889,2023-08-06T16:00Z,FC Nordsjælland,Brøndby IF,3,1,Farum,Denmark,33.0,3.0,14.5,14.6
+670890,2023-08-07T17:00Z,Odense Boldklub,Viborg FF,1,2,Odense,Denmark,17.0,0,36.1,15.3
+670894,2023-08-11T17:00Z,F.C. København,Odense Boldklub,2,1,Copenhagen,Denmark,14.0,0,14.3,17.6
+670891,2023-08-13T12:00Z,Randers FC,FC Nordsjælland,0,5,Randers,Denmark,12.0,0.3,19.4,21.3
+670892,2023-08-13T12:00Z,Vejle Boldklub,FC Midtjylland,1,2,Vejle,Denmark,5.0,0.3,20.7,20.2
+670893,2023-08-13T14:00Z,Brøndby IF,Lyngby Boldklub,3,0,Brøndby,Denmark,11.0,0,15.5,21.5
+670895,2023-08-13T16:00Z,AGF,Silkeborg IF,2,2,Aarhus,Denmark,10.0,0,18.4,19.7
+670896,2023-08-14T17:00Z,Viborg FF,Hvidovre IF,0,0,Viborg,Denmark,50.0,0,7.7,19.8
+670897,2023-08-18T17:00Z,Hvidovre IF,F.C. København,0,2,Hvidovre,Denmark,5.0,0,14.5,20.4
+670898,2023-08-20T12:00Z,Silkeborg IF,FC Nordsjælland,2,0,Silkeborg,Denmark,19.0,0.1,12.3,22.2
+670899,2023-08-20T14:00Z,Lyngby Boldklub,Randers FC,1,0,Lyngby,Denmark,19.0,0,17.1,19.9
+670900,2023-08-20T16:00Z,FC Midtjylland,Brøndby IF,0,1,Herning,Denmark,60.0,0.5,14.7,20.8
+670901,2023-08-20T18:00Z,Odense Boldklub,AGF,1,1,Odense,Denmark,17.0,0,9.6,20.1
+670902,2023-08-21T17:00Z,Viborg FF,Vejle Boldklub,2,1,Viborg,Denmark,50.0,0,10.4,20.0
+670903,2023-08-25T16:30Z,Randers FC,Viborg FF,1,0,Randers,Denmark,12.0,0,13.9,20.6
+670904,2023-08-26T14:00Z,F.C. København,Silkeborg IF,1,3,Copenhagen,Denmark,14.0,0.1,23.1,19.5
+670905,2023-08-27T12:00Z,AGF,Lyngby Boldklub,1,0,Aarhus,Denmark,10.0,5.1,16.2,18.1
+670906,2023-08-27T14:00Z,Hvidovre IF,Odense Boldklub,1,5,Hvidovre,Denmark,5.0,0,15.6,19.4
+670907,2023-08-27T16:00Z,FC Nordsjælland,FC Midtjylland,3,0,Farum,Denmark,33.0,3.5,12.8,15.5
+670908,2023-08-28T17:00Z,Vejle Boldklub,Brøndby IF,0,1,Vejle,Denmark,5.0,0,15.7,16.6
+670909,2023-09-01T17:00Z,Odense Boldklub,Vejle Boldklub,1,2,Odense,Denmark,17.0,0,8.7,18.9
+670911,2023-09-03T12:00Z,Lyngby Boldklub,FC Nordsjælland,1,1,Lyngby,Denmark,19.0,0,23.0,17.7
+670910,2023-09-03T12:00Z,Silkeborg IF,Hvidovre IF,1,0,Silkeborg,Denmark,19.0,0,17.6,18.2
+670912,2023-09-03T14:00Z,Brøndby IF,Randers FC,3,1,Brøndby,Denmark,11.0,0,20.6,18.4
+670913,2023-09-03T16:00Z,F.C. København,Viborg FF,2,0,Copenhagen,Denmark,14.0,0,13.7,17.4
+670914,2023-09-03T18:00Z,FC Midtjylland,AGF,1,1,Herning,Denmark,60.0,0,16.1,16.4
+670916,2023-09-15T17:00Z,Viborg FF,FC Midtjylland,2,2,Viborg,Denmark,50.0,0,9.1,16.3
+670918,2023-09-16T14:00Z,FC Nordsjælland,F.C. København,2,2,Farum,Denmark,33.0,0,18.0,19.7
+670919,2023-09-17T12:00Z,Vejle Boldklub,Randers FC,1,2,Vejle,Denmark,5.0,0.1,15.9,21.5
+670920,2023-09-17T14:00Z,Hvidovre IF,Lyngby Boldklub,0,1,Hvidovre,Denmark,5.0,0,16.2,21.0
+670917,2023-09-17T16:00Z,AGF,Brøndby IF,0,3,Aarhus,Denmark,10.0,0,12.2,19.5
+670915,2023-09-18T17:00Z,Odense Boldklub,Silkeborg IF,0,3,Odense,Denmark,17.0,0,16.8,19.3
+670922,2023-09-22T17:00Z,Lyngby Boldklub,Vejle Boldklub,1,1,Lyngby,Denmark,19.0,0,5.5,13.6
+670926,2023-09-24T12:00Z,Brøndby IF,F.C. København,2,3,Brøndby,Denmark,11.0,0,13.4,17.4
+670923,2023-09-24T12:00Z,Silkeborg IF,Viborg FF,2,0,Silkeborg,Denmark,19.0,0.1,21.9,16.5
+670921,2023-09-24T14:00Z,Randers FC,AGF,1,1,Randers,Denmark,12.0,0,18.7,16.4
+670925,2023-09-24T16:00Z,FC Midtjylland,Odense Boldklub,2,1,Herning,Denmark,60.0,0,19.6,16.2
+670924,2023-09-25T17:00Z,FC Nordsjælland,Hvidovre IF,0,0,Farum,Denmark,33.0,0,13.0,15.4

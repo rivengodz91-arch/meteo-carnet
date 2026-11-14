@@ -1,0 +1,46 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+677584,2023-08-18T18:30Z,Werder Bremen,Bayern Munich,0,4,Bremen,Germany,17.0,3.9,10.8,25.0
+677586,2023-08-19T13:30Z,Bayer Leverkusen,RB Leipzig,3,2,Leverkusen,Germany,52.0,5.2,8.3,25.8
+677589,2023-08-19T13:30Z,FC Augsburg,Borussia Mönchengladbach,4,4,Augsburg,Germany,489.0,0,3.6,31.4
+677590,2023-08-19T13:30Z,TSG Hoffenheim,SC Freiburg,1,2,Sinsheim,Germany,162.0,0,11.7,31.3
+677591,2023-08-19T13:30Z,VfB Stuttgart,VfL Bochum,5,0,Stuttgart,Germany,252.0,0,7.2,32.1
+677592,2023-08-19T13:30Z,VfL Wolfsburg,1. FC Heidenheim 1846,2,0,Wolfsburg,Germany,65.0,0,12.1,31.1
+677587,2023-08-19T16:30Z,Borussia Dortmund,FC Cologne,1,0,Aue,Germany,399.0,0,4.3,29.1
+677585,2023-08-20T13:30Z,1. FC Union Berlin,Mainz,4,1,Berlin,Germany,74.0,0,10.1,28.7
+677588,2023-08-20T15:30Z,Eintracht Frankfurt,SV Darmstadt 98,1,0,Frankfurt,Germany,113.0,0,4.4,30.1
+677598,2023-08-25T18:30Z,RB Leipzig,VfB Stuttgart,5,1,Leipzig,Germany,116.0,0,8.0,21.0
+677593,2023-08-26T13:30Z,1. FC Heidenheim 1846,TSG Hoffenheim,2,3,Heidenheim,Germany,494.0,2.9,4.1,18.9
+677594,2023-08-26T13:30Z,FC Cologne,VfL Wolfsburg,1,2,Cologne,Germany,58.0,0,16.0,21.7
+677599,2023-08-26T13:30Z,SC Freiburg,Werder Bremen,1,0,Freiburg im Breisgau,Germany,278.0,0.6,13.2,18.3
+677600,2023-08-26T13:30Z,SV Darmstadt 98,1. FC Union Berlin,1,4,Darmstadt,Germany,148.0,0,9.5,21.9
+677601,2023-08-26T13:30Z,VfL Bochum,Borussia Dortmund,1,1,Bochum,Germany,102.0,0.2,18.6,21.0
+677596,2023-08-26T16:30Z,Borussia Mönchengladbach,Bayer Leverkusen,0,3,Mönchengladbach,Germany,57.0,0,16.5,21.0
+677595,2023-08-27T13:30Z,Mainz,Eintracht Frankfurt,1,1,Mainz,Germany,125.0,0.2,9.0,19.8
+677597,2023-08-27T15:30Z,Bayern Munich,FC Augsburg,3,1,München,Germany,524.0,1.6,2.8,16.3
+677604,2023-09-01T18:30Z,Borussia Dortmund,1. FC Heidenheim 1846,2,2,Aue,Germany,399.0,0.4,12.9,16.9
+677603,2023-09-02T13:30Z,Bayer Leverkusen,SV Darmstadt 98,5,1,Leverkusen,Germany,52.0,0.1,5.5,23.4
+677607,2023-09-02T13:30Z,FC Augsburg,VfL Bochum,2,2,Augsburg,Germany,489.0,0,5.0,24.7
+677609,2023-09-02T13:30Z,TSG Hoffenheim,VfL Wolfsburg,3,1,Sinsheim,Germany,162.0,0,3.3,25.5
+677605,2023-09-02T13:30Z,VfB Stuttgart,SC Freiburg,5,0,Stuttgart,Germany,252.0,0,4.9,25.5
+677608,2023-09-02T13:30Z,Werder Bremen,Mainz,4,0,Bremen,Germany,17.0,0,6.9,20.4
+677606,2023-09-02T16:30Z,Borussia Mönchengladbach,Bayern Munich,1,2,Mönchengladbach,Germany,57.0,0,5.9,20.6
+677610,2023-09-03T13:30Z,Eintracht Frankfurt,FC Cologne,1,1,Frankfurt,Germany,113.0,0,7.3,23.2
+677602,2023-09-03T15:30Z,1. FC Union Berlin,RB Leipzig,0,3,Berlin,Germany,74.0,0,15.6,20.5
+677614,2023-09-15T18:30Z,Bayern Munich,Bayer Leverkusen,2,2,München,Germany,524.0,0,11.2,18.0
+677612,2023-09-16T13:30Z,FC Cologne,TSG Hoffenheim,1,3,Cologne,Germany,58.0,0.3,5.2,25.7
+677613,2023-09-16T13:30Z,Mainz,VfB Stuttgart,1,3,Mainz,Germany,125.0,0,2.2,25.9
+677615,2023-09-16T13:30Z,RB Leipzig,FC Augsburg,3,0,Leipzig,Germany,116.0,0,6.1,25.1
+677616,2023-09-16T13:30Z,SC Freiburg,Borussia Dortmund,2,4,Freiburg im Breisgau,Germany,278.0,0.2,5.4,25.7
+677619,2023-09-16T13:30Z,VfL Wolfsburg,1. FC Union Berlin,2,1,Wolfsburg,Germany,65.0,0,9.7,24.2
+677618,2023-09-16T16:30Z,VfL Bochum,Eintracht Frankfurt,1,1,Bochum,Germany,102.0,0,1.3,24.7
+677611,2023-09-17T13:30Z,1. FC Heidenheim 1846,Werder Bremen,4,2,Heidenheim,Germany,494.0,0,7.3,25.3
+677617,2023-09-17T15:30Z,SV Darmstadt 98,Borussia Mönchengladbach,3,3,Darmstadt,Germany,148.0,0,8.7,27.3
+677628,2023-09-22T18:30Z,VfB Stuttgart,SV Darmstadt 98,3,1,Stuttgart,Germany,252.0,0,19.7,15.1
+677620,2023-09-23T13:30Z,1. FC Union Berlin,TSG Hoffenheim,0,2,Berlin,Germany,74.0,0,22.8,17.9
+677626,2023-09-23T13:30Z,Bayern Munich,VfL Bochum,7,0,München,Germany,524.0,0,12.0,13.9
+677622,2023-09-23T13:30Z,Borussia Dortmund,VfL Wolfsburg,1,0,Aue,Germany,399.0,0,15.5,16.3
+677623,2023-09-23T13:30Z,Borussia Mönchengladbach,RB Leipzig,0,1,Mönchengladbach,Germany,57.0,0.1,19.7,15.8
+677625,2023-09-23T13:30Z,FC Augsburg,Mainz,2,1,Augsburg,Germany,489.0,0,10.5,14.1
+677627,2023-09-23T16:30Z,Werder Bremen,FC Cologne,2,1,Bremen,Germany,17.0,0,12.5,15.9
+677621,2023-09-24T13:30Z,Bayer Leverkusen,1. FC Heidenheim 1846,4,1,Leverkusen,Germany,52.0,0,12.6,19.4
+677624,2023-09-24T15:30Z,Eintracht Frankfurt,SC Freiburg,0,0,Frankfurt,Germany,113.0,0,9.6,19.9

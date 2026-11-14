@@ -1,0 +1,90 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+658928,2023-07-01T16:00Z,Vålerenga,Viking FK,1,2,Oslo,Norway,26.0,0,14.5,18.3
+658929,2023-07-02T15:00Z,Aalesund,Rosenborg,1,0,Aalesunds,Norway,,,,
+658930,2023-07-02T15:00Z,Haugesund,Odds BK,2,1,Haugesund,Norway,17.0,0,12.1,16.0
+658932,2023-07-02T15:00Z,Lillestrom,Tromso,0,1,Lillestrøm,Norway,116.0,3.9,10.3,15.5
+658931,2023-07-02T15:00Z,Sarpsborg FK,Sandefjord,6,1,Sarpsborg,Norway,54.0,0,21.7,16.9
+658933,2023-07-02T15:00Z,SK Brann,Hamarkameratene,2,1,Bergen,Norway,20.0,0.1,10.8,14.5
+658934,2023-07-02T17:15Z,Bodo/Glimt,Molde,2,2,Bodø/Glimt,Norway,,,,
+658935,2023-07-03T17:00Z,Stabaek,Stromsgodset,0,1,Baerum,Norway,108.0,0.8,7.2,14.8
+658936,2023-07-07T17:00Z,Hamarkameratene,Aalesund,2,1,Hamar,Norway,137.0,0,4.6,18.2
+658937,2023-07-08T16:00Z,Viking FK,Haugesund,2,0,Stavanger,Norway,15.0,0,10.5,18.6
+658942,2023-07-09T15:00Z,Odds BK,Bodo/Glimt,0,2,Skien,Norway,27.0,0,8.3,25.1
+658941,2023-07-09T15:00Z,Rosenborg,Lillestrom,1,2,Trondheim,Norway,18.0,0,5.6,21.4
+658940,2023-07-09T15:00Z,Sandefjord,Stabaek,0,0,Sandefjord,Norway,11.0,0,9.4,22.7
+658939,2023-07-09T15:00Z,Stromsgodset,Sarpsborg FK,5,2,Drammen,Norway,11.0,0,11.3,25.4
+658938,2023-07-09T15:00Z,Tromso,Vålerenga,0,0,Tromsø,Norway,-9999.0,0,8.7,16.6
+658943,2023-07-09T17:15Z,Molde,SK Brann,2,0,Molde,Norway,3.0,0,3.8,22.4
+658944,2023-07-15T16:00Z,Vålerenga,Molde,0,4,Oslo,Norway,26.0,0.3,18.0,15.4
+658946,2023-07-16T15:00Z,Aalesund,Odds BK,0,3,Aalesunds,Norway,,,,
+658945,2023-07-16T15:00Z,Bodo/Glimt,Haugesund,2,1,Bodø/Glimt,Norway,,,,
+658950,2023-07-16T15:00Z,Lillestrom,Sandefjord,4,2,Lillestrøm,Norway,116.0,1.4,27.4,14.8
+658949,2023-07-16T15:00Z,Rosenborg,Tromso,2,1,Trondheim,Norway,18.0,0,12.1,18.8
+658948,2023-07-16T15:00Z,Sarpsborg FK,Hamarkameratene,2,3,Sarpsborg,Norway,54.0,1.2,30.2,16.5
+658947,2023-07-16T15:00Z,Stabaek,Viking FK,0,1,Baerum,Norway,108.0,2.6,18.4,16.3
+658951,2023-07-16T17:15Z,SK Brann,Stromsgodset,1,0,Bergen,Norway,20.0,13.1,19.5,13.8
+658922,2023-07-19T16:00Z,Lillestrom,Aalesund,5,1,Lillestrøm,Norway,116.0,0,13.9,16.6
+658952,2023-07-22T16:00Z,Molde,Sarpsborg FK,5,1,Molde,Norway,3.0,0,10.9,15.1
+658953,2023-07-23T15:00Z,Hamarkameratene,Stabaek,3,2,Hamar,Norway,137.0,0.3,3.3,19.0
+658954,2023-07-23T15:00Z,Haugesund,Lillestrom,1,0,Haugesund,Norway,17.0,0,12.1,16.8
+658957,2023-07-23T15:00Z,Odds BK,Vålerenga,2,1,Skien,Norway,27.0,0.1,6.5,18.8
+658956,2023-07-23T15:00Z,Sandefjord,Bodo/Glimt,2,5,Sandefjord,Norway,11.0,0,10.0,17.5
+658955,2023-07-23T15:00Z,Tromso,SK Brann,3,1,Tromsø,Norway,-9999.0,0,8.4,18.4
+658958,2023-07-23T17:15Z,Stromsgodset,Rosenborg,0,1,Drammen,Norway,11.0,0,7.4,18.8
+658959,2023-07-24T17:00Z,Viking FK,Aalesund,3,1,Stavanger,Norway,15.0,0,14.7,15.6
+658967,2023-07-29T13:30Z,Vålerenga,Sandefjord,2,3,Oslo,Norway,26.0,0,9.4,20.8
+658966,2023-07-29T16:00Z,Stabaek,Molde,0,1,Baerum,Norway,108.0,0,11.5,19.7
+658960,2023-07-30T15:00Z,Aalesund,Stromsgodset,1,0,Aalesunds,Norway,,,,
+658963,2023-07-30T15:00Z,Lillestrom,Hamarkameratene,3,1,Lillestrøm,Norway,116.0,0.8,13.6,17.6
+658964,2023-07-30T15:00Z,Rosenborg,Odds BK,3,2,Trondheim,Norway,18.0,0,2.3,20.8
+658965,2023-07-30T15:00Z,Sarpsborg FK,Haugesund,2,1,Sarpsborg,Norway,54.0,0.1,19.0,18.2
+658962,2023-07-30T15:00Z,SK Brann,Viking FK,0,2,Bergen,Norway,20.0,0,4.8,17.5
+658961,2023-07-30T17:15Z,Bodo/Glimt,Tromso,0,2,Bodø/Glimt,Norway,,,,
+658973,2023-08-05T16:00Z,Stromsgodset,Vålerenga,1,3,Drammen,Norway,11.0,0.6,6.7,17.2
+658969,2023-08-06T15:00Z,Hamarkameratene,SK Brann,0,2,Hamar,Norway,137.0,0,2.6,18.3
+658968,2023-08-06T15:00Z,Haugesund,Rosenborg,1,2,Haugesund,Norway,17.0,0,13.1,16.7
+658971,2023-08-06T15:00Z,Odds BK,Stabaek,4,0,Skien,Norway,27.0,0,8.9,17.5
+658972,2023-08-06T15:00Z,Sandefjord,Sarpsborg FK,5,1,Sandefjord,Norway,11.0,0,12.6,17.3
+658974,2023-08-06T15:00Z,Tromso,Lillestrom,3,1,Tromsø,Norway,-9999.0,0,10.6,17.2
+658975,2023-08-06T17:15Z,Viking FK,Bodo/Glimt,3,2,Stavanger,Norway,15.0,0,15.5,16.0
+658980,2023-08-12T14:00Z,Sandefjord,Molde,2,2,Sandefjord,Norway,11.0,0,13.2,20.1
+658981,2023-08-12T16:00Z,Sarpsborg FK,Stromsgodset,1,2,Sarpsborg,Norway,54.0,0,12.0,18.0
+658976,2023-08-13T15:00Z,Aalesund,Hamarkameratene,0,2,Aalesunds,Norway,,,,
+658978,2023-08-13T15:00Z,Lillestrom,Viking FK,1,3,Lillestrøm,Norway,116.0,0.1,17.1,17.7
+658983,2023-08-13T17:15Z,Vålerenga,Haugesund,1,1,Oslo,Norway,26.0,0.1,17.6,16.7
+658987,2023-08-19T16:00Z,Molde,Vålerenga,0,0,Molde,Norway,3.0,0,13.7,24.6
+658988,2023-08-19T16:00Z,Odds BK,Sarpsborg FK,0,3,Skien,Norway,27.0,4.9,14.5,16.8
+658986,2023-08-20T15:00Z,Hamarkameratene,Rosenborg,3,0,Hamar,Norway,137.0,0.1,4.2,18.0
+658985,2023-08-20T15:00Z,Haugesund,Bodo/Glimt,1,3,Haugesund,Norway,17.0,0.3,14.3,18.9
+658984,2023-08-20T15:00Z,SK Brann,Aalesund,5,1,Bergen,Norway,20.0,0.1,13.3,18.2
+658990,2023-08-20T15:00Z,Tromso,Sandefjord,1,0,Tromsø,Norway,-9999.0,0,12.5,14.3
+658991,2023-08-20T15:00Z,Viking FK,Stabaek,1,0,Stavanger,Norway,15.0,0,16.1,18.5
+658989,2023-08-20T17:15Z,Stromsgodset,Lillestrom,1,2,Drammen,Norway,11.0,0,7.8,18.3
+658997,2023-08-26T16:00Z,Sarpsborg FK,Tromso,4,0,Sarpsborg,Norway,54.0,4.9,3.6,15.1
+658996,2023-08-27T15:00Z,Sandefjord,Haugesund,0,0,Sandefjord,Norway,11.0,0,21.1,17.0
+658999,2023-08-27T15:00Z,Vålerenga,Odds BK,2,2,Oslo,Norway,26.0,0.1,21.7,15.6
+658995,2023-08-27T17:15Z,Rosenborg,Aalesund,4,0,Trondheim,Norway,18.0,0.1,18.0,16.9
+659007,2023-09-02T16:00Z,Viking FK,Vålerenga,1,1,Stavanger,Norway,15.0,0,19.4,13.8
+659000,2023-09-03T15:00Z,Aalesund,Lillestrom,1,1,Aalesunds,Norway,,,,
+659002,2023-09-03T15:00Z,Haugesund,Molde,1,2,Haugesund,Norway,17.0,0,13.1,16.4
+659004,2023-09-03T15:00Z,Odds BK,Sandefjord,3,2,Skien,Norway,27.0,0.3,6.0,15.2
+659001,2023-09-03T15:00Z,SK Brann,Sarpsborg FK,1,0,Bergen,Norway,20.0,0.2,17.0,14.1
+659005,2023-09-03T15:00Z,Stromsgodset,Stabaek,2,1,Drammen,Norway,11.0,0.3,7.6,17.3
+659006,2023-09-03T15:00Z,Tromso,Rosenborg,3,1,Tromsø,Norway,-9999.0,1.8,4.4,15.2
+659003,2023-09-03T17:15Z,Hamarkameratene,Bodo/Glimt,4,4,Hamar,Norway,137.0,0,2.5,14.7
+659008,2023-09-16T16:00Z,Haugesund,Viking FK,0,2,Haugesund,Norway,17.0,0,13.0,13.2
+659009,2023-09-16T16:00Z,Molde,Odds BK,4,1,Molde,Norway,3.0,0,7.2,11.0
+659011,2023-09-16T16:00Z,Sandefjord,Stromsgodset,2,0,Sandefjord,Norway,11.0,0.8,7.8,14.9
+659010,2023-09-17T15:00Z,Rosenborg,Bodo/Glimt,1,1,Trondheim,Norway,18.0,0,12.9,12.5
+659012,2023-09-17T15:00Z,Sarpsborg FK,Lillestrom,3,1,Sarpsborg,Norway,54.0,0,9.4,15.7
+659013,2023-09-17T15:00Z,Stabaek,SK Brann,0,1,Baerum,Norway,108.0,0,8.6,13.6
+659014,2023-09-17T15:00Z,Tromso,Hamarkameratene,2,1,Tromsø,Norway,-9999.0,0.2,11.8,6.5
+659015,2023-09-17T17:15Z,Vålerenga,Aalesund,3,1,Oslo,Norway,26.0,0,7.7,12.0
+659016,2023-09-23T16:00Z,Aalesund,Stabaek,1,1,Aalesunds,Norway,,,,
+659017,2023-09-24T15:00Z,Bodo/Glimt,Vålerenga,4,2,Bodø/Glimt,Norway,,,,
+659019,2023-09-24T15:00Z,Hamarkameratene,Sarpsborg FK,1,1,Hamar,Norway,137.0,0,7.1,14.5
+659020,2023-09-24T15:00Z,Lillestrom,Rosenborg,3,0,Lillestrøm,Norway,116.0,0,11.4,13.5
+659021,2023-09-24T15:00Z,Odds BK,Haugesund,1,1,Skien,Norway,27.0,0,12.2,15.1
+659022,2023-09-24T15:00Z,Stromsgodset,Molde,1,1,Drammen,Norway,11.0,0,7.4,16.3
+659023,2023-09-24T15:00Z,Viking FK,Sandefjord,4,3,Stavanger,Norway,15.0,0.9,26.9,14.3
+659018,2023-09-24T17:15Z,SK Brann,Tromso,2,1,Bergen,Norway,20.0,1.1,21.6,12.4

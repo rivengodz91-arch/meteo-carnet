@@ -1,0 +1,121 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+665939,2023-07-01T19:00Z,São Paulo,Fluminense,1,0,Sao Paulo,Brazil,769.0,0.4,17.1,19.4
+665947,2023-07-01T21:30Z,Bahia,Grêmio,1,2,Salvador,Brazil,4.0,0,15.6,23.7
+665944,2023-07-01T21:30Z,Flamengo,Fortaleza,2,0,Rio de Janeiro,Brazil,12.0,0,9.8,21.5
+665938,2023-07-02T00:00Z,Internacional,Cruzeiro,0,0,Porto Alegre,Brazil,46.0,0,7.4,15.7
+665942,2023-07-02T14:00Z,Corinthians,Red Bull Bragantino,0,1,Sao Paulo,Brazil,769.0,0,4.5,17.5
+665941,2023-07-02T19:00Z,Athletico-PR,Palmeiras,2,2,Curitiba,Brazil,924.0,0,5.4,19.3
+665940,2023-07-02T19:00Z,Atlético-MG,América Mineiro,2,2,Belo Horizonte,Brazil,888.0,0,13.3,23.1
+665946,2023-07-02T19:00Z,Botafogo,Vasco da Gama,2,0,Rio de Janeiro,Brazil,12.0,0.1,24.2,21.5
+665943,2023-07-02T21:30Z,Cuiabá,Santos,3,0,Cuiabá,Brazil,193.0,0,2.1,29.6
+665945,2023-07-03T23:00Z,Goiás,Coritiba,1,2,Goiãnia,Brazil,766.0,0,8.6,19.4
+665950,2023-07-08T19:00Z,Cuiabá,Bahia,1,1,Cuiabá,Brazil,193.0,0,10.9,32.8
+665953,2023-07-08T19:00Z,Vasco da Gama,Cruzeiro,0,1,Rio de Janeiro,Brazil,12.0,0,10.2,29.6
+665948,2023-07-08T21:30Z,Atlético-MG,Corinthians,0,1,Belo Horizonte,Brazil,888.0,0,7.6,19.7
+665949,2023-07-08T21:30Z,Coritiba,América Mineiro,3,1,Curitiba,Brazil,924.0,0.1,20.9,16.6
+665954,2023-07-09T00:00Z,Palmeiras,Flamengo,1,1,Sao Paulo,Brazil,769.0,0.4,6.1,19.0
+665956,2023-07-09T14:00Z,Santos,Goiás,4,3,Santos,Brazil,12.0,2.5,6.1,20.7
+665951,2023-07-09T19:00Z,Fluminense,Internacional,2,0,Rio de Janeiro,Brazil,12.0,0,8.3,21.9
+665955,2023-07-09T19:00Z,Red Bull Bragantino,São Paulo,0,0,Bragança Paulista,Brazil,831.0,0,10.0,18.3
+665957,2023-07-09T21:30Z,Fortaleza,Athletico-PR,1,0,Fortaleza,Brazil,18.0,0,13.5,26.3
+665952,2023-07-09T21:30Z,Grêmio,Botafogo,0,2,Porto Alegre,Brazil,46.0,0,13.8,17.4
+665960,2023-07-16T00:00Z,Botafogo,Red Bull Bragantino,2,0,Rio de Janeiro,Brazil,12.0,0,9.9,18.8
+665962,2023-07-16T14:00Z,Cruzeiro,Coritiba,0,0,Belo Horizonte,Brazil,888.0,0,13.5,21.4
+665963,2023-07-16T19:00Z,Fluminense,Flamengo,0,0,Rio de Janeiro,Brazil,12.0,0,10.1,22.7
+665964,2023-07-16T19:00Z,Fortaleza,Cuiabá,0,1,Fortaleza,Brazil,18.0,0,19.6,28.4
+665967,2023-07-16T19:00Z,São Paulo,Santos,4,1,Sao Paulo,Brazil,769.0,0,10.8,23.1
+665959,2023-07-16T21:30Z,Athletico-PR,Bahia,2,0,Curitiba,Brazil,924.0,0,8.2,14.3
+665966,2023-07-16T21:30Z,Internacional,Palmeiras,0,0,Porto Alegre,Brazil,46.0,0,10.1,11.1
+665965,2023-07-17T23:00Z,Goiás,Atlético-MG,0,0,Goiãnia,Brazil,766.0,0,6.1,26.2
+665972,2023-07-22T19:00Z,Flamengo,América Mineiro,1,1,Rio de Janeiro,Brazil,12.0,0,19.1,22.7
+665974,2023-07-22T19:00Z,Palmeiras,Fortaleza,3,1,Sao Paulo,Brazil,769.0,0,7.9,22.1
+665968,2023-07-22T21:30Z,Bahia,Corinthians,0,0,Salvador,Brazil,4.0,0.1,16.9,24.3
+665971,2023-07-22T21:30Z,Cuiabá,São Paulo,2,1,Cuiabá,Brazil,193.0,0,8.7,30.5
+665973,2023-07-23T00:00Z,Grêmio,Atlético-MG,1,0,Porto Alegre,Brazil,46.0,0,11.2,19.5
+665970,2023-07-23T19:00Z,Cruzeiro,Goiás,0,1,Belo Horizonte,Brazil,888.0,0,13.4,22.3
+665975,2023-07-23T19:00Z,Red Bull Bragantino,Internacional,0,0,Bragança Paulista,Brazil,831.0,0,2.4,23.8
+665976,2023-07-23T19:00Z,Santos,Botafogo,2,2,Santos,Brazil,12.0,0,3.4,22.7
+665977,2023-07-23T21:30Z,Vasco da Gama,Athletico-PR,0,2,Rio de Janeiro,Brazil,12.0,0,5.2,21.2
+665969,2023-07-24T22:00Z,Coritiba,Fluminense,2,0,Curitiba,Brazil,924.0,0,9.0,16.7
+665983,2023-07-29T19:00Z,Athletico-PR,Cruzeiro,3,3,Curitiba,Brazil,924.0,0,11.5,10.7
+665985,2023-07-29T19:00Z,Fluminense,Santos,1,0,Rio de Janeiro,Brazil,12.0,0,13.3,20.7
+665980,2023-07-29T19:00Z,Internacional,Cuiabá,1,2,Porto Alegre,Brazil,46.0,0,9.9,16.4
+665986,2023-07-29T21:30Z,Corinthians,Vasco da Gama,3,1,Sao Paulo,Brazil,769.0,0,17.7,13.7
+665984,2023-07-29T21:30Z,Fortaleza,Red Bull Bragantino,0,3,Fortaleza,Brazil,18.0,0,15.7,26.4
+665987,2023-07-30T00:00Z,Atlético-MG,Flamengo,1,2,Belo Horizonte,Brazil,888.0,0,12.5,18.1
+665979,2023-07-30T14:00Z,São Paulo,Bahia,0,0,Sao Paulo,Brazil,769.0,0,14.7,16.5
+665978,2023-07-30T19:00Z,América Mineiro,Palmeiras,1,4,Belo Horizonte,Brazil,888.0,0.2,13.0,21.3
+665981,2023-07-30T19:00Z,Botafogo,Coritiba,4,1,Rio de Janeiro,Brazil,12.0,0,14.0,20.0
+665982,2023-07-30T21:30Z,Goiás,Grêmio,1,1,Goiãnia,Brazil,766.0,0,9.3,27.7
+665997,2023-08-05T19:00Z,Santos,Athletico-PR,1,1,Santos,Brazil,12.0,0,4.9,23.5
+665994,2023-08-05T21:30Z,Goiás,Fortaleza,1,0,Goiãnia,Brazil,766.0,0,8.1,28.5
+665993,2023-08-05T21:30Z,Internacional,Corinthians,2,2,Porto Alegre,Brazil,46.0,0,8.2,18.6
+665995,2023-08-06T00:00Z,Fluminense,Palmeiras,2,1,Rio de Janeiro,Brazil,12.0,0,6.4,20.3
+665991,2023-08-06T19:00Z,São Paulo,Atlético-MG,0,2,Sao Paulo,Brazil,769.0,0,10.1,28.9
+665990,2023-08-06T19:00Z,Vasco da Gama,Grêmio,1,0,Rio de Janeiro,Brazil,12.0,0,11.8,24.6
+665988,2023-08-06T21:30Z,Bahia,América Mineiro,3,1,Salvador,Brazil,4.0,0,18.8,23.9
+665989,2023-08-06T21:30Z,Coritiba,Red Bull Bragantino,0,1,Curitiba,Brazil,924.0,0,9.4,18.6
+665992,2023-08-06T21:30Z,Cruzeiro,Botafogo,0,0,Belo Horizonte,Brazil,888.0,0,13.0,21.2
+665996,2023-08-06T23:00Z,Cuiabá,Flamengo,3,0,Cuiabá,Brazil,193.0,0,8.5,30.9
+666004,2023-08-13T00:00Z,Botafogo,Internacional,3,1,Rio de Janeiro,Brazil,12.0,0,6.4,22.1
+666005,2023-08-13T14:00Z,Atlético-MG,Bahia,1,0,Belo Horizonte,Brazil,888.0,0,15.0,24.3
+665998,2023-08-13T19:00Z,América Mineiro,Goiás,0,1,Belo Horizonte,Brazil,888.0,0,14.9,25.9
+666003,2023-08-13T19:00Z,Corinthians,Coritiba,3,1,Sao Paulo,Brazil,769.0,0,20.5,15.6
+666000,2023-08-13T19:00Z,Grêmio,Fluminense,2,1,Porto Alegre,Brazil,46.0,0,1.5,13.6
+666007,2023-08-13T21:30Z,Flamengo,São Paulo,1,1,Rio de Janeiro,Brazil,12.0,0.5,13.3,20.7
+666001,2023-08-13T21:30Z,Fortaleza,Santos,4,0,Fortaleza,Brazil,18.0,0,13.7,26.3
+665999,2023-08-14T22:00Z,Palmeiras,Cruzeiro,1,0,Sao Paulo,Brazil,769.0,0,13.3,15.2
+666002,2023-08-15T00:00Z,Red Bull Bragantino,Vasco da Gama,1,1,Bragança Paulista,Brazil,831.0,0,14.7,16.3
+666006,2023-08-15T23:00Z,Athletico-PR,Cuiabá,2,0,Curitiba,Brazil,924.0,0,11.3,13.6
+666014,2023-08-19T19:00Z,Internacional,Fortaleza,0,1,Porto Alegre,Brazil,46.0,0,17.4,17.5
+666016,2023-08-19T19:00Z,São Paulo,Botafogo,0,0,Sao Paulo,Brazil,769.0,0,24.9,23.7
+666008,2023-08-19T21:30Z,Cuiabá,Palmeiras,0,2,Cuiabá,Brazil,193.0,0,13.0,29.3
+666017,2023-08-19T21:30Z,Fluminense,América Mineiro,3,1,Rio de Janeiro,Brazil,12.0,0,18.3,22.8
+666009,2023-08-20T00:00Z,Cruzeiro,Corinthians,1,1,Belo Horizonte,Brazil,888.0,0,8.2,22.4
+666012,2023-08-20T14:00Z,Vasco da Gama,Atlético-MG,1,0,Rio de Janeiro,Brazil,12.0,0,5.1,24.2
+666011,2023-08-20T19:00Z,Bahia,Red Bull Bragantino,4,0,Salvador,Brazil,4.0,0,17.3,26.1
+666010,2023-08-20T19:00Z,Coritiba,Flamengo,2,3,Curitiba,Brazil,924.0,0.2,16.6,20.0
+666015,2023-08-20T19:00Z,Santos,Grêmio,2,1,Santos,Brazil,12.0,0,3.3,21.9
+666013,2023-08-21T23:00Z,Goiás,Athletico-PR,1,1,Goiãnia,Brazil,766.0,0,3.5,25.7
+666026,2023-08-26T21:30Z,Flamengo,Internacional,0,0,Rio de Janeiro,Brazil,12.0,0.4,9.1,18.2
+666025,2023-08-27T00:00Z,Corinthians,Goiás,1,1,Sao Paulo,Brazil,769.0,0.2,19.6,11.7
+666019,2023-08-27T14:00Z,Red Bull Bragantino,Cuiabá,2,0,Bragança Paulista,Brazil,831.0,0.3,22.6,13.8
+666021,2023-08-27T19:00Z,América Mineiro,São Paulo,2,1,Belo Horizonte,Brazil,888.0,0,18.8,19.6
+666023,2023-08-27T19:00Z,Atlético-MG,Santos,2,0,Belo Horizonte,Brazil,888.0,0,18.8,19.6
+666024,2023-08-27T19:00Z,Botafogo,Bahia,3,0,Rio de Janeiro,Brazil,12.0,1.8,11.5,17.8
+666020,2023-08-27T21:30Z,Athletico-PR,Fluminense,2,2,Curitiba,Brazil,924.0,0,18.4,9.3
+666027,2023-08-27T21:30Z,Fortaleza,Coritiba,3,1,Fortaleza,Brazil,18.0,0,11.7,26.5
+666018,2023-08-27T21:30Z,Palmeiras,Vasco da Gama,1,0,Sao Paulo,Brazil,769.0,0.9,16.0,11.4
+666022,2023-08-27T22:00Z,Grêmio,Cruzeiro,3,0,Porto Alegre,Brazil,46.0,0,9.4,8.2
+666037,2023-09-02T19:00Z,Athletico-PR,Atlético-MG,1,1,Curitiba,Brazil,924.0,4.8,12.7,18.2
+666030,2023-09-02T19:00Z,Goiás,Internacional,0,0,Goiãnia,Brazil,766.0,0.2,15.5,28.8
+666034,2023-09-03T00:00Z,Botafogo,Flamengo,1,2,Rio de Janeiro,Brazil,12.0,0,12.5,23.8
+666029,2023-09-03T14:00Z,Grêmio,Cuiabá,2,0,Porto Alegre,Brazil,46.0,4.1,2.9,18.4
+666035,2023-09-03T19:00Z,Corinthians,Palmeiras,0,0,Sao Paulo,Brazil,769.0,0,9.7,28.9
+666031,2023-09-03T19:00Z,Fluminense,Fortaleza,1,0,Volta Redonda,Brazil,400.0,0.1,7.4,31.6
+666028,2023-09-03T21:30Z,América Mineiro,Santos,2,0,Belo Horizonte,Brazil,888.0,0.1,7.1,22.6
+666033,2023-09-03T21:30Z,Bahia,Vasco da Gama,1,1,Salvador,Brazil,4.0,0,16.9,24.8
+666032,2023-09-03T21:30Z,Cruzeiro,Red Bull Bragantino,0,0,Belo Horizonte,Brazil,888.0,0.1,7.1,22.6
+666041,2023-09-14T00:30Z,Flamengo,Athletico-PR,0,3,Espírito Santo,Brazil,37.0,0,16.6,23.2
+666043,2023-09-14T00:30Z,Internacional,São Paulo,2,1,Porto Alegre,Brazil,46.0,2.2,19.4,14.9
+666042,2023-09-14T22:00Z,Fortaleza,Corinthians,2,1,Fortaleza,Brazil,18.0,0,16.6,26.4
+666046,2023-09-14T22:00Z,Santos,Cruzeiro,0,3,Santos,Brazil,12.0,0,9.8,17.7
+666039,2023-09-14T23:00Z,Coritiba,Bahia,2,4,Curitiba,Brazil,924.0,0,2.9,14.6
+666045,2023-09-15T00:30Z,Red Bull Bragantino,Grêmio,2,0,Bragança Paulista,Brazil,831.0,0.2,3.1,16.2
+666040,2023-09-15T23:00Z,Cuiabá,América Mineiro,2,2,Cuiabá,Brazil,193.0,0,7.0,25.6
+666044,2023-09-16T00:30Z,Palmeiras,Goiás,1,0,Sao Paulo,Brazil,769.0,0,18.5,13.3
+666047,2023-09-16T19:00Z,Vasco da Gama,Fluminense,4,2,Rio de Janeiro,Brazil,12.0,0,21.9,23.5
+666038,2023-09-17T00:00Z,Atlético-MG,Botafogo,1,0,Belo Horizonte,Brazil,888.0,0,16.6,21.0
+666051,2023-09-18T23:00Z,Bahia,Santos,1,2,Salvador,Brazil,4.0,0.4,19.2,24.3
+665961,2023-09-19T00:00Z,Corinthians,Grêmio,4,4,Sao Paulo,Brazil,769.0,0,5.1,23.2
+666048,2023-09-20T00:30Z,América Mineiro,Red Bull Bragantino,0,2,Belo Horizonte,Brazil,888.0,0,14.8,21.2
+666054,2023-09-20T22:00Z,Goiás,Flamengo,0,0,Goiãnia,Brazil,766.0,0,9.7,29.8
+666053,2023-09-21T00:30Z,Fluminense,Cruzeiro,1,0,Rio de Janeiro,Brazil,12.0,0,6.2,22.4
+666056,2023-09-21T00:30Z,São Paulo,Fortaleza,1,2,Sao Paulo,Brazil,769.0,0,9.7,18.2
+666057,2023-09-21T22:00Z,Vasco da Gama,Coritiba,5,1,Rio de Janeiro,Brazil,12.0,0,12.8,25.8
+666049,2023-09-21T22:30Z,Athletico-PR,Internacional,2,1,Curitiba,Brazil,924.0,0,9.1,19.5
+666055,2023-09-22T00:30Z,Grêmio,Palmeiras,1,0,Porto Alegre,Brazil,46.0,0,13.9,22.4
+666052,2023-09-22T23:00Z,Corinthians,Botafogo,1,0,Sao Paulo,Brazil,769.0,0,14.5,21.5
+666050,2023-09-24T00:00Z,Atlético-MG,Cuiabá,1,0,Belo Horizonte,Brazil,888.0,0,6.8,24.4
+665958,2023-09-25T23:00Z,América Mineiro,Vasco da Gama,0,1,Belo Horizonte,Brazil,888.0,0,7.7,28.3
+666036,2023-09-27T22:00Z,São Paulo,Coritiba,2,1,Sao Paulo,Brazil,769.0,0.2,16.4,21.1

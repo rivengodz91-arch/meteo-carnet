@@ -1,0 +1,42 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+659361,2023-07-07T18:45Z,Bohemians,Dundalk,3,2,Dublin,,17.0,0,21.3,19.0
+659358,2023-07-07T18:45Z,Derry City,Sligo Rovers,2,1,Derry,Republic of Ireland,24.0,0,23.8,20.6
+659359,2023-07-07T18:45Z,Drogheda United,Shamrock Rovers,0,0,Drogheda,Republic of Ireland,28.0,0,22.2,19.5
+659360,2023-07-07T18:45Z,St Patrick's Athletic,Cork,1,1,Dublin,Republic of Ireland,17.0,0,21.3,19.0
+659362,2023-07-07T18:45Z,UCD,Shelbourne,0,4,Dublin,Republic of Ireland,17.0,0,21.3,19.0
+659363,2023-07-14T18:45Z,Shelbourne,Bohemians,1,1,Dublin,Republic of Ireland,17.0,0,13.8,18.2
+659364,2023-07-14T18:45Z,UCD,Drogheda United,1,3,Dublin,Republic of Ireland,17.0,0,13.8,18.2
+659365,2023-07-15T18:45Z,Sligo Rovers,Cork,3,0,Sligo,Republic of Ireland,13.0,1.8,37.0,13.6
+659366,2023-07-28T18:45Z,Bohemians,UCD,2,0,Dublin,,17.0,0,14.6,18.2
+659367,2023-07-28T18:45Z,Cork,Shelbourne,0,2,Cork,Republic of Ireland,10.0,0,20.7,15.4
+659368,2023-07-28T18:45Z,Drogheda United,Sligo Rovers,2,2,Drogheda,Republic of Ireland,28.0,0.3,17.7,17.3
+659370,2023-08-04T18:45Z,Bohemians,Drogheda United,4,2,Dublin,,17.0,0.2,5.9,16.2
+659373,2023-08-04T18:45Z,Sligo Rovers,St Patrick's Athletic,0,2,Sligo,Republic of Ireland,13.0,2.7,8.0,12.3
+659369,2023-08-06T16:00Z,Dundalk,Shelbourne,1,1,Dundalk,Republic of Ireland,5.0,0,13.4,28.2
+659372,2023-08-06T17:00Z,Shamrock Rovers,Cork,2,1,Dublin,,17.0,0,11.5,18.1
+659375,2023-08-11T18:45Z,Cork,UCD,1,1,Cork,Republic of Ireland,10.0,0.4,23.5,16.0
+659376,2023-08-11T18:45Z,Dundalk,Sligo Rovers,1,0,Dundalk,Republic of Ireland,5.0,0,17.8,30.2
+659378,2023-08-11T18:45Z,Shelbourne,Shamrock Rovers,1,1,Dublin,Republic of Ireland,17.0,0,23.1,19.0
+659377,2023-08-11T18:45Z,St Patrick's Athletic,Bohemians,0,0,Dublin,Republic of Ireland,17.0,0,23.1,19.0
+659374,2023-08-13T17:30Z,Derry City,Drogheda United,0,0,Derry,Republic of Ireland,24.0,2.7,17.9,16.5
+659380,2023-08-25T18:45Z,Drogheda United,Cork,3,1,Drogheda,Republic of Ireland,28.0,0,10.5,14.8
+659382,2023-08-25T18:45Z,Shamrock Rovers,Dundalk,1,0,Dublin,,17.0,0,9.1,15.4
+659381,2023-08-25T18:45Z,UCD,St Patrick's Athletic,0,1,Dublin,Republic of Ireland,17.0,0,9.1,15.4
+659379,2023-08-25T19:30Z,Bohemians,Derry City,2,2,Dublin,,17.0,0,11.6,14.9
+659383,2023-08-26T18:45Z,Sligo Rovers,Shelbourne,0,1,Sligo,Republic of Ireland,13.0,0.2,22.5,13.8
+659384,2023-09-01T18:45Z,Cork,Sligo Rovers,3,0,Cork,Republic of Ireland,10.0,0.2,1.3,16.9
+659385,2023-09-01T18:45Z,Drogheda United,UCD,3,0,Drogheda,Republic of Ireland,28.0,0,10.4,15.7
+659386,2023-09-01T18:45Z,Dundalk,Derry City,1,3,Dundalk,Republic of Ireland,5.0,0,13.8,25.3
+659388,2023-09-01T18:45Z,Shamrock Rovers,Bohemians,3,0,Dublin,,17.0,0,9.0,15.6
+659387,2023-09-01T18:45Z,Shelbourne,St Patrick's Athletic,2,1,Dublin,Republic of Ireland,17.0,0,9.0,15.6
+659371,2023-09-06T18:45Z,UCD,Derry City,0,5,Dublin,Republic of Ireland,17.0,0,15.6,21.0
+659391,2023-09-15T18:45Z,Derry City,Shamrock Rovers,1,1,Derry,Republic of Ireland,24.0,0,10.3,12.4
+659393,2023-09-16T18:45Z,Sligo Rovers,UCD,2,0,Sligo,Republic of Ireland,13.0,0,11.7,13.3
+659394,2023-09-22T18:45Z,Drogheda United,Bohemians,0,0,Drogheda,Republic of Ireland,28.0,0,17.1,11.9
+659395,2023-09-22T18:45Z,Shelbourne,Cork,2,1,Dublin,Republic of Ireland,17.0,0,19.6,12.8
+659398,2023-09-22T18:45Z,Sligo Rovers,Derry City,1,0,Sligo,Republic of Ireland,13.0,0,15.0,11.0
+659396,2023-09-22T18:45Z,St Patrick's Athletic,Dundalk,3,1,Dublin,Republic of Ireland,17.0,0,19.6,12.8
+659397,2023-09-22T18:45Z,UCD,Shamrock Rovers,0,0,Dublin,Republic of Ireland,17.0,0,19.6,12.8
+659390,2023-09-25T18:45Z,Bohemians,Shelbourne,1,1,Dublin,,17.0,0,17.0,16.4
+659392,2023-09-25T18:45Z,Dundalk,Cork,5,0,Dundalk,Republic of Ireland,5.0,0.1,15.1,20.9
+659389,2023-09-25T18:45Z,St Patrick's Athletic,Drogheda United,1,2,Dublin,Republic of Ireland,17.0,0,17.0,16.4

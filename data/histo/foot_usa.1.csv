@@ -1,0 +1,159 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+659864,2023-07-01T23:30Z,Columbus Crew,Red Bull New York,2,1,"Columbus, Ohio",USA,235.0,0,10.0,28.3
+659860,2023-07-01T23:30Z,FC Cincinnati,New England Revolution,2,2,"Cincinnati, Ohio",USA,191.0,0,12.2,29.7
+659859,2023-07-01T23:30Z,Inter Miami CF,Austin FC,1,1,"Fort Lauderdale, Florida",USA,1.0,0,4.8,28.0
+659862,2023-07-01T23:30Z,Orlando City SC,Chicago Fire FC,3,1,"Orlando, Florida",USA,30.0,0,15.5,31.5
+659861,2023-07-01T23:30Z,Toronto FC,Real Salt Lake,0,1,Toronto,Canada,161.0,0,12.0,23.7
+659866,2023-07-02T00:30Z,FC Dallas,LAFC,2,0,Toyota Stadium,USA,,,,
+659865,2023-07-02T00:30Z,Minnesota United FC,Portland Timbers,4,1,"Saint Paul, Minnesota",USA,242.0,0,6.8,27.1
+659868,2023-07-02T00:30Z,Nashville SC,D.C. United,2,0,"Nashville, Tennessee",USA,170.0,0,12.2,26.3
+659867,2023-07-02T00:30Z,Sporting Kansas City,Vancouver Whitecaps,3,0,"Kansas City, Kansas",USA,274.0,0,17.4,25.9
+659869,2023-07-02T00:30Z,St. Louis CITY SC,Colorado Rapids,2,0,"St. Louis, Missouri",USA,142.0,2.8,6.4,23.8
+659863,2023-07-02T01:03Z,CF Montréal,New York City FC,0,1,Montreal,Canada,216.0,3.4,15.6,19.2
+659870,2023-07-02T02:30Z,San Jose Earthquakes,LA Galaxy,2,2,"Stanford, California",USA,287.0,0,15.3,24.7
+659871,2023-07-02T02:30Z,Seattle Sounders FC,Houston Dynamo FC,1,0,"Seattle, Washington",USA,56.0,0,18.8,22.2
+659872,2023-07-02T20:00Z,Atlanta United FC,Philadelphia Union,2,0,"Atlanta, Georgia",USA,320.0,0.5,5.7,32.6
+659873,2023-07-04T23:30Z,Inter Miami CF,Columbus Crew,2,2,"Fort Lauderdale, Florida",USA,1.0,0.2,8.9,28.7
+659874,2023-07-04T23:30Z,Orlando City SC,Toronto FC,4,0,"Orlando, Florida",USA,30.0,0,12.4,31.5
+659875,2023-07-05T00:30Z,FC Dallas,D.C. United,0,1,Toyota Stadium,USA,,,,
+659586,2023-07-05T02:30Z,LA Galaxy,LAFC,2,1,"Pasadena, California",USA,9.0,0,4.8,28.2
+659878,2023-07-05T23:30Z,New York City FC,Charlotte FC,1,1,"New York, New York",USA,10.0,0,13.7,28.0
+659880,2023-07-08T23:30Z,CF Montréal,Atlanta United FC,0,1,Montreal,Canada,216.0,0,8.5,25.4
+659882,2023-07-08T23:30Z,Charlotte FC,FC Cincinnati,2,2,"Charlotte, North Carolina",USA,229.0,0,10.6,29.5
+659884,2023-07-08T23:30Z,Columbus Crew,New York City FC,1,1,"Columbus, Ohio",USA,235.0,0.2,10.7,23.4
+659881,2023-07-08T23:30Z,D.C. United,Inter Miami CF,2,2,"Washington, District of Columbia",USA,7.0,0,5.4,27.4
+659883,2023-07-08T23:30Z,Red Bull New York,New England Revolution,2,1,"Harrison, New Jersey",USA,320.0,0.1,2.9,24.4
+659879,2023-07-08T23:30Z,Toronto FC,St. Louis CITY SC,0,1,Toronto,Canada,161.0,0.6,9.0,21.3
+659886,2023-07-09T00:30Z,Chicago Fire FC,Nashville SC,1,0,"Chicago, Illinois",USA,179.0,0,7.6,20.0
+659885,2023-07-09T00:30Z,Houston Dynamo FC,Sporting Kansas City,2,2,"Houston, Texas",USA,12.0,0,10.8,27.7
+659887,2023-07-09T00:30Z,Minnesota United FC,Austin FC,1,4,"Saint Paul, Minnesota",USA,242.0,0,12.0,23.5
+659889,2023-07-09T01:30Z,Colorado Rapids,FC Dallas,2,1,"Commerce City, Colorado",USA,1572.0,0.1,9.2,22.2
+659888,2023-07-09T01:30Z,Real Salt Lake,Orlando City SC,4,0,"Sandy, Utah",USA,1361.0,0,4.3,30.1
+659890,2023-07-09T02:30Z,LA Galaxy,Philadelphia Union,3,1,"Carson, California",USA,12.0,0,17.2,19.1
+659891,2023-07-09T02:30Z,LAFC,San Jose Earthquakes,1,1,"Los Angeles, California",USA,89.0,0,15.3,20.7
+659892,2023-07-09T02:30Z,Vancouver Whitecaps,Seattle Sounders FC,2,3,Vancouver,Canada,70.0,0,10.0,19.7
+659894,2023-07-12T23:30Z,New England Revolution,Atlanta United FC,2,1,"Foxborough, Massachusetts",USA,88.0,0,4.2,27.4
+659893,2023-07-12T23:30Z,Red Bull New York,FC Cincinnati,1,2,"Harrison, New Jersey",USA,320.0,0,12.2,33.8
+659897,2023-07-13T00:30Z,Houston Dynamo FC,Minnesota United FC,0,3,"Houston, Texas",USA,12.0,0,24.3,32.5
+659898,2023-07-13T00:30Z,Nashville SC,Philadelphia Union,0,2,"Nashville, Tennessee",USA,170.0,0.1,3.3,25.0
+659895,2023-07-13T00:30Z,Sporting Kansas City,Real Salt Lake,2,2,"Kansas City, Kansas",USA,274.0,0.2,3.1,25.6
+659876,2023-07-13T01:00Z,Colorado Rapids,Portland Timbers,0,0,"Commerce City, Colorado",USA,1572.0,0,18.7,28.8
+659896,2023-07-13T01:44Z,Chicago Fire FC,CF Montréal,3,0,"Chicago, Illinois",USA,179.0,0,24.0,21.8
+659795,2023-07-13T02:30Z,LAFC,St. Louis CITY SC,3,0,"Los Angeles, California",USA,89.0,0,14.4,26.9
+659900,2023-07-13T02:30Z,San Jose Earthquakes,Seattle Sounders FC,2,0,"San Jose, California",USA,26.0,0,15.2,22.8
+659899,2023-07-13T02:30Z,Vancouver Whitecaps,Austin FC,2,1,Vancouver,Canada,70.0,0,12.1,21.8
+659901,2023-07-15T23:30Z,Atlanta United FC,Orlando City SC,1,2,"Atlanta, Georgia",USA,320.0,0,19.4,31.8
+659905,2023-07-15T23:30Z,CF Montréal,Charlotte FC,2,0,Montreal,Canada,216.0,0,0.7,26.1
+659902,2023-07-15T23:30Z,New England Revolution,D.C. United,4,0,"Foxborough, Massachusetts",USA,88.0,0,13.5,25.0
+659903,2023-07-15T23:30Z,Philadelphia Union,New York City FC,2,1,"Chester, Pennsylvania",USA,34.0,0.8,23.9,15.0
+659909,2023-07-16T00:30Z,Chicago Fire FC,Toronto FC,1,0,"Chicago, Illinois",USA,179.0,0,2.4,25.0
+659907,2023-07-16T00:30Z,Minnesota United FC,LAFC,1,1,"Saint Paul, Minnesota",USA,242.0,0,21.1,23.6
+659904,2023-07-16T00:32Z,FC Cincinnati,Nashville SC,3,1,"Cincinnati, Ohio",USA,191.0,0,9.5,25.2
+659906,2023-07-16T00:59Z,St. Louis CITY SC,Inter Miami CF,3,0,"St. Louis, Missouri",USA,142.0,0,16.4,25.7
+659908,2023-07-16T01:30Z,Austin FC,Sporting Kansas City,2,1,"Austin, Texas",USA,149.0,0,9.0,37.1
+659910,2023-07-16T01:30Z,Colorado Rapids,Houston Dynamo FC,0,0,"Commerce City, Colorado",USA,1572.0,0,5.5,27.0
+659911,2023-07-16T01:30Z,Real Salt Lake,Red Bull New York,3,1,"Sandy, Utah",USA,1361.0,0,7.5,32.3
+659914,2023-07-16T02:30Z,Portland Timbers,Columbus Crew,3,2,"Portland, Oregon",USA,12.0,0,18.4,30.8
+659913,2023-07-16T02:30Z,Seattle Sounders FC,FC Dallas,1,1,"Seattle, Washington",USA,56.0,0,19.5,24.6
+659912,2023-07-16T02:30Z,Vancouver Whitecaps,LA Galaxy,4,2,Vancouver,Canada,70.0,0,2.5,24.2
+660069,2023-07-20T00:30Z,MLS All-Stars,Arsenal,0,5,"Washington, District of Columbia",USA,7.0,0.1,7.7,25.2
+659916,2023-08-20T23:30Z,Columbus Crew,FC Cincinnati,3,0,"Columbus, Ohio",USA,235.0,0,2.7,29.8
+659920,2023-08-20T23:30Z,New York City FC,Minnesota United FC,0,2,"New York, New York",USA,10.0,0,8.6,27.0
+659918,2023-08-20T23:30Z,Red Bull New York,D.C. United,1,0,"Harrison, New Jersey",USA,320.0,0,2.3,40.0
+659919,2023-08-20T23:30Z,Toronto FC,CF Montréal,2,3,Toronto,Canada,161.0,0,14.1,27.4
+659921,2023-08-21T00:30Z,Chicago Fire FC,Orlando City SC,1,3,"Chicago, Illinois",USA,179.0,0,16.1,24.8
+659922,2023-08-21T00:30Z,Houston Dynamo FC,Portland Timbers,5,0,"Houston, Texas",USA,12.0,0,14.7,39.3
+659924,2023-08-21T01:30Z,St. Louis CITY SC,Austin FC,6,3,"St. Louis, Missouri",USA,142.0,0,11.9,30.9
+659927,2023-08-21T02:30Z,Seattle Sounders FC,Atlanta United FC,0,2,"Seattle, Washington",USA,56.0,0,15.6,23.1
+659928,2023-08-21T02:30Z,Vancouver Whitecaps,San Jose Earthquakes,0,1,Vancouver,Canada,70.0,0,18.5,19.6
+659926,2023-08-24T02:30Z,LAFC,Colorado Rapids,4,0,"Los Angeles, California",USA,89.0,0,8.2,22.3
+659936,2023-08-26T23:30Z,Atlanta United FC,Nashville SC,4,0,"Atlanta, Georgia",USA,320.0,0,4.5,33.7
+659935,2023-08-26T23:30Z,CF Montréal,New England Revolution,1,0,Montreal,Canada,216.0,0,3.2,19.2
+659934,2023-08-26T23:30Z,Charlotte FC,LAFC,2,1,"Charlotte, North Carolina",USA,229.0,0.1,13.0,30.2
+659933,2023-08-26T23:30Z,Columbus Crew,Toronto FC,2,0,"Columbus, Ohio",USA,235.0,0,8.4,26.5
+659932,2023-08-26T23:30Z,D.C. United,Philadelphia Union,1,3,"Washington, District of Columbia",USA,7.0,0.3,9.7,29.3
+659931,2023-08-26T23:30Z,FC Cincinnati,New York City FC,3,0,"Cincinnati, Ohio",USA,191.0,0.1,11.2,26.6
+659929,2023-08-26T23:30Z,Orlando City SC,St. Louis CITY SC,2,1,"Orlando, Florida",USA,30.0,0,17.8,31.0
+659930,2023-08-26T23:30Z,Red Bull New York,Inter Miami CF,0,2,"Harrison, New Jersey",USA,320.0,0,4.8,33.0
+659937,2023-08-27T00:30Z,FC Dallas,Austin FC,1,0,Toyota Stadium,USA,,,,
+659938,2023-08-27T00:30Z,Sporting Kansas City,San Jose Earthquakes,3,0,"Kansas City, Kansas",USA,274.0,0.1,13.6,25.8
+659939,2023-08-27T01:30Z,Real Salt Lake,Houston Dynamo FC,0,3,"Sandy, Utah",USA,1361.0,0.8,10.9,25.4
+659941,2023-08-27T02:30Z,LA Galaxy,Chicago Fire FC,3,0,"Carson, California",USA,12.0,0,17.1,21.2
+659940,2023-08-27T02:30Z,Portland Timbers,Vancouver Whitecaps,2,3,"Portland, Oregon",USA,12.0,0,11.2,31.6
+659942,2023-08-27T20:30Z,Minnesota United FC,Seattle Sounders FC,1,1,"Saint Paul, Minnesota",USA,242.0,0,6.9,24.4
+659948,2023-08-30T23:30Z,Atlanta United FC,FC Cincinnati,1,2,"Atlanta, Georgia",USA,320.0,0.1,11.6,25.1
+659945,2023-08-30T23:30Z,Charlotte FC,Orlando City SC,1,1,"Charlotte, North Carolina",USA,229.0,3.5,16.6,23.4
+659947,2023-08-30T23:30Z,Inter Miami CF,Nashville SC,0,0,"Fort Lauderdale, Florida",USA,1.0,0,21.9,30.0
+659944,2023-08-30T23:30Z,New England Revolution,Red Bull New York,1,0,"Foxborough, Massachusetts",USA,88.0,0,12.6,22.7
+659946,2023-08-30T23:30Z,New York City FC,CF Montréal,2,0,New York City,USA,10.0,0,12.7,26.4
+659943,2023-08-30T23:30Z,Toronto FC,Philadelphia Union,3,1,Toronto,Canada,161.0,0,19.9,16.7
+659950,2023-08-31T00:30Z,Austin FC,Seattle Sounders FC,1,2,"Austin, Texas",USA,149.0,0,18.8,36.2
+659949,2023-08-31T00:30Z,Chicago Fire FC,Vancouver Whitecaps,0,1,"Chicago, Illinois",USA,179.0,0,19.7,17.2
+659953,2023-08-31T00:30Z,Houston Dynamo FC,Columbus Crew,2,0,"Houston, Texas",USA,12.0,0,12.2,35.4
+659952,2023-08-31T00:30Z,Minnesota United FC,Colorado Rapids,3,0,"Saint Paul, Minnesota",USA,242.0,0,7.4,22.9
+659951,2023-08-31T00:30Z,St. Louis CITY SC,FC Dallas,2,1,"St. Louis, Missouri",USA,142.0,0,11.6,23.3
+659955,2023-08-31T02:30Z,Portland Timbers,Real Salt Lake,2,1,"Portland, Oregon",USA,12.0,0,7.9,23.5
+659954,2023-08-31T02:30Z,San Jose Earthquakes,LA Galaxy,2,3,"San Jose, California",USA,26.0,0,11.5,29.3
+659956,2023-09-02T19:30Z,New York City FC,Vancouver Whitecaps,1,1,New York City,USA,10.0,0,18.3,25.8
+659957,2023-09-02T23:30Z,CF Montréal,Columbus Crew,2,4,Montreal,Canada,216.0,0,22.1,21.4
+659960,2023-09-02T23:30Z,D.C. United,Chicago Fire FC,4,0,"Washington, District of Columbia",USA,7.0,0,10.8,27.3
+659958,2023-09-02T23:30Z,FC Cincinnati,Orlando City SC,0,1,"Cincinnati, Ohio",USA,191.0,0,10.7,30.3
+659959,2023-09-02T23:30Z,New England Revolution,Austin FC,2,2,"Foxborough, Massachusetts",USA,88.0,0,15.3,19.4
+659962,2023-09-03T00:30Z,FC Dallas,Atlanta United FC,2,2,Toyota Stadium,USA,,,,
+659961,2023-09-03T00:30Z,Nashville SC,Charlotte FC,1,1,"Nashville, Tennessee",USA,170.0,0,3.9,28.5
+659963,2023-09-03T00:30Z,Sporting Kansas City,St. Louis CITY SC,2,1,"Kansas City, Kansas",USA,274.0,0,7.2,30.0
+659964,2023-09-03T01:30Z,Real Salt Lake,Colorado Rapids,2,0,"Sandy, Utah",USA,1361.0,0,10.3,26.5
+659967,2023-09-03T02:30Z,LA Galaxy,Houston Dynamo FC,0,0,"Carson, California",USA,12.0,0.6,6.1,22.3
+659965,2023-09-03T02:30Z,San Jose Earthquakes,Minnesota United FC,1,1,"San Jose, California",USA,26.0,0,3.4,22.6
+659968,2023-09-03T02:30Z,Seattle Sounders FC,Portland Timbers,2,2,"Seattle, Washington",USA,56.0,0,4.6,23.2
+659969,2023-09-03T23:30Z,Philadelphia Union,Red Bull New York,4,1,"Chester, Pennsylvania",USA,34.0,0,1.6,15.9
+659966,2023-09-04T02:00Z,LAFC,Inter Miami CF,1,3,"Los Angeles, California",USA,89.0,0,12.8,20.9
+659970,2023-09-09T23:30Z,D.C. United,San Jose Earthquakes,0,0,"Washington, District of Columbia",USA,7.0,0,9.7,29.3
+659971,2023-09-09T23:30Z,Inter Miami CF,Sporting Kansas City,3,2,"Fort Lauderdale, Florida",USA,1.0,0.1,3.1,28.1
+659838,2023-09-10T00:30Z,Minnesota United FC,New England Revolution,1,1,"Saint Paul, Minnesota",USA,242.0,0.2,8.1,21.0
+659972,2023-09-10T02:30Z,Portland Timbers,LAFC,2,0,"Portland, Oregon",USA,12.0,0,7.7,26.0
+659877,2023-09-11T00:00Z,LA Galaxy,St. Louis CITY SC,2,2,"Carson, California",USA,12.0,0,18.2,27.9
+659973,2023-09-16T19:30Z,New York City FC,Red Bull New York,0,0,New York City,USA,10.0,0,21.8,24.3
+659979,2023-09-16T21:00Z,Atlanta United FC,Inter Miami CF,5,2,"Atlanta, Georgia",USA,320.0,0,7.4,22.6
+659978,2023-09-16T23:30Z,CF Montréal,Chicago Fire FC,0,0,Montreal,Canada,216.0,0,16.1,17.9
+659977,2023-09-16T23:30Z,Charlotte FC,D.C. United,0,0,"Charlotte, North Carolina",USA,229.0,0,5.6,24.9
+659975,2023-09-16T23:30Z,Orlando City SC,Columbus Crew,4,3,"Orlando, Florida",USA,30.0,0.5,8.7,27.3
+659974,2023-09-16T23:30Z,Philadelphia Union,FC Cincinnati,2,2,"Chester, Pennsylvania",USA,34.0,0,10.4,14.7
+659976,2023-09-16T23:30Z,Toronto FC,Vancouver Whitecaps,1,2,Toronto,Canada,161.0,0,8.6,18.9
+659981,2023-09-17T00:30Z,FC Dallas,Seattle Sounders FC,1,1,Toyota Stadium,USA,,,,
+659980,2023-09-17T00:30Z,Houston Dynamo FC,St. Louis CITY SC,1,1,"Houston, Texas",USA,12.0,0,5.9,26.9
+659982,2023-09-17T00:30Z,Minnesota United FC,Sporting Kansas City,0,1,"Saint Paul, Minnesota",USA,242.0,0,6.5,18.0
+659983,2023-09-17T01:30Z,Colorado Rapids,New England Revolution,2,1,"Commerce City, Colorado",USA,1572.0,0,8.9,17.7
+659985,2023-09-17T02:30Z,LAFC,LA Galaxy,4,2,"Los Angeles, California",USA,89.0,0,13.4,19.6
+659984,2023-09-17T02:30Z,San Jose Earthquakes,Real Salt Lake,2,1,"San Jose, California",USA,26.0,0,19.4,19.9
+659986,2023-09-18T00:30Z,Austin FC,Portland Timbers,1,2,"Austin, Texas",USA,149.0,0,6.5,29.5
+659992,2023-09-20T23:30Z,CF Montréal,FC Cincinnati,1,1,Montreal,Canada,216.0,0,16.6,15.2
+659991,2023-09-20T23:30Z,Charlotte FC,Philadelphia Union,2,2,"Charlotte, North Carolina",USA,229.0,0,3.3,23.6
+659990,2023-09-20T23:30Z,Columbus Crew,Chicago Fire FC,3,0,"Columbus, Ohio",USA,235.0,0,4.7,24.0
+659989,2023-09-20T23:30Z,D.C. United,Atlanta United FC,1,1,"Washington, District of Columbia",USA,7.0,0,5.9,21.2
+659988,2023-09-20T23:30Z,Inter Miami CF,Toronto FC,4,0,"Fort Lauderdale, Florida",USA,1.0,0,3.4,27.1
+659993,2023-09-20T23:30Z,New York City FC,Orlando City SC,2,0,"New York, New York",USA,10.0,0,9.8,18.7
+659987,2023-09-20T23:30Z,Red Bull New York,Austin FC,1,1,"Harrison, New Jersey",USA,320.0,0,7.8,26.4
+659995,2023-09-21T00:30Z,Houston Dynamo FC,Vancouver Whitecaps,4,1,"Houston, Texas",USA,12.0,0,13.6,29.7
+659994,2023-09-21T00:30Z,Sporting Kansas City,Nashville SC,0,3,"Kansas City, Kansas",USA,274.0,0,13.7,24.6
+659996,2023-09-21T00:30Z,St. Louis CITY SC,LAFC,0,0,"St. Louis, Missouri",USA,142.0,0.6,7.8,20.4
+659997,2023-09-21T01:30Z,Colorado Rapids,Seattle Sounders FC,1,2,"Commerce City, Colorado",USA,1572.0,0,15.5,21.0
+659998,2023-09-21T01:30Z,Real Salt Lake,FC Dallas,1,3,"Sandy, Utah",USA,1361.0,0,17.5,25.2
+660000,2023-09-21T02:30Z,LA Galaxy,Minnesota United FC,4,3,"Carson, California",USA,12.0,0,15.6,19.1
+659999,2023-09-21T02:30Z,Portland Timbers,San Jose Earthquakes,2,1,"Portland, Oregon",USA,12.0,0,13.8,16.7
+660002,2023-09-23T23:30Z,Atlanta United FC,CF Montréal,4,1,"Atlanta, Georgia",USA,320.0,0,10.6,24.8
+660001,2023-09-23T23:30Z,D.C. United,Red Bull New York,3,5,"Washington, District of Columbia",USA,7.0,0.6,29.5,16.3
+660004,2023-09-23T23:30Z,FC Cincinnati,Charlotte FC,3,0,"Cincinnati, Ohio",USA,191.0,0,6.6,22.7
+660005,2023-09-23T23:30Z,Philadelphia Union,LAFC,0,0,"Chester, Pennsylvania",USA,34.0,0,23.8,13.6
+660008,2023-09-24T00:30Z,Chicago Fire FC,New England Revolution,2,2,"Chicago, Illinois",USA,179.0,0,20.2,19.9
+660009,2023-09-24T00:30Z,FC Dallas,Columbus Crew,1,1,Toyota Stadium,USA,,,,
+660006,2023-09-24T00:30Z,Minnesota United FC,St. Louis CITY SC,1,2,"Saint Paul, Minnesota",USA,242.0,4.5,23.3,18.2
+660007,2023-09-24T00:30Z,Sporting Kansas City,Houston Dynamo FC,2,1,"Kansas City, Kansas",USA,274.0,0,8.2,22.3
+660010,2023-09-24T01:30Z,Real Salt Lake,Vancouver Whitecaps,2,1,"Sandy, Utah",USA,1361.0,0,5.3,17.9
+660012,2023-09-24T02:30Z,Portland Timbers,Colorado Rapids,3,2,"Portland, Oregon",USA,12.0,2.0,2.4,14.9
+660011,2023-09-24T02:30Z,San Jose Earthquakes,Nashville SC,1,1,"San Jose, California",USA,26.0,0,15.0,18.4
+660003,2023-09-24T17:00Z,New York City FC,Toronto FC,3,0,"Harrison, New Jersey",USA,320.0,0.1,5.4,26.8
+660013,2023-09-24T23:30Z,Orlando City SC,Inter Miami CF,1,1,"Orlando, Florida",USA,30.0,0,5.4,28.1
+660014,2023-09-25T04:25Z,Austin FC,LA Galaxy,3,3,"Austin, Texas",USA,149.0,0,20.9,29.4
+659917,2023-09-27T23:30Z,Philadelphia Union,FC Dallas,1,1,"Chester, Pennsylvania",USA,34.0,0,23.2,16.2
+659841,2023-09-28T01:30Z,Colorado Rapids,Vancouver Whitecaps,2,2,"Commerce City, Colorado",USA,1572.0,0,8.5,24.0

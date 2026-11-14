@@ -1,0 +1,60 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+683137,2023-08-11T18:00Z,Trabzonspor,Antalyaspor,1,0,Trabzon,Türkiye,39.0,0.5,3.0,25.5
+683132,2023-08-12T16:15Z,Kasimpasa,Ankaragucu,3,2,Istanbul,Türkiye,39.0,0,30.3,25.3
+683134,2023-08-12T16:15Z,Konyaspor,Istanbulspor,1,1,Konya,Türkiye,1030.0,0,5.0,32.5
+683133,2023-08-12T18:45Z,Kayserispor,Galatasaray,0,0,Kayseri,Türkiye,1054.0,0,3.3,30.4
+683135,2023-08-12T18:45Z,Pendikspor,Hatayspor,1,5,Ümraniye,Türkiye,136.0,0,23.2,23.0
+683136,2023-08-13T16:15Z,Sivasspor,Samsunspor,1,1,Sivas,Türkiye,1287.0,0,7.6,30.9
+683128,2023-08-13T18:45Z,Adana Demirspor,Caykur Rizespor,2,1,Adana,Türkiye,30.0,0,7.4,32.4
+683131,2023-08-13T18:45Z,Fenerbahce,Gaziantep FK,2,1,Istanbul,Türkiye,39.0,0,29.0,24.9
+683129,2023-08-14T18:00Z,Alanyaspor,Istanbul Basaksehir,2,0,Antalya,Türkiye,61.0,0,2.0,29.6
+683130,2023-08-14T18:00Z,Fatih Karagümrük,Besiktas,0,1,Istanbul,Türkiye,39.0,0,24.0,25.0
+683139,2023-08-18T18:00Z,Antalyaspor,Konyaspor,1,1,Antalya,Türkiye,61.0,0,3.3,27.3
+683146,2023-08-18T18:00Z,Istanbulspor,Kayserispor,1,1,Istanbul,Türkiye,39.0,0,35.0,24.6
+683141,2023-08-19T16:15Z,Caykur Rizespor,Alanyaspor,0,0,Rize,Türkiye,63.0,0,4.4,26.0
+683142,2023-08-19T18:45Z,Galatasaray,Trabzonspor,2,0,Istanbul,Türkiye,39.0,0,34.3,24.4
+683144,2023-08-19T18:45Z,Hatayspor,Kasimpasa,0,0,Mersin,Türkiye,10.0,0,1.8,28.3
+683145,2023-08-20T16:15Z,Istanbul Basaksehir,Fatih Karagümrük,0,2,Istanbul,Türkiye,39.0,0,22.2,26.6
+683140,2023-08-20T18:45Z,Besiktas,Pendikspor,1,1,Istanbul,Türkiye,39.0,0,20.1,24.0
+683143,2023-08-20T18:45Z,Gaziantep FK,Sivasspor,1,3,Gaziantep,Türkiye,842.0,0,18.5,29.7
+683138,2023-08-21T18:00Z,Ankaragucu,Adana Demirspor,1,1,Istanbul,Türkiye,39.0,0,24.5,24.8
+683147,2023-08-21T18:00Z,Samsunspor,Fenerbahce,0,2,Samsun,Türkiye,64.0,0,1.3,25.0
+683155,2023-08-25T18:00Z,Konyaspor,Gaziantep FK,2,0,Konya,Türkiye,1030.0,0,6.6,26.1
+683153,2023-08-26T16:15Z,Kasimpasa,Pendikspor,1,1,Istanbul,Türkiye,39.0,0,29.6,26.4
+683156,2023-08-26T16:15Z,Trabzonspor,Caykur Rizespor,2,3,Trabzon,Türkiye,39.0,0,2.6,24.9
+683152,2023-08-26T18:45Z,Sivasspor,Antalyaspor,1,1,Sivas,Türkiye,1287.0,0,5.4,17.8
+683150,2023-08-27T16:15Z,Fatih Karagümrük,Ankaragucu,1,1,Istanbul,Türkiye,39.0,0,30.9,26.2
+683154,2023-08-27T16:15Z,Kayserispor,Samsunspor,2,1,Kayseri,Türkiye,1054.0,0,6.9,28.8
+683149,2023-08-27T18:45Z,Alanyaspor,Hatayspor,0,0,Antalya,Türkiye,61.0,0,2.7,27.0
+683161,2023-09-01T18:00Z,Caykur Rizespor,Fatih Karagümrük,1,0,Rize,Türkiye,63.0,0,5.8,25.1
+683165,2023-09-01T18:00Z,Kasimpasa,Trabzonspor,1,5,Istanbul,Türkiye,39.0,0,14.7,24.6
+683164,2023-09-02T16:15Z,Istanbul Basaksehir,Konyaspor,0,1,Istanbul,Türkiye,39.0,0,26.6,25.8
+683166,2023-09-02T16:15Z,Pendikspor,Alanyaspor,1,1,Ümraniye,Türkiye,136.0,0,22.5,24.9
+683159,2023-09-02T18:45Z,Antalyaspor,Kayserispor,1,1,Antalya,Türkiye,61.0,0,1.8,25.9
+683162,2023-09-02T18:45Z,Gaziantep FK,Galatasaray,0,3,Gaziantep,Türkiye,842.0,0,16.3,26.7
+683160,2023-09-03T16:15Z,Besiktas,Sivasspor,2,0,Istanbul,Türkiye,39.0,0,24.7,25.3
+683158,2023-09-03T18:45Z,Ankaragucu,Fenerbahce,0,1,Ankara,Türkiye,850.0,2.6,5.7,19.2
+683163,2023-09-03T18:45Z,Hatayspor,Adana Demirspor,3,3,Mersin,Türkiye,10.0,0,6.8,27.6
+683174,2023-09-16T14:00Z,Kayserispor,Gaziantep FK,2,0,Kayseri,Türkiye,1054.0,0,10.3,24.9
+683175,2023-09-16T14:00Z,Konyaspor,Caykur Rizespor,1,2,Konya,Türkiye,1030.0,0,18.4,25.3
+683168,2023-09-16T17:00Z,Adana Demirspor,Pendikspor,3,0,Adana,Türkiye,30.0,0,6.3,25.6
+683172,2023-09-16T17:00Z,Galatasaray,Samsunspor,4,2,Istanbul,Türkiye,39.0,0,24.5,22.2
+683171,2023-09-17T14:00Z,Fenerbahce,Antalyaspor,3,2,Istanbul,Türkiye,39.0,0,28.5,24.3
+683173,2023-09-17T14:00Z,Istanbulspor,Istanbul Basaksehir,0,2,Istanbul,Türkiye,39.0,0,28.5,24.3
+683169,2023-09-17T17:00Z,Alanyaspor,Kasimpasa,3,3,Antalya,Türkiye,61.0,0,3.8,26.8
+683177,2023-09-17T17:00Z,Trabzonspor,Besiktas,3,0,Trabzon,Türkiye,39.0,0,4.7,20.5
+683170,2023-09-18T17:00Z,Fatih Karagümrük,Hatayspor,0,0,Istanbul,Türkiye,39.0,0,25.1,21.5
+683176,2023-09-18T17:00Z,Sivasspor,Ankaragucu,1,3,Sivas,Türkiye,1287.0,0,4.7,13.2
+683183,2023-09-22T17:00Z,Gaziantep FK,Istanbulspor,2,0,Gaziantep,Türkiye,842.0,0,10.2,29.5
+683187,2023-09-23T14:00Z,Caykur Rizespor,Sivasspor,1,1,Rize,Türkiye,63.0,0,3.8,22.4
+683186,2023-09-23T14:00Z,Pendikspor,Fatih Karagümrük,1,1,Ümraniye,Türkiye,136.0,0,15.5,30.5
+683180,2023-09-23T17:00Z,Antalyaspor,Samsunspor,2,0,Antalya,Türkiye,61.0,0,6.6,28.7
+683185,2023-09-23T17:00Z,Istanbul Basaksehir,Galatasaray,1,2,Istanbul,Türkiye,39.0,0,16.1,25.5
+683179,2023-09-24T14:00Z,Ankaragucu,Konyaspor,1,1,Ankara,Türkiye,850.0,0,5.5,30.2
+683181,2023-09-24T14:00Z,Besiktas,Kayserispor,2,1,Istanbul,Türkiye,39.0,0,25.6,26.2
+683178,2023-09-24T17:00Z,Alanyaspor,Fenerbahce,0,1,Antalya,Türkiye,61.0,0,6.6,27.7
+683182,2023-09-24T17:00Z,Kasimpasa,Adana Demirspor,2,1,Istanbul,Türkiye,39.0,0,24.7,21.6
+683184,2023-09-25T17:00Z,Hatayspor,Trabzonspor,3,2,Mersin,Türkiye,10.0,0,3.2,26.4
+683157,2023-09-26T17:00Z,Istanbulspor,Galatasaray,0,1,Istanbul,Türkiye,39.0,0,27.5,22.0
+683148,2023-09-27T17:00Z,Adana Demirspor,Besiktas,4,2,Adana,Türkiye,30.0,0,6.9,27.3
+683151,2023-09-28T17:00Z,Fenerbahce,Istanbul Basaksehir,4,0,Istanbul,Türkiye,39.0,4.5,15.7,19.2

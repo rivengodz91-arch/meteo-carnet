@@ -1,0 +1,61 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+679226,2023-08-19T16:30Z,Empoli,Hellas Verona,0,1,Empoli,Italy,28.0,0,7.5,36.5
+679222,2023-08-19T16:30Z,Frosinone,Napoli,1,3,Frosinone,Italy,291.0,0,15.2,31.0
+679228,2023-08-19T18:45Z,Genoa,Fiorentina,1,4,Genova,Italy,3.0,0,10.9,29.2
+679229,2023-08-19T18:45Z,Internazionale,Monza,2,0,Milano,Italy,635.0,0,5.4,26.2
+679220,2023-08-20T16:30Z,AS Roma,Salernitana,2,2,Roma,Italy,576.0,0,4.3,26.6
+679227,2023-08-20T16:30Z,Sassuolo,Atalanta,0,2,Reggio Emilia,Italy,58.0,0,12.7,33.6
+679221,2023-08-20T18:45Z,Lecce,Lazio,2,1,Lecce,Italy,49.0,0,18.4,27.2
+679224,2023-08-20T18:45Z,Udinese,Juventus,0,3,Udine,Italy,113.0,0,8.4,26.9
+679223,2023-08-21T16:30Z,Torino,Cagliari,0,0,Torino,Italy,239.0,0,0.7,35.4
+679225,2023-08-21T18:45Z,Bologna,AC Milan,0,2,Bologna,Italy,54.0,0,7.3,29.5
+679235,2023-08-26T16:30Z,Frosinone,Atalanta,2,1,Frosinone,Italy,291.0,0,11.3,33.5
+679230,2023-08-26T16:30Z,Monza,Empoli,2,0,Monza,Italy,162.0,17.6,14.5,22.8
+679238,2023-08-26T18:45Z,AC Milan,Torino,4,1,Milano,Italy,635.0,0,4.7,26.2
+679234,2023-08-26T18:45Z,Hellas Verona,AS Roma,2,1,Verona,Italy,59.0,0,14.1,26.8
+679239,2023-08-27T16:30Z,Fiorentina,Lecce,2,2,Firenze,Italy,58.0,0,10.3,32.9
+679236,2023-08-27T16:30Z,Juventus,Bologna,1,1,Torino,Italy,239.0,2.4,7.1,20.9
+679237,2023-08-27T18:45Z,Lazio,Genoa,0,1,Roma,Italy,576.0,0,7.1,23.7
+679232,2023-08-27T18:45Z,Napoli,Sassuolo,2,0,Napoli,Italy,58.0,0,4.5,27.4
+679231,2023-08-28T16:30Z,Salernitana,Udinese,1,1,Salerno,Italy,4.0,0.4,16.6,24.2
+679233,2023-08-28T18:45Z,Cagliari,Internazionale,0,2,Cagliari,Italy,6.0,0,28.0,22.9
+679247,2023-09-01T16:30Z,Sassuolo,Hellas Verona,3,1,Reggio Emilia,Italy,58.0,0,7.9,26.8
+679246,2023-09-01T18:45Z,AS Roma,AC Milan,1,2,Roma,Italy,576.0,0,6.9,16.3
+679241,2023-09-02T16:30Z,Bologna,Cagliari,2,1,Bologna,Italy,54.0,0,11.5,28.7
+679249,2023-09-02T16:30Z,Udinese,Frosinone,0,0,Udine,Italy,113.0,0,7.8,24.9
+679240,2023-09-02T18:45Z,Atalanta,Monza,3,0,Bergamo,Italy,249.0,0,3.7,24.5
+679245,2023-09-02T18:45Z,Napoli,Lazio,1,2,Napoli,Italy,58.0,0,3.9,22.7
+679243,2023-09-03T16:30Z,Internazionale,Fiorentina,4,0,Milano,Italy,635.0,0,8.4,27.1
+679248,2023-09-03T16:30Z,Torino,Genoa,1,0,Torino,Italy,239.0,0,2.3,28.2
+679242,2023-09-03T18:45Z,Empoli,Juventus,0,2,Empoli,Italy,28.0,0,7.6,24.6
+679244,2023-09-03T18:45Z,Lecce,Salernitana,2,0,Lecce,Italy,49.0,0,16.5,24.2
+679255,2023-09-16T13:00Z,Juventus,Lazio,3,1,Torino,Italy,239.0,0.3,4.5,23.5
+679254,2023-09-16T16:00Z,Internazionale,AC Milan,5,1,Milano,Italy,635.0,0.8,4.0,22.3
+679253,2023-09-16T18:45Z,Genoa,Napoli,2,2,Genova,Italy,3.0,0,6.6,20.3
+679250,2023-09-17T10:30Z,Cagliari,Udinese,0,0,Cagliari,Italy,6.0,0,17.1,30.7
+679252,2023-09-17T13:00Z,Frosinone,Sassuolo,4,2,Frosinone,Italy,291.0,0,5.3,31.5
+679256,2023-09-17T13:00Z,Monza,Lecce,1,1,Monza,Italy,162.0,0.2,8.9,25.0
+679251,2023-09-17T16:00Z,Fiorentina,Atalanta,3,2,Firenze,Italy,58.0,0,6.9,30.1
+679257,2023-09-17T18:45Z,AS Roma,Empoli,7,0,Roma,Italy,576.0,0,4.8,16.1
+679258,2023-09-18T16:30Z,Salernitana,Torino,0,3,Salerno,Italy,4.0,0,5.1,26.2
+679259,2023-09-18T18:45Z,Hellas Verona,Bologna,0,0,Verona,Italy,59.0,5.0,12.1,21.5
+679266,2023-09-22T16:30Z,Salernitana,Frosinone,1,1,Salerno,Italy,4.0,0,5.3,27.2
+679264,2023-09-22T18:45Z,Lecce,Genoa,1,0,Lecce,Italy,49.0,0,18.6,25.8
+679265,2023-09-23T13:00Z,AC Milan,Hellas Verona,1,0,Milano,Italy,635.0,0.4,7.4,18.7
+679267,2023-09-23T16:00Z,Sassuolo,Juventus,4,2,Reggio Emilia,Italy,58.0,2.1,11.3,20.8
+679263,2023-09-23T18:45Z,Lazio,Monza,1,1,Roma,Italy,576.0,0,8.6,20.1
+679262,2023-09-24T10:30Z,Empoli,Internazionale,0,1,Empoli,Italy,28.0,0,21.1,21.3
+679260,2023-09-24T13:00Z,Atalanta,Cagliari,2,0,Bergamo,Italy,249.0,0,7.7,21.5
+679269,2023-09-24T13:00Z,Udinese,Fiorentina,0,2,Udine,Italy,113.0,0,9.7,21.3
+679261,2023-09-24T16:00Z,Bologna,Napoli,0,0,Bologna,Italy,54.0,0,7.2,20.8
+679268,2023-09-24T18:45Z,Torino,AS Roma,1,1,Torino,Italy,239.0,0,9.6,15.8
+679274,2023-09-26T18:45Z,Juventus,Lecce,1,0,Torino,Italy,239.0,0,4.3,21.0
+679270,2023-09-27T16:30Z,Cagliari,AC Milan,1,3,Cagliari,Italy,6.0,0,18.4,24.2
+679271,2023-09-27T16:30Z,Empoli,Salernitana,1,0,Empoli,Italy,28.0,0,15.3,26.0
+679275,2023-09-27T16:30Z,Hellas Verona,Atalanta,0,1,Verona,Italy,59.0,0,10.8,25.7
+679279,2023-09-27T18:45Z,Internazionale,Sassuolo,1,2,Milano,Italy,635.0,0,6.7,16.3
+679276,2023-09-27T18:45Z,Lazio,Torino,2,0,Roma,Italy,576.0,0,11.2,16.4
+679278,2023-09-27T18:45Z,Napoli,Udinese,4,1,Napoli,Italy,58.0,0,8.2,23.3
+679272,2023-09-28T16:30Z,Frosinone,Fiorentina,1,1,Frosinone,Italy,291.0,0,5.4,24.0
+679277,2023-09-28T16:30Z,Monza,Bologna,0,0,Monza,Italy,162.0,0,2.5,23.5
+679273,2023-09-28T18:45Z,Genoa,AS Roma,4,1,Genova,Italy,3.0,0,2.4,22.6

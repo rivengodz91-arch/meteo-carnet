@@ -1,0 +1,17 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+687728,2023-09-20T14:30Z,Lille,Olimpija Ljubljana,2,0,Lille,France,20.0,0,34.0,21.7
+687729,2023-09-21T16:45Z,Eintracht Frankfurt,Aberdeen,2,1,Frankfurt,Germany,113.0,0.1,12.9,24.4
+687730,2023-09-21T16:45Z,Fenerbahce,FC Nordsjælland,3,1,Istanbul,Türkiye,39.0,0,15.1,21.8
+687731,2023-09-21T16:45Z,Ferencvaros,Cukaricki Belgrade,3,1,Budapest,Hungary,104.0,0,11.2,24.3
+687732,2023-09-21T16:45Z,HJK Helsinki,PAOK,2,3,Helsinki,Finland,26.0,0,18.0,17.8
+687736,2023-09-21T16:45Z,Legia Warsaw,Aston Villa,3,2,Warsaw,Poland,113.0,0,15.9,23.8
+687734,2023-09-21T16:45Z,Ludogorets Razgrad,FC Spartak Trnava,4,0,Razgrad,Bulgaria,190.0,0,8.0,25.0
+687733,2023-09-21T16:45Z,Racing Genk,Fiorentina,2,2,Genk,Belgium,66.0,3.8,12.8,16.2
+687735,2023-09-21T16:45Z,Zrinjski Mostar,AZ Alkmaar,4,3,Mostar,Bosnia and Herzegovina,66.0,0.2,3.6,20.5
+687737,2023-09-21T19:00Z,Club Brugge,Besiktas,1,1,Brugge,Belgium,13.0,0,8.7,13.0
+687738,2023-09-21T19:00Z,Dinamo Zagreb,FC Astana,5,1,Zagreb,Croatia,135.0,0,11.3,19.3
+687740,2023-09-21T19:00Z,FC Lugano,Bodo/Glimt,0,0,Zürich,Switzerland,429.0,5.6,6.1,17.9
+687739,2023-09-21T19:00Z,FC Zorya Luhansk,KAA Gent,1,1,Lublin,Poland,184.0,0,14.3,18.3
+687741,2023-09-21T19:00Z,Maccabi Tel-Aviv,Breidablik,3,2,Tel-Aviv,Israel,15.0,0,7.3,25.8
+687742,2023-09-21T19:00Z,Slovan Bratislava,KI Klaksvik,2,1,Bratislava,Slovakia,157.0,0,16.4,21.5
+687743,2023-09-21T19:00Z,Viktoria Plzen,Ballkani,1,0,Plzen,Czechia,354.0,0,9.4,19.0

@@ -1,0 +1,95 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+658484,2023-07-01T13:00Z,Degerfors IF,IFK Värnamo,0,2,Degerfors,Sweden,112.0,0,16.7,18.6
+658490,2023-07-01T13:00Z,IF Brommapojkarna,AIK,0,2,Stockholm,Sweden,17.0,0,20.4,22.3
+658487,2023-07-01T15:30Z,Malmö FF,IK Sirius,3,0,Malmo,Sweden,10.0,0.2,27.9,16.8
+658491,2023-07-02T13:00Z,Halmstads BK,IFK Göteborg,0,0,Halmstads,Sweden,,,,
+658488,2023-07-02T13:00Z,IFK Norrköping,BK Häcken,2,2,Norrköping,Sweden,12.0,0.1,20.6,19.5
+658485,2023-07-02T15:30Z,Djurgården,Varbergs BoIS FC,2,0,Stockholm,Sweden,17.0,1.6,15.8,16.1
+658489,2023-07-03T17:00Z,IF Elfsborg,Hammarby IF,2,0,Boras,Sweden,143.0,0.9,20.4,13.0
+658486,2023-07-03T17:00Z,Mjällby AIF,Kalmar FF,1,1,Sölvesborg,Sweden,15.0,0,27.1,16.3
+658497,2023-07-08T13:00Z,AIK,BK Häcken,1,2,Stockholm,Sweden,17.0,0.1,8.4,22.6
+658499,2023-07-08T13:00Z,IFK Värnamo,Djurgården,1,2,Värnamo,Sweden,156.0,0,7.4,23.2
+658498,2023-07-08T15:30Z,IF Brommapojkarna,Degerfors IF,1,2,Stockholm,Sweden,17.0,0.2,7.9,20.6
+658493,2023-07-09T13:00Z,IK Sirius,Hammarby IF,1,2,Uppsala,Sweden,20.0,0,8.0,22.6
+658495,2023-07-09T13:00Z,Malmö FF,Mjällby AIF,1,2,Malmo,Sweden,10.0,0,8.4,23.6
+658494,2023-07-09T15:30Z,Kalmar FF,IF Elfsborg,0,4,Kalmar,Sweden,7.0,0,8.4,24.2
+658492,2023-07-10T17:00Z,IFK Göteborg,Varbergs BoIS FC,1,2,Göteborg,Sweden,23.0,4.0,11.7,16.5
+658496,2023-07-10T17:00Z,IFK Norrköping,Halmstads BK,1,2,Norrköping,Sweden,12.0,0,13.8,20.7
+658505,2023-07-15T13:00Z,Halmstads BK,IFK Värnamo,2,2,Halmstads,Sweden,,,,
+658502,2023-07-15T15:30Z,BK Häcken,IF Brommapojkarna,4,2,Gothenburg,Sweden,10.0,0.1,18.5,23.6
+658501,2023-07-15T15:30Z,Degerfors IF,IK Sirius,0,3,Degerfors,Sweden,112.0,0,15.1,18.6
+658506,2023-07-16T13:00Z,Hammarby IF,Kalmar FF,3,1,Stockholm,Sweden,17.0,0.4,12.2,20.6
+658507,2023-07-16T13:00Z,IF Elfsborg,IFK Göteborg,1,1,Boras,Sweden,143.0,1.1,21.6,18.0
+658503,2023-07-16T15:30Z,Mjällby AIF,IFK Norrköping,1,2,Sölvesborg,Sweden,15.0,0,25.9,22.1
+658500,2023-07-17T17:00Z,Djurgården,Malmö FF,2,0,Stockholm,Sweden,17.0,0,13.8,16.4
+658504,2023-07-17T17:00Z,Varbergs BoIS FC,AIK,1,2,Varberg,Sweden,15.0,0.2,24.6,16.6
+658515,2023-07-21T17:00Z,IF Brommapojkarna,Hammarby IF,1,0,Stockholm,Sweden,17.0,0,8.2,17.3
+658509,2023-07-22T13:00Z,Djurgården,IF Elfsborg,0,4,Stockholm,Sweden,17.0,0.5,14.8,19.6
+658512,2023-07-22T15:30Z,IFK Värnamo,BK Häcken,1,0,Värnamo,Sweden,156.0,0,18.2,16.6
+658508,2023-07-23T13:00Z,AIK,Malmö FF,0,0,Stockholm,Sweden,17.0,0.1,10.6,19.3
+658513,2023-07-23T13:00Z,IFK Norrköping,Degerfors IF,1,0,Norrköping,Sweden,12.0,0,10.7,19.2
+658514,2023-07-23T15:30Z,IFK Göteborg,Halmstads BK,0,0,Göteborg,Sweden,23.0,0.1,7.3,18.0
+658510,2023-07-23T15:30Z,Kalmar FF,Varbergs BoIS FC,1,0,Kalmar,Sweden,7.0,0.1,13.0,17.4
+658511,2023-07-24T17:00Z,IK Sirius,Mjällby AIF,2,3,Uppsala,Sweden,20.0,0,14.5,19.1
+658516,2023-07-29T13:00Z,BK Häcken,IF Elfsborg,3,1,Gothenburg,Sweden,10.0,0.3,14.2,19.0
+658522,2023-07-29T15:30Z,Degerfors IF,IF Brommapojkarna,2,0,Degerfors,Sweden,112.0,0,11.1,20.6
+658521,2023-07-29T18:00Z,Halmstads BK,Varbergs BoIS FC,0,5,Halmstads,Sweden,,,,
+658523,2023-07-30T13:00Z,Hammarby IF,IFK Norrköping,2,1,Stockholm,Sweden,17.0,8.1,12.0,17.1
+658517,2023-07-30T13:00Z,Mjällby AIF,Djurgården,0,1,Sölvesborg,Sweden,15.0,0.1,19.8,19.9
+658518,2023-07-30T15:30Z,IFK Göteborg,Kalmar FF,2,0,Göteborg,Sweden,23.0,0.1,16.6,18.3
+658519,2023-07-31T17:00Z,IK Sirius,AIK,0,1,Uppsala,Sweden,20.0,1.9,5.8,14.9
+658520,2023-07-31T17:00Z,Malmö FF,IFK Värnamo,3,1,Malmo,Sweden,10.0,0,20.9,17.8
+658526,2023-08-05T13:00Z,IF Brommapojkarna,IFK Värnamo,0,2,Stockholm,Sweden,17.0,0.1,12.5,20.8
+658527,2023-08-06T13:00Z,IF Elfsborg,IK Sirius,1,0,Boras,Sweden,143.0,1.0,13.4,15.1
+658529,2023-08-06T13:00Z,Kalmar FF,AIK,1,1,Kalmar,Sweden,7.0,2.7,23.0,14.6
+658528,2023-08-07T17:00Z,IFK Norrköping,IFK Göteborg,3,0,Norrköping,Sweden,12.0,0,13.6,18.4
+658530,2023-08-07T17:00Z,Malmö FF,Halmstads BK,3,0,Malmo,Sweden,10.0,1.3,45.8,14.7
+658531,2023-08-07T17:00Z,Varbergs BoIS FC,Mjällby AIF,0,3,Varberg,Sweden,15.0,2.0,30.7,15.0
+658532,2023-08-12T13:00Z,AIK,IF Brommapojkarna,2,2,Stockholm,Sweden,17.0,0,17.6,21.0
+658536,2023-08-13T13:00Z,IFK Göteborg,Djurgården,2,1,Göteborg,Sweden,23.0,0.8,19.5,18.0
+658538,2023-08-13T13:00Z,IK Sirius,Kalmar FF,3,0,Uppsala,Sweden,20.0,0.1,18.2,18.3
+658533,2023-08-13T15:30Z,BK Häcken,Varbergs BoIS FC,2,0,Gothenburg,Sweden,10.0,0,15.6,18.6
+658534,2023-08-13T15:30Z,Halmstads BK,IFK Norrköping,1,3,Halmstads,Sweden,,,,
+658535,2023-08-13T15:30Z,Hammarby IF,IF Elfsborg,1,0,Stockholm,Sweden,17.0,0,13.3,21.2
+658537,2023-08-14T17:00Z,IFK Värnamo,Degerfors IF,0,1,Värnamo,Sweden,156.0,0,8.6,20.4
+658539,2023-08-14T17:00Z,Mjällby AIF,Malmö FF,1,0,Sölvesborg,Sweden,15.0,0,9.4,17.2
+658541,2023-08-19T13:00Z,Degerfors IF,IFK Göteborg,1,2,Degerfors,Sweden,112.0,0,16.4,20.4
+658542,2023-08-19T13:00Z,IF Brommapojkarna,Halmstads BK,3,1,Stockholm,Sweden,17.0,0,11.6,19.6
+658547,2023-08-19T15:30Z,Varbergs BoIS FC,IFK Värnamo,0,3,Varberg,Sweden,15.0,0.2,14.5,24.0
+658540,2023-08-20T13:00Z,BK Häcken,IK Sirius,3,2,Gothenburg,Sweden,10.0,0,10.1,19.9
+658546,2023-08-20T13:00Z,Malmö FF,Djurgården,0,0,Malmo,Sweden,10.0,0,8.2,20.1
+658543,2023-08-20T15:30Z,IF Elfsborg,Mjällby AIF,2,0,Boras,Sweden,143.0,0,11.2,20.4
+658545,2023-08-20T15:30Z,Kalmar FF,Hammarby IF,0,0,Kalmar,Sweden,7.0,0,4.7,21.3
+658544,2023-08-21T17:10Z,IFK Norrköping,AIK,3,1,Norrköping,Sweden,12.0,0,15.0,19.3
+658550,2023-08-27T13:00Z,IF Brommapojkarna,Kalmar FF,2,3,Stockholm,Sweden,17.0,0,11.0,19.6
+658553,2023-08-27T13:00Z,IFK Värnamo,Halmstads BK,0,0,Värnamo,Sweden,156.0,0.1,10.5,17.7
+658555,2023-08-27T13:00Z,Mjällby AIF,Hammarby IF,0,3,Sölvesborg,Sweden,15.0,0,15.1,18.4
+658549,2023-08-27T15:30Z,Djurgården,Degerfors IF,4,1,Stockholm,Sweden,17.0,0,9.4,19.5
+658552,2023-08-27T15:30Z,IFK Göteborg,BK Häcken,4,2,Göteborg,Sweden,23.0,0,16.4,17.7
+658548,2023-08-28T17:00Z,AIK,Varbergs BoIS FC,3,0,Stockholm,Sweden,17.0,0,9.5,14.6
+658551,2023-08-28T17:00Z,IF Elfsborg,IFK Norrköping,3,2,Boras,Sweden,143.0,0,12.0,15.6
+658554,2023-08-28T17:10Z,IK Sirius,Malmö FF,1,3,Uppsala,Sweden,20.0,0,8.7,14.9
+658557,2023-09-02T13:00Z,Halmstads BK,IK Sirius,2,1,Halmstads,Sweden,,,,
+658560,2023-09-02T15:30Z,IFK Värnamo,IF Elfsborg,1,0,Värnamo,Sweden,156.0,0,17.2,18.3
+658556,2023-09-03T13:00Z,Degerfors IF,BK Häcken,1,0,Degerfors,Sweden,112.0,0.8,8.9,15.8
+658558,2023-09-03T13:00Z,Hammarby IF,AIK,4,2,Stockholm,Sweden,17.0,0,12.6,16.8
+658561,2023-09-03T13:00Z,Kalmar FF,Mjällby AIF,0,2,Kalmar,Sweden,7.0,0,8.7,20.1
+658559,2023-09-03T15:30Z,IFK Norrköping,Djurgården,0,2,Norrköping,Sweden,12.0,0,6.4,17.8
+658562,2023-09-03T15:30Z,Malmö FF,IFK Göteborg,2,2,Malmo,Sweden,10.0,0,19.4,18.0
+658563,2023-09-03T15:30Z,Varbergs BoIS FC,IF Brommapojkarna,4,3,Varberg,Sweden,15.0,0,18.8,16.9
+658569,2023-09-16T13:00Z,IFK Göteborg,IF Brommapojkarna,1,0,Göteborg,Sweden,23.0,0,15.3,19.6
+658571,2023-09-16T13:00Z,IK Sirius,Varbergs BoIS FC,7,0,Uppsala,Sweden,20.0,0,15.9,17.6
+658566,2023-09-16T15:30Z,Djurgården,IFK Värnamo,1,2,Stockholm,Sweden,17.0,0,13.7,17.6
+658567,2023-09-17T13:00Z,Hammarby IF,Malmö FF,1,3,Stockholm,Sweden,17.0,0,8.6,14.7
+658565,2023-09-17T15:30Z,BK Häcken,Halmstads BK,3,2,Gothenburg,Sweden,10.0,0,11.6,18.3
+658568,2023-09-17T15:30Z,IF Elfsborg,Kalmar FF,0,3,Boras,Sweden,143.0,0,11.5,16.3
+658570,2023-09-18T17:00Z,IFK Norrköping,Mjällby AIF,0,2,Norrköping,Sweden,12.0,0,19.8,14.9
+658564,2023-09-18T17:10Z,AIK,Degerfors IF,2,0,Stockholm,Sweden,17.0,0,16.7,13.5
+658573,2023-09-23T13:00Z,Degerfors IF,Malmö FF,1,2,Degerfors,Sweden,112.0,2.8,11.3,12.1
+658575,2023-09-23T15:30Z,IF Brommapojkarna,IFK Norrköping,2,2,Stockholm,Sweden,17.0,0,11.6,17.2
+658572,2023-09-24T13:00Z,AIK,Djurgården,2,0,Stockholm,Sweden,17.0,0,20.2,16.1
+658578,2023-09-24T13:00Z,Mjällby AIF,IFK Göteborg,0,1,Sölvesborg,Sweden,15.0,0,22.0,16.4
+658577,2023-09-24T15:30Z,Kalmar FF,BK Häcken,1,0,Kalmar,Sweden,7.0,0,15.9,16.3
+658579,2023-09-24T15:30Z,Varbergs BoIS FC,Hammarby IF,0,1,Varberg,Sweden,15.0,0,16.3,15.9
+658574,2023-09-25T17:00Z,Halmstads BK,IF Elfsborg,0,1,Halmstads,Sweden,,,,
+658576,2023-09-25T17:00Z,IFK Värnamo,IK Sirius,0,1,Värnamo,Sweden,156.0,0,16.4,14.1

@@ -1,0 +1,60 @@
+id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
+671031,2023-08-11T19:00Z,Burnley,Manchester City,0,3,Burnley,England,140.0,0,15.5,17.3
+671032,2023-08-12T12:00Z,Arsenal,Nottingham Forest,2,1,London,England,25.0,0.1,29.8,19.8
+671033,2023-08-12T14:00Z,AFC Bournemouth,West Ham United,1,1,Bournemouth,England,19.0,0.5,32.4,18.8
+671034,2023-08-12T14:00Z,Brighton & Hove Albion,Luton Town,4,1,Falmer,England,97.0,0.5,35.5,18.1
+671035,2023-08-12T14:00Z,Everton,Fulham,0,1,Liverpool,England,30.0,0.1,26.5,20.4
+671036,2023-08-12T14:00Z,Sheffield United,Crystal Palace,0,1,Sheffield,England,75.0,0.5,27.5,19.5
+671037,2023-08-12T16:30Z,Newcastle United,Aston Villa,5,1,Newcastle-upon-Tyne,England,54.0,0,21.4,20.1
+671038,2023-08-13T13:00Z,Brentford,Tottenham Hotspur,2,2,London,England,25.0,0,25.8,21.8
+671039,2023-08-13T15:30Z,Chelsea,Liverpool,1,1,London,England,25.0,0,25.4,21.7
+671040,2023-08-14T19:00Z,Manchester United,Wolverhampton Wanderers,1,0,Manchester,England,51.0,0.3,24.7,16.4
+671047,2023-08-18T18:45Z,Nottingham Forest,Sheffield United,2,1,Nottingham,England,46.0,0,19.2,19.9
+671043,2023-08-19T14:00Z,Fulham,Brentford,0,3,London,England,25.0,0,26.0,23.0
+671044,2023-08-19T14:00Z,Liverpool,AFC Bournemouth,3,1,Liverpool,England,30.0,0,26.0,21.6
+671050,2023-08-19T14:00Z,Wolverhampton Wanderers,Brighton & Hove Albion,1,4,Wolverhampton,England,160.0,0,25.9,21.6
+671048,2023-08-19T16:30Z,Tottenham Hotspur,Manchester United,2,0,London,England,25.0,0,25.2,21.8
+671046,2023-08-19T19:00Z,Manchester City,Newcastle United,1,0,Manchester,England,51.0,0,15.6,19.2
+671041,2023-08-20T13:00Z,Aston Villa,Everton,4,0,Birmingham,England,149.0,0.3,21.4,21.0
+671049,2023-08-20T15:30Z,West Ham United,Chelsea,3,1,London,England,25.0,0,17.9,24.0
+671042,2023-08-21T19:00Z,Crystal Palace,Arsenal,0,1,London,England,25.0,0,12.5,19.4
+671056,2023-08-25T19:00Z,Chelsea,Luton Town,3,0,London,England,25.0,0,13.2,16.3
+671052,2023-08-26T11:30Z,AFC Bournemouth,Tottenham Hotspur,0,2,Bournemouth,England,19.0,0.1,16.8,17.4
+671051,2023-08-26T14:00Z,Arsenal,Fulham,2,2,London,England,25.0,0.5,15.2,18.8
+671053,2023-08-26T14:00Z,Brentford,Crystal Palace,1,1,London,England,25.0,0.5,15.2,18.8
+671057,2023-08-26T14:00Z,Everton,Wolverhampton Wanderers,0,1,Liverpool,England,30.0,0.2,19.9,16.6
+671058,2023-08-26T14:00Z,Manchester United,Nottingham Forest,3,2,Manchester,England,51.0,2.5,9.4,16.0
+671054,2023-08-26T16:30Z,Brighton & Hove Albion,West Ham United,1,3,Falmer,England,97.0,0.4,21.7,16.9
+671060,2023-08-27T13:00Z,Burnley,Aston Villa,1,3,Burnley,England,140.0,0.5,24.4,13.9
+671059,2023-08-27T13:00Z,Sheffield United,Manchester City,1,2,Sheffield,England,75.0,1.0,18.9,15.1
+671055,2023-08-27T15:30Z,Newcastle United,Liverpool,1,2,Newcastle-upon-Tyne,England,54.0,1.9,5.2,15.1
+671070,2023-09-01T19:00Z,Luton Town,West Ham United,1,2,Luton,England,117.0,0,5.4,17.5
+671067,2023-09-02T11:30Z,Sheffield United,Everton,2,2,Sheffield,England,75.0,0,7.3,19.0
+671068,2023-09-02T14:00Z,Brentford,AFC Bournemouth,2,2,London,England,25.0,0,14.4,23.2
+671061,2023-09-02T14:00Z,Burnley,Tottenham Hotspur,2,5,Burnley,England,140.0,0,5.7,19.9
+671062,2023-09-02T14:00Z,Chelsea,Nottingham Forest,0,1,London,England,25.0,0,14.4,23.2
+671066,2023-09-02T14:00Z,Manchester City,Fulham,5,1,Manchester,England,51.0,0,4.4,21.8
+671069,2023-09-02T16:30Z,Brighton & Hove Albion,Newcastle United,3,1,Falmer,England,97.0,0,11.0,21.9
+671063,2023-09-03T13:00Z,Crystal Palace,Wolverhampton Wanderers,3,2,London,England,25.0,0,1.6,23.8
+671064,2023-09-03T13:00Z,Liverpool,Aston Villa,3,0,Liverpool,England,30.0,0,1.5,22.5
+671065,2023-09-03T15:30Z,Arsenal,Manchester United,3,1,London,England,25.0,0,5.1,24.7
+671080,2023-09-16T11:30Z,Wolverhampton Wanderers,Liverpool,1,3,Wolverhampton,England,160.0,0,18.4,18.9
+671071,2023-09-16T14:00Z,Aston Villa,Crystal Palace,3,1,Birmingham,England,149.0,0,18.2,19.8
+671074,2023-09-16T14:00Z,Fulham,Luton Town,1,0,London,England,25.0,0,10.0,25.9
+671075,2023-09-16T14:00Z,Manchester United,Brighton & Hove Albion,1,3,Manchester,England,51.0,0,19.8,17.1
+671079,2023-09-16T14:00Z,Tottenham Hotspur,Sheffield United,2,1,London,England,25.0,0,10.0,25.9
+671078,2023-09-16T14:00Z,West Ham United,Manchester City,1,3,London,England,25.0,0,10.0,25.9
+671077,2023-09-16T16:30Z,Newcastle United,Brentford,1,0,Newcastle-upon-Tyne,England,54.0,0.1,18.4,13.6
+671072,2023-09-17T13:00Z,AFC Bournemouth,Chelsea,0,0,Bournemouth,England,19.0,0.5,21.1,18.6
+671073,2023-09-17T15:30Z,Everton,Arsenal,0,1,Liverpool,England,30.0,0,15.7,19.6
+671076,2023-09-18T18:45Z,Nottingham Forest,Burnley,1,1,Nottingham,England,46.0,0,25.2,13.7
+671089,2023-09-23T14:00Z,Crystal Palace,Fulham,0,0,London,England,25.0,0,14.3,17.0
+671082,2023-09-23T14:00Z,Luton Town,Wolverhampton Wanderers,1,1,Luton,England,117.0,0,15.8,15.8
+671081,2023-09-23T14:00Z,Manchester City,Nottingham Forest,2,0,Manchester,England,51.0,0,12.3,15.0
+671086,2023-09-23T16:30Z,Brentford,Everton,1,3,London,England,25.0,0,16.1,16.8
+671088,2023-09-23T19:00Z,Burnley,Manchester United,0,1,Burnley,England,140.0,0,9.7,10.2
+671085,2023-09-24T13:00Z,Arsenal,Tottenham Hotspur,2,2,London,England,25.0,0,27.5,19.7
+671087,2023-09-24T13:00Z,Brighton & Hove Albion,AFC Bournemouth,3,1,Falmer,England,97.0,0,28.9,17.8
+671083,2023-09-24T13:00Z,Chelsea,Aston Villa,0,1,London,England,25.0,0,27.5,19.7
+671090,2023-09-24T13:00Z,Liverpool,West Ham United,3,1,Liverpool,England,30.0,0.1,31.0,19.5
+671084,2023-09-24T15:30Z,Sheffield United,Newcastle United,0,8,Sheffield,England,75.0,0,29.7,19.5
