@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-14T08:34+00:00",
+ "maj": "2026-11-14T09:00+00:00",
  "robots": {
   "ouvertures": {
    "statut": "ok",
@@ -47,8 +47,11 @@
       ]
      },
      "Tutti Pizza": {
-      "statut": "référence créée",
+      "statut": "ok",
       "magasins": 74,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
       "test_page": [
        "https://www.tutti-pizza.com/pizzerias/17000-tutti-matic-la-rochelle/",
        {
@@ -58,8 +61,11 @@
       ]
      },
      "Moustache Glaces": {
-      "statut": "référence créée",
+      "statut": "ok",
       "magasins": 51,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0,
       "test_page": [
        "https://www.glaces-moustache.fr/glaciers/glaces-moustache-la-trinite-sur-mer-artisan-glacier/",
        {
@@ -112,6 +118,28 @@
      }
     },
     "nouveaux": []
+   }
+  },
+  "presse": {
+   "statut": "ok",
+   "resultat": {
+    "nouveaux": [
+     {
+      "reseau": "Boulangerie Ange",
+      "titre": "On connaît la date d’ouverture de la future boulangerie Ange à Coutances - Ouest-France",
+      "source": "Ouest-France",
+      "publie": "Tue, 10 Nov 2026",
+      "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkswZ1dJcjR0NDZPeEJrQmtDRGxWMGpzT2NQYlBHVHpNMWxid3lNcTl6cEVjNVVOYS1NRTBqZ2tSSzlQN0tlWEpmQmI0Uzd1dTg5QzhiRjBHaG54N3hTMjhWbEFNd0xmMnVqWUJzUkRiSXR3OTA1ZDYya2RxNDBILUZBdjFBLUl4VDlLWU5XMjdSM1BRSVZFNGNrcEgtZUFBbVh6WDhweGpyMUJ1OHZya0dLUjZOLWplalp1WEdkdlZPVHRTNUxnUVVDU1RQNl9LUkpRSjRZdWhXOTR3UVI4X3JqYjJFbHBWLUE?oc=5"
+     },
+     {
+      "reseau": "Boulangerie Ange",
+      "titre": "« Tant pis, j’irai ailleurs » : le projet d’ouverture d’une boulangerie Ange retardé dans le Haut-Bugey - Le Progrès",
+      "source": "Le Progrès",
+      "publie": "Thu, 12 Nov 2026",
+      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbU1NbzFnRjFEQ1dYQjgwaHR5RHItaDRrb0V1Uzk3YkFfTllhTzJ2UGtuNWxMcnlrUnMzYlF2WG5lRFgtWV9rY3Z6SDVxWkt6NXJEMV9xYmdfQkZMazM0bmZSd1B6NE1SNUlUV1gyRXVzbGx6dUdfVm05MHgzWGJIWTdZTjI2SGxQRUhkWFdiY1RaYjRRSUdydmhjdW5IdVRUS3VVLTI1WGkzT3ItRS1vQzBjZmVrNnFuZ0NIdk56RzMxTG53TkxqbVE3UFpqSjdQdUhibmlpU3k?oc=5"
+     }
+    ],
+    "requetes_ko": []
    }
   },
   "fournisseurs": {
