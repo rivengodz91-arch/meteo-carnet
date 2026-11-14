@@ -39,13 +39,16 @@ ETAT = {"maj": NOW.isoformat(timespec="minutes"), "robots": {}}
 RESEAUX = load("reseaux.json", [])
 
 def sitemap_urls(domain, limit_files=60):
-    """Toutes les URL des sitemaps du site (robots.txt + emplacements classiques), parcours récursif limité."""
-    seeds = []
+    """Toutes les URL des sitemaps du site (robots.txt + emplacements classiques), parcours récursif limité.
+    Renvoie aussi un diagnostic par sitemap essayé (pour corriger un réseau qui ne donne rien)."""
+    seeds, diag = [], []
     try:
         for line in get(f"https://{domain}/robots.txt", 25).splitlines():
             if line.lower().startswith("sitemap:"):
                 seeds.append(line.split(":", 1)[1].strip())
-    except Exception: pass
+        diag.append(f"robots.txt ok, {len(seeds)} sitemap(s) déclaré(s)")
+    except Exception as e:
+        diag.append("robots.txt : " + str(e)[:80])
     for s in ("/sitemap.xml", "/sitemap_index.xml", "/sitemap-index.xml"):
         seeds.append(f"https://{domain}{s}")
     seen, todo, urls = set(), list(dict.fromkeys(seeds)), set()
@@ -54,15 +57,44 @@ def sitemap_urls(domain, limit_files=60):
         if sm in seen: continue
         seen.add(sm)
         try:
-            root = ET.fromstring(get(sm, 40).encode("utf-8"))
-        except Exception:
+            txt = get(sm, 40)
+        except Exception as e:
+            if len(diag) < 12: diag.append(f"{sm} : {str(e)[:80]}")
             continue
+        try:
+            root = ET.fromstring(txt.encode("utf-8"))
+        except Exception:
+            if len(diag) < 12: diag.append(f"{sm} : pas du XML ({txt[:60].strip()!r})")
+            continue
+        n = 0
         for el in root.iter():
             if el.tag.endswith("loc") and el.text:
-                u = el.text.strip()
+                u = el.text.strip(); n += 1
                 if root.tag.endswith("sitemapindex"): todo.append(u)
                 else: urls.add(u)
-    return urls, len(seen)
+        if len(diag) < 12: diag.append(f"{sm} : {n} liens")
+    return urls, len(seen), diag
+
+CP = re.compile(r"\b((?:0[1-9]|[1-8]\d|9[0-8])\d{3})\s+([A-ZÉÈÂÎ][A-Za-zÀ-ÿ'’ -]{1,40})")
+BIENTOT = re.compile(r"ouverture prochaine|prochaine ouverture|bientôt|prochainement|pré-?inscri|pre-?inscri|ouvre ses portes|nouveau club|nouvelle boutique|nouveau magasin", re.I)
+
+def verifier(u):
+    """Ouvre la page d'un nouveau magasin : adresse (code postal + ville) et état (ouvert / ouverture prochaine)."""
+    try:
+        h = get(u, 25)
+    except Exception as e:
+        return {"etat": "à vérifier (page illisible)"}
+    t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", re.sub(r"(?is)<(script|style)[^>]*>.*?</\1>", " ", h)))
+    if re.search(r"aucune ouverture n.est prévue|\b0 clubs?\b", t, re.I):
+        return None  # page « ville sans magasin » ou liste vide : pas une ouverture
+    m = CP.search(t)
+    r = {"etat": "ouverture prochaine" if BIENTOT.search(t) else ("ouvert" if m else "à vérifier")}
+    if m:
+        v = m.group(2).split()
+        while len(v) > 1 and (v[-1].strip(" -") in ("Tél", "Tel", "Téléphone", "France", "Ouvert", "Horaires", "Fermé", "Contact", "Itinéraire") or len(v) > 4):
+            v.pop()
+        r["cp"], r["ville"] = m.group(1), " ".join(v).strip(" -")
+    return r
 
 def robot_ouvertures():
     res = {"reseaux": {}, "nouveaux": []}
@@ -72,16 +104,17 @@ def robot_ouvertures():
         fichier = "magasins_" + re.sub(r"[^a-z0-9]+", "-", nom.lower()).strip("-") + ".json"
         connu = load(fichier, None)
         try:
-            urls, nfic = sitemap_urls(dom)
+            urls, nfic, diag = sitemap_urls(dom)
             mag = sorted(u for u in urls if pat.search(u))
         except Exception as e:
             res["reseaux"][nom] = {"statut": "erreur", "detail": str(e)[:200]}; continue
         if not mag:
-            res["reseaux"][nom] = {"statut": "aucune fiche magasin trouvée", "sitemaps_lus": nfic, "urls_vues": len(urls)}
+            ex = sorted({"/".join(u.split("/")[:5]) for u in urls})[:15]
+            res["reseaux"][nom] = {"statut": "aucune fiche magasin trouvée", "sitemaps_lus": nfic, "urls_vues": len(urls), "diagnostic": diag, "exemples": ex}
             continue
         if connu is None:
             save(fichier, {"depuis": TODAY, "magasins": mag})
-            res["reseaux"][nom] = {"statut": "référence créée", "magasins": len(mag)}
+            res["reseaux"][nom] = {"statut": "référence créée", "magasins": len(mag), "test_page": [mag[0], verifier(mag[0])]}
             continue
         anciens = set(connu["magasins"])
         neufs = [u for u in mag if u not in anciens]
@@ -90,11 +123,15 @@ def robot_ouvertures():
         if len(neufs) > max(15, 0.2 * len(anciens)):
             res["reseaux"][nom] = {"statut": "trop de changements d'un coup : vérification à la main", "nouvelles_url": len(neufs), "magasins": len(mag)}
             continue
+        ignores = 0
         for u in neufs:
-            hist["nouveaux"].append({"date": TODAY, "reseau": nom, "lien": u})
-            res["nouveaux"].append({"reseau": nom, "lien": u})
+            v = verifier(u)
+            if v is None: ignores += 1; continue
+            a = dict({"reseau": nom, "lien": u}, **v)
+            hist["nouveaux"].append(dict(a, date=TODAY)); res["nouveaux"].append(a)
         save(fichier, {"depuis": connu.get("depuis", TODAY), "magasins": mag})
-        res["reseaux"][nom] = {"statut": "ok", "magasins": len(mag), "nouveaux": len(neufs), "disparus": len(disparus)}
+        res["reseaux"][nom] = {"statut": "ok", "magasins": len(mag), "nouveaux": len(neufs) - ignores, "pages_sans_magasin_ignorees": ignores, "disparus": len(disparus)}
+        if os.environ.get("FORCER") == "tout": res["reseaux"][nom]["test_page"] = [mag[0], verifier(mag[0])]
     hist["nouveaux"] = hist["nouveaux"][-500:]
     save("ouvertures.json", hist)
     return res
