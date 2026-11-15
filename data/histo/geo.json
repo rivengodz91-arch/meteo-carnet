@@ -607,6 +607,11 @@ null
 28.859,
 24.0
 ],
+"Christchurch|New Zealand": [
+-43.533,
+172.633,
+14.0
+],
 "Cincinnati, Ohio|USA": [
 39.127,
 -84.514,
@@ -912,6 +917,11 @@ null
 -27.597,
 -48.549,
 26.0
+],
+"Floridablanca|Colombia": [
+7.062,
+-73.086,
+928.0
 ],
 "Fort Lauderdale, Florida|USA": [
 26.122,
@@ -1629,6 +1639,11 @@ null
 5.381,
 28.0
 ],
+"Martigues|France": [
+43.407,
+5.055,
+5.0
+],
 "Mazatlán|Mexico": [
 23.222,
 -106.419,
@@ -1858,6 +1873,11 @@ null
 55.396,
 10.388,
 17.0
+],
+"Okayama|Japan": [
+34.65,
+133.933,
+5.0
 ],
 "Oradea|Romania": [
 47.046,
@@ -2126,10 +2146,20 @@ null
 -43.182,
 12.0
 ],
+"Riobamba|Ecuador": [
+-1.665,
+-78.659,
+2777.0
+],
 "Rionegro|Colombia": [
 6.155,
 -75.374,
 2090.0
+],
+"Risskov|Denmark": [
+56.197,
+10.248,
+3.0
 ],
 "Rize|Türkiye": [
 41.021,
@@ -2231,10 +2261,30 @@ null
 -70.7,
 571.0
 ],
+"San Diego, California|USA": [
+32.716,
+-117.165,
+20.0
+],
+"San Fernando|Chile": [
+15.034,
+120.684,
+10.0
+],
 "San Jose, California|USA": [
 37.339,
 -121.895,
 26.0
+],
+"San Juan|Argentina": [
+-31.537,
+-68.526,
+646.0
+],
+"San Lorenzo|Paraguay": [
+-25.34,
+-57.509,
+119.0
 ],
 "San Luis Potosi|Mexico": [
 22.152,
@@ -2341,6 +2391,7 @@ null
 114.068,
 4.0
 ],
+"Shimzu|Japan": null,
 "Shonan|Japan": [
 35.398,
 139.467,
@@ -2723,6 +2774,11 @@ null
 -73.626,
 495.0
 ],
+"Villeta|Paraguay": [
+-25.507,
+-57.566,
+78.0
+],
 "Vina del Mar|Chile": [
 -33.025,
 -71.552,
@@ -2852,6 +2908,11 @@ null
 35.433,
 139.65,
 21.0
+],
+"Yuxi|China PR": [
+24.355,
+102.542,
+1638.0
 ],
 "Yverdon-les-Bains|Switzerland": [
 46.779,

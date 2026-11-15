@@ -232,3 +232,71 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 720323,2024-12-11T20:00Z,Feyenoord Rotterdam,Sparta Prague,4,2,Rotterdam,Netherlands,9.0,0,0.9,2.0
 720326,2024-12-11T20:00Z,Juventus,Manchester City,2,0,Torino,Italy,239.0,0,3.6,2.3
 720327,2024-12-11T20:00Z,VfB Stuttgart,Young Boys,5,1,Stuttgart,Germany,252.0,0,4.4,1.6
+720330,2025-01-21T17:45Z,AS Monaco,Aston Villa,1,0,Monaco,France,-9999.0,0,3.1,8.3
+720329,2025-01-21T17:45Z,Atalanta,SK Sturm Graz,5,0,Bergamo,Italy,249.0,0,1.8,5.6
+720335,2025-01-21T20:00Z,Atlético Madrid,Bayer Leverkusen,2,1,Madrid,Spain,665.0,0,11.0,9.2
+720334,2025-01-21T20:00Z,Benfica,Barcelona,4,5,Lisbon,Portugal,68.0,1.8,23.7,15.0
+720333,2025-01-21T20:00Z,Bologna,Borussia Dortmund,2,1,Bologna,Italy,54.0,0,6.0,3.1
+720336,2025-01-21T20:00Z,Club Brugge,Juventus,0,0,Brugge,Belgium,13.0,0,9.1,-0.9
+720331,2025-01-21T20:00Z,Liverpool,Lille,2,1,Liverpool,England,30.0,1.1,8.6,5.2
+720332,2025-01-21T20:00Z,Red Star Belgrade,PSV Eindhoven,2,3,Belgrade,Serbia,120.0,0.2,1.4,-1.0
+720337,2025-01-21T20:00Z,Slovan Bratislava,VfB Stuttgart,1,3,Bratislava,Slovakia,157.0,0,3.5,-2.3
+720339,2025-01-22T17:45Z,RB Leipzig,Sporting CP,2,1,Leipzig,Germany,116.0,0,11.0,2.6
+720338,2025-01-22T17:45Z,Shakhtar Donetsk,Brest,2,0,Gelsenkirchen,Germany,48.0,0,17.1,4.1
+720346,2025-01-22T20:00Z,AC Milan,Girona,1,0,Milano,Italy,635.0,0.1,10.9,6.5
+720343,2025-01-22T20:00Z,Arsenal,Dinamo Zagreb,3,0,London,England,25.0,0,6.0,3.9
+720342,2025-01-22T20:00Z,Celtic,Young Boys,1,0,Glasgow,Scotland,40.0,0,3.1,1.8
+720341,2025-01-22T20:00Z,Feyenoord Rotterdam,Bayern Munich,3,0,Rotterdam,Netherlands,9.0,2.2,6.2,1.9
+720344,2025-01-22T20:00Z,Paris Saint-Germain,Manchester City,4,2,Paris,France,42.0,7.2,12.4,7.1
+720345,2025-01-22T20:00Z,Real Madrid,RB Salzburg,5,1,Madrid,Spain,665.0,0.4,8.6,9.4
+720340,2025-01-22T20:00Z,Sparta Prague,Internazionale,0,1,Wien,Austria,876.0,0,6.8,-3.9
+720363,2025-01-29T20:00Z,Aston Villa,Celtic,4,2,Birmingham,England,149.0,0,11.9,3.6
+720362,2025-01-29T20:00Z,Barcelona,Atalanta,2,2,Barcelona,Spain,15.0,0,7.7,10.7
+720361,2025-01-29T20:00Z,Bayer Leverkusen,Sparta Prague,2,0,Leverkusen,Germany,52.0,0.2,9.8,5.3
+720357,2025-01-29T20:00Z,Bayern Munich,Slovan Bratislava,3,1,München,Germany,524.0,0,6.6,1.5
+720360,2025-01-29T20:00Z,Borussia Dortmund,Shakhtar Donetsk,3,1,Aue,Germany,399.0,0,16.4,4.3
+720364,2025-01-29T20:00Z,Brest,Real Madrid,0,3,Guingamp,France,73.0,0,9.1,5.6
+720358,2025-01-29T20:00Z,Dinamo Zagreb,AC Milan,2,1,Zagreb,Croatia,135.0,0,3.3,6.6
+720355,2025-01-29T20:00Z,Girona,Arsenal,1,2,Girona,Spain,81.0,0,22.3,9.9
+720347,2025-01-29T20:00Z,Internazionale,AS Monaco,3,0,Milano,Italy,635.0,0,2.4,4.3
+720348,2025-01-29T20:00Z,Juventus,Benfica,0,2,Torino,Italy,239.0,0.2,4.5,4.4
+720349,2025-01-29T20:00Z,Lille,Feyenoord Rotterdam,6,1,Lille,France,20.0,2.5,7.0,6.8
+720350,2025-01-29T20:00Z,Manchester City,Club Brugge,3,1,Manchester,England,51.0,0,6.5,3.7
+720351,2025-01-29T20:00Z,PSV Eindhoven,Liverpool,3,2,Eindhoven,Netherlands,22.0,1.1,11.8,6.3
+720356,2025-01-29T20:00Z,RB Salzburg,Atlético Madrid,1,4,Salzburg,Austria,424.0,0,7.5,-0.3
+720352,2025-01-29T20:00Z,SK Sturm Graz,RB Leipzig,1,0,Klagenfurt,Austria,450.0,0,0.9,1.3
+720353,2025-01-29T20:00Z,Sporting CP,Bologna,1,1,Lisbon,Portugal,68.0,0.7,24.7,11.5
+720354,2025-01-29T20:00Z,VfB Stuttgart,Paris Saint-Germain,1,4,Stuttgart,Germany,252.0,0,7.4,4.0
+720359,2025-01-29T20:00Z,Young Boys,Red Star Belgrade,0,1,Bern,Switzerland,549.0,0,4.7,0.8
+732185,2025-02-11T17:45Z,Brest,Paris Saint-Germain,0,3,Guingamp,France,73.0,0,12.5,5.0
+732190,2025-02-11T20:00Z,Juventus,PSV Eindhoven,2,1,Torino,Italy,239.0,0,1.3,6.4
+732187,2025-02-11T20:00Z,Manchester City,Real Madrid,2,3,Manchester,England,51.0,0,8.2,4.2
+732189,2025-02-11T20:00Z,Sporting CP,Borussia Dortmund,0,3,Lisbon,Portugal,68.0,0,17.3,13.3
+732192,2025-02-12T17:45Z,Club Brugge,Atalanta,2,1,Brugge,Belgium,13.0,0,6.3,4.8
+732188,2025-02-12T20:00Z,AS Monaco,Benfica,0,1,Monaco,France,-9999.0,0,2.2,8.1
+732186,2025-02-12T20:00Z,Celtic,Bayern Munich,1,2,Glasgow,Scotland,40.0,0,13.8,2.8
+732191,2025-02-12T20:00Z,Feyenoord Rotterdam,AC Milan,1,0,Rotterdam,Netherlands,9.0,0,8.1,3.3
+732194,2025-02-18T17:45Z,AC Milan,Feyenoord Rotterdam,1,1,Milano,Italy,635.0,0,1.7,5.8
+732197,2025-02-18T20:00Z,Atalanta,Club Brugge,1,3,Bergamo,Italy,249.0,0,4.5,2.4
+732193,2025-02-18T20:00Z,Bayern Munich,Celtic,1,1,München,Germany,524.0,0,13.3,-4.1
+732198,2025-02-18T20:00Z,Benfica,AS Monaco,3,3,Lisbon,Portugal,68.0,0,6.4,13.5
+732199,2025-02-19T17:45Z,Borussia Dortmund,Sporting CP,0,0,Aue,Germany,399.0,0,15.1,-3.5
+732196,2025-02-19T20:00Z,Paris Saint-Germain,Brest,7,0,Paris,France,42.0,0,7.9,7.7
+732195,2025-02-19T20:00Z,PSV Eindhoven,Juventus,3,1,Eindhoven,Netherlands,22.0,0,11.2,1.9
+732200,2025-02-19T20:00Z,Real Madrid,Manchester City,3,1,Madrid,Spain,665.0,0,8.1,11.8
+733145,2025-03-04T17:45Z,Club Brugge,Aston Villa,1,3,Brugge,Belgium,13.0,0,4.0,7.7
+733601,2025-03-04T20:00Z,Borussia Dortmund,Lille,1,1,Aue,Germany,399.0,0,7.2,0.6
+733603,2025-03-04T20:00Z,PSV Eindhoven,Arsenal,1,7,Eindhoven,Netherlands,22.0,0,10.0,4.5
+733602,2025-03-04T20:00Z,Real Madrid,Atlético Madrid,2,1,Madrid,Spain,665.0,1.3,10.2,9.0
+733149,2025-03-05T17:45Z,Feyenoord Rotterdam,Internazionale,0,2,Rotterdam,Netherlands,9.0,0,4.6,10.7
+733147,2025-03-05T20:00Z,Bayern Munich,Bayer Leverkusen,3,0,München,Germany,524.0,0,5.8,3.3
+733143,2025-03-05T20:00Z,Benfica,Barcelona,0,1,Lisbon,Portugal,68.0,0.2,7.8,13.4
+733600,2025-03-05T20:00Z,Paris Saint-Germain,Liverpool,0,1,Paris,France,42.0,0,5.4,9.1
+733144,2025-03-11T17:45Z,Barcelona,Benfica,3,1,Barcelona,Spain,15.0,0,11.4,14.2
+733148,2025-03-11T20:00Z,Bayer Leverkusen,Bayern Munich,0,2,Leverkusen,Germany,52.0,0,5.8,5.7
+733150,2025-03-11T20:00Z,Internazionale,Feyenoord Rotterdam,2,1,Milano,Italy,635.0,0,8.6,7.9
+733605,2025-03-11T20:00Z,Liverpool,Paris Saint-Germain,0,1,Liverpool,England,30.0,0,10.7,5.6
+733604,2025-03-12T17:45Z,Lille,Borussia Dortmund,1,2,Lille,France,20.0,0,8.7,6.1
+733607,2025-03-12T20:00Z,Arsenal,PSV Eindhoven,2,2,London,England,25.0,2.5,5.3,2.7
+733146,2025-03-12T20:00Z,Aston Villa,Club Brugge,3,0,Birmingham,England,149.0,0,12.6,2.8
+733606,2025-03-12T20:00Z,Atlético Madrid,Real Madrid,1,0,Madrid,Spain,665.0,0,15.4,8.6

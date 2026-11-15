@@ -656,3 +656,92 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 724183,2024-12-09T00:00Z,Deportivo Pasto,Millonarios,0,0,Pasto,Colombia,2569.0,0,1.7,13.3
 724184,2024-12-09T00:00Z,Independiente Santa Fe,Atlético Nacional,0,3,Bogota,Colombia,2582.0,0,6.7,14.5
 724715,2024-12-19T00:30Z,Deportes Tolima,Atlético Nacional,1,1,Ibague,Colombia,1047.0,0.1,8.6,20.6
+724716,2024-12-22T23:00Z,Atlético Nacional,Deportes Tolima,2,0,Medellin,Colombia,1405.0,1.2,0.6,20.1
+730311,2025-01-24T23:00Z,Boyacá Chicó FC,Atlético Bucaramanga,1,0,Tunja,Colombia,2693.0,0.1,8.5,12.5
+730313,2025-01-25T22:00Z,América de Cali,Llaneros FC,4,3,Cali,Colombia,758.0,0,1.8,24.3
+730314,2025-01-26T00:30Z,Atlético Nacional,Once Caldas,4,0,Medellin,Colombia,1405.0,0,7.0,20.5
+730315,2025-01-26T20:00Z,Independiente Santa Fe,Deportivo Pereira,2,1,Bogota,Colombia,2582.0,0.2,12.5,20.0
+730316,2025-01-26T22:10Z,Atlético Junior,Deportivo Cali,0,0,Barranquilla,Colombia,24.0,0,15.8,29.2
+730317,2025-01-27T00:20Z,Alianza FC,Independiente Medellín,1,1,Valledupar,Colombia,160.0,0,29.0,29.9
+730318,2025-01-27T23:00Z,Águilas Doradas,Internacional de Bogotá,1,1,Rionegro,Colombia,2090.0,0,6.1,18.7
+730319,2025-01-28T01:10Z,Deportes Tolima,Deportivo Pasto,2,0,Ibague,Colombia,1047.0,0,3.3,20.1
+730320,2025-01-29T01:00Z,Fortaleza CEIF,Envigado FC,0,0,Bogota,Colombia,2582.0,0,5.4,14.4
+730326,2025-02-01T00:30Z,Independiente Santa Fe,Deportes Tolima,0,0,Bogota,Colombia,2582.0,0.1,10.6,15.2
+730322,2025-02-01T20:00Z,Once Caldas,Fortaleza CEIF,2,1,Manizales,Colombia,2144.0,0.4,4.9,19.2
+730330,2025-02-01T22:10Z,Deportivo Pasto,Millonarios,0,1,Pasto,Colombia,2569.0,1.5,5.6,13.6
+730327,2025-02-02T00:20Z,Atlético Junior,Águilas Doradas,2,2,Barranquilla,Colombia,24.0,0,15.4,27.4
+730328,2025-02-02T19:00Z,Internacional de Bogotá,Atlético Nacional,0,1,Bogota,Colombia,2582.0,0,6.0,22.2
+730323,2025-02-02T21:10Z,Deportivo Cali,Envigado FC,1,0,Cali,Colombia,758.0,0.5,7.6,29.3
+730325,2025-02-02T23:20Z,Independiente Medellín,Boyacá Chicó FC,3,0,Medellin,Colombia,1405.0,0,6.0,22.0
+730324,2025-02-03T01:30Z,Atlético Bucaramanga,América de Cali,0,4,Bucaramanga,Colombia,1010.0,0.3,4.1,21.1
+730329,2025-02-03T23:30Z,Deportivo Pereira,Alianza FC,0,0,Pereira,Colombia,1445.0,3.0,2.3,18.8
+730321,2025-02-04T01:30Z,Llaneros FC,Unión Magdalena,2,0,Villavicencio,Colombia,495.0,0,7.4,24.0
+730336,2025-02-07T23:00Z,Águilas Doradas,Independiente Santa Fe,0,0,Rionegro,Colombia,2090.0,0,2.7,16.3
+730334,2025-02-08T01:10Z,Deportes Tolima,Alianza FC,3,1,Ibague,Colombia,1047.0,5.6,4.9,19.9
+730333,2025-02-08T19:00Z,Boyacá Chicó FC,Llaneros FC,2,2,Tunja,Colombia,2693.0,0,18.1,16.0
+730331,2025-02-08T21:10Z,América de Cali,Deportivo Pasto,1,1,Cali,Colombia,758.0,0.6,3.3,22.4
+730339,2025-02-08T23:20Z,Unión Magdalena,Atlético Junior,0,0,Magdalena,Colombia,1352.0,0,7.8,30.9
+730337,2025-02-09T01:30Z,Millonarios,Internacional de Bogotá,2,1,Bogota,Colombia,2582.0,0.2,2.2,14.2
+730340,2025-02-09T19:00Z,Envigado FC,Independiente Medellín,0,1,Envigado,Colombia,1539.0,0.3,1.5,21.5
+730338,2025-02-09T21:10Z,Once Caldas,Atlético Bucaramanga,2,1,Manizales,Colombia,2144.0,0.9,5.6,15.9
+730335,2025-02-09T23:20Z,Fortaleza CEIF,Deportivo Cali,1,0,Bogota,Colombia,2582.0,9.4,9.0,14.3
+730332,2025-02-10T01:30Z,Atlético Nacional,Deportivo Pereira,3,0,Medellin,Colombia,1405.0,0.1,0.5,18.9
+730349,2025-02-12T00:30Z,Llaneros FC,Millonarios,2,2,Villavicencio,Colombia,495.0,0,7.1,25.1
+730343,2025-02-12T21:30Z,Deportivo Pasto,Boyacá Chicó FC,3,0,Pasto,Colombia,2569.0,0.2,7.0,15.7
+730345,2025-02-12T23:30Z,Independiente Medellín,Unión Magdalena,1,1,Medellin,Colombia,1405.0,0.7,3.2,20.3
+730346,2025-02-13T01:30Z,Independiente Santa Fe,Atlético Nacional,2,2,Bogota,Colombia,2582.0,0.2,3.5,13.7
+730348,2025-02-13T21:30Z,Internacional de Bogotá,Envigado FC,2,3,Bogota,Colombia,2582.0,5.9,5.2,16.4
+730347,2025-02-13T23:30Z,Atlético Junior,Once Caldas,2,0,Barranquilla,Colombia,24.0,0,12.0,27.6
+730344,2025-02-14T15:00Z,Deportivo Pereira,Deportes Tolima,0,0,Pereira,Colombia,1445.0,0.6,7.8,20.4
+730342,2025-02-15T00:30Z,Deportivo Cali,Atlético Bucaramanga,0,0,Cali,Colombia,758.0,0.9,2.3,20.9
+730351,2025-02-15T21:00Z,América de Cali,Independiente Santa Fe,2,0,Cali,Colombia,758.0,8.0,2.1,23.5
+730358,2025-02-16T01:10Z,Millonarios,Independiente Medellín,0,1,Bogota,Colombia,2582.0,0.2,0.4,12.8
+730360,2025-02-16T22:10Z,Unión Magdalena,Internacional de Bogotá,0,0,Magdalena,Colombia,1352.0,0,5.2,30.7
+730355,2025-02-17T21:00Z,Envigado FC,Deportivo Pasto,0,1,Envigado,Colombia,1539.0,3.9,4.0,21.2
+730356,2025-02-18T01:10Z,Fortaleza CEIF,Águilas Doradas,2,1,Bogota,Colombia,2582.0,0,1.5,13.3
+730352,2025-02-18T21:00Z,Atlético Bucaramanga,Alianza FC,0,0,Floridablanca,Colombia,928.0,2.2,6.7,24.5
+730357,2025-02-18T23:10Z,Llaneros FC,Deportivo Cali,0,1,Villavicencio,Colombia,495.0,0,4.6,27.6
+730354,2025-02-19T01:20Z,Boyacá Chicó FC,Atlético Junior,0,2,Tunja,Colombia,2693.0,0,5.5,11.0
+730359,2025-02-20T01:10Z,Once Caldas,Deportivo Pereira,3,1,Manizales,Colombia,2144.0,0.2,2.2,13.5
+730312,2025-02-20T23:30Z,Unión Magdalena,Millonarios,1,3,Magdalena,Colombia,1352.0,0,14.9,29.6
+730363,2025-02-22T00:30Z,Internacional de Bogotá,Boyacá Chicó FC,0,1,Bogota,Colombia,2582.0,0,3.1,14.2
+730362,2025-02-22T23:20Z,Águilas Doradas,Once Caldas,0,1,Rionegro,Colombia,2090.0,0.1,1.8,16.3
+730369,2025-02-23T01:30Z,Deportivo Pereira,Fortaleza CEIF,2,0,Pereira,Colombia,1445.0,0.2,4.9,17.7
+730361,2025-02-23T21:00Z,Alianza FC,Atlético Nacional,3,2,Valledupar,Colombia,160.0,0,27.4,33.8
+730370,2025-02-23T23:10Z,Deportivo Cali,Millonarios,3,1,Cali,Colombia,758.0,0.5,3.2,22.5
+730366,2025-02-24T01:20Z,Deportes Tolima,América de Cali,0,0,Ibague,Colombia,1047.0,4.0,9.3,19.7
+730365,2025-02-25T00:30Z,Atlético Junior,Envigado FC,1,2,Barranquilla,Colombia,24.0,1.1,10.1,26.1
+730364,2025-02-26T00:30Z,Deportivo Pasto,Unión Magdalena,2,1,Pasto,Colombia,2569.0,0.7,4.9,13.0
+730368,2025-02-28T01:00Z,Independiente Medellín,Llaneros FC,3,0,Medellin,Colombia,1405.0,0.2,3.8,20.5
+730374,2025-02-28T21:10Z,Envigado FC,Independiente Santa Fe,1,7,Envigado,Colombia,1539.0,0.7,3.1,20.6
+730373,2025-03-01T01:10Z,Boyacá Chicó FC,Águilas Doradas,1,1,Tunja,Colombia,2693.0,0,3.6,11.7
+730372,2025-03-01T20:00Z,Atlético Bucaramanga,Atlético Junior,1,1,Floridablanca,Colombia,928.0,1.0,12.3,25.5
+730371,2025-03-02T01:00Z,América de Cali,Deportivo Pereira,2,0,Cali,Colombia,758.0,7.8,2.7,20.9
+730379,2025-03-02T20:00Z,Once Caldas,Alianza FC,1,2,Manizales,Colombia,2144.0,4.3,5.9,19.4
+730378,2025-03-02T22:30Z,Millonarios,Deportes Tolima,2,0,Bogota,Colombia,2582.0,5.9,5.9,15.1
+730380,2025-03-03T22:00Z,Unión Magdalena,Deportivo Cali,2,2,Magdalena,Colombia,1352.0,0,20.9,31.9
+730376,2025-03-04T00:30Z,Independiente Medellín,Deportivo Pasto,1,0,Medellin,Colombia,1405.0,0.9,3.6,19.5
+730377,2025-03-04T23:30Z,Llaneros FC,Internacional de Bogotá,1,0,Villavicencio,Colombia,495.0,0,1.4,26.5
+730375,2025-03-05T01:30Z,Fortaleza CEIF,Atlético Nacional,1,5,Bogota,Colombia,2582.0,1.0,1.4,13.7
+730390,2025-03-08T00:30Z,Águilas Doradas,Atlético Bucaramanga,0,1,Rionegro,Colombia,2090.0,0,3.4,15.1
+730386,2025-03-08T19:00Z,Deportivo Pereira,Envigado FC,2,0,Pereira,Colombia,1445.0,1.4,3.1,23.4
+730381,2025-03-08T21:10Z,Alianza FC,Unión Magdalena,1,0,Valledupar,Colombia,160.0,0,18.6,38.1
+730385,2025-03-08T23:20Z,Deportivo Pasto,Llaneros FC,1,0,Pasto,Colombia,2569.0,0.2,4.0,13.1
+730389,2025-03-09T01:30Z,Internacional de Bogotá,Independiente Medellín,0,0,Bogota,Colombia,2582.0,0.1,4.3,12.5
+730387,2025-03-09T20:00Z,Independiente Santa Fe,Fortaleza CEIF,2,0,Bogota,Colombia,2582.0,0.2,3.8,19.6
+730388,2025-03-09T22:30Z,Atlético Junior,Millonarios,2,1,Barranquilla,Colombia,24.0,0,15.1,28.5
+730382,2025-03-10T00:45Z,Atlético Nacional,América de Cali,1,0,Medellin,Colombia,1405.0,0.1,2.5,19.4
+730384,2025-03-10T23:20Z,Deportivo Cali,Boyacá Chicó FC,0,0,Cali,Colombia,758.0,0.1,4.8,22.4
+730383,2025-03-11T01:30Z,Deportes Tolima,Once Caldas,2,0,Ibague,Colombia,1047.0,0,4.0,21.1
+730392,2025-03-14T23:30Z,Atlético Bucaramanga,Deportivo Pereira,0,1,Bucaramanga,Colombia,1010.0,0.2,2.8,21.7
+730393,2025-03-15T01:30Z,Deportivo Pasto,Internacional de Bogotá,2,1,Pasto,Colombia,2569.0,0.3,1.4,12.4
+730394,2025-03-15T19:00Z,Envigado FC,Atlético Nacional,0,0,Envigado,Colombia,1539.0,5.3,5.6,26.2
+730395,2025-03-15T21:10Z,Fortaleza CEIF,Deportes Tolima,1,1,Bogota,Colombia,2582.0,0,7.4,17.3
+730391,2025-03-15T23:20Z,América de Cali,Alianza FC,3,0,Cali,Colombia,758.0,0.2,4.5,22.0
+730399,2025-03-16T01:30Z,Once Caldas,Independiente Santa Fe,0,1,Manizales,Colombia,2144.0,0.3,1.3,13.8
+730398,2025-03-16T19:00Z,Millonarios,Águilas Doradas,1,0,Bogota,Colombia,2582.0,0.2,4.9,18.4
+730400,2025-03-16T21:10Z,Unión Magdalena,Boyacá Chicó FC,1,1,Magdalena,Colombia,1352.0,0,4.3,32.3
+730396,2025-03-16T23:20Z,Independiente Medellín,Deportivo Cali,0,0,Medellin,Colombia,1405.0,0.1,0.2,20.2
+730397,2025-03-17T01:30Z,Llaneros FC,Atlético Junior,0,1,Villavicencio,Colombia,495.0,8.8,1.6,24.2
+730367,2025-03-19T23:30Z,Independiente Santa Fe,Atlético Bucaramanga,1,1,Bogota,Colombia,2582.0,1.0,1.4,14.6
+730353,2025-03-20T01:30Z,Atlético Nacional,Deportes Tolima,4,3,Medellin,Colombia,1405.0,0,4.2,19.4

@@ -690,3 +690,122 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 709507,2024-12-21T15:15Z,Real Oviedo,Córdoba,2,3,Oviedo,Spain,237.0,0,11.9,13.3
 709508,2024-12-21T17:30Z,Real Zaragoza,Racing Ferrol,1,0,Zaragoza,Spain,214.0,0,15.3,10.8
 709509,2024-12-21T17:30Z,Sporting Gijón,Málaga,1,3,Gijón,Spain,22.0,0,11.2,13.4
+709500,2024-12-22T13:00Z,Burgos,Tenerife,1,0,Burgos,Spain,863.0,0,13.7,5.5
+709501,2024-12-22T15:15Z,Castellón,Elche,0,2,Castellón,Spain,30.0,0,3.1,18.8
+709499,2024-12-22T17:30Z,Almería,Cádiz,1,1,Almería,Spain,21.0,0,2.6,13.9
+709506,2024-12-22T17:30Z,Racing Santander,Eldense,2,2,Santander,Spain,1.0,0.5,33.8,11.9
+709502,2024-12-22T20:00Z,Deportivo,Mirandés,0,4,La Coruña,Spain,1102.0,0,2.9,23.3
+709505,2024-12-22T20:00Z,Levante,Huesca,1,1,Manises,Spain,55.0,0,17.5,14.3
+709432,2025-01-07T20:30Z,Tenerife,Levante,0,3,Santa Cruz de Tenerife,Spain,10.0,0,1.4,17.7
+709515,2025-01-10T19:30Z,Granada,Burgos,0,0,Granada,Spain,689.0,0,1.3,10.6
+709518,2025-01-11T13:00Z,Racing Ferrol,FC Cartagena,0,0,Ferrol,Spain,24.0,0,0.9,16.1
+709510,2025-01-11T15:15Z,Albacete,Racing Santander,2,2,Albacete,Spain,695.0,0,23.6,16.8
+709516,2025-01-11T15:15Z,Huesca,Mirandés,1,0,Huesca,Spain,476.0,0,29.5,12.8
+709517,2025-01-11T17:30Z,Málaga,Deportivo,1,1,Malaga,Spain,22.0,0,15.9,18.2
+709520,2025-01-11T17:30Z,Tenerife,Castellón,2,0,Santa Cruz de Tenerife,Spain,10.0,0,9.2,20.9
+709519,2025-01-11T20:00Z,Real Oviedo,Sporting Gijón,1,1,Oviedo,Spain,237.0,0,4.3,10.1
+709512,2025-01-12T13:00Z,Córdoba,Almería,0,3,Córdoba,Spain,117.0,0,9.0,17.0
+709511,2025-01-12T15:15Z,Cádiz,Levante,0,0,La Línea de la Concepción,Spain,4.0,0,6.3,20.6
+709513,2025-01-12T15:15Z,Elche,Real Zaragoza,1,0,Elche,Spain,96.0,0,11.0,18.3
+709514,2025-01-13T19:30Z,Eldense,Eibar,1,3,Elda,Spain,412.0,0,4.0,5.8
+709526,2025-01-17T19:30Z,FC Cartagena,Real Oviedo,0,1,Cartagena,Spain,1.0,0.1,15.1,11.3
+709525,2025-01-18T15:15Z,Eldense,Cádiz,1,4,Elda,Spain,412.0,0,6.8,14.0
+709524,2025-01-18T17:30Z,Eibar,Albacete,1,1,Eibar,Spain,133.0,0,0.4,5.8
+709531,2025-01-18T17:30Z,Sporting Gijón,Elche,1,1,Gijón,Spain,22.0,0,3.6,9.7
+709527,2025-01-18T20:00Z,Levante,Granada,3,1,Manises,Spain,55.0,0,1.9,8.1
+709522,2025-01-19T13:00Z,Burgos,Deportivo,0,1,Burgos,Spain,863.0,0,17.3,7.3
+709529,2025-01-19T15:15Z,Racing Santander,Racing Ferrol,6,0,Santander,Spain,1.0,0,4.1,13.9
+709523,2025-01-19T17:30Z,Castellón,Córdoba,1,2,Castellón,Spain,30.0,0,5.9,11.0
+709530,2025-01-19T17:30Z,Real Zaragoza,Tenerife,2,2,Zaragoza,Spain,214.0,0,6.9,3.9
+709521,2025-01-19T20:00Z,Almería,Huesca,0,0,Almería,Spain,21.0,0,0.9,10.9
+709528,2025-01-20T19:30Z,Mirandés,Málaga,3,2,Miranda de Ebro,Spain,466.0,0,5.5,3.6
+709536,2025-01-24T19:30Z,Elche,Eibar,2,0,Elche,Spain,96.0,0,1.1,13.6
+709534,2025-01-25T15:15Z,Córdoba,Racing Santander,1,2,Córdoba,Spain,117.0,0.1,16.2,14.3
+709535,2025-01-25T17:30Z,Deportivo,Levante,1,2,La Coruña,Spain,1102.0,0,7.3,16.7
+709538,2025-01-25T17:30Z,Huesca,FC Cartagena,4,0,Huesca,Spain,476.0,0.1,3.3,9.1
+709541,2025-01-25T20:00Z,Tenerife,Eldense,0,1,Santa Cruz de Tenerife,Spain,10.0,0,7.7,15.8
+709542,2025-01-26T13:00Z,Granada,Sporting Gijón,3,1,Granada,Spain,689.0,0,10.5,16.0
+709532,2025-01-26T15:15Z,Albacete,Almería,2,1,Albacete,Spain,695.0,0,21.8,15.3
+709537,2025-01-26T15:15Z,Real Oviedo,Castellón,1,0,Oviedo,Spain,237.0,3.2,6.9,13.0
+709539,2025-01-26T17:30Z,Málaga,Real Zaragoza,1,2,Malaga,Spain,22.0,0.2,5.7,17.1
+709533,2025-01-27T19:30Z,Cádiz,Mirandés,3,1,La Línea de la Concepción,Spain,4.0,0.1,28.3,16.4
+709487,2025-01-29T20:00Z,Tenerife,Deportivo,0,0,Santa Cruz de Tenerife,Spain,10.0,0,16.0,17.1
+709547,2025-01-31T19:30Z,Eldense,Granada,0,3,Elda,Spain,412.0,0,1.3,7.5
+709549,2025-02-01T13:00Z,Mirandés,Elche,3,0,Miranda de Ebro,Spain,466.0,0.2,16.3,8.6
+709551,2025-02-01T15:15Z,Sporting Gijón,Burgos,2,0,Gijón,Spain,22.0,0.3,6.8,12.1
+709553,2025-02-01T17:30Z,Almería,Real Oviedo,1,1,Almería,Spain,21.0,0,6.1,14.6
+709548,2025-02-01T20:00Z,Racing Santander,Málaga,2,1,Santander,Spain,1.0,0,2.6,7.0
+709544,2025-02-02T13:00Z,Castellón,Huesca,0,1,Castellón,Spain,30.0,0,6.9,13.4
+709543,2025-02-02T15:15Z,Eibar,Deportivo,0,1,Eibar,Spain,133.0,2.5,14.4,10.5
+709546,2025-02-02T17:30Z,FC Cartagena,Córdoba,0,1,Cartagena,Spain,1.0,0,14.6,13.0
+709552,2025-02-02T17:30Z,Real Zaragoza,Cádiz,0,0,Zaragoza,Spain,214.0,0,5.6,9.1
+709550,2025-02-02T20:00Z,Tenerife,Albacete,3,1,Santa Cruz de Tenerife,Spain,10.0,0.1,8.9,16.4
+709545,2025-02-03T19:30Z,Levante,Racing Ferrol,0,1,Manises,Spain,55.0,0,4.1,9.6
+709559,2025-02-07T19:30Z,Albacete,Real Zaragoza,2,1,Albacete,Spain,695.0,0.3,8.2,4.8
+709555,2025-02-08T13:00Z,Racing Ferrol,Castellón,1,3,Ferrol,Spain,24.0,0.5,10.8,9.1
+709562,2025-02-08T15:15Z,Granada,Mirandés,0,0,Granada,Spain,689.0,0,6.9,13.6
+709556,2025-02-08T17:30Z,Málaga,Levante,1,1,Malaga,Spain,22.0,0,18.6,14.9
+709564,2025-02-08T17:30Z,Sporting Gijón,Eibar,0,0,Gijón,Spain,22.0,0,2.3,9.7
+709561,2025-02-09T13:00Z,Elche,Tenerife,2,0,Elche,Spain,96.0,0,8.6,18.7
+709563,2025-02-09T15:15Z,Burgos,Racing Santander,2,1,Burgos,Spain,863.0,0,15.5,9.5
+709557,2025-02-09T15:15Z,Córdoba,Huesca,1,2,Córdoba,Spain,117.0,0,2.7,16.2
+709554,2025-02-09T17:30Z,Cádiz,FC Cartagena,5,2,La Línea de la Concepción,Spain,4.0,0,9.8,14.8
+709558,2025-02-09T17:30Z,Deportivo,Almería,3,1,La Coruña,Spain,1102.0,0,5.1,23.4
+709560,2025-02-10T19:30Z,Real Oviedo,Eldense,0,0,Oviedo,Spain,237.0,0,4.8,8.8
+709571,2025-02-14T19:30Z,Mirandés,Racing Ferrol,4,1,Miranda de Ebro,Spain,466.0,0,1.4,9.4
+709566,2025-02-15T13:00Z,Castellón,Eibar,2,0,Castellón,Spain,30.0,0.2,14.1,16.4
+709568,2025-02-15T15:15Z,FC Cartagena,Málaga,0,1,Cartagena,Spain,1.0,0,10.5,19.9
+709572,2025-02-15T17:30Z,Racing Santander,Cádiz,2,3,Santander,Spain,1.0,0,6.9,16.6
+709575,2025-02-15T20:00Z,Tenerife,Córdoba,2,3,Santa Cruz de Tenerife,Spain,10.0,0,12.5,16.3
+709570,2025-02-16T13:00Z,Levante,Sporting Gijón,0,0,Manises,Spain,55.0,0,5.6,20.7
+709567,2025-02-16T15:15Z,Eldense,Deportivo,2,0,Elda,Spain,412.0,0,12.1,19.7
+709569,2025-02-16T15:15Z,Huesca,Granada,1,1,Huesca,Spain,476.0,0,15.2,15.8
+709574,2025-02-16T17:30Z,Real Zaragoza,Burgos,0,1,Zaragoza,Spain,214.0,0,7.2,15.1
+709573,2025-02-16T20:00Z,Real Oviedo,Albacete,1,0,Oviedo,Spain,237.0,0.8,4.4,10.0
+709565,2025-02-17T19:30Z,Almería,Elche,1,1,Almería,Spain,21.0,0,0.6,15.9
+709584,2025-02-21T19:30Z,Málaga,Tenerife,1,0,Malaga,Spain,22.0,0,2.9,13.9
+709585,2025-02-22T13:00Z,Racing Ferrol,Córdoba,0,1,Ferrol,Spain,24.0,0,11.6,12.4
+709577,2025-02-22T15:15Z,Burgos,Real Oviedo,1,2,Burgos,Spain,863.0,0,8.1,10.1
+709580,2025-02-22T15:15Z,Eibar,Racing Santander,2,2,Eibar,Spain,133.0,0.8,8.7,12.1
+709582,2025-02-22T17:30Z,Granada,Real Zaragoza,2,2,Granada,Spain,689.0,0.4,10.2,12.3
+709586,2025-02-22T20:00Z,Sporting Gijón,Almería,1,1,Gijón,Spain,22.0,0,9.4,8.3
+709579,2025-02-23T13:00Z,Deportivo,Huesca,0,0,La Coruña,Spain,1102.0,0,3.3,7.6
+709581,2025-02-23T15:15Z,Elche,FC Cartagena,2,1,Elche,Spain,96.0,0,12.5,17.1
+709576,2025-02-23T17:30Z,Albacete,Eldense,0,1,Albacete,Spain,695.0,0,2.7,13.5
+709583,2025-02-23T17:30Z,Levante,Mirandés,1,0,Manises,Spain,55.0,0,4.5,15.3
+709578,2025-02-23T20:00Z,Cádiz,Castellón,0,0,La Línea de la Concepción,Spain,4.0,0,3.1,12.6
+709597,2025-02-28T19:30Z,FC Cartagena,Eibar,0,2,Cartagena,Spain,1.0,0,22.8,13.6
+709589,2025-03-01T15:15Z,Castellón,Burgos,2,1,Castellón,Spain,30.0,0,19.3,14.2
+709587,2025-03-01T15:15Z,Huesca,Racing Ferrol,3,1,Huesca,Spain,476.0,0.2,5.7,9.2
+709592,2025-03-01T17:30Z,Real Zaragoza,Sporting Gijón,1,1,Zaragoza,Spain,214.0,0,18.7,11.4
+709588,2025-03-01T20:00Z,Almería,Málaga,2,2,Almería,Spain,21.0,0,12.2,13.3
+709590,2025-03-02T13:00Z,Córdoba,Granada,5,0,Córdoba,Spain,117.0,0,8.9,13.9
+709596,2025-03-02T15:15Z,Real Oviedo,Deportivo,1,2,Oviedo,Spain,237.0,0,12.5,9.3
+709593,2025-03-02T17:30Z,Albacete,Cádiz,3,0,Albacete,Spain,695.0,0,21.4,7.8
+709591,2025-03-02T17:30Z,Eldense,Levante,1,2,Elda,Spain,412.0,0,15.5,11.9
+709595,2025-03-02T20:00Z,Racing Santander,Elche,2,0,Santander,Spain,1.0,0,18.7,8.7
+709594,2025-03-03T19:30Z,Mirandés,Tenerife,2,0,Miranda de Ebro,Spain,466.0,0.2,3.4,7.7
+709540,2025-03-05T19:00Z,Racing Ferrol,Burgos,0,1,Ferrol,Spain,24.0,0,4.6,13.0
+709601,2025-03-07T18:00Z,Eibar,Almería,1,0,Eibar,Spain,133.0,0,21.7,15.0
+709600,2025-03-07T20:00Z,Deportivo,Córdoba,1,1,La Coruña,Spain,1102.0,0,17.3,30.7
+709608,2025-03-08T15:15Z,Mirandés,Real Oviedo,1,0,Miranda de Ebro,Spain,466.0,1.4,31.2,12.0
+709602,2025-03-08T17:30Z,Elche,Castellón,3,1,Elche,Spain,96.0,0,11.1,15.8
+709606,2025-03-08T17:30Z,Sporting Gijón,Racing Santander,1,1,Gijón,Spain,22.0,0,30.7,15.0
+709605,2025-03-08T20:00Z,Real Zaragoza,Eldense,2,4,Zaragoza,Spain,214.0,1.2,28.2,12.9
+709607,2025-03-09T13:00Z,Tenerife,Huesca,2,0,Santa Cruz de Tenerife,Spain,10.0,0,19.9,20.0
+709604,2025-03-09T15:15Z,Málaga,Cádiz,0,2,Malaga,Spain,22.0,0.3,13.2,14.1
+709603,2025-03-09T17:30Z,Levante,FC Cartagena,3,0,Manises,Spain,55.0,0,5.4,15.9
+709598,2025-03-09T20:00Z,Granada,Racing Ferrol,3,0,Granada,Spain,689.0,2.5,12.1,7.5
+709599,2025-03-10T19:30Z,Burgos,Albacete,1,0,Burgos,Spain,863.0,0.1,9.3,7.9
+709614,2025-03-14T19:30Z,Real Oviedo,Elche,1,1,Oviedo,Spain,237.0,0.1,3.2,4.0
+709610,2025-03-15T13:00Z,Racing Ferrol,Eibar,0,0,Ferrol,Spain,24.0,0.1,12.0,13.1
+709619,2025-03-15T15:15Z,Albacete,Málaga,2,0,Albacete,Spain,695.0,0,17.0,10.5
+709609,2025-03-15T15:15Z,FC Cartagena,Burgos,0,1,Cartagena,Spain,1.0,0,9.3,16.0
+709613,2025-03-15T17:30Z,Almería,Real Zaragoza,4,1,Almería,Spain,21.0,0,15.0,15.6
+709617,2025-03-15T20:00Z,Córdoba,Sporting Gijón,1,1,Córdoba,Spain,117.0,0,13.3,10.1
+709618,2025-03-16T13:00Z,Eldense,Mirandés,2,2,Elda,Spain,412.0,1.4,19.6,15.1
+709611,2025-03-16T15:15Z,Huesca,Levante,1,2,Huesca,Spain,476.0,0.6,8.3,5.6
+709615,2025-03-16T15:15Z,Racing Santander,Tenerife,2,1,Santander,Spain,1.0,0.1,11.5,9.5
+709616,2025-03-16T17:30Z,Cádiz,Granada,1,0,La Línea de la Concepción,Spain,4.0,0,10.5,16.2
+709612,2025-03-17T19:30Z,Castellón,Deportivo,2,2,Castellón,Spain,30.0,0,3.4,10.8
+709630,2025-03-21T19:30Z,Burgos,Almería,3,1,Burgos,Spain,863.0,0.2,23.1,7.7

@@ -458,3 +458,152 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 694547,2024-12-15T22:30Z,Vélez Sarsfield,Huracán,2,0,Buenos Aires,Argentina,31.0,0,11.4,24.8
 694535,2024-12-17T00:00Z,Atlético Tucumán,Central Córdoba (Santiago del Estero),2,0,Tucuman,Argentina,735.0,0,4.5,31.0
 694548,2024-12-17T00:00Z,Independiente Rivadavia,Deportivo Riestra,0,0,Mendoza,Argentina,853.0,0,8.7,28.0
+727959,2025-01-23T22:00Z,Godoy Cruz Antonio Tomba,Rosario Central,0,3,Mendoza,Argentina,853.0,0,0.9,34.7
+727967,2025-01-23T22:00Z,Tigre,Vélez Sarsfield,3,0,Buenos Aires,Argentina,31.0,0,12.3,29.2
+727957,2025-01-24T00:30Z,Defensa y Justicia,Banfield,0,1,Buenos Aires,Argentina,31.0,0,13.3,27.6
+727962,2025-01-24T00:30Z,Lanús,Deportivo Riestra,0,2,Buenos Aires,Argentina,31.0,0,13.3,27.6
+727963,2025-01-24T00:30Z,Newell's Old Boys,Independiente Rivadavia,0,1,Rosario,Argentina,38.0,0,10.3,27.6
+727953,2025-01-24T20:00Z,Barracas Central,Racing Club,1,3,Buenos Aires,Argentina,31.0,0,12.5,31.7
+727960,2025-01-24T22:15Z,Independiente,Sarmiento (Junín),2,1,Avellaneda,Argentina,13.0,0,9.6,31.1
+727954,2025-01-25T00:00Z,Belgrano (Córdoba),Huracán,1,1,Córdoba,Argentina,378.0,6.5,7.4,27.8
+727966,2025-01-25T00:30Z,San Martín (San Juan),Atlético Tucumán,0,1,San Juan,Argentina,646.0,0,11.8,32.6
+727965,2025-01-25T20:00Z,San Lorenzo,Talleres (Córdoba),1,0,Buenos Aires,Argentina,31.0,0,15.2,30.0
+727958,2025-01-25T22:15Z,Estudiantes de La Plata,Unión (Santa Fe),3,1,La Plata,Argentina,27.0,0,13.4,26.6
+727961,2025-01-25T22:15Z,Instituto (Córdoba),Gimnasia La Plata,3,0,Córdoba,Argentina,378.0,0,1.6,27.7
+727964,2025-01-26T00:30Z,Platense,River Plate,1,1,Buenos Aires,Argentina,31.0,0,14.4,27.0
+727955,2025-01-26T22:00Z,Boca Juniors,Argentinos Juniors,0,0,Buenos Aires,Argentina,31.0,0,11.8,30.4
+727956,2025-01-27T00:00Z,Central Córdoba (Santiago del Estero),Aldosivi,1,0,Santiago del Estero,Argentina,176.0,0,4.6,27.1
+727970,2025-01-27T23:00Z,Banfield,Newell's Old Boys,3,0,Buenos Aires,Argentina,31.0,0,3.3,28.6
+727972,2025-01-28T20:00Z,Deportivo Riestra,San Martín (San Juan),0,0,Buenos Aires,Argentina,31.0,0,14.9,27.1
+727978,2025-01-28T22:15Z,Rosario Central,Lanús,2,1,Rosario,Argentina,38.0,0,3.1,27.5
+727979,2025-01-28T22:15Z,Sarmiento (Junín),Godoy Cruz Antonio Tomba,0,0,Junin,Argentina,73.0,0,9.6,28.4
+727975,2025-01-29T00:30Z,Independiente Rivadavia,Barracas Central,0,0,Mendoza,Argentina,853.0,0,5.0,24.9
+727981,2025-01-29T00:30Z,Vélez Sarsfield,Platense,0,1,Buenos Aires,Argentina,31.0,0,17.8,25.2
+727973,2025-01-29T20:00Z,Gimnasia La Plata,San Lorenzo,0,2,La Plata,Argentina,27.0,0,15.9,27.9
+727980,2025-01-29T20:00Z,Talleres (Córdoba),Independiente,2,3,Córdoba,Argentina,378.0,0,7.0,28.4
+727974,2025-01-29T22:15Z,Huracán,Estudiantes de La Plata,0,0,Buenos Aires,Argentina,31.0,0,19.1,26.8
+727969,2025-01-29T22:15Z,Unión (Santa Fe),Boca Juniors,1,1,"Rosario, Santa Fe",Argentina,38.0,0,9.7,29.6
+727977,2025-01-30T00:30Z,River Plate,Instituto (Córdoba),1,0,Buenos Aires,Argentina,31.0,0,17.2,25.3
+727968,2025-01-30T20:00Z,Aldosivi,Defensa y Justicia,0,5,Buenos Aires,Argentina,31.0,0,16.6,28.2
+727976,2025-01-30T22:15Z,Racing Club,Belgrano (Córdoba),4,0,Buenos Aires,Argentina,31.0,0,17.4,25.8
+727982,2025-01-31T00:30Z,Argentinos Juniors,Tigre,1,0,Buenos Aires,Argentina,31.0,0,17.7,24.6
+727971,2025-01-31T00:30Z,Central Córdoba (Santiago del Estero),Atlético Tucumán,2,0,Santiago del Estero,Argentina,176.0,0,4.4,27.7
+727985,2025-02-01T20:00Z,Barracas Central,Banfield,1,0,Buenos Aires,Argentina,31.0,0,12.5,29.9
+727996,2025-02-01T22:00Z,San Martín (San Juan),Rosario Central,0,0,San Juan,Argentina,646.0,0,5.0,39.6
+727993,2025-02-02T00:00Z,Lanús,Sarmiento (Junín),2,0,Buenos Aires,Argentina,31.0,0,10.1,26.7
+727984,2025-02-02T20:00Z,San Lorenzo,River Plate,0,0,Buenos Aires,Argentina,31.0,0,15.1,33.4
+727987,2025-02-02T22:15Z,Boca Juniors,Huracán,2,1,Buenos Aires,Argentina,31.0,0,9.7,33.2
+727994,2025-02-02T22:15Z,Newell's Old Boys,Aldosivi,1,0,Rosario,Argentina,38.0,0,8.2,33.9
+727991,2025-02-03T00:30Z,Independiente,Gimnasia La Plata,2,0,Avellaneda,Argentina,13.0,0,11.2,29.0
+727992,2025-02-03T00:30Z,Instituto (Córdoba),Vélez Sarsfield,2,0,Córdoba,Argentina,378.0,0,9.8,27.7
+727988,2025-02-03T20:00Z,Defensa y Justicia,Central Córdoba (Santiago del Estero),2,1,Buenos Aires,Argentina,31.0,0,12.4,35.8
+727989,2025-02-03T22:15Z,Estudiantes de La Plata,Racing Club,2,0,La Plata,Argentina,27.0,0,6.7,32.0
+727995,2025-02-03T22:15Z,Tigre,Unión (Santa Fe),1,0,Buenos Aires,Argentina,31.0,0,8.6,33.9
+727983,2025-02-04T00:30Z,Argentinos Juniors,Platense,1,0,Buenos Aires,Argentina,31.0,0,8.4,31.1
+727986,2025-02-04T00:30Z,Belgrano (Córdoba),Independiente Rivadavia,0,3,Córdoba,Argentina,378.0,0,7.1,30.9
+727997,2025-02-05T00:00Z,Atlético Tucumán,Deportivo Riestra,0,3,Tucuman,Argentina,735.0,0,24.3,32.9
+727998,2025-02-06T20:00Z,Aldosivi,Barracas Central,1,3,Buenos Aires,Argentina,31.0,0,6.4,27.2
+728009,2025-02-06T23:00Z,Sarmiento (Junín),San Martín (San Juan),1,1,Junin,Argentina,73.0,0,4.9,24.3
+727999,2025-02-07T20:45Z,Banfield,Belgrano (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,10.4,28.3
+728000,2025-02-07T23:00Z,Central Córdoba (Santiago del Estero),Newell's Old Boys,2,0,Santiago del Estero,Argentina,176.0,0,8.0,39.2
+728003,2025-02-07T23:00Z,Huracán,Tigre,2,0,Buenos Aires,Argentina,31.0,0,13.0,26.7
+728004,2025-02-08T01:15Z,Independiente Rivadavia,Estudiantes de La Plata,2,2,Mendoza,Argentina,853.0,0,6.3,34.8
+728011,2025-02-08T01:15Z,Unión (Santa Fe),Argentinos Juniors,0,1,"Rosario, Santa Fe",Argentina,38.0,0,11.5,26.1
+728012,2025-02-08T21:00Z,Vélez Sarsfield,San Lorenzo,0,0,Buenos Aires,Argentina,31.0,0,8.2,32.5
+728008,2025-02-08T22:30Z,Rosario Central,Atlético Tucumán,3,1,Rosario,Argentina,38.0,0,5.8,33.7
+728007,2025-02-08T23:15Z,River Plate,Independiente,2,0,Buenos Aires,Argentina,31.0,0,8.3,30.3
+728006,2025-02-09T01:15Z,Racing Club,Boca Juniors,2,0,Buenos Aires,Argentina,31.0,0,3.6,29.3
+728001,2025-02-09T20:00Z,Deportivo Riestra,Defensa y Justicia,1,1,Buenos Aires,Argentina,31.0,0,17.6,26.5
+728005,2025-02-09T20:00Z,Platense,Instituto (Córdoba),1,0,Buenos Aires,Argentina,31.0,0,17.6,26.5
+728002,2025-02-09T22:15Z,Gimnasia La Plata,Godoy Cruz Antonio Tomba,3,0,La Plata,Argentina,27.0,0,17.7,23.3
+728010,2025-02-10T00:30Z,Talleres (Córdoba),Lanús,0,1,Córdoba,Argentina,378.0,0,13.3,32.9
+728015,2025-02-11T20:45Z,Barracas Central,Central Córdoba (Santiago del Estero),3,3,Buenos Aires,Argentina,31.0,2.1,11.3,23.5
+728017,2025-02-11T23:00Z,Boca Juniors,Independiente Rivadavia,2,0,Buenos Aires,Argentina,31.0,0.5,8.6,22.8
+728019,2025-02-11T23:00Z,Estudiantes de La Plata,Banfield,1,0,La Plata,Argentina,27.0,1.7,11.1,20.9
+728016,2025-02-12T01:15Z,Belgrano (Córdoba),Aldosivi,2,0,Córdoba,Argentina,378.0,0,13.5,25.4
+728026,2025-02-12T01:15Z,Tigre,Racing Club,1,0,Buenos Aires,Argentina,31.0,0.2,11.2,22.7
+728018,2025-02-12T20:00Z,Deportivo Riestra,Rosario Central,0,0,Buenos Aires,Argentina,31.0,0,15.7,25.4
+728023,2025-02-12T20:45Z,Newell's Old Boys,Defensa y Justicia,0,1,Rosario,Argentina,38.0,0,10.2,23.2
+728013,2025-02-12T23:00Z,Argentinos Juniors,Huracán,1,1,Buenos Aires,Argentina,31.0,0,15.8,23.3
+728021,2025-02-12T23:00Z,Independiente,Vélez Sarsfield,3,0,Avellaneda,Argentina,13.0,0,14.1,23.1
+728020,2025-02-13T01:15Z,Godoy Cruz Antonio Tomba,River Plate,0,0,Mendoza,Argentina,853.0,0,8.3,26.8
+728022,2025-02-13T20:45Z,Lanús,Gimnasia La Plata,0,0,Buenos Aires,Argentina,31.0,0,8.8,28.8
+728024,2025-02-13T23:00Z,San Lorenzo,Platense,2,1,Buenos Aires,Argentina,31.0,0,7.3,25.9
+728025,2025-02-13T23:00Z,San Martín (San Juan),Talleres (Córdoba),0,1,San Juan,Argentina,646.0,0,12.1,34.2
+728014,2025-02-14T01:15Z,Atlético Tucumán,Sarmiento (Junín),5,0,Tucuman,Argentina,735.0,0,14.4,32.2
+728027,2025-02-14T01:15Z,Unión (Santa Fe),Instituto (Córdoba),0,0,"Rosario, Santa Fe",Argentina,38.0,0,11.9,23.9
+728042,2025-02-14T23:00Z,Banfield,Boca Juniors,0,1,Buenos Aires,Argentina,31.0,3.1,12.4,22.7
+728028,2025-02-15T20:00Z,Aldosivi,Estudiantes de La Plata,2,2,Buenos Aires,Argentina,31.0,0,7.7,26.5
+728031,2025-02-15T20:00Z,Defensa y Justicia,Barracas Central,1,1,Buenos Aires,Argentina,31.0,0,7.7,26.5
+728030,2025-02-15T22:15Z,Central Córdoba (Santiago del Estero),Belgrano (Córdoba),4,0,Santiago del Estero,Argentina,176.0,0,4.4,29.2
+728034,2025-02-15T22:15Z,Independiente Rivadavia,Tigre,1,4,Mendoza,Argentina,853.0,0,14.8,31.0
+728038,2025-02-16T00:30Z,Racing Club,Argentinos Juniors,2,3,Buenos Aires,Argentina,31.0,0,7.0,24.3
+728036,2025-02-16T20:00Z,Newell's Old Boys,Rosario Central,1,2,Rosario,Argentina,38.0,0,5.3,28.7
+728039,2025-02-16T22:15Z,River Plate,Lanús,1,0,Buenos Aires,Argentina,31.0,0,4.6,27.3
+728033,2025-02-17T00:30Z,Huracán,Unión (Santa Fe),1,0,Buenos Aires,Argentina,31.0,0,8.5,25.4
+728029,2025-02-17T00:30Z,Talleres (Córdoba),Atlético Tucumán,1,1,Córdoba,Argentina,378.0,0,4.8,24.3
+728032,2025-02-17T20:00Z,Gimnasia La Plata,San Martín (San Juan),1,0,La Plata,Argentina,27.0,0,6.5,29.1
+728040,2025-02-17T20:00Z,Sarmiento (Junín),Deportivo Riestra,2,1,Junin,Argentina,73.0,0,15.5,28.3
+728037,2025-02-17T22:15Z,Platense,Independiente,1,1,Buenos Aires,Argentina,31.0,0,14.6,27.1
+728035,2025-02-18T00:30Z,Instituto (Córdoba),San Lorenzo,0,1,Córdoba,Argentina,378.0,0,10.2,23.2
+728041,2025-02-18T00:30Z,Vélez Sarsfield,Godoy Cruz Antonio Tomba,0,2,Buenos Aires,Argentina,31.0,0,30.9,20.7
+728052,2025-02-21T20:00Z,Deportivo Riestra,Talleres (Córdoba),0,0,Buenos Aires,Argentina,31.0,0,7.0,31.2
+728053,2025-02-21T22:15Z,Estudiantes de La Plata,Central Córdoba (Santiago del Estero),3,2,La Plata,Argentina,27.0,0,6.1,29.4
+728054,2025-02-21T22:15Z,Godoy Cruz Antonio Tomba,Platense,1,1,Mendoza,Argentina,853.0,0,5.9,35.4
+728057,2025-02-22T00:30Z,Lanús,Vélez Sarsfield,0,0,Buenos Aires,Argentina,31.0,0.1,7.4,27.9
+728056,2025-02-22T21:00Z,Independiente,Instituto (Córdoba),2,0,Avellaneda,Argentina,13.0,0,11.9,30.7
+728051,2025-02-22T22:30Z,Boca Juniors,Aldosivi,2,1,Buenos Aires,Argentina,31.0,0,13.4,29.5
+728044,2025-02-23T00:30Z,San Martín (San Juan),River Plate,0,2,San Juan,Argentina,646.0,0,2.7,38.8
+728043,2025-02-23T00:45Z,Rosario Central,Sarmiento (Junín),1,0,Rosario,Argentina,38.0,0,9.1,28.5
+728055,2025-02-23T21:00Z,Huracán,San Lorenzo,2,0,Buenos Aires,Argentina,31.0,0,5.2,29.2
+728048,2025-02-24T00:00Z,Atlético Tucumán,Gimnasia La Plata,0,1,Tucuman,Argentina,735.0,0,14.0,35.4
+728050,2025-02-24T00:00Z,Belgrano (Córdoba),Defensa y Justicia,2,0,Córdoba,Argentina,378.0,0,12.6,33.7
+728049,2025-02-24T20:00Z,Barracas Central,Newell's Old Boys,2,0,Buenos Aires,Argentina,31.0,0.1,7.5,24.8
+728047,2025-02-24T22:00Z,Argentinos Juniors,Independiente Rivadavia,0,0,Buenos Aires,Argentina,31.0,0,4.9,26.0
+728045,2025-02-25T00:00Z,Tigre,Banfield,1,0,Buenos Aires,Argentina,31.0,0,8.7,24.6
+728059,2025-02-28T23:00Z,Boca Juniors,Rosario Central,1,0,Buenos Aires,Argentina,31.0,0.1,11.6,24.7
+728071,2025-03-01T01:15Z,Central Córdoba (Santiago del Estero),Deportivo Riestra,0,0,Santiago del Estero,Argentina,176.0,0,9.4,31.7
+728060,2025-03-01T01:15Z,San Martín (San Juan),Belgrano (Córdoba),3,1,San Juan,Argentina,646.0,0,8.8,25.8
+728065,2025-03-01T20:00Z,Aldosivi,Sarmiento (Junín),2,2,Buenos Aires,Argentina,31.0,0,1.3,29.0
+728062,2025-03-01T22:15Z,River Plate,Estudiantes de La Plata,0,2,Buenos Aires,Argentina,31.0,0,4.6,27.0
+728072,2025-03-02T00:30Z,Talleres (Córdoba),Tigre,1,2,Córdoba,Argentina,378.0,3.9,3.3,23.5
+728058,2025-03-02T00:30Z,Unión (Santa Fe),Gimnasia La Plata,1,0,"Rosario, Santa Fe",Argentina,38.0,0,9.0,25.7
+728066,2025-03-02T20:00Z,Argentinos Juniors,Instituto (Córdoba),2,0,Buenos Aires,Argentina,31.0,2.2,18.2,23.9
+728064,2025-03-02T20:00Z,Independiente Rivadavia,Lanús,1,1,Mendoza,Argentina,853.0,0,1.4,27.5
+728070,2025-03-02T22:15Z,Vélez Sarsfield,Huracán,0,2,Buenos Aires,Argentina,31.0,0,18.1,24.0
+728069,2025-03-03T20:00Z,Barracas Central,Godoy Cruz Antonio Tomba,1,2,Buenos Aires,Argentina,31.0,0,8.0,25.3
+728061,2025-03-03T22:00Z,San Lorenzo,Racing Club,3,2,Buenos Aires,Argentina,31.0,0,2.8,26.0
+728067,2025-03-04T00:00Z,Atlético Tucumán,Newell's Old Boys,1,2,Tucuman,Argentina,735.0,0,28.4,32.1
+728068,2025-03-04T22:30Z,Banfield,Independiente,0,0,Buenos Aires,Argentina,31.0,0,8.5,25.9
+728063,2025-03-04T23:00Z,Platense,Defensa y Justicia,0,1,Buenos Aires,Argentina,31.0,0,9.0,25.8
+728081,2025-03-07T22:00Z,Banfield,Argentinos Juniors,1,2,Buenos Aires,Argentina,31.0,0,19.4,29.4
+728078,2025-03-07T22:00Z,Vélez Sarsfield,San Martín (San Juan),1,0,Buenos Aires,Argentina,31.0,0,19.4,29.4
+728082,2025-03-08T00:15Z,Central Córdoba (Santiago del Estero),Boca Juniors,0,3,Santiago del Estero,Argentina,176.0,0,18.5,36.8
+728075,2025-03-08T20:00Z,San Lorenzo,Independiente,1,2,Buenos Aires,Argentina,31.0,0,15.5,21.1
+728073,2025-03-08T22:15Z,Racing Club,Huracán,0,1,Buenos Aires,Argentina,31.0,0,12.9,19.8
+728087,2025-03-09T00:30Z,Platense,Lanús,0,0,Buenos Aires,Argentina,31.0,0,7.6,18.5
+728076,2025-03-09T00:30Z,Sarmiento (Junín),Barracas Central,1,1,Junin,Argentina,73.0,0,8.4,17.6
+728080,2025-03-09T20:00Z,Aldosivi,Tigre,0,2,Buenos Aires,Argentina,31.0,0,9.1,20.7
+728083,2025-03-09T20:00Z,Defensa y Justicia,Estudiantes de La Plata,1,0,Buenos Aires,Argentina,31.0,0,9.1,20.7
+728074,2025-03-09T22:15Z,River Plate,Atlético Tucumán,1,0,Buenos Aires,Argentina,31.0,0,8.2,19.3
+728086,2025-03-10T00:30Z,Instituto (Córdoba),Godoy Cruz Antonio Tomba,1,1,Córdoba,Argentina,378.0,0,3.2,17.3
+728079,2025-03-10T00:30Z,Newell's Old Boys,Belgrano (Córdoba),0,0,Rosario,Argentina,38.0,0,9.5,18.0
+728084,2025-03-10T22:00Z,Gimnasia La Plata,Deportivo Riestra,1,1,La Plata,Argentina,27.0,0,13.3,20.8
+728085,2025-03-11T00:15Z,Independiente Rivadavia,Unión (Santa Fe),2,0,Mendoza,Argentina,853.0,0,2.7,21.6
+728077,2025-03-11T00:15Z,Talleres (Córdoba),Rosario Central,0,0,Córdoba,Argentina,378.0,0,9.1,20.5
+728088,2025-03-14T22:00Z,Argentinos Juniors,Aldosivi,0,2,Buenos Aires,Argentina,31.0,0,11.2,20.1
+728098,2025-03-15T00:00Z,Godoy Cruz Antonio Tomba,San Lorenzo,0,0,Mendoza,Argentina,853.0,0,2.5,21.1
+728100,2025-03-15T19:00Z,Deportivo Riestra,River Plate,0,0,Buenos Aires,Argentina,31.0,0,8.6,22.9
+728099,2025-03-15T21:30Z,Estudiantes de La Plata,Newell's Old Boys,1,1,La Plata,Argentina,27.0,0,8.5,21.2
+728094,2025-03-15T21:30Z,Rosario Central,Gimnasia La Plata,2,1,Rosario,Argentina,38.0,0,4.9,22.7
+728091,2025-03-16T00:00Z,Huracán,Independiente Rivadavia,2,0,Buenos Aires,Argentina,31.0,0,11.7,20.7
+728096,2025-03-16T00:00Z,Sarmiento (Junín),Talleres (Córdoba),0,0,Junin,Argentina,73.0,0,8.9,18.6
+728092,2025-03-16T19:00Z,Independiente,Racing Club,1,1,Avellaneda,Argentina,13.0,0,8.0,24.3
+728101,2025-03-16T21:15Z,Boca Juniors,Defensa y Justicia,4,0,Buenos Aires,Argentina,31.0,0,5.4,23.9
+728102,2025-03-17T00:00Z,Belgrano (Córdoba),Barracas Central,1,1,Córdoba,Argentina,378.0,0,0.6,18.3
+728093,2025-03-17T00:00Z,Lanús,Instituto (Córdoba),4,1,Buenos Aires,Argentina,31.0,0,9.2,21.9
+728097,2025-03-17T22:00Z,Tigre,Central Córdoba (Santiago del Estero),1,2,Buenos Aires,Argentina,31.0,0,7.7,24.5
+728089,2025-03-17T22:00Z,Unión (Santa Fe),Banfield,3,1,"Rosario, Santa Fe",Argentina,38.0,0,3.2,24.8
+728090,2025-03-18T00:15Z,Atlético Tucumán,Vélez Sarsfield,1,2,Tucuman,Argentina,735.0,0,24.3,28.1
+728095,2025-03-18T00:15Z,San Martín (San Juan),Platense,0,2,San Juan,Argentina,646.0,0,5.8,28.3
+728046,2025-03-21T00:00Z,Unión (Santa Fe),Racing Club,0,1,"Rosario, Santa Fe",Argentina,38.0,0,8.0,24.3

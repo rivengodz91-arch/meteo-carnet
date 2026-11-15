@@ -153,3 +153,81 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 710024,2024-12-21T15:00Z,Aberdeen,Hibernian,1,3,Aberdeen,Scotland,13.0,0,36.6,7.8
 710028,2024-12-21T15:00Z,Rangers,Dundee,1,0,Glasgow,Scotland,40.0,0,29.8,6.2
 710029,2024-12-21T15:00Z,Ross County,St Mirren,1,2,Dingwell,Scotland,23.0,1.1,29.1,0.8
+710025,2024-12-22T12:00Z,Dundee United,Celtic,0,0,Dundee,Scotland,77.0,0.6,40.9,6.2
+710026,2024-12-22T15:00Z,Heart of Midlothian,St Johnstone,2,1,Edinburgh,Scotland,66.0,0,34.8,6.5
+710030,2024-12-26T12:30Z,Heart of Midlothian,Hibernian,1,2,Edinburgh,Scotland,66.0,0.5,12.2,10.5
+710033,2024-12-26T15:00Z,Celtic,Motherwell,4,0,Glasgow,Scotland,40.0,0,8.4,9.8
+710034,2024-12-26T15:00Z,Dundee,Ross County,0,3,Dundee,Scotland,77.0,1.5,8.1,8.9
+710035,2024-12-26T15:00Z,Kilmarnock,Aberdeen,4,0,Kilmarnock,Scotland,39.0,0,9.9,10.4
+710032,2024-12-26T15:00Z,St Johnstone,Dundee United,1,2,Perth,Scotland,34.0,0,15.6,19.3
+710031,2024-12-26T17:45Z,St Mirren,Rangers,2,1,Paisley,Scotland,50.0,0.2,9.3,9.6
+710041,2024-12-29T15:00Z,Celtic,St Johnstone,4,0,Glasgow,Scotland,40.0,0,28.9,9.7
+710040,2024-12-29T15:00Z,Hibernian,Kilmarnock,1,0,Edinburgh,Scotland,66.0,0,38.7,9.9
+710037,2024-12-29T15:00Z,Motherwell,Rangers,2,2,Motherwell,Scotland,87.0,0,33.5,25.3
+710036,2024-12-29T15:00Z,Ross County,Heart of Midlothian,2,2,Dingwell,Scotland,23.0,0,6.7,0.0
+710038,2024-12-29T15:00Z,St Mirren,Dundee,1,2,Paisley,Scotland,50.0,0,29.1,9.5
+710039,2024-12-29T17:15Z,Dundee United,Aberdeen,1,0,Dundee,Scotland,77.0,0,35.7,9.0
+710042,2025-01-02T15:00Z,Aberdeen,Ross County,1,2,Aberdeen,Scotland,13.0,0,23.6,-0.3
+710043,2025-01-02T15:00Z,Heart of Midlothian,Motherwell,1,0,Edinburgh,Scotland,66.0,0,14.1,0.0
+710044,2025-01-02T15:00Z,Kilmarnock,St Mirren,2,0,Kilmarnock,Scotland,39.0,0,6.1,0.2
+710045,2025-01-02T15:00Z,Rangers,Celtic,3,0,Glasgow,Scotland,40.0,0,8.0,0.1
+710046,2025-01-02T15:00Z,St Johnstone,Hibernian,1,1,Perth,Scotland,34.0,0,15.3,20.7
+710047,2025-01-02T17:30Z,Dundee,Dundee United,1,2,Dundee,Scotland,77.0,0,16.2,-1.5
+710050,2025-01-05T12:00Z,Hibernian,Rangers,3,3,Edinburgh,Scotland,66.0,1.1,17.5,2.4
+710052,2025-01-05T14:30Z,Motherwell,Aberdeen,2,0,Motherwell,Scotland,87.0,0,24.0,25.3
+710048,2025-01-05T15:00Z,Celtic,St Mirren,3,0,Glasgow,Scotland,40.0,0.1,14.6,1.0
+710049,2025-01-05T15:00Z,Dundee United,Heart of Midlothian,0,1,Dundee,Scotland,77.0,0.2,13.0,0.7
+710051,2025-01-05T15:00Z,Kilmarnock,Ross County,0,1,Kilmarnock,Scotland,39.0,0.2,25.6,1.5
+710053,2025-01-05T15:00Z,St Johnstone,Dundee,1,3,Perth,Scotland,34.0,0,3.9,22.8
+709982,2025-01-08T19:45Z,Celtic,Dundee United,2,0,Glasgow,Scotland,40.0,0,4.1,-2.5
+709985,2025-01-08T19:45Z,Kilmarnock,Motherwell,0,0,Kilmarnock,Scotland,39.0,0,1.4,-0.9
+709983,2025-01-09T20:00Z,Dundee,Rangers,1,1,Dundee,Scotland,77.0,0,13.8,-1.4
+710058,2025-01-11T12:30Z,Ross County,Celtic,1,4,Dingwell,Scotland,23.0,0,6.4,-3.4
+710056,2025-01-11T15:00Z,Hibernian,Motherwell,3,1,Edinburgh,Scotland,66.0,0,1.4,1.5
+710059,2025-01-11T15:00Z,St Mirren,Dundee United,0,1,Paisley,Scotland,50.0,0.2,6.6,0.4
+710054,2025-01-12T15:00Z,Aberdeen,Heart of Midlothian,0,0,Aberdeen,Scotland,13.0,0,22.4,3.2
+710057,2025-01-12T15:00Z,Rangers,St Johnstone,3,1,Glasgow,Scotland,40.0,0,7.7,4.1
+710018,2025-01-14T20:00Z,Dundee,Celtic,3,3,Dundee,Scotland,77.0,0,18.7,6.2
+710022,2025-01-15T20:00Z,Rangers,Aberdeen,3,0,Glasgow,Scotland,40.0,0,13.1,7.2
+710060,2025-01-25T15:00Z,Aberdeen,St Mirren,0,3,Aberdeen,Scotland,13.0,0,20.1,4.8
+710063,2025-01-25T15:00Z,Heart of Midlothian,Kilmarnock,3,2,Edinburgh,Scotland,66.0,0,21.2,4.3
+710064,2025-01-25T15:00Z,Ross County,Hibernian,1,1,Dingwell,Scotland,23.0,0,14.3,-11.1
+710065,2025-01-25T15:00Z,St Johnstone,Motherwell,2,1,Perth,Scotland,34.0,0,7.1,24.4
+710062,2025-01-26T12:00Z,Dundee United,Rangers,1,3,Dundee,Scotland,77.0,0,3.5,2.5
+710066,2025-02-01T15:00Z,Dundee,Heart of Midlothian,0,6,Dundee,Scotland,77.0,0,17.1,5.4
+710067,2025-02-01T15:00Z,Hibernian,Aberdeen,2,0,Edinburgh,Scotland,66.0,0,11.7,6.3
+710071,2025-02-01T15:00Z,St Mirren,St Johnstone,0,1,Paisley,Scotland,50.0,0,15.8,7.1
+710068,2025-02-01T17:45Z,Kilmarnock,Dundee United,1,0,Kilmarnock,Scotland,39.0,0,18.3,7.0
+710069,2025-02-02T15:00Z,Motherwell,Celtic,1,3,Motherwell,Scotland,87.0,0,22.3,24.1
+710070,2025-02-02T15:00Z,Rangers,Ross County,4,0,Glasgow,Scotland,40.0,0.2,13.1,7.2
+710061,2025-02-05T19:45Z,Celtic,Dundee,6,0,Glasgow,Scotland,40.0,0,6.7,3.7
+710072,2025-02-15T15:00Z,Celtic,Dundee United,3,0,Glasgow,Scotland,40.0,0,13.2,3.2
+710073,2025-02-15T15:00Z,Dundee,Aberdeen,1,2,Dundee,Scotland,77.0,0.1,17.0,3.7
+710075,2025-02-15T15:00Z,Kilmarnock,St Johnstone,3,1,Kilmarnock,Scotland,39.0,0,16.0,4.4
+710076,2025-02-15T15:00Z,Motherwell,Ross County,0,3,Motherwell,Scotland,87.0,0,17.9,23.1
+710074,2025-02-16T12:00Z,Heart of Midlothian,Rangers,1,3,Edinburgh,Scotland,66.0,0,19.0,5.0
+710077,2025-02-16T14:00Z,St Mirren,Hibernian,0,0,Paisley,Scotland,50.0,0,16.1,5.4
+710080,2025-02-22T12:30Z,Hibernian,Celtic,2,1,Edinburgh,Scotland,66.0,0.1,24.4,10.3
+710078,2025-02-22T15:00Z,Aberdeen,Kilmarnock,1,0,Aberdeen,Scotland,13.0,0,24.1,11.0
+710079,2025-02-22T15:00Z,Dundee United,Motherwell,1,0,Dundee,Scotland,77.0,0,26.7,9.2
+710081,2025-02-22T15:00Z,Rangers,St Mirren,0,2,Glasgow,Scotland,40.0,0.5,20.6,9.6
+710082,2025-02-22T15:00Z,Ross County,Dundee,3,1,Dingwell,Scotland,23.0,0,16.1,-5.0
+710083,2025-02-23T12:00Z,St Johnstone,Heart of Midlothian,1,2,Perth,Scotland,34.0,0,15.1,24.7
+710084,2025-02-25T20:00Z,Celtic,Aberdeen,5,1,Glasgow,Scotland,40.0,0,11.6,4.4
+710085,2025-02-26T19:45Z,Dundee United,Hibernian,1,3,Dundee,Scotland,77.0,0,2.8,2.1
+710086,2025-02-26T19:45Z,Heart of Midlothian,St Mirren,3,1,Edinburgh,Scotland,66.0,0,8.3,3.9
+710088,2025-02-26T19:45Z,Motherwell,Dundee,2,1,Motherwell,Scotland,87.0,0,20.7,21.1
+710089,2025-02-26T19:45Z,St Johnstone,Ross County,1,0,Perth,Scotland,34.0,0,9.4,21.2
+710087,2025-02-26T20:00Z,Kilmarnock,Rangers,2,4,Kilmarnock,Scotland,39.0,0,6.9,2.5
+710091,2025-03-01T15:00Z,Dundee,St Johnstone,1,1,Dundee,Scotland,77.0,0,13.7,8.5
+710093,2025-03-01T15:00Z,Rangers,Motherwell,1,2,Glasgow,Scotland,40.0,0,9.6,8.8
+710094,2025-03-01T15:00Z,Ross County,Kilmarnock,1,0,Dingwell,Scotland,23.0,0,16.3,-3.7
+710095,2025-03-01T17:30Z,St Mirren,Celtic,2,5,Paisley,Scotland,50.0,0,9.7,8.1
+710092,2025-03-02T12:30Z,Hibernian,Heart of Midlothian,2,1,Edinburgh,Scotland,66.0,0,32.5,9.5
+710090,2025-03-02T15:00Z,Aberdeen,Dundee United,2,2,Aberdeen,Scotland,13.0,0,17.7,10.4
+710098,2025-03-15T15:00Z,Heart of Midlothian,Ross County,2,0,Edinburgh,Scotland,66.0,0,7.3,8.7
+710099,2025-03-15T15:00Z,Kilmarnock,Hibernian,1,1,Kilmarnock,Scotland,39.0,0,11.9,8.9
+710100,2025-03-15T15:00Z,Motherwell,St Mirren,2,2,Motherwell,Scotland,87.0,0,30.8,24.0
+710101,2025-03-15T15:00Z,St Johnstone,Aberdeen,0,0,Perth,Scotland,34.0,0,12.5,20.1
+710096,2025-03-16T12:30Z,Celtic,Rangers,2,3,Glasgow,Scotland,40.0,0,1.0,9.3
+710097,2025-03-16T15:00Z,Dundee United,Dundee,2,4,Dundee,Scotland,77.0,0,9.1,7.4

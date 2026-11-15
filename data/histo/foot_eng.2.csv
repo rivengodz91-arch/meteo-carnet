@@ -814,3 +814,200 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 707880,2024-12-21T15:00Z,Plymouth Argyle,Middlesbrough,3,3,Plymouth,England,14.0,0.5,31.6,12.0
 707876,2024-12-21T15:00Z,Queens Park Rangers,Preston North End,2,1,London,England,25.0,0.2,22.1,12.3
 707878,2024-12-21T15:00Z,Sunderland,Norwich City,2,1,Sunderland,England,36.0,0,40.9,8.3
+707886,2024-12-22T15:00Z,West Bromwich Albion,Bristol City,2,0,West Bromwich,England,165.0,0,30.2,4.8
+707891,2024-12-26T15:00Z,Blackburn Rovers,Sunderland,2,2,Blackburn,England,121.0,0,3.6,6.5
+707890,2024-12-26T15:00Z,Bristol City,Luton Town,1,0,Bristol,England,21.0,0,3.0,7.3
+707889,2024-12-26T15:00Z,Coventry City,Plymouth Argyle,4,0,Coventry,England,89.0,0,4.1,6.3
+707887,2024-12-26T15:00Z,Middlesbrough,Sheffield Wednesday,3,3,Middlesbrough,England,15.0,0,7.2,8.3
+707892,2024-12-26T15:00Z,Norwich City,Millwall,2,1,Norwich,England,19.0,0,6.8,7.0
+707898,2024-12-26T15:00Z,Oxford United,Cardiff City,3,2,Oxford,England,72.0,0,2.9,6.8
+707897,2024-12-26T15:00Z,Preston North End,Hull City,1,0,Preston,England,34.0,0,6.8,7.6
+707896,2024-12-26T15:00Z,Sheffield United,Burnley,0,2,Sheffield,England,75.0,0,5.4,6.5
+707894,2024-12-26T15:00Z,Swansea City,Queens Park Rangers,3,0,Swansea,Wales,18.0,0,8.6,8.3
+707893,2024-12-26T15:00Z,Watford,Portsmouth,2,1,Watford,England,77.0,0,2.3,6.7
+707888,2024-12-26T17:30Z,Derby County,West Bromwich Albion,2,1,Derby,England,55.0,0,5.5,6.4
+707895,2024-12-26T20:00Z,Stoke City,Leeds United,0,2,Stoke-on-Trent,England,114.0,0,3.0,5.7
+707904,2024-12-29T12:30Z,Norwich City,Queens Park Rangers,1,1,Norwich,England,19.0,0,18.8,7.4
+707907,2024-12-29T12:30Z,Preston North End,Sheffield Wednesday,3,1,Preston,England,34.0,0.1,19.6,9.0
+707906,2024-12-29T12:30Z,Sheffield United,West Bromwich Albion,1,1,Sheffield,England,75.0,0,14.9,8.5
+707899,2024-12-29T15:00Z,Blackburn Rovers,Hull City,0,1,Blackburn,England,121.0,0.1,24.3,7.9
+707900,2024-12-29T15:00Z,Bristol City,Portsmouth,3,0,Bristol,England,21.0,0,14.7,8.7
+707901,2024-12-29T15:00Z,Coventry City,Millwall,0,0,Coventry,England,89.0,0,13.6,8.0
+707908,2024-12-29T15:00Z,Oxford United,Plymouth Argyle,2,0,Oxford,England,72.0,0,11.5,8.1
+707905,2024-12-29T15:00Z,Stoke City,Sunderland,1,0,Stoke-on-Trent,England,114.0,0,17.1,7.9
+707910,2024-12-29T15:00Z,Swansea City,Luton Town,2,1,Swansea,Wales,18.0,0,10.8,9.4
+707909,2024-12-29T15:00Z,Watford,Cardiff City,1,2,Watford,England,77.0,0,11.7,6.0
+707902,2024-12-29T17:45Z,Derby County,Leeds United,0,1,Derby,England,55.0,0,19.5,7.0
+707903,2024-12-29T20:00Z,Middlesbrough,Burnley,0,0,Middlesbrough,England,15.0,0,23.6,9.4
+707917,2025-01-01T12:30Z,Plymouth Argyle,Bristol City,2,2,Plymouth,England,14.0,2.6,21.8,8.2
+707919,2025-01-01T12:30Z,Queens Park Rangers,Watford,3,1,London,England,25.0,3.3,29.1,11.5
+707916,2025-01-01T13:00Z,Millwall,Oxford United,0,1,London,England,25.0,3.1,21.9,8.2
+707915,2025-01-01T15:00Z,Burnley,Stoke City,0,0,Burnley,England,140.0,0.6,20.1,4.5
+707914,2025-01-01T15:00Z,Cardiff City,Coventry City,1,1,Cardiff,Wales,17.0,0.6,21.6,7.0
+707921,2025-01-01T15:00Z,Leeds United,Blackburn Rovers,1,1,Leeds,England,50.0,0.8,20.1,6.1
+707920,2025-01-01T15:00Z,Luton Town,Norwich City,0,1,Luton,England,117.0,1.0,21.0,4.7
+707918,2025-01-01T15:00Z,Portsmouth,Swansea City,4,0,Portsmouth,England,6.0,3.7,18.1,6.0
+707911,2025-01-01T15:00Z,Sheffield Wednesday,Derby County,4,2,Sheffield,England,75.0,0,20.9,6.7
+707922,2025-01-01T15:00Z,West Bromwich Albion,Preston North End,3,1,West Bromwich,England,165.0,0.3,17.9,6.1
+707913,2025-01-01T17:30Z,Hull City,Middlesbrough,0,1,Hull,England,8.0,0,17.2,5.8
+707912,2025-01-01T20:00Z,Sunderland,Sheffield United,2,1,Sunderland,England,36.0,0,16.7,2.0
+707923,2025-01-04T12:30Z,Blackburn Rovers,Burnley,0,1,Blackburn,England,121.0,0,8.2,1.2
+707931,2025-01-04T12:30Z,Stoke City,Plymouth Argyle,0,0,Stoke-on-Trent,England,114.0,0,7.7,0.6
+707933,2025-01-04T12:30Z,Swansea City,West Bromwich Albion,1,1,Swansea,Wales,18.0,0.1,16.3,2.8
+707924,2025-01-04T15:00Z,Bristol City,Derby County,1,0,Bristol,England,21.0,0,13.9,1.9
+707925,2025-01-04T15:00Z,Hull City,Leeds United,3,3,Hull,England,8.0,0,8.8,1.3
+707926,2025-01-04T15:00Z,Middlesbrough,Cardiff City,1,1,Middlesbrough,England,15.0,0,10.1,1.7
+707927,2025-01-04T15:00Z,Norwich City,Coventry City,2,1,Norwich,England,19.0,0,9.1,2.2
+707934,2025-01-04T15:00Z,Preston North End,Oxford United,1,1,Preston,England,34.0,0,11.9,1.4
+707930,2025-01-04T15:00Z,Sheffield Wednesday,Millwall,2,2,Sheffield,England,75.0,0,7.9,1.8
+707929,2025-01-04T15:00Z,Watford,Sheffield United,1,2,Watford,England,77.0,0,8.8,1.8
+707932,2025-01-05T15:00Z,Sunderland,Portsmouth,1,0,Sunderland,England,36.0,1.7,21.1,3.1
+707928,2025-01-06T20:00Z,Queens Park Rangers,Luton Town,2,1,London,England,25.0,0,12.2,3.2
+707840,2025-01-14T19:45Z,Cardiff City,Watford,1,1,Cardiff,Wales,17.0,0,11.7,8.7
+707845,2025-01-14T19:45Z,Plymouth Argyle,Oxford United,1,1,Plymouth,England,14.0,0,5.4,8.1
+707807,2025-01-15T19:45Z,Blackburn Rovers,Portsmouth,3,0,Blackburn,England,121.0,0,2.1,2.5
+707935,2025-01-17T20:00Z,Burnley,Sunderland,0,0,Burnley,England,140.0,0,8.3,3.9
+707936,2025-01-18T12:30Z,Cardiff City,Swansea City,3,0,Cardiff,Wales,17.0,0,7.7,4.9
+707941,2025-01-18T12:30Z,Millwall,Hull City,0,1,London,England,25.0,0,4.2,2.9
+707943,2025-01-18T12:30Z,Plymouth Argyle,Queens Park Rangers,0,1,Plymouth,England,14.0,0,9.2,6.7
+707937,2025-01-18T15:00Z,Coventry City,Bristol City,1,0,Coventry,England,89.0,0,2.9,2.2
+707938,2025-01-18T15:00Z,Derby County,Watford,0,2,Derby,England,55.0,0,5.2,2.1
+707940,2025-01-18T15:00Z,Luton Town,Preston North End,0,0,Luton,England,117.0,0,4.6,2.8
+707942,2025-01-18T15:00Z,Oxford United,Blackburn Rovers,1,0,Oxford,England,72.0,0,3.3,2.7
+707945,2025-01-18T15:00Z,Sheffield United,Norwich City,2,0,Sheffield,England,75.0,0,8.1,2.8
+707946,2025-01-18T15:00Z,West Bromwich Albion,Stoke City,1,1,West Bromwich,England,165.0,0,4.3,1.8
+707944,2025-01-18T15:35Z,Portsmouth,Middlesbrough,2,1,Portsmouth,England,6.0,0,6.9,3.9
+707939,2025-01-19T12:00Z,Leeds United,Sheffield Wednesday,3,0,Leeds,England,50.0,0,12.0,0.7
+707947,2025-01-21T19:45Z,Blackburn Rovers,Coventry City,0,2,Blackburn,England,121.0,1.0,11.8,4.1
+707948,2025-01-21T19:45Z,Derby County,Sunderland,0,1,Derby,England,55.0,0,6.9,4.5
+707949,2025-01-21T19:45Z,Hull City,Queens Park Rangers,1,2,Hull,England,8.0,0,12.5,4.7
+707950,2025-01-21T19:45Z,Middlesbrough,West Bromwich Albion,2,0,Middlesbrough,England,15.0,0,8.7,5.0
+707952,2025-01-21T19:45Z,Oxford United,Luton Town,3,2,Oxford,England,72.0,0,7.3,3.8
+707953,2025-01-21T19:45Z,Swansea City,Sheffield United,1,2,Swansea,Wales,18.0,0,7.9,4.9
+707954,2025-01-21T19:45Z,Watford,Preston North End,1,2,Watford,England,77.0,0,5.1,2.7
+707951,2025-01-21T20:00Z,Millwall,Cardiff City,2,2,London,England,25.0,0,4.5,2.8
+707955,2025-01-22T19:45Z,Leeds United,Norwich City,2,0,Leeds,England,50.0,0,6.2,3.6
+707957,2025-01-22T19:45Z,Portsmouth,Stoke City,3,1,Portsmouth,England,6.0,0,9.6,3.4
+707958,2025-01-22T19:45Z,Sheffield Wednesday,Bristol City,2,2,Sheffield,England,75.0,0,3.6,3.3
+707956,2025-01-22T20:00Z,Plymouth Argyle,Burnley,0,5,Plymouth,England,14.0,0,6.2,3.8
+707967,2025-01-24T20:00Z,Sheffield United,Hull City,0,3,Sheffield,England,75.0,0,20.0,5.4
+707963,2025-01-25T12:30Z,Luton Town,Millwall,0,1,Luton,England,117.0,0,10.9,4.6
+707970,2025-01-25T12:30Z,Norwich City,Swansea City,5,1,Norwich,England,19.0,0,14.9,5.0
+707968,2025-01-25T12:30Z,Stoke City,Oxford United,0,0,Stoke-on-Trent,England,114.0,0,13.8,4.7
+707959,2025-01-25T15:00Z,Bristol City,Blackburn Rovers,2,1,Bristol,England,21.0,0,8.9,6.5
+707961,2025-01-25T15:00Z,Cardiff City,Derby County,2,1,Cardiff,Wales,17.0,0,10.7,6.9
+707962,2025-01-25T15:00Z,Coventry City,Watford,2,1,Coventry,England,89.0,0,11.1,5.7
+707965,2025-01-25T15:00Z,Preston North End,Middlesbrough,2,1,Preston,England,34.0,0,14.0,6.0
+707966,2025-01-25T15:00Z,Queens Park Rangers,Sheffield Wednesday,0,2,London,England,25.0,0,3.1,6.3
+707964,2025-01-25T15:00Z,Sunderland,Plymouth Argyle,2,2,Sunderland,England,36.0,0,13.5,5.5
+707969,2025-01-25T15:00Z,West Bromwich Albion,Portsmouth,5,1,West Bromwich,England,165.0,0,10.9,5.5
+707960,2025-01-27T20:00Z,Burnley,Leeds United,0,0,Burnley,England,140.0,2.1,26.3,3.3
+707824,2025-01-28T19:45Z,Portsmouth,Millwall,0,1,Portsmouth,England,6.0,0,26.2,8.0
+707978,2025-01-31T20:00Z,Blackburn Rovers,Preston North End,2,1,Blackburn,England,121.0,0,4.0,2.6
+707980,2025-02-01T12:30Z,Oxford United,Bristol City,1,1,Oxford,England,72.0,0.2,12.6,6.4
+707972,2025-02-01T12:30Z,Plymouth Argyle,West Bromwich Albion,2,1,Plymouth,England,14.0,0,15.7,9.1
+707974,2025-02-01T12:30Z,Watford,Norwich City,0,1,Watford,England,77.0,0,12.5,6.3
+707977,2025-02-01T15:00Z,Derby County,Sheffield United,0,1,Derby,England,55.0,0,13.9,6.0
+707976,2025-02-01T15:00Z,Hull City,Stoke City,1,2,Hull,England,8.0,0,15.4,6.1
+707981,2025-02-01T15:00Z,Leeds United,Cardiff City,7,0,Leeds,England,50.0,0,13.4,6.4
+707975,2025-02-01T15:00Z,Millwall,Queens Park Rangers,2,1,London,England,25.0,0,9.8,6.2
+707971,2025-02-01T15:00Z,Portsmouth,Burnley,0,0,Portsmouth,England,6.0,0.1,13.9,6.5
+707979,2025-02-01T15:00Z,Sheffield Wednesday,Luton Town,1,1,Sheffield,England,75.0,0,13.6,5.6
+707973,2025-02-01T15:00Z,Swansea City,Coventry City,0,2,Swansea,Wales,18.0,0,15.7,7.8
+707982,2025-02-03T20:00Z,Middlesbrough,Sunderland,2,3,Middlesbrough,England,15.0,0,23.9,7.7
+707988,2025-02-04T19:45Z,Burnley,Oxford United,1,0,Burnley,England,140.0,0,26.3,5.8
+707994,2025-02-04T19:45Z,Queens Park Rangers,Blackburn Rovers,2,1,London,England,25.0,0.2,14.1,10.1
+707990,2025-02-05T19:45Z,Coventry City,Leeds United,0,2,Coventry,England,89.0,0,5.8,4.0
+707985,2025-02-08T12:30Z,Sunderland,Watford,2,2,Sunderland,England,36.0,0.9,12.4,4.2
+707986,2025-02-08T12:30Z,West Bromwich Albion,Sheffield Wednesday,2,1,West Bromwich,England,165.0,0.2,11.6,3.1
+707987,2025-02-08T15:00Z,Norwich City,Derby County,1,1,Norwich,England,19.0,0,11.6,6.9
+707983,2025-02-08T15:00Z,Sheffield United,Portsmouth,2,1,Sheffield,England,75.0,0.3,8.2,4.5
+707992,2025-02-09T12:00Z,Bristol City,Swansea City,0,1,Bristol,England,21.0,0,16.4,5.7
+707999,2025-02-11T19:45Z,Coventry City,Queens Park Rangers,1,0,Coventry,England,89.0,0,10.4,3.8
+707997,2025-02-11T19:45Z,Derby County,Oxford United,0,0,Derby,England,55.0,0,10.3,3.6
+707995,2025-02-11T19:45Z,Portsmouth,Cardiff City,2,1,Portsmouth,England,6.0,0,6.5,5.0
+708002,2025-02-11T19:45Z,Watford,Leeds United,0,4,Watford,England,77.0,0,4.2,3.4
+707998,2025-02-11T20:00Z,Norwich City,Preston North End,0,1,Norwich,England,19.0,0,10.3,3.7
+708000,2025-02-12T19:45Z,Bristol City,Stoke City,2,0,Bristol,England,21.0,0,8.2,4.2
+708003,2025-02-12T19:45Z,Burnley,Hull City,2,0,Burnley,England,140.0,0,14.8,2.5
+707996,2025-02-12T19:45Z,Plymouth Argyle,Millwall,5,1,Plymouth,England,14.0,0,9.9,4.4
+708005,2025-02-12T19:45Z,Sunderland,Luton Town,2,0,Sunderland,England,36.0,0,13.8,3.8
+708001,2025-02-12T19:45Z,Swansea City,Sheffield Wednesday,0,1,Swansea,Wales,18.0,0,4.7,4.5
+708004,2025-02-12T20:00Z,Sheffield United,Middlesbrough,3,1,Sheffield,England,75.0,0,9.7,3.3
+708006,2025-02-12T20:00Z,West Bromwich Albion,Blackburn Rovers,0,2,West Bromwich,England,165.0,0,10.9,3.3
+708014,2025-02-14T20:00Z,Queens Park Rangers,Derby County,4,0,London,England,25.0,0,9.1,1.7
+708013,2025-02-15T12:30Z,Cardiff City,Bristol City,1,1,Cardiff,Wales,17.0,0.8,11.4,6.0
+708016,2025-02-15T12:30Z,Oxford United,Portsmouth,0,2,Oxford,England,72.0,1.3,12.6,4.1
+708015,2025-02-15T12:30Z,Preston North End,Burnley,0,0,Preston,England,34.0,0,12.7,5.4
+708012,2025-02-15T15:00Z,Blackburn Rovers,Plymouth Argyle,2,0,Blackburn,England,121.0,0,8.7,3.7
+708011,2025-02-15T15:00Z,Hull City,Norwich City,1,1,Hull,England,8.0,0.1,11.3,3.3
+708009,2025-02-15T15:00Z,Luton Town,Sheffield United,0,1,Luton,England,117.0,1.1,10.8,3.5
+708017,2025-02-15T15:00Z,Middlesbrough,Watford,0,1,Middlesbrough,England,15.0,0,4.1,4.0
+708018,2025-02-15T15:00Z,Millwall,West Bromwich Albion,1,1,London,England,25.0,0,8.5,5.3
+708007,2025-02-15T15:00Z,Sheffield Wednesday,Coventry City,1,2,Sheffield,England,75.0,0.6,8.7,3.1
+708008,2025-02-15T15:00Z,Stoke City,Swansea City,3,1,Stoke-on-Trent,England,114.0,0.4,12.1,3.5
+708010,2025-02-17T20:00Z,Leeds United,Sunderland,2,1,Leeds,England,50.0,0,15.5,1.0
+707993,2025-02-18T19:45Z,Preston North End,Millwall,1,1,Preston,England,34.0,0,16.1,3.4
+707984,2025-02-19T19:45Z,Luton Town,Plymouth Argyle,1,1,Luton,England,117.0,0,16.5,5.1
+708025,2025-02-21T19:45Z,Bristol City,Middlesbrough,2,1,Bristol,England,21.0,0,23.0,11.1
+708030,2025-02-21T20:00Z,Burnley,Sheffield Wednesday,4,0,Burnley,England,140.0,0,19.9,9.3
+708020,2025-02-22T12:30Z,Derby County,Millwall,0,1,Derby,England,55.0,0,18.7,11.1
+708028,2025-02-22T12:30Z,Plymouth Argyle,Cardiff City,1,1,Plymouth,England,14.0,0.1,17.4,11.8
+708019,2025-02-22T12:30Z,Sunderland,Hull City,0,1,Sunderland,England,36.0,0,20.9,10.9
+708023,2025-02-22T15:00Z,Coventry City,Preston North End,2,1,Coventry,England,89.0,0,16.6,12.0
+708029,2025-02-22T15:00Z,Norwich City,Stoke City,4,2,Norwich,England,19.0,0,13.8,12.3
+708027,2025-02-22T15:00Z,Portsmouth,Queens Park Rangers,2,1,Portsmouth,England,6.0,0,20.0,11.6
+708026,2025-02-22T15:00Z,Swansea City,Blackburn Rovers,3,0,Swansea,Wales,18.0,0.1,18.2,11.6
+708022,2025-02-22T15:00Z,West Bromwich Albion,Oxford United,2,0,West Bromwich,England,165.0,0,14.3,12.0
+708021,2025-02-23T12:00Z,Watford,Luton Town,2,0,Watford,England,77.0,0,26.1,10.0
+708024,2025-02-24T20:00Z,Sheffield United,Leeds United,1,3,Sheffield,England,75.0,0,13.0,7.2
+707989,2025-02-25T19:45Z,Cardiff City,Hull City,1,0,Cardiff,Wales,17.0,0,13.0,5.8
+707991,2025-02-25T19:45Z,Stoke City,Middlesbrough,1,3,Stoke-on-Trent,England,114.0,0,11.3,4.6
+708040,2025-02-28T20:00Z,Sheffield Wednesday,Sunderland,1,2,Sheffield,England,75.0,0,2.9,3.9
+708034,2025-03-01T12:30Z,Blackburn Rovers,Norwich City,1,1,Blackburn,England,121.0,0,8.1,6.9
+708031,2025-03-01T12:30Z,Leeds United,West Bromwich Albion,1,1,Leeds,England,50.0,0,7.6,8.1
+708041,2025-03-01T12:30Z,Oxford United,Coventry City,2,3,Oxford,England,72.0,0,5.1,8.2
+708032,2025-03-01T15:00Z,Luton Town,Portsmouth,1,0,Luton,England,117.0,0,5.7,8.2
+708036,2025-03-01T15:00Z,Middlesbrough,Derby County,1,0,Middlesbrough,England,15.0,0,12.5,9.8
+708038,2025-03-01T15:00Z,Queens Park Rangers,Sheffield United,1,2,London,England,25.0,0,5.0,8.8
+708039,2025-03-01T15:00Z,Stoke City,Watford,0,0,Stoke-on-Trent,England,114.0,0,4.6,8.5
+708033,2025-03-04T19:45Z,Cardiff City,Burnley,1,2,Cardiff,Wales,17.0,0,8.1,4.1
+708035,2025-03-04T19:45Z,Hull City,Plymouth Argyle,2,0,Hull,England,8.0,0,17.5,7.8
+708037,2025-03-04T19:45Z,Millwall,Bristol City,0,2,London,England,25.0,0,9.8,7.1
+708042,2025-03-04T19:45Z,Preston North End,Swansea City,0,0,Preston,England,34.0,0,13.1,5.9
+708047,2025-03-07T20:00Z,Norwich City,Oxford United,1,1,Norwich,England,19.0,0,13.5,9.4
+708044,2025-03-08T12:30Z,Coventry City,Stoke City,3,2,Coventry,England,89.0,0,11.7,13.2
+708052,2025-03-08T12:30Z,Watford,Millwall,1,2,Watford,England,77.0,0,11.1,13.4
+708049,2025-03-08T15:00Z,Bristol City,Hull City,1,1,Bristol,England,21.0,0,17.8,14.7
+708045,2025-03-08T15:00Z,Burnley,Luton Town,4,0,Burnley,England,140.0,0,16.8,14.5
+708043,2025-03-08T15:00Z,Derby County,Blackburn Rovers,2,1,Derby,England,55.0,0,15.4,15.9
+708054,2025-03-08T15:00Z,Plymouth Argyle,Sheffield Wednesday,0,3,Plymouth,England,14.0,0,21.0,13.1
+708050,2025-03-08T15:00Z,Sheffield United,Preston North End,1,0,Sheffield,England,75.0,0,12.1,15.9
+708048,2025-03-08T15:00Z,Sunderland,Cardiff City,2,1,Sunderland,England,36.0,0,11.7,12.3
+708053,2025-03-08T15:00Z,Swansea City,Middlesbrough,1,0,Swansea,Wales,18.0,0.5,20.0,14.6
+708051,2025-03-08T15:00Z,West Bromwich Albion,Queens Park Rangers,1,0,West Bromwich,England,165.0,0,12.5,15.3
+708046,2025-03-09T12:00Z,Portsmouth,Leeds United,1,0,Portsmouth,England,6.0,0,16.5,12.6
+708055,2025-03-11T19:45Z,Burnley,West Bromwich Albion,1,1,Burnley,England,140.0,0,9.9,3.4
+708056,2025-03-11T19:45Z,Cardiff City,Luton Town,1,2,Cardiff,Wales,17.0,0,6.9,4.9
+708057,2025-03-11T19:45Z,Derby County,Coventry City,2,0,Derby,England,55.0,0,4.1,5.6
+708058,2025-03-11T19:45Z,Middlesbrough,Queens Park Rangers,2,1,Middlesbrough,England,15.0,0.1,11.7,5.6
+708064,2025-03-11T19:45Z,Norwich City,Sheffield Wednesday,2,3,Norwich,England,19.0,0.1,14.6,4.5
+708061,2025-03-11T19:45Z,Sunderland,Preston North End,1,1,Sunderland,England,36.0,0,14.4,5.1
+708065,2025-03-11T20:00Z,Sheffield United,Bristol City,1,1,Sheffield,England,75.0,0,10.9,4.7
+708062,2025-03-12T19:45Z,Hull City,Oxford United,2,1,Hull,England,8.0,0,9.1,3.0
+708063,2025-03-12T19:45Z,Leeds United,Millwall,2,0,Leeds,England,50.0,0,12.5,3.2
+708059,2025-03-12T19:45Z,Portsmouth,Plymouth Argyle,1,2,Portsmouth,England,6.0,0,8.7,4.2
+708066,2025-03-12T19:45Z,Watford,Swansea City,1,0,Watford,England,77.0,0.1,8.6,3.1
+708060,2025-03-12T20:00Z,Stoke City,Blackburn Rovers,1,0,Stoke-on-Trent,England,114.0,0,9.4,2.3
+708069,2025-03-14T20:00Z,Bristol City,Norwich City,2,1,Bristol,England,21.0,0,10.8,4.4
+708071,2025-03-15T12:30Z,Millwall,Stoke City,1,0,London,England,25.0,0,15.7,5.9
+708072,2025-03-15T12:30Z,Queens Park Rangers,Leeds United,2,2,London,England,25.0,0,15.7,5.9
+708070,2025-03-15T15:00Z,Blackburn Rovers,Cardiff City,1,2,Blackburn,England,121.0,0,8.1,6.8
+708068,2025-03-15T15:00Z,Coventry City,Sunderland,3,0,Coventry,England,89.0,0.1,14.9,7.3
+708067,2025-03-15T15:00Z,Luton Town,Middlesbrough,0,0,Luton,England,117.0,0,19.0,6.4
+708075,2025-03-15T15:00Z,Oxford United,Watford,1,0,Oxford,England,72.0,0,18.8,7.9
+708074,2025-03-15T15:00Z,Plymouth Argyle,Derby County,2,3,Plymouth,England,14.0,0.1,16.2,8.4
+708073,2025-03-15T15:00Z,Preston North End,Portsmouth,2,1,Preston,England,34.0,0,10.7,7.2
+708077,2025-03-15T15:00Z,Swansea City,Burnley,0,2,Swansea,Wales,18.0,0,13.8,8.5
+708078,2025-03-15T15:00Z,West Bromwich Albion,Hull City,1,1,West Bromwich,England,165.0,0,14.4,6.8
+708076,2025-03-16T12:30Z,Sheffield Wednesday,Sheffield United,0,1,Sheffield,England,75.0,0,8.5,7.3

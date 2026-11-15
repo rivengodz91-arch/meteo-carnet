@@ -363,3 +363,43 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 697741,2024-12-01T20:30Z,Orense,Independiente del Valle,0,0,Machala,Ecuador,16.0,0,13.3,26.5
 723971,2024-12-07T20:30Z,Liga de Quito,Independiente del Valle,3,0,Quito,Ecuador,2854.0,5.3,1.8,13.6
 723972,2024-12-14T20:30Z,Independiente del Valle,Liga de Quito,1,0,Quito,Ecuador,2854.0,6.4,4.4,14.9
+730659,2025-02-15T00:00Z,Manta F.C.,Barcelona SC,2,3,Manta,Ecuador,3.0,0.3,7.0,25.3
+730662,2025-02-15T19:00Z,Aucas,Técnico Universitario,4,1,Quito,Ecuador,2854.0,11.6,4.7,13.8
+730665,2025-02-15T21:30Z,Libertad (Ecuador),Independiente del Valle,2,0,Loja,Ecuador,2060.0,1.0,11.4,17.0
+730658,2025-02-16T00:00Z,Macará,Orense,1,0,Ambato,Ecuador,2597.0,0.7,1.7,13.4
+730663,2025-02-16T17:45Z,Liga de Quito,Vinotinto,0,0,Quito,Ecuador,2854.0,3.4,4.5,15.3
+730661,2025-02-16T20:15Z,El Nacional,Deportivo Cuenca,0,1,Quito,Ecuador,2854.0,1.3,4.9,13.7
+730664,2025-02-16T23:00Z,Emelec,Universidad Católica (Quito),0,4,Quito,Ecuador,2854.0,5.9,3.1,11.6
+730660,2025-02-18T00:00Z,Mushuc Runa,Delfín,2,0,Riobamba,Ecuador,2777.0,0.1,4.9,12.6
+730666,2025-02-22T00:00Z,Deportivo Cuenca,Aucas,2,0,Cuenca,Ecuador,2484.0,0.9,10.3,13.2
+730673,2025-02-22T19:00Z,Vinotinto,Macará,1,2,Quito,Ecuador,2854.0,0,8.0,15.7
+730672,2025-02-22T21:30Z,Delfín,Emelec,2,0,Manta,Ecuador,3.0,2.0,12.3,26.0
+730667,2025-02-23T00:00Z,Independiente del Valle,Liga de Quito,1,1,Quito,Ecuador,2854.0,0.1,2.8,11.7
+730670,2025-02-23T17:45Z,Universidad Católica (Quito),El Nacional,1,1,Quito,Ecuador,2854.0,0.3,9.5,17.3
+730668,2025-02-23T20:15Z,Orense,Manta F.C.,2,1,Machala,Ecuador,16.0,0,6.8,26.7
+730671,2025-02-23T23:00Z,Barcelona SC,Mushuc Runa,1,0,Quito,Ecuador,2854.0,11.1,6.0,12.1
+730669,2025-02-25T00:00Z,Técnico Universitario,Libertad (Ecuador),2,2,Ambato,Ecuador,2597.0,1.1,1.9,13.8
+730677,2025-03-01T00:00Z,Emelec,Macará,0,0,Quito,Ecuador,2854.0,5.0,1.7,11.6
+730675,2025-03-01T19:00Z,Mushuc Runa,Deportivo Cuenca,3,1,Riobamba,Ecuador,2777.0,0.6,6.5,21.8
+730680,2025-03-01T21:30Z,Liga de Quito,Orense,4,0,Quito,Ecuador,2854.0,10.9,5.9,14.1
+730679,2025-03-02T00:00Z,Libertad (Ecuador),Barcelona SC,1,4,Loja,Ecuador,2060.0,1.0,1.7,14.5
+730681,2025-03-02T18:00Z,Independiente del Valle,Universidad Católica (Quito),1,1,Quito,Ecuador,2854.0,5.3,7.3,14.9
+730674,2025-03-02T20:30Z,Aucas,Vinotinto,2,2,Quito,Ecuador,2854.0,7.8,2.8,14.7
+730676,2025-03-02T23:00Z,El Nacional,Técnico Universitario,0,0,Quito,Ecuador,2854.0,1.2,2.5,12.3
+730678,2025-03-04T00:00Z,Manta F.C.,Delfín,2,2,Manta,Ecuador,3.0,0,3.2,26.1
+730684,2025-03-08T00:00Z,Deportivo Cuenca,Libertad (Ecuador),0,1,Cuenca,Ecuador,2484.0,1.5,2.6,12.9
+730685,2025-03-08T19:00Z,Liga de Quito,Delfín,3,0,Quito,Ecuador,2854.0,1.0,6.7,15.4
+730687,2025-03-08T21:30Z,Manta F.C.,El Nacional,4,3,Manta,Ecuador,3.0,0.4,13.9,27.4
+730683,2025-03-09T00:00Z,Barcelona SC,Independiente del Valle,0,4,Quito,Ecuador,2854.0,0.9,4.1,11.5
+730689,2025-03-09T18:00Z,Universidad Católica (Quito),Mushuc Runa,1,1,Quito,Ecuador,2854.0,6.3,5.4,15.0
+730686,2025-03-09T20:30Z,Macará,Aucas,1,1,Ambato,Ecuador,2597.0,0.5,2.7,13.9
+730682,2025-03-09T23:00Z,Vinotinto,Emelec,2,1,Quito,Ecuador,2854.0,5.3,3.4,12.0
+730688,2025-03-11T00:00Z,Orense,Técnico Universitario,2,1,Machala,Ecuador,16.0,5.9,7.4,24.3
+730691,2025-03-15T00:00Z,Mushuc Runa,Vinotinto,1,2,Riobamba,Ecuador,2777.0,1.3,3.6,12.6
+730693,2025-03-15T19:00Z,Libertad (Ecuador),Orense,4,1,Loja,Ecuador,2060.0,1.0,5.1,18.1
+730695,2025-03-15T21:30Z,Universidad Católica (Quito),Manta F.C.,3,0,Quito,Ecuador,2854.0,0.1,9.4,14.9
+730697,2025-03-16T00:00Z,Delfín,Deportivo Cuenca,0,0,Manta,Ecuador,3.0,0,6.5,26.3
+730690,2025-03-16T18:00Z,Independiente del Valle,Macará,1,1,Quito,Ecuador,2854.0,0.2,9.8,18.0
+730696,2025-03-16T20:30Z,El Nacional,Aucas,0,1,Quito,Ecuador,2854.0,0.1,8.5,15.8
+730692,2025-03-16T23:00Z,Emelec,Liga de Quito,1,0,Quito,Ecuador,2854.0,1.4,5.7,12.8
+730694,2025-03-18T00:00Z,Técnico Universitario,Barcelona SC,0,1,Ambato,Ecuador,2597.0,0,0.6,13.0

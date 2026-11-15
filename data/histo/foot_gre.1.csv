@@ -345,3 +345,79 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 715651,2024-12-15T17:00Z,Panetolikos,PAOK,0,1,Agrinio,Greece,66.0,0,0.4,10.6
 715655,2024-12-16T18:30Z,Athens Kallithea,Olympiacos,1,1,Athens,Greece,70.0,0,3.6,7.3
 715661,2024-12-21T17:00Z,Olympiacos,Lamia,1,0,Piraeus,Greece,29.0,0,7.8,12.4
+715662,2024-12-22T13:30Z,Panserraikos FC,Panetolikos,0,0,Panserraikos,Greece,,,,
+715663,2024-12-22T16:00Z,Panathinaikos,Athens Kallithea,1,0,Athens,Greece,70.0,0,2.2,10.9
+715660,2024-12-22T17:30Z,PAOK,Atromitos,3,0,Thessaloniki,Greece,-9999.0,0,2.2,4.8
+715657,2024-12-22T19:00Z,AEK Athens,Levadiakos,1,1,Athens,Greece,70.0,0,2.1,9.8
+715658,2024-12-23T13:00Z,Asteras Tripoli,Aris,2,1,Tripoli,Greece,660.0,2.0,21.0,8.9
+715659,2024-12-23T16:00Z,OFI Crete,Volos NFC,4,0,Iraklio,Greece,169.0,0.6,18.9,12.5
+715670,2025-01-04T15:00Z,Athens Kallithea,Lamia,2,1,Athens,Greece,70.0,0,3.6,13.5
+715667,2025-01-05T13:00Z,Levadiakos,Panserraikos FC,1,0,Levadia,Greece,,,,
+715668,2025-01-05T14:30Z,Aris,OFI Crete,0,2,Thessaloniki,Greece,-9999.0,0,0.7,10.4
+715665,2025-01-05T15:00Z,Volos NFC,AEK Athens,2,4,Volos,Greece,52.0,0,3.8,11.0
+715669,2025-01-05T17:30Z,Atromitos,Asteras Tripoli,0,1,Athens,Greece,70.0,0,2.3,11.5
+715664,2025-01-05T18:30Z,Panathinaikos,PAOK,2,1,Athens,Greece,70.0,0,2.4,10.8
+715666,2025-01-06T16:00Z,Panetolikos,Olympiacos,0,2,Agrinio,Greece,66.0,0,1.4,11.9
+715675,2025-01-11T18:30Z,Olympiacos,Aris,2,1,Piraeus,Greece,29.0,0,0.6,13.8
+715671,2025-01-12T14:30Z,Panserraikos FC,Panathinaikos,2,2,Panserraikos,Greece,,,,
+715673,2025-01-12T15:00Z,Lamia,Atromitos,0,3,Lamia,Greece,88.0,5.4,9.0,9.3
+715677,2025-01-12T17:30Z,PAOK,Volos NFC,1,2,Thessaloniki,Greece,-9999.0,1.5,17.5,1.6
+715676,2025-01-12T18:30Z,AEK Athens,Athens Kallithea,2,0,Athens,Greece,70.0,0.5,4.6,12.7
+715672,2025-01-13T16:00Z,Asteras Tripoli,Panetolikos,2,0,Tripoli,Greece,660.0,1.9,20.1,1.8
+715674,2025-01-13T16:00Z,OFI Crete,Levadiakos,0,0,Iraklio,Greece,169.0,4.2,13.7,6.1
+715684,2025-01-18T15:00Z,Athens Kallithea,Volos NFC,2,0,Athens,Greece,70.0,0,2.4,12.9
+715683,2025-01-19T13:00Z,Atromitos,Olympiacos,1,2,Athens,Greece,70.0,0,1.1,15.6
+715681,2025-01-19T14:30Z,Levadiakos,Asteras Tripoli,1,2,Levadia,Greece,,,,
+715680,2025-01-19T14:30Z,Panetolikos,OFI Crete,1,0,Agrinio,Greece,66.0,0,2.2,16.1
+715682,2025-01-19T17:00Z,Aris,PAOK,0,0,Thessaloniki,Greece,-9999.0,0,2.7,4.2
+715679,2025-01-19T18:30Z,Panathinaikos,AEK Athens,1,0,Athens,Greece,70.0,0,5.3,9.6
+715678,2025-01-20T16:00Z,Panserraikos FC,Lamia,2,0,Panserraikos,Greece,,,,
+715687,2025-01-24T18:00Z,Volos NFC,Atromitos,0,1,Volos,Greece,52.0,0,0.5,10.7
+715689,2025-01-25T15:00Z,Asteras Tripoli,Athens Kallithea,1,0,Tripoli,Greece,660.0,0,6.0,12.8
+715690,2025-01-25T15:00Z,OFI Crete,Panserraikos FC,3,2,Iraklio,Greece,169.0,0,5.3,15.2
+715688,2025-01-25T18:00Z,AEK Athens,Panetolikos,1,0,Athens,Greece,70.0,0,6.5,11.4
+715691,2025-01-26T15:00Z,Lamia,Aris,0,2,Lamia,Greece,88.0,0,3.8,12.2
+715686,2025-01-26T17:30Z,PAOK,Levadiakos,1,0,Thessaloniki,Greece,-9999.0,0,1.1,9.9
+715685,2025-01-26T18:30Z,Olympiacos,Panathinaikos,1,1,Piraeus,Greece,29.0,0,1.0,12.1
+715697,2025-02-01T16:00Z,Panathinaikos,OFI Crete,3,2,Athens,Greece,70.0,0,0.6,14.2
+715696,2025-02-01T17:30Z,Panserraikos FC,Volos NFC,1,1,Panserraikos,Greece,,,,
+715693,2025-02-02T14:30Z,Levadiakos,Olympiacos,0,1,Levadia,Greece,,,,
+715692,2025-02-02T15:00Z,Athens Kallithea,Aris,0,1,Athens,Greece,70.0,0,5.5,13.7
+715695,2025-02-02T17:30Z,PAOK,AEK Athens,1,2,Thessaloniki,Greece,-9999.0,0,2.5,9.8
+715698,2025-02-02T18:30Z,Panetolikos,Atromitos,0,1,Agrinio,Greece,66.0,0,13.0,12.0
+715694,2025-02-03T16:00Z,Asteras Tripoli,Lamia,1,0,Tripoli,Greece,660.0,1.3,4.4,9.6
+715700,2025-02-08T15:00Z,Volos NFC,Panetolikos,0,1,Volos,Greece,52.0,0,6.7,7.7
+715699,2025-02-08T18:00Z,OFI Crete,PAOK,0,5,Iraklio,Greece,169.0,0,5.4,3.8
+715704,2025-02-09T15:00Z,Olympiacos,Asteras Tripoli,1,1,Piraeus,Greece,29.0,0,13.2,7.2
+715702,2025-02-09T17:30Z,Aris,Panathinaikos,2,0,Thessaloniki,Greece,-9999.0,0,3.3,5.2
+715701,2025-02-09T18:30Z,AEK Athens,Panserraikos FC,5,0,Athens,Greece,70.0,0,3.3,4.7
+715705,2025-02-10T16:00Z,Atromitos,Athens Kallithea,1,2,Athens,Greece,70.0,0,4.6,6.7
+715703,2025-02-10T16:00Z,Lamia,Levadiakos,0,2,Lamia,Greece,88.0,0,4.9,5.5
+715706,2025-02-15T15:00Z,OFI Crete,Asteras Tripoli,2,1,Iraklio,Greece,169.0,0.1,7.6,13.5
+715708,2025-02-15T18:00Z,AEK Athens,Atromitos,2,1,Athens,Greece,70.0,0.3,8.7,12.2
+715712,2025-02-16T13:00Z,Levadiakos,Aris,4,1,Levadia,Greece,,,,
+715710,2025-02-16T15:00Z,Panathinaikos,Volos NFC,2,1,Athens,Greece,70.0,1.1,8.9,11.4
+715709,2025-02-16T15:00Z,Panserraikos FC,Olympiacos,0,4,Panserraikos,Greece,,,,
+715707,2025-02-16T18:00Z,PAOK,Lamia,7,0,Thessaloniki,Greece,-9999.0,0.9,6.4,9.9
+715711,2025-02-16T18:30Z,Panetolikos,Athens Kallithea,2,0,Agrinio,Greece,66.0,0,2.3,9.4
+715713,2025-02-22T15:00Z,Athens Kallithea,OFI Crete,1,3,Athens,Greece,70.0,0,7.6,5.3
+715718,2025-02-22T17:30Z,Atromitos,Panserraikos FC,1,0,Athens,Greece,70.0,0,6.3,4.4
+715715,2025-02-22T18:00Z,Volos NFC,Levadiakos,1,2,Volos,Greece,52.0,0,7.7,4.3
+715714,2025-02-23T14:30Z,Aris,Panetolikos,2,1,Thessaloniki,Greece,-9999.0,0,6.0,6.4
+715717,2025-02-23T15:00Z,Lamia,Panathinaikos,3,1,Lamia,Greece,88.0,0,8.1,9.8
+715719,2025-02-23T17:30Z,Asteras Tripoli,AEK Athens,0,3,Tripoli,Greece,660.0,0,3.4,1.2
+715716,2025-02-23T18:30Z,Olympiacos,PAOK,2,1,Piraeus,Greece,29.0,0,9.9,6.8
+715721,2025-03-01T15:00Z,Panserraikos FC,Athens Kallithea,2,1,Panserraikos,Greece,,,,
+715722,2025-03-01T15:00Z,Volos NFC,Aris,1,1,Volos,Greece,52.0,0,10.4,13.2
+715723,2025-03-01T18:00Z,Panathinaikos,Panetolikos,2,0,Athens,Greece,70.0,0,0.8,12.2
+715725,2025-03-02T14:30Z,Levadiakos,Atromitos,1,2,Levadia,Greece,,,,
+715724,2025-03-02T15:00Z,OFI Crete,Lamia,3,0,Iraklio,Greece,169.0,0.2,7.8,13.4
+715720,2025-03-02T17:30Z,PAOK,Asteras Tripoli,2,0,Thessaloniki,Greece,-9999.0,0,16.0,9.7
+715726,2025-03-02T18:30Z,AEK Athens,Olympiacos,0,1,Athens,Greece,70.0,0.3,0.7,12.2
+715731,2025-03-09T17:00Z,Aris,AEK Athens,0,0,Thessaloniki,Greece,-9999.0,0,3.5,12.4
+715728,2025-03-09T17:00Z,Asteras Tripoli,Panserraikos FC,1,2,Tripoli,Greece,660.0,0,1.8,10.5
+715727,2025-03-09T17:00Z,Athens Kallithea,PAOK,2,1,Athens,Greece,70.0,0,1.7,14.6
+715729,2025-03-09T17:00Z,Atromitos,Panathinaikos,1,1,Athens,Greece,70.0,0,1.7,14.6
+715730,2025-03-09T17:00Z,Lamia,Volos NFC,1,0,Lamia,Greece,88.0,0,4.0,12.9
+715733,2025-03-09T17:00Z,Olympiacos,OFI Crete,1,0,Piraeus,Greece,29.0,0,5.5,15.0
+715732,2025-03-09T17:00Z,Panetolikos,Levadiakos,0,0,Agrinio,Greece,66.0,0,0.2,13.3

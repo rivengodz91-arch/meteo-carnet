@@ -441,3 +441,101 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 706554,2024-12-15T16:00Z,Stade Rennais,Angers,2,0,Rennes,France,39.0,0,10.6,10.6
 706559,2024-12-15T19:45Z,Paris Saint-Germain,Lyon,3,1,Paris,France,42.0,0,12.9,9.0
 706563,2024-12-18T20:00Z,AS Monaco,Paris Saint-Germain,2,4,Monaco,France,-9999.0,0,5.8,9.1
+706564,2025-01-03T20:00Z,Nice,Stade Rennais,3,2,Nice,France,25.0,0,3.4,8.1
+706569,2025-01-04T16:00Z,Saint-Étienne,Stade de Reims,3,1,Saint-Etienne,France,529.0,0.3,14.6,8.4
+706565,2025-01-04T18:00Z,Lille,Nantes,1,1,Lille,France,20.0,0,13.2,1.5
+706561,2025-01-04T20:00Z,Lyon,Montpellier,1,0,Lyon,France,173.0,0.7,23.8,3.4
+706568,2025-01-05T14:00Z,Angers,Brest,2,0,Angers,France,42.0,4.2,24.0,13.5
+706567,2025-01-05T14:00Z,Lens,Toulouse,0,1,Lens,France,37.0,1.6,28.9,12.5
+706566,2025-01-05T14:00Z,Strasbourg,AJ Auxerre,3,1,Strasbourg,France,147.0,0,21.9,7.8
+706562,2025-01-05T19:45Z,Marseille,Le Havre AC,5,1,Marseille,France,28.0,0,27.6,13.1
+706578,2025-01-10T18:00Z,Nantes,AS Monaco,2,2,Nantes,France,19.0,0,4.5,6.6
+706577,2025-01-10T20:05Z,AJ Auxerre,Lille,0,0,Auxerre,France,120.0,0,7.6,0.3
+706570,2025-01-11T16:00Z,Brest,Lyon,2,1,Brest,France,49.0,0,5.7,9.0
+706575,2025-01-11T18:00Z,Stade de Reims,Nice,2,4,Reims,France,88.0,0,8.7,0.2
+706576,2025-01-11T20:05Z,Stade Rennais,Marseille,1,2,Rennes,France,39.0,0,5.6,1.7
+706571,2025-01-12T14:00Z,Le Havre AC,Lens,1,2,Le Havre,France,5.0,0,0.4,3.5
+706572,2025-01-12T16:15Z,Montpellier,Angers,1,3,Montpellier,France,55.0,0,14.7,6.2
+706573,2025-01-12T16:15Z,Toulouse,Strasbourg,1,2,Toulouse,France,150.0,0,10.4,3.0
+706574,2025-01-12T19:45Z,Paris Saint-Germain,Saint-Étienne,2,1,Paris,France,42.0,0,7.4,1.9
+706584,2025-01-17T18:00Z,Montpellier,AS Monaco,2,1,Montpellier,France,55.0,0,4.5,2.9
+706587,2025-01-17T20:05Z,Lille,Nice,2,1,Lille,France,20.0,0,5.9,0.4
+706580,2025-01-18T16:00Z,Lens,Paris Saint-Germain,1,2,Lens,France,37.0,0,8.0,0.5
+706582,2025-01-18T18:00Z,Stade Rennais,Brest,1,2,Rennes,France,39.0,0,8.4,0.4
+706586,2025-01-18T20:05Z,Lyon,Toulouse,0,0,Lyon,France,173.0,0,2.7,-2.3
+706581,2025-01-19T14:00Z,Saint-Étienne,Nantes,1,1,Saint-Etienne,France,529.0,0,6.9,9.0
+706579,2025-01-19T16:15Z,Angers,AJ Auxerre,2,0,Angers,France,42.0,0,7.9,4.2
+706583,2025-01-19T16:15Z,Stade de Reims,Le Havre AC,1,1,Reims,France,88.0,0,2.3,-0.7
+706585,2025-01-19T19:45Z,Marseille,Strasbourg,1,1,Marseille,France,28.0,0,7.3,10.6
+706588,2025-01-24T19:45Z,AJ Auxerre,Saint-Étienne,1,1,Auxerre,France,120.0,0,22.3,12.1
+706593,2025-01-25T16:00Z,AS Monaco,Stade Rennais,3,2,Monaco,France,-9999.0,1.2,5.4,12.5
+706589,2025-01-25T18:00Z,Strasbourg,Lille,2,1,Strasbourg,France,147.0,4.1,13.2,10.3
+706590,2025-01-25T20:05Z,Paris Saint-Germain,Stade de Reims,1,1,Paris,France,42.0,0.4,2.0,7.5
+706595,2025-01-26T14:00Z,Le Havre AC,Brest,0,1,Le Havre,France,5.0,2.2,40.1,7.5
+706594,2025-01-26T16:15Z,Lens,Angers,1,0,Lens,France,37.0,2.1,31.0,5.4
+706592,2025-01-26T16:15Z,Nantes,Lyon,1,1,Nantes,France,19.0,0.8,23.9,11.5
+706596,2025-01-26T16:15Z,Toulouse,Montpellier,1,2,Toulouse,France,150.0,0,17.4,11.4
+706591,2025-01-26T19:45Z,Nice,Marseille,2,0,Nice,France,25.0,0,7.6,10.6
+706604,2025-01-31T19:45Z,Montpellier,Lens,0,2,Montpellier,France,55.0,0,11.5,6.9
+706600,2025-02-01T16:00Z,Brest,Paris Saint-Germain,2,5,Brest,France,49.0,0,10.9,7.0
+706603,2025-02-01T18:00Z,AS Monaco,AJ Auxerre,4,2,Monaco,France,-9999.0,1.1,15.2,9.6
+706601,2025-02-01T20:05Z,Lille,Saint-Étienne,4,1,Lille,France,20.0,0,8.5,0.8
+706602,2025-02-02T14:00Z,Toulouse,Nice,1,1,Toulouse,France,150.0,0,5.6,10.2
+706599,2025-02-02T16:15Z,Angers,Le Havre AC,1,1,Angers,France,42.0,0,3.6,4.4
+706605,2025-02-02T16:15Z,Stade de Reims,Nantes,1,2,Reims,France,88.0,0,2.8,2.7
+706597,2025-02-02T16:15Z,Stade Rennais,Strasbourg,1,0,Rennes,France,39.0,0,8.5,5.4
+706598,2025-02-02T19:45Z,Marseille,Lyon,3,2,Marseille,France,28.0,0,8.4,8.6
+706609,2025-02-07T18:00Z,Nantes,Brest,0,2,Nantes,France,19.0,0,6.9,2.8
+706607,2025-02-07T20:05Z,Paris Saint-Germain,AS Monaco,4,1,Paris,France,42.0,0.2,13.5,5.7
+706608,2025-02-08T16:00Z,Nice,Lens,2,0,Nice,France,25.0,4.1,17.3,10.9
+706611,2025-02-08T18:00Z,Lille,Le Havre AC,1,2,Lille,France,20.0,0.2,6.4,5.0
+706606,2025-02-08T20:05Z,Saint-Étienne,Stade Rennais,0,2,Saint-Etienne,France,529.0,2.6,5.1,0.8
+706614,2025-02-09T14:00Z,Lyon,Stade de Reims,4,0,Lyon,France,173.0,0,2.7,7.5
+706612,2025-02-09T16:15Z,AJ Auxerre,Toulouse,2,2,Auxerre,France,120.0,0,5.6,8.2
+706610,2025-02-09T16:15Z,Strasbourg,Montpellier,2,0,Strasbourg,France,147.0,0,2.3,4.4
+706613,2025-02-09T19:45Z,Angers,Marseille,0,2,Angers,France,42.0,0.9,7.4,5.4
+706623,2025-02-14T19:45Z,Brest,AJ Auxerre,2,2,Brest,France,49.0,0.2,18.0,9.1
+706616,2025-02-15T16:00Z,Marseille,Saint-Étienne,5,1,Marseille,France,28.0,0,2.6,11.1
+706617,2025-02-15T18:00Z,AS Monaco,Nantes,7,1,Monaco,France,-9999.0,0,3.6,7.8
+706621,2025-02-15T20:05Z,Toulouse,Paris Saint-Germain,0,1,Toulouse,France,150.0,0,15.0,6.3
+706618,2025-02-16T14:00Z,Montpellier,Lyon,1,4,Montpellier,France,55.0,0,3.1,13.1
+706622,2025-02-16T16:15Z,Le Havre AC,Nice,1,3,Le Havre,France,5.0,0,10.4,6.8
+706615,2025-02-16T16:15Z,Lens,Strasbourg,0,2,Lens,France,37.0,0,13.9,2.3
+706619,2025-02-16T16:15Z,Stade de Reims,Angers,0,1,Reims,France,88.0,0,10.0,4.0
+706620,2025-02-16T19:45Z,Stade Rennais,Lille,0,2,Rennes,France,39.0,0,9.3,6.3
+706626,2025-02-21T19:45Z,Stade Rennais,Stade de Reims,1,0,Rennes,France,39.0,0.9,14.6,11.9
+706630,2025-02-22T16:00Z,Lille,AS Monaco,2,1,Lille,France,20.0,0.5,17.0,10.4
+706625,2025-02-22T18:00Z,Saint-Étienne,Angers,3,3,Saint-Etienne,France,529.0,2.5,8.3,8.1
+706624,2025-02-22T20:05Z,AJ Auxerre,Marseille,3,0,Auxerre,France,120.0,0,5.9,7.9
+706628,2025-02-23T14:00Z,Nantes,Lens,3,1,Nantes,France,19.0,0,23.0,13.3
+706631,2025-02-23T16:15Z,Le Havre AC,Toulouse,1,4,Le Havre,France,5.0,0,24.8,12.2
+706627,2025-02-23T16:15Z,Nice,Montpellier,2,0,Nice,France,25.0,0,5.5,13.6
+706632,2025-02-23T16:15Z,Strasbourg,Brest,0,0,Strasbourg,France,147.0,0,3.4,12.7
+706629,2025-02-23T19:45Z,Lyon,Paris Saint-Germain,2,3,Lyon,France,173.0,0,4.0,9.1
+706634,2025-02-28T19:45Z,AS Monaco,Stade de Reims,3,0,Monaco,France,-9999.0,0,5.5,9.4
+706641,2025-03-01T16:00Z,Saint-Étienne,Nice,1,3,Saint-Etienne,France,529.0,0,11.8,4.9
+706638,2025-03-01T18:00Z,Lens,Le Havre AC,3,4,Lens,France,37.0,0,7.3,4.2
+706636,2025-03-01T20:05Z,Paris Saint-Germain,Lille,4,1,Paris,France,42.0,0,13.4,3.3
+706637,2025-03-02T14:00Z,Lyon,Brest,2,1,Lyon,France,173.0,0,10.4,9.2
+706639,2025-03-02T16:15Z,AJ Auxerre,Strasbourg,0,1,Auxerre,France,120.0,0,10.9,9.7
+706640,2025-03-02T16:15Z,Angers,Toulouse,0,4,Angers,France,42.0,0,12.8,10.3
+706635,2025-03-02T16:15Z,Montpellier,Stade Rennais,0,4,Montpellier,France,55.0,0,4.5,15.3
+706633,2025-03-02T19:45Z,Marseille,Nantes,2,0,Marseille,France,28.0,0,3.9,10.2
+706647,2025-03-07T19:45Z,Toulouse,AS Monaco,1,1,Toulouse,France,150.0,0,29.8,11.6
+706645,2025-03-08T16:00Z,Stade Rennais,Paris Saint-Germain,1,4,Rennes,France,39.0,0.3,12.0,15.6
+706650,2025-03-08T18:00Z,Lille,Montpellier,1,0,Lille,France,20.0,0,10.1,13.2
+706646,2025-03-08T20:05Z,Marseille,Lens,0,1,Marseille,France,28.0,0,24.3,11.9
+706648,2025-03-09T14:00Z,Brest,Angers,2,0,Brest,France,49.0,1.3,4.3,12.1
+706649,2025-03-09T16:15Z,Le Havre AC,Saint-Étienne,1,1,Le Havre,France,5.0,0,13.0,14.5
+706642,2025-03-09T16:15Z,Nantes,Strasbourg,0,1,Nantes,France,19.0,0.7,5.4,11.6
+706644,2025-03-09T16:15Z,Stade de Reims,AJ Auxerre,0,2,Reims,France,88.0,0,7.3,16.8
+706643,2025-03-09T19:45Z,Nice,Lyon,0,2,Nice,France,25.0,6.1,21.0,12.3
+706658,2025-03-14T19:45Z,Nice,AJ Auxerre,1,1,Nice,France,25.0,1.0,5.7,11.0
+706657,2025-03-15T16:00Z,Nantes,Lille,1,0,Nantes,France,19.0,0,15.0,7.1
+706651,2025-03-15T18:00Z,Angers,AS Monaco,0,2,Angers,France,42.0,0,13.3,6.1
+706655,2025-03-15T20:05Z,Lens,Stade Rennais,1,0,Lens,France,37.0,0,13.0,4.4
+706659,2025-03-16T14:00Z,Lyon,Le Havre AC,4,2,Lyon,France,173.0,0,3.1,8.2
+706652,2025-03-16T16:15Z,Brest,Stade de Reims,0,0,Brest,France,49.0,0,21.8,7.6
+706656,2025-03-16T16:15Z,Montpellier,Saint-Étienne,0,2,Montpellier,France,55.0,0,8.4,12.4
+706653,2025-03-16T16:15Z,Strasbourg,Toulouse,2,1,Strasbourg,France,147.0,0,9.2,7.9
+706654,2025-03-16T19:45Z,Paris Saint-Germain,Marseille,3,1,Paris,France,42.0,0,15.6,8.3
