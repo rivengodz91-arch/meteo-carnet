@@ -532,3 +532,161 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 709339,2024-09-22T14:15Z,FC Cartagena,Cádiz,1,2,Cartagena,Spain,1.0,0.2,9.1,27.3
 709337,2024-09-22T16:30Z,Elche,Mirandés,1,0,Elche,Spain,96.0,0,11.3,25.9
 709334,2024-09-22T19:00Z,Almería,Eibar,2,2,Almería,Spain,21.0,0,6.0,24.2
+709341,2024-09-23T18:30Z,Huesca,Córdoba,4,1,Huesca,Spain,476.0,0,6.4,15.4
+709345,2024-09-27T18:30Z,Albacete,Deportivo,2,5,Albacete,Spain,695.0,0,12.3,18.5
+709348,2024-09-28T14:15Z,Cádiz,Eldense,1,2,La Línea de la Concepción,Spain,4.0,0,16.6,24.0
+709353,2024-09-28T14:15Z,Mirandés,Huesca,1,0,Miranda de Ebro,Spain,466.0,0,7.9,15.2
+709346,2024-09-28T16:30Z,Sporting Gijón,Real Zaragoza,1,0,Gijón,Spain,22.0,0,19.8,15.9
+709352,2024-09-28T19:00Z,Málaga,Elche,0,3,Malaga,Spain,22.0,0,11.5,20.0
+709354,2024-09-29T12:00Z,Levante,Almería,4,2,Manises,Spain,55.0,0,5.2,24.8
+709355,2024-09-29T14:15Z,Burgos,Granada,2,2,Burgos,Spain,863.0,0,18.4,21.3
+709349,2024-09-29T14:15Z,Castellón,Tenerife,2,1,Castellón,Spain,30.0,0,15.0,23.0
+709347,2024-09-29T16:30Z,Córdoba,Racing Ferrol,3,1,Córdoba,Spain,117.0,0,3.0,29.3
+709350,2024-09-29T16:30Z,Real Oviedo,Eibar,1,0,Oviedo,Spain,237.0,0,5.6,22.9
+709351,2024-09-30T18:30Z,Racing Santander,FC Cartagena,1,2,Santander,Spain,1.0,0,8.0,17.9
+709361,2024-10-04T18:30Z,Huesca,Cádiz,3,1,Huesca,Spain,476.0,0,11.2,14.6
+709356,2024-10-05T12:00Z,Racing Ferrol,Elche,1,0,Ferrol,Spain,24.0,3.8,29.4,20.6
+709365,2024-10-05T14:15Z,Eibar,Sporting Gijón,1,3,Eibar,Spain,133.0,0,10.7,25.9
+709363,2024-10-05T14:15Z,Mirandés,Granada,0,1,Miranda de Ebro,Spain,466.0,0.1,22.9,23.3
+709359,2024-10-05T16:30Z,Almería,Burgos,2,0,Almería,Spain,21.0,0,12.3,25.3
+709357,2024-10-05T16:30Z,Real Zaragoza,Racing Santander,2,3,Zaragoza,Spain,214.0,0,12.1,21.8
+709366,2024-10-05T19:00Z,Tenerife,FC Cartagena,2,0,Santa Cruz de Tenerife,Spain,10.0,0,8.9,22.3
+709358,2024-10-06T12:00Z,Deportivo,Málaga,0,0,La Coruña,Spain,1102.0,0,5.0,19.3
+709364,2024-10-06T14:15Z,Eldense,Castellón,2,3,Elda,Spain,412.0,0,12.7,31.4
+709362,2024-10-06T16:30Z,Levante,Real Oviedo,0,0,Manises,Spain,55.0,0,17.5,32.4
+709360,2024-10-06T19:00Z,Albacete,Córdoba,1,1,Albacete,Spain,695.0,0,12.2,23.7
+709377,2024-10-11T18:30Z,Tenerife,Real Zaragoza,2,3,Santa Cruz de Tenerife,Spain,10.0,0,3.1,24.5
+709371,2024-10-12T14:15Z,FC Cartagena,Racing Ferrol,0,1,Cartagena,Spain,1.0,0,6.9,26.7
+709368,2024-10-12T16:30Z,Cádiz,Málaga,2,2,La Línea de la Concepción,Spain,4.0,4.7,7.1,19.9
+709369,2024-10-12T16:30Z,Eibar,Eldense,1,0,Eibar,Spain,133.0,0,11.0,20.5
+709373,2024-10-13T12:00Z,Huesca,Albacete,2,2,Huesca,Spain,476.0,0,5.6,21.4
+709374,2024-10-13T14:15Z,Racing Santander,Levante,1,0,Santander,Spain,1.0,0,15.5,23.5
+709375,2024-10-13T14:15Z,Real Oviedo,Almería,3,2,Oviedo,Spain,237.0,0,5.6,23.8
+709367,2024-10-13T16:30Z,Burgos,Mirandés,0,1,Burgos,Spain,863.0,0,12.5,20.5
+709372,2024-10-13T16:30Z,Granada,Córdoba,1,0,Granada,Spain,689.0,0,3.0,21.3
+709370,2024-10-13T19:00Z,Elche,Deportivo,0,0,Elche,Spain,96.0,0,5.7,21.7
+709376,2024-10-14T18:30Z,Sporting Gijón,Castellón,2,1,Gijón,Spain,22.0,0,10.5,17.2
+709381,2024-10-18T18:30Z,Córdoba,FC Cartagena,2,1,Córdoba,Spain,117.0,0,8.1,16.4
+709382,2024-10-19T14:15Z,Deportivo,Eldense,1,1,La Coruña,Spain,1102.0,0,20.3,18.7
+709386,2024-10-19T14:15Z,Málaga,Real Oviedo,0,0,Malaga,Spain,22.0,0,7.8,24.2
+709379,2024-10-19T16:30Z,Castellón,Levante,2,0,Castellón,Spain,30.0,0,5.5,22.8
+709384,2024-10-19T16:30Z,Granada,Tenerife,4,0,Granada,Spain,689.0,0,7.7,21.6
+709385,2024-10-19T19:00Z,Mirandés,Eibar,1,0,Miranda de Ebro,Spain,466.0,0,11.4,15.8
+709380,2024-10-20T12:00Z,Cádiz,Racing Santander,0,1,La Línea de la Concepción,Spain,4.0,0,8.6,22.0
+709387,2024-10-20T14:15Z,Racing Ferrol,Huesca,0,0,Ferrol,Spain,24.0,0,31.2,21.7
+709383,2024-10-20T16:30Z,Elche,Sporting Gijón,2,1,Elche,Spain,96.0,0,8.8,24.0
+709388,2024-10-20T16:30Z,Real Zaragoza,Almería,1,2,Zaragoza,Spain,214.0,0,3.4,22.3
+709378,2024-10-21T18:30Z,Albacete,Burgos,2,0,Albacete,Spain,695.0,0,6.6,17.4
+709397,2024-10-22T17:00Z,Real Oviedo,Mirandés,4,1,Oviedo,Spain,237.0,0,9.1,14.5
+709391,2024-10-22T19:00Z,Castellón,Granada,2,3,Castellón,Spain,30.0,0.4,20.2,19.0
+709392,2024-10-23T17:00Z,Eibar,Cádiz,1,0,Eibar,Spain,133.0,0,8.6,18.7
+709393,2024-10-23T17:00Z,Eldense,Real Zaragoza,2,3,Elda,Spain,412.0,0.7,11.1,18.1
+709394,2024-10-23T19:00Z,FC Cartagena,Elche,0,0,Cartagena,Spain,1.0,0.2,13.2,19.6
+709396,2024-10-23T19:00Z,Racing Santander,Córdoba,2,0,Santander,Spain,1.0,0,4.5,15.5
+709389,2024-10-24T17:00Z,Almería,Albacete,3,1,Almería,Spain,21.0,0,8.3,21.2
+709395,2024-10-24T17:00Z,Levante,Deportivo,2,1,Manises,Spain,55.0,0,6.6,18.8
+709390,2024-10-24T19:00Z,Burgos,Racing Ferrol,1,1,Burgos,Spain,863.0,0,14.8,14.3
+709398,2024-10-24T19:00Z,Sporting Gijón,Huesca,2,1,Gijón,Spain,22.0,2.9,3.1,15.8
+709399,2024-10-24T19:00Z,Tenerife,Málaga,0,0,Santa Cruz de Tenerife,Spain,10.0,0,10.7,20.9
+709410,2024-10-26T14:15Z,Cádiz,Real Oviedo,2,0,La Línea de la Concepción,Spain,4.0,0,27.9,19.7
+709407,2024-10-26T14:15Z,Mirandés,FC Cartagena,3,1,Miranda de Ebro,Spain,466.0,0.6,8.6,9.1
+709404,2024-10-26T16:30Z,Córdoba,Eldense,2,0,Córdoba,Spain,117.0,2.2,14.1,13.6
+709401,2024-10-26T16:30Z,Real Zaragoza,Castellón,1,2,Zaragoza,Spain,214.0,0,19.1,13.5
+709406,2024-10-27T13:00Z,Málaga,Eibar,1,0,Malaga,Spain,22.0,4.5,9.4,17.5
+709403,2024-10-27T15:15Z,Deportivo,Racing Santander,1,2,La Coruña,Spain,1102.0,0,12.0,20.1
+709402,2024-10-27T15:15Z,Elche,Burgos,1,0,Elche,Spain,96.0,4.1,3.9,13.6
+709400,2024-10-27T17:30Z,Albacete,Sporting Gijón,3,3,Albacete,Spain,695.0,3.2,4.0,9.5
+709408,2024-10-27T17:30Z,Huesca,Almería,2,2,Huesca,Spain,476.0,0.9,5.7,11.7
+709409,2024-10-27T20:00Z,Granada,Levante,1,2,Granada,Spain,689.0,0,5.9,5.9
+709405,2024-10-28T19:30Z,Racing Ferrol,Tenerife,1,1,Ferrol,Spain,24.0,0,16.9,14.6
+709413,2024-11-02T13:00Z,Eibar,Elche,0,2,Eibar,Spain,133.0,0,4.8,21.5
+709416,2024-11-02T15:15Z,FC Cartagena,Deportivo,1,5,Cartagena,Spain,1.0,0,12.0,21.0
+709420,2024-11-02T15:15Z,Sporting Gijón,Cádiz,2,0,Gijón,Spain,22.0,0,10.9,17.2
+709417,2024-11-02T17:30Z,Racing Santander,Albacete,1,1,Santander,Spain,1.0,0,7.4,16.2
+709419,2024-11-02T17:30Z,Real Zaragoza,Granada,2,1,Zaragoza,Spain,214.0,2.8,2.4,16.0
+709418,2024-11-03T13:00Z,Real Oviedo,Burgos,3,1,Oviedo,Spain,237.0,0,6.8,21.3
+709415,2024-11-03T17:30Z,Tenerife,Mirandés,1,0,Santa Cruz de Tenerife,Spain,10.0,0,9.4,22.9
+709426,2024-11-08T19:30Z,Elche,Almería,1,2,Elche,Spain,96.0,0,3.8,17.2
+709429,2024-11-09T15:15Z,Mirandés,Cádiz,2,2,Miranda de Ebro,Spain,466.0,0,9.7,15.9
+709427,2024-11-09T17:30Z,Granada,Eldense,3,2,Granada,Spain,689.0,0,6.2,17.5
+709428,2024-11-09T17:30Z,Huesca,Real Zaragoza,1,1,Huesca,Spain,476.0,0,15.3,13.6
+709430,2024-11-09T20:00Z,Málaga,FC Cartagena,1,0,Malaga,Spain,22.0,0,14.8,18.5
+709424,2024-11-10T13:00Z,Córdoba,Castellón,2,2,Córdoba,Spain,117.0,0,8.6,21.1
+709423,2024-11-10T15:15Z,Burgos,Sporting Gijón,0,2,Burgos,Spain,863.0,0.3,16.9,13.0
+709431,2024-11-10T15:15Z,Racing Ferrol,Racing Santander,1,2,Ferrol,Spain,24.0,0.1,11.3,17.7
+709422,2024-11-10T17:30Z,Albacete,Real Oviedo,2,2,Albacete,Spain,695.0,0,6.8,14.3
+709425,2024-11-11T19:30Z,Deportivo,Eibar,1,0,La Coruña,Spain,1102.0,0,10.8,27.5
+709436,2024-11-16T13:00Z,Eibar,Racing Ferrol,2,0,Eibar,Spain,133.0,0,16.7,18.4
+709434,2024-11-16T15:15Z,Castellón,Mirandés,1,3,Castellón,Spain,30.0,0,4.7,17.8
+709437,2024-11-16T15:15Z,Eldense,Albacete,2,0,Elda,Spain,412.0,0,5.3,17.2
+709439,2024-11-16T17:30Z,Levante,Elche,1,1,Manises,Spain,55.0,0,3.4,15.4
+709440,2024-11-16T17:30Z,Racing Santander,Burgos,2,0,Santander,Spain,1.0,0,4.6,13.3
+709443,2024-11-16T20:00Z,Sporting Gijón,Granada,1,2,Gijón,Spain,22.0,0,0.6,12.1
+709435,2024-11-17T15:15Z,Cádiz,Córdoba,2,0,La Línea de la Concepción,Spain,4.0,0,11.5,19.7
+709441,2024-11-17T15:15Z,Real Oviedo,Tenerife,3,1,Oviedo,Spain,237.0,0.1,7.1,13.7
+709433,2024-11-17T17:30Z,Almería,Deportivo,2,1,Almería,Spain,21.0,0,2.8,19.8
+709438,2024-11-17T17:30Z,FC Cartagena,Huesca,1,0,Cartagena,Spain,1.0,0,6.2,16.9
+709442,2024-11-17T20:00Z,Real Zaragoza,Málaga,0,0,Zaragoza,Spain,214.0,0,13.1,12.5
+709414,2024-11-20T19:00Z,Eldense,Huesca,2,1,Elda,Spain,412.0,0,26.2,15.8
+709454,2024-11-22T19:30Z,Racing Ferrol,Levante,0,0,Ferrol,Spain,24.0,0,11.6,10.4
+709449,2024-11-23T13:00Z,FC Cartagena,Almería,1,2,Cartagena,Spain,1.0,0,9.5,21.5
+709450,2024-11-23T15:15Z,Granada,Cádiz,0,0,Granada,Spain,689.0,0,5.6,17.7
+709445,2024-11-23T17:30Z,Burgos,Eibar,1,0,Burgos,Spain,863.0,0,18.7,12.3
+709446,2024-11-23T17:30Z,Córdoba,Real Zaragoza,2,2,Córdoba,Spain,117.0,0,3.9,16.1
+709453,2024-11-23T20:00Z,Málaga,Racing Santander,0,0,Malaga,Spain,22.0,0,13.4,16.8
+709444,2024-11-24T13:00Z,Albacete,Tenerife,2,1,Albacete,Spain,695.0,0,18.1,17.3
+709447,2024-11-24T15:15Z,Deportivo,Sporting Gijón,1,1,La Coruña,Spain,1102.0,0,3.1,15.3
+709452,2024-11-24T15:15Z,Mirandés,Eldense,1,0,Miranda de Ebro,Spain,466.0,0,25.2,14.4
+709451,2024-11-24T17:30Z,Huesca,Castellón,1,1,Huesca,Spain,476.0,0,24.9,13.9
+709448,2024-11-24T20:00Z,Elche,Real Oviedo,4,0,Elche,Spain,96.0,0,5.0,14.7
+709411,2024-11-26T19:30Z,Almería,Córdoba,4,0,Almería,Spain,21.0,0,0.9,17.6
+709412,2024-11-27T18:00Z,Castellón,Racing Ferrol,0,0,Castellón,Spain,30.0,0,1.3,13.7
+709421,2024-11-27T18:00Z,Levante,Málaga,4,2,Manises,Spain,55.0,0,2.9,13.2
+709462,2024-11-29T19:30Z,Real Oviedo,Huesca,0,3,Oviedo,Spain,237.0,0,5.9,12.6
+709455,2024-11-30T15:15Z,Almería,Granada,2,1,Almería,Spain,21.0,0,4.0,22.3
+709463,2024-11-30T15:15Z,Real Zaragoza,Albacete,0,1,Zaragoza,Spain,214.0,0,1.7,16.1
+709457,2024-11-30T17:30Z,Cádiz,Deportivo,2,4,La Línea de la Concepción,Spain,4.0,0,1.5,16.7
+709461,2024-11-30T17:30Z,Racing Santander,Mirandés,0,1,Santander,Spain,1.0,0,13.6,18.5
+709459,2024-11-30T20:00Z,Tenerife,Elche,1,1,Santa Cruz de Tenerife,Spain,10.0,0,4.1,20.7
+709456,2024-12-01T13:00Z,Castellón,Málaga,2,0,Castellón,Spain,30.0,0,6.6,17.1
+709460,2024-12-01T17:30Z,Eldense,Racing Ferrol,0,0,Elda,Spain,412.0,0,3.9,13.7
+709465,2024-12-01T17:30Z,Levante,Burgos,3,1,Manises,Spain,55.0,0,3.6,14.5
+709464,2024-12-01T20:00Z,Sporting Gijón,Córdoba,2,0,Gijón,Spain,22.0,0.1,2.6,13.0
+709458,2024-12-02T19:30Z,Eibar,FC Cartagena,1,0,Eibar,Spain,133.0,0.4,6.6,11.7
+709474,2024-12-06T19:30Z,Mirandés,Levante,2,1,Miranda de Ebro,Spain,466.0,0,1.5,11.1
+709470,2024-12-07T13:00Z,Elche,Cádiz,2,1,Elche,Spain,96.0,0,21.0,24.2
+709472,2024-12-07T15:15Z,Granada,Racing Santander,3,0,Granada,Spain,689.0,0,5.3,18.5
+709469,2024-12-07T17:30Z,Deportivo,Real Zaragoza,1,1,La Coruña,Spain,1102.0,0,8.5,17.0
+709473,2024-12-07T20:00Z,Huesca,Eibar,2,1,Huesca,Spain,476.0,0.4,35.7,5.7
+709476,2024-12-08T13:00Z,Racing Ferrol,Real Oviedo,1,5,Ferrol,Spain,24.0,0,26.8,12.1
+709475,2024-12-08T15:15Z,Málaga,Almería,1,1,Malaga,Spain,22.0,0,11.3,18.8
+709466,2024-12-08T17:30Z,Albacete,Castellón,0,0,Albacete,Spain,695.0,0,24.0,8.4
+709467,2024-12-08T17:30Z,Burgos,Eldense,1,0,Burgos,Spain,863.0,0.2,17.7,2.8
+709468,2024-12-08T20:00Z,Córdoba,Tenerife,3,0,Córdoba,Spain,117.0,0,10.2,8.9
+709471,2024-12-09T19:30Z,FC Cartagena,Sporting Gijón,1,0,Cartagena,Spain,1.0,0,7.0,10.7
+709477,2024-12-13T19:30Z,Almería,Mirandés,1,0,Almería,Spain,21.0,0,2.0,11.8
+709483,2024-12-14T13:00Z,Levante,Córdoba,2,2,Manises,Spain,55.0,0,5.2,15.0
+709480,2024-12-14T15:15Z,Cádiz,Albacete,1,0,La Línea de la Concepción,Spain,4.0,0,12.1,16.2
+709479,2024-12-14T15:15Z,Castellón,FC Cartagena,4,1,Castellón,Spain,30.0,0,6.0,14.1
+709481,2024-12-14T17:30Z,Eibar,Real Zaragoza,2,1,Eibar,Spain,133.0,0.3,13.5,8.0
+709482,2024-12-14T17:30Z,Eldense,Elche,0,0,Elda,Spain,412.0,0,4.1,10.5
+709485,2024-12-14T20:00Z,Real Oviedo,Granada,2,0,Oviedo,Spain,237.0,0,2.4,4.1
+709486,2024-12-15T13:00Z,Sporting Gijón,Racing Ferrol,1,3,Gijón,Spain,22.0,0,1.4,12.9
+709478,2024-12-15T15:15Z,Burgos,Málaga,0,0,Burgos,Spain,863.0,0,11.5,6.6
+709484,2024-12-15T17:30Z,Racing Santander,Huesca,0,1,Santander,Spain,1.0,0.1,3.1,10.1
+709488,2024-12-17T18:00Z,Albacete,Levante,0,0,Albacete,Spain,695.0,0,5.4,5.0
+709493,2024-12-17T18:00Z,Granada,FC Cartagena,4,1,Granada,Spain,689.0,0,3.6,10.8
+709490,2024-12-17T20:15Z,Córdoba,Eibar,2,1,Córdoba,Spain,117.0,0,4.7,8.0
+709498,2024-12-17T20:15Z,Real Zaragoza,Real Oviedo,2,3,Zaragoza,Spain,214.0,0,0.4,3.7
+709497,2024-12-18T18:00Z,Racing Ferrol,Almería,1,4,Ferrol,Spain,24.0,4.1,24.5,15.4
+709496,2024-12-18T20:15Z,Málaga,Eldense,3,0,Malaga,Spain,22.0,0,2.9,13.7
+709495,2024-12-18T20:15Z,Mirandés,Sporting Gijón,1,1,Miranda de Ebro,Spain,466.0,0,13.7,8.5
+709489,2024-12-19T18:00Z,Cádiz,Burgos,1,1,La Línea de la Concepción,Spain,4.0,0,11.1,16.3
+709492,2024-12-19T18:00Z,Elche,Racing Santander,3,0,Elche,Spain,96.0,0,14.5,17.7
+709491,2024-12-19T20:15Z,Deportivo,Castellón,5,1,La Coruña,Spain,1102.0,0,3.6,22.6
+709494,2024-12-19T20:15Z,Huesca,Tenerife,1,0,Huesca,Spain,476.0,0,25.0,7.1
+709504,2024-12-20T19:30Z,FC Cartagena,Albacete,0,0,Cartagena,Spain,1.0,0,2.2,10.7
+709503,2024-12-21T13:00Z,Eibar,Granada,1,1,Eibar,Spain,133.0,0,14.9,13.7
+709507,2024-12-21T15:15Z,Real Oviedo,Córdoba,2,3,Oviedo,Spain,237.0,0,11.9,13.3
+709508,2024-12-21T17:30Z,Real Zaragoza,Racing Ferrol,1,0,Zaragoza,Spain,214.0,0,15.3,10.8
+709509,2024-12-21T17:30Z,Sporting Gijón,Málaga,1,3,Gijón,Spain,22.0,0,11.2,13.4

@@ -216,3 +216,32 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 691482,2024-09-20T18:45Z,Galway United FC,Shelbourne,1,0,Galway,Republic of Ireland,10.0,0,9.7,17.8
 691483,2024-09-20T18:45Z,St Patrick's Athletic,Waterford,3,0,Dublin,Republic of Ireland,17.0,0,15.3,14.9
 691484,2024-09-21T18:45Z,Sligo Rovers,Dundalk,2,1,Sligo,Republic of Ireland,13.0,0,8.7,15.3
+691476,2024-09-23T18:45Z,Drogheda United,Galway United FC,0,0,Drogheda,Republic of Ireland,28.0,0.1,10.2,13.9
+691433,2024-09-23T18:45Z,Shamrock Rovers,Bohemians,1,0,Dublin,,17.0,0,10.8,14.3
+691485,2024-09-27T18:45Z,Drogheda United,Derry City,2,1,Drogheda,Republic of Ireland,28.0,0,17.6,9.1
+691486,2024-09-27T18:45Z,Dundalk,Bohemians,0,2,Dundalk,Republic of Ireland,5.0,0.3,26.7,24.1
+691487,2024-09-27T18:45Z,Shelbourne,Sligo Rovers,0,0,Dublin,Republic of Ireland,17.0,0,20.0,10.2
+691488,2024-09-27T18:45Z,Waterford,Galway United FC,1,2,Waterford,Republic of Ireland,294.0,0,22.0,22.4
+691489,2024-09-27T19:00Z,Shamrock Rovers,St Patrick's Athletic,0,3,Dublin,,17.0,0,19.1,9.4
+691477,2024-09-30T18:15Z,Shelbourne,St Patrick's Athletic,2,3,Dublin,Republic of Ireland,17.0,0,15.0,11.6
+691492,2024-10-04T18:45Z,Galway United FC,Dundalk,1,1,Galway,Republic of Ireland,10.0,0.1,12.0,15.2
+691494,2024-10-06T16:45Z,Shamrock Rovers,Shelbourne,2,0,Dublin,,17.0,0,9.4,15.7
+691475,2024-10-11T18:45Z,Derry City,Bohemians,1,1,Derry,Republic of Ireland,24.0,0,15.5,9.0
+691493,2024-10-11T18:45Z,Waterford,Drogheda United,0,0,Waterford,Republic of Ireland,294.0,0,17.5,22.2
+691491,2024-10-14T18:15Z,Derry City,Sligo Rovers,1,1,Derry,Republic of Ireland,24.0,0,8.6,9.5
+691490,2024-10-14T18:45Z,Bohemians,St Patrick's Athletic,1,3,Dublin,,17.0,0,6.9,10.0
+691495,2024-10-18T18:45Z,Drogheda United,Shamrock Rovers,0,1,Drogheda,Republic of Ireland,28.0,0.5,15.9,13.7
+691496,2024-10-18T18:45Z,Dundalk,Derry City,0,2,Dundalk,Republic of Ireland,5.0,0,3.0,18.1
+691497,2024-10-18T18:45Z,Shelbourne,Waterford,3,1,Dublin,Republic of Ireland,17.0,0.9,14.7,14.6
+691498,2024-10-18T18:45Z,St Patrick's Athletic,Galway United FC,2,1,Dublin,Republic of Ireland,17.0,0.9,14.7,14.6
+691499,2024-10-19T18:45Z,Sligo Rovers,Bohemians,0,2,Sligo,Republic of Ireland,13.0,0,14.4,10.3
+691501,2024-10-25T18:45Z,Galway United FC,Sligo Rovers,2,2,Galway,Republic of Ireland,10.0,0,10.6,12.1
+691502,2024-10-25T18:45Z,Shelbourne,Drogheda United,2,1,Dublin,Republic of Ireland,17.0,0,11.6,12.9
+691503,2024-10-25T18:45Z,St Patrick's Athletic,Derry City,1,0,Dublin,Republic of Ireland,17.0,0,11.6,12.9
+691504,2024-10-25T18:45Z,Waterford,Bohemians,1,1,Waterford,Republic of Ireland,294.0,0,17.7,15.8
+691500,2024-10-27T17:45Z,Dundalk,Shamrock Rovers,0,1,Dundalk,Republic of Ireland,5.0,0,2.1,12.3
+691505,2024-11-01T19:45Z,Bohemians,Galway United FC,1,1,Dublin,,17.0,0,7.0,11.1
+691506,2024-11-01T19:45Z,Derry City,Shelbourne,0,1,Derry,Republic of Ireland,24.0,0,5.2,12.0
+691507,2024-11-01T19:45Z,Drogheda United,Dundalk,0,0,Drogheda,Republic of Ireland,28.0,0,6.1,11.6
+691508,2024-11-01T19:45Z,Shamrock Rovers,Waterford,2,1,Dublin,,17.0,0,7.0,11.1
+691509,2024-11-01T19:45Z,Sligo Rovers,St Patrick's Athletic,0,2,Sligo,Republic of Ireland,13.0,0,2.3,11.4

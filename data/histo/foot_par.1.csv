@@ -333,3 +333,65 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 711352,2024-09-22T00:00Z,Sportivo Ameliano,Cerro Porteño,0,1,Itagua,Paraguay,31.0,0.1,0.7,23.0
 711351,2024-09-22T21:00Z,Libertad,Tacuary,1,0,Villa Hayes,Paraguay,58.0,0,16.3,31.8
 711350,2024-09-22T23:30Z,Guaraní,Club Olimpia,0,0,Asunción,Paraguay,113.0,0,16.4,29.5
+711349,2024-09-23T21:30Z,2 de Mayo,Sol de América,1,2,Pedro Juan Caballero,Paraguay,649.0,0,9.4,31.1
+711353,2024-09-24T00:00Z,Sportivo Luqueño,General Caballero JLM,1,1,Luque,Paraguay,129.0,0,13.6,29.9
+711360,2024-09-27T21:30Z,Tacuary,Sportivo Ameliano,0,2,Villa Hayes,Paraguay,58.0,0,5.9,21.9
+711356,2024-09-28T00:00Z,Guaraní,Sportivo Trinidense,0,0,Asunción,Paraguay,113.0,0,8.8,18.1
+711358,2024-09-28T21:00Z,Club Olimpia,General Caballero JLM,0,0,Itagua,Paraguay,31.0,0,12.1,21.9
+711359,2024-09-28T23:30Z,Sol de América,Sportivo Luqueño,1,1,Asunción,Paraguay,113.0,0,8.7,21.0
+711357,2024-09-29T21:00Z,Nacional Asunción,Libertad,2,1,Asunción,Paraguay,113.0,0,10.2,28.9
+711355,2024-09-29T23:30Z,Cerro Porteño,2 de Mayo,0,3,Asunción,Paraguay,113.0,0,16.4,26.7
+711364,2024-10-04T21:30Z,General Caballero JLM,Sol de América,1,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,8.0,27.5
+711366,2024-10-05T00:00Z,Sportivo Trinidense,Club Olimpia,1,2,Asunción,Paraguay,113.0,0,10.8,22.0
+711361,2024-10-05T21:30Z,Sportivo Luqueño,Cerro Porteño,1,0,Asunción,Paraguay,113.0,0,9.6,30.4
+711363,2024-10-06T00:00Z,Libertad,Guaraní,0,2,Villa Hayes,Paraguay,58.0,0,15.1,27.8
+711365,2024-10-06T20:00Z,2 de Mayo,Tacuary,2,1,Pedro Juan Caballero,Paraguay,649.0,0,19.8,31.6
+711362,2024-10-06T23:00Z,Sportivo Ameliano,Nacional Asunción,1,0,Asunción,Paraguay,113.0,0,15.9,24.0
+711372,2024-10-11T23:00Z,Tacuary,Sportivo Luqueño,0,3,Asunción,Paraguay,113.0,0,8.1,19.0
+711368,2024-10-12T20:30Z,Guaraní,Sportivo Ameliano,1,1,Asunción,Paraguay,113.0,0,12.1,27.0
+711370,2024-10-12T23:00Z,Club Olimpia,Sol de América,1,1,Encarnación,Paraguay,99.0,0,11.4,22.3
+711371,2024-10-13T20:00Z,Sportivo Trinidense,Libertad,2,1,Asunción,Paraguay,113.0,0,9.6,29.8
+711367,2024-10-13T22:30Z,Cerro Porteño,General Caballero JLM,2,1,Asunción,Paraguay,113.0,0,7.0,26.5
+711369,2024-10-16T22:00Z,Nacional Asunción,2 de Mayo,0,0,Asunción,Paraguay,113.0,0,7.4,25.8
+711377,2024-10-18T22:30Z,Sportivo Ameliano,Sportivo Trinidense,1,0,Asunción,Paraguay,113.0,0,15.6,22.2
+711374,2024-10-19T22:30Z,General Caballero JLM,Tacuary,0,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,9.2,23.2
+711376,2024-10-20T20:30Z,Sol de América,Cerro Porteño,0,1,Asunción,Paraguay,113.0,0,12.9,28.4
+711375,2024-10-20T23:00Z,Libertad,Club Olimpia,0,1,Asunción,Paraguay,113.0,0,13.6,25.8
+711373,2024-10-21T20:30Z,2 de Mayo,Guaraní,1,2,Pedro Juan Caballero,Paraguay,649.0,0,10.7,28.2
+711378,2024-10-21T23:00Z,Sportivo Luqueño,Nacional Asunción,2,2,Luque,Paraguay,129.0,0,11.2,26.9
+711381,2024-10-25T20:30Z,Nacional Asunción,General Caballero JLM,1,0,Asunción,Paraguay,113.0,0,6.7,28.4
+711382,2024-10-25T23:00Z,Libertad,Sportivo Ameliano,1,2,Villa Hayes,Paraguay,58.0,0,11.7,26.0
+711384,2024-10-26T20:30Z,Tacuary,Sol de América,0,4,Villa Hayes,Paraguay,58.0,0,15.7,25.0
+711379,2024-10-26T23:00Z,Sportivo Trinidense,2 de Mayo,0,0,Asunción,Paraguay,113.0,0,13.8,20.2
+711380,2024-10-27T20:30Z,Club Olimpia,Cerro Porteño,3,0,Asunción,Paraguay,113.0,0,12.7,27.5
+711383,2024-10-28T22:30Z,Guaraní,Sportivo Luqueño,2,2,Asunción,Paraguay,113.0,0,9.7,27.6
+711387,2024-11-02T20:30Z,General Caballero JLM,Guaraní,0,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,13.8,25.6
+711390,2024-11-02T23:00Z,Sportivo Luqueño,Sportivo Trinidense,1,0,Luque,Paraguay,129.0,0,9.3,23.3
+711386,2024-11-03T21:00Z,2 de Mayo,Libertad,2,0,Pedro Juan Caballero,Paraguay,649.0,0.1,6.9,24.5
+711389,2024-11-03T23:30Z,Sportivo Ameliano,Club Olimpia,1,0,Asunción,Paraguay,113.0,0.1,11.7,25.9
+711388,2024-11-04T21:00Z,Sol de América,Nacional Asunción,3,2,Asunción,Paraguay,113.0,0,4.1,31.0
+711385,2024-11-04T23:30Z,Cerro Porteño,Tacuary,1,1,Asunción,Paraguay,113.0,0,9.2,28.3
+711392,2024-11-09T21:00Z,Libertad,Sportivo Luqueño,0,0,Carapeguá,,116.0,0,11.6,27.8
+711394,2024-11-09T23:30Z,Club Olimpia,Tacuary,3,1,Ciudad del Este,Paraguay,197.0,0,10.8,22.1
+711396,2024-11-09T23:30Z,Sportivo Trinidense,General Caballero JLM,2,1,Asunción,Paraguay,113.0,0,10.1,25.4
+711393,2024-11-10T21:00Z,Nacional Asunción,Cerro Porteño,2,2,Asunción,Paraguay,113.0,0,8.1,31.9
+711391,2024-11-10T23:30Z,Guaraní,Sol de América,1,1,Asunción,Paraguay,113.0,0,9.3,27.9
+711395,2024-11-11T23:00Z,Sportivo Ameliano,2 de Mayo,0,2,Asunción,Paraguay,113.0,0,40.2,26.8
+711402,2024-11-15T22:30Z,Sol de América,Sportivo Trinidense,2,2,Asunción,Paraguay,113.0,0,2.8,31.9
+711401,2024-11-16T21:00Z,Sportivo Luqueño,Sportivo Ameliano,0,2,Luque,Paraguay,129.0,0,11.8,36.5
+711397,2024-11-16T23:30Z,Cerro Porteño,Guaraní,1,2,Asunción,Paraguay,113.0,0,13.3,33.6
+711398,2024-11-17T20:00Z,2 de Mayo,Club Olimpia,0,0,Pedro Juan Caballero,Paraguay,649.0,1.5,8.6,30.4
+711399,2024-11-17T20:00Z,General Caballero JLM,Libertad,3,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,6.8,32.6
+711400,2024-11-17T20:00Z,Tacuary,Nacional Asunción,1,0,Asunción,Paraguay,113.0,0,3.2,34.1
+711408,2024-11-21T22:00Z,Sportivo Trinidense,Cerro Porteño,3,2,Asunción,Paraguay,113.0,0,10.8,27.3
+711406,2024-11-24T21:00Z,Club Olimpia,Nacional Asunción,1,1,Asunción,Paraguay,113.0,0,15.2,35.8
+711404,2024-11-24T23:30Z,Guaraní,Tacuary,2,1,Asunción,Paraguay,113.0,0,11.1,33.7
+711403,2024-11-25T22:00Z,2 de Mayo,Sportivo Luqueño,1,2,Pedro Juan Caballero,Paraguay,649.0,0,7.8,27.2
+711405,2024-11-25T22:00Z,Libertad,Sol de América,2,0,Carapeguá,,116.0,0,11.8,31.7
+711407,2024-11-25T22:00Z,Sportivo Ameliano,General Caballero JLM,0,1,Asunción,Paraguay,113.0,0,13.8,35.9
+711411,2024-11-28T21:00Z,Sportivo Luqueño,Club Olimpia,0,1,Asunción,Paraguay,113.0,0,9.3,28.8
+711414,2024-11-28T21:00Z,Tacuary,Sportivo Trinidense,1,1,Villa Hayes,Paraguay,58.0,0,9.7,28.6
+711409,2024-11-28T23:30Z,Cerro Porteño,Libertad,2,3,Asunción,Paraguay,113.0,0,10.4,27.6
+711410,2024-11-29T22:30Z,General Caballero JLM,2 de Mayo,1,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,7.4,27.9
+711413,2024-11-29T22:30Z,Nacional Asunción,Guaraní,0,0,Asunción,Paraguay,113.0,0,7.8,29.8
+711412,2024-11-29T22:30Z,Sol de América,Sportivo Ameliano,1,0,Asunción,Paraguay,113.0,0,7.8,29.8

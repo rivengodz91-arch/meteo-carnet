@@ -358,3 +358,80 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712656,2024-09-22T14:30Z,Gil Vicente,Casa Pia,1,1,Barcelos,Portugal,36.0,0.6,13.5,19.0
 712655,2024-09-22T17:00Z,SC Farense,Arouca,0,1,Faro,Portugal,24.0,0,16.0,22.4
 712660,2024-09-22T19:30Z,Sporting CP,AVS,3,0,Lisbon,Portugal,68.0,0,13.7,18.2
+712653,2024-09-23T19:15Z,Boavista,Benfica,0,3,Porto,Portugal,91.0,0,3.3,15.6
+712665,2024-09-27T19:15Z,Estoril,Sporting CP,0,3,Estoril,Portugal,24.0,0,17.0,16.4
+712666,2024-09-28T14:30Z,Estrela,Moreirense,2,1,Amadora,Portugal,138.0,0,9.6,22.9
+712664,2024-09-28T17:00Z,Casa Pia,Vitória de Guimaraes,1,1,Rio Maior,Portugal,82.0,0,15.5,20.0
+712663,2024-09-28T19:30Z,Benfica,Gil Vicente,5,1,Lisbon,Portugal,68.0,0,16.6,18.0
+712668,2024-09-29T14:30Z,FC Famalicao,C.D. Nacional,0,0,Vila Nova de Famalicão,Portugal,96.0,0,9.4,21.0
+712667,2024-09-29T17:00Z,FC Porto,Arouca,4,0,Porto,Portugal,91.0,0,3.7,19.2
+712670,2024-09-29T19:30Z,Braga,Rio Ave,4,0,Braga,Portugal,190.0,0,2.2,18.2
+712669,2024-09-29T19:30Z,Santa Clara,Boavista,1,0,Ponta Delgada,Portugal,12.0,1.8,22.4,22.3
+712662,2024-09-30T19:15Z,AVS,SC Farense,0,0,Vila das Aves,Portugal,,,,
+712677,2024-10-04T19:15Z,Rio Ave,FC Famalicao,1,1,Vila do Conde,Portugal,12.0,0,6.1,17.2
+712671,2024-10-05T14:30Z,Gil Vicente,Estrela,3,0,Barcelos,Portugal,36.0,1.4,23.3,19.4
+712676,2024-10-05T14:30Z,Moreirense,Santa Clara,1,0,Moreira de Conegos,Portugal,151.0,0.5,26.9,20.0
+712679,2024-10-05T17:00Z,Arouca,AVS,1,1,Arouca,Portugal,313.0,0.4,11.0,19.7
+712678,2024-10-05T19:30Z,Sporting CP,Casa Pia,2,0,Lisbon,Portugal,68.0,0,16.6,20.4
+712674,2024-10-06T14:30Z,SC Farense,Estoril,1,0,Faro,Portugal,24.0,0,15.6,22.8
+712675,2024-10-06T14:30Z,Vitória de Guimaraes,Boavista,2,2,Guimarães,Portugal,189.0,7.3,12.6,16.8
+712673,2024-10-06T19:30Z,FC Porto,Braga,2,1,Porto,Portugal,91.0,0,10.4,17.5
+712683,2024-10-25T17:45Z,Casa Pia,C.D. Nacional,1,0,Rio Maior,Portugal,82.0,0,19.7,14.0
+712687,2024-10-25T19:45Z,Santa Clara,Gil Vicente,2,1,Ponta Delgada,Portugal,12.0,0,12.8,17.7
+712684,2024-10-26T14:30Z,Estoril,Arouca,4,1,Estoril,Portugal,24.0,0.3,26.1,16.8
+712682,2024-10-26T17:00Z,Boavista,Moreirense,0,2,Porto,Portugal,91.0,2.8,5.9,12.8
+712686,2024-10-26T19:30Z,FC Famalicao,Sporting CP,0,3,Vila Nova de Famalicão,Portugal,96.0,0,2.0,11.1
+712688,2024-10-27T15:30Z,Braga,SC Farense,2,0,Braga,Portugal,190.0,0,16.7,18.1
+712681,2024-10-27T18:00Z,Benfica,Rio Ave,5,0,Lisbon,Portugal,68.0,0,15.1,15.6
+712685,2024-10-27T20:30Z,Estrela,Vitória de Guimaraes,2,2,Amadora,Portugal,138.0,0,14.6,13.9
+712680,2024-10-28T20:15Z,AVS,FC Porto,0,5,Vila das Aves,Portugal,,,,
+712696,2024-11-01T20:15Z,Sporting CP,Estrela,5,1,Lisbon,Portugal,68.0,0,6.7,14.6
+712695,2024-11-02T15:30Z,Rio Ave,Casa Pia,2,2,Vila do Conde,Portugal,12.0,0,0.2,22.5
+712693,2024-11-02T18:00Z,SC Farense,Benfica,1,2,Almancil,Portugal,55.0,0,5.9,17.2
+712694,2024-11-02T20:30Z,Gil Vicente,Boavista,1,2,Barcelos,Portugal,36.0,0,6.1,14.7
+712689,2024-11-03T15:30Z,AVS,FC Famalicao,2,3,Vila das Aves,Portugal,,,,
+712690,2024-11-03T18:00Z,Arouca,Braga,1,2,Arouca,Portugal,313.0,0,8.8,16.8
+712697,2024-11-03T18:00Z,Vitória de Guimaraes,Moreirense,1,0,Guimarães,Portugal,189.0,0,8.6,16.0
+712692,2024-11-03T20:30Z,FC Porto,Estoril,4,0,Porto,Portugal,91.0,0,12.1,17.6
+712691,2024-11-04T20:15Z,C.D. Nacional,Santa Clara,2,0,Funchal,Portugal,280.0,0,6.1,17.0
+712704,2024-11-08T20:15Z,Moreirense,Gil Vicente,3,2,Moreira de Conegos,Portugal,151.0,0,4.7,14.6
+712700,2024-11-09T15:30Z,Casa Pia,SC Farense,1,1,Rio Maior,Portugal,82.0,0,16.9,18.1
+712701,2024-11-09T15:30Z,Estoril,AVS,0,0,Estoril,Portugal,24.0,0,14.8,19.5
+712703,2024-11-09T18:00Z,FC Famalicao,Arouca,0,0,Vila Nova de Famalicão,Portugal,96.0,0,6.4,13.1
+712699,2024-11-09T20:30Z,Boavista,Rio Ave,0,2,Porto,Portugal,91.0,0,5.4,13.2
+712702,2024-11-10T15:30Z,Estrela,C.D. Nacional,2,0,Amadora,Portugal,138.0,0,17.5,20.8
+712705,2024-11-10T16:30Z,Santa Clara,Vitória de Guimaraes,1,0,Ponta Delgada,Portugal,12.0,0,15.5,21.5
+712706,2024-11-10T18:45Z,Braga,Sporting CP,2,4,Braga,Portugal,190.0,0,6.5,16.6
+712698,2024-11-10T20:45Z,Benfica,FC Porto,4,1,Lisbon,Portugal,68.0,0,16.7,17.6
+712712,2024-11-29T20:15Z,SC Farense,Estrela,1,0,Faro,Portugal,24.0,0,6.6,16.5
+712713,2024-11-30T15:30Z,Rio Ave,Moreirense,3,2,Vila do Conde,Portugal,12.0,0,15.3,19.9
+712711,2024-11-30T18:00Z,C.D. Nacional,Boavista,0,0,Funchal,Portugal,280.0,0,2.6,16.7
+712714,2024-11-30T20:30Z,Sporting CP,Santa Clara,0,1,Lisbon,Portugal,68.0,0,1.0,17.0
+712710,2024-12-01T15:30Z,Estoril,FC Famalicao,2,1,Estoril,Portugal,24.0,0,8.6,18.8
+712708,2024-12-01T18:00Z,Arouca,Benfica,0,2,Arouca,Portugal,313.0,0,15.1,16.1
+712707,2024-12-01T20:30Z,AVS,Braga,0,1,Vila das Aves,Portugal,,,,
+712709,2024-12-02T18:45Z,Vitória de Guimaraes,Gil Vicente,4,0,Guimarães,Portugal,189.0,0,3.6,11.9
+712715,2024-12-02T20:45Z,FC Porto,Casa Pia,2,0,Porto,Portugal,91.0,0,9.2,13.3
+712718,2024-12-05T20:15Z,Moreirense,Sporting CP,2,1,Moreira de Conegos,Portugal,151.0,0,3.8,14.0
+712720,2024-12-06T20:15Z,Braga,Estoril,2,2,Braga,Portugal,190.0,0,0.8,12.2
+712717,2024-12-07T15:30Z,Gil Vicente,C.D. Nacional,2,1,Barcelos,Portugal,36.0,0,20.4,13.7
+712722,2024-12-07T18:00Z,Benfica,Vitória de Guimaraes,1,0,Lisbon,Portugal,68.0,0,19.0,13.2
+712723,2024-12-07T18:00Z,Santa Clara,Rio Ave,1,0,Ponta Delgada,Portugal,12.0,0,5.2,17.9
+712716,2024-12-07T20:30Z,FC Famalicao,FC Porto,1,1,Vila Nova de Famalicão,Portugal,96.0,0,12.3,9.8
+712719,2024-12-08T15:30Z,Boavista,SC Farense,1,1,Porto,Portugal,91.0,0,18.4,13.3
+712724,2024-12-08T18:00Z,Casa Pia,AVS,1,1,Rio Maior,Portugal,82.0,0,17.3,10.8
+712721,2024-12-09T20:15Z,Estrela,Arouca,2,1,Amadora,Portugal,138.0,0,13.9,9.1
+712726,2024-12-14T15:30Z,SC Farense,Gil Vicente,0,1,Faro,Portugal,24.0,0,13.8,16.5
+712729,2024-12-14T18:00Z,C.D. Nacional,Moreirense,1,0,Funchal,Portugal,280.0,0,15.9,15.0
+712733,2024-12-14T20:30Z,Sporting CP,Boavista,3,2,Lisbon,Portugal,68.0,0,9.3,12.8
+712730,2024-12-15T15:30Z,Arouca,Santa Clara,1,0,Arouca,Portugal,313.0,0,10.5,13.3
+712727,2024-12-15T18:00Z,AVS,Benfica,1,1,Vila das Aves,Portugal,,,,
+712732,2024-12-15T20:30Z,Estoril,Casa Pia,0,2,Estoril,Portugal,24.0,0,19.0,11.2
+712728,2024-12-16T18:45Z,Braga,FC Famalicao,3,3,Braga,Portugal,190.0,0,8.2,9.6
+712725,2024-12-16T20:15Z,FC Porto,Estrela,2,0,Porto,Portugal,91.0,0,16.6,10.9
+712731,2024-12-16T20:45Z,Rio Ave,Vitória de Guimaraes,2,2,Vila do Conde,Portugal,12.0,0,15.5,11.9
+712672,2024-12-19T17:00Z,C.D. Nacional,Benfica,0,2,Funchal,Portugal,280.0,0,7.4,16.8
+712736,2024-12-20T20:15Z,Casa Pia,Arouca,3,1,Rio Maior,Portugal,82.0,0,18.5,8.9
+712738,2024-12-21T15:30Z,FC Famalicao,SC Farense,1,2,Vila Nova de Famalicão,Portugal,96.0,0,3.1,13.9
+712737,2024-12-21T18:00Z,Boavista,AVS,0,0,Porto,Portugal,91.0,0,10.2,12.0
+712740,2024-12-21T20:30Z,Moreirense,FC Porto,0,3,Moreira de Conegos,Portugal,151.0,0,4.3,9.1

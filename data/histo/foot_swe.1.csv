@@ -325,3 +325,59 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 691720,2024-09-22T12:00Z,IF Elfsborg,Hammarby IF,0,0,Boras,Sweden,143.0,0,8.8,18.3
 691725,2024-09-22T12:00Z,IFK Värnamo,Västerås SK,2,0,Värnamo,Sweden,156.0,0,9.5,18.1
 691723,2024-09-22T14:30Z,Malmö FF,BK Häcken,4,0,Malmo,Sweden,10.0,0,12.7,20.6
+691721,2024-09-23T17:00Z,IFK Göteborg,Halmstads BK,1,1,Göteborg,Sweden,23.0,0,7.6,13.7
+691731,2024-09-25T17:00Z,Djurgården,IF Brommapojkarna,2,1,Stockholm,Sweden,17.0,0,18.7,14.8
+691732,2024-09-25T17:00Z,IK Sirius,AIK,0,1,Uppsala,Sweden,20.0,0,22.1,14.3
+691729,2024-09-25T17:00Z,Mjällby AIF,IFK Värnamo,1,1,Sölvesborg,Sweden,15.0,1.1,21.0,14.1
+691727,2024-09-26T17:00Z,Halmstads BK,Kalmar FF,2,2,Halmstads,Sweden,,,,
+691728,2024-09-26T17:00Z,Hammarby IF,BK Häcken,2,0,Stockholm,Sweden,17.0,1.0,10.3,12.9
+691734,2024-09-26T17:00Z,Västerås SK,IFK Göteborg,1,1,Västeras,Sweden,16.0,0.8,10.1,11.8
+691737,2024-09-29T12:00Z,AIK,Hammarby IF,1,0,Stockholm,Sweden,17.0,0,14.3,10.5
+691740,2024-09-29T12:00Z,Halmstads BK,IFK Norrköping,0,0,Halmstads,Sweden,,,,
+691735,2024-09-29T12:00Z,IFK Värnamo,Djurgården,1,1,Värnamo,Sweden,156.0,0,15.4,11.4
+691741,2024-09-29T14:30Z,BK Häcken,IK Sirius,2,0,Gothenburg,Sweden,10.0,0,20.1,11.2
+691742,2024-09-29T14:30Z,Kalmar FF,IF Elfsborg,1,3,Kalmar,Sweden,7.0,0,14.9,13.3
+691736,2024-09-29T14:30Z,Malmö FF,Mjällby AIF,2,0,Malmo,Sweden,10.0,0,18.3,12.9
+691738,2024-09-30T17:00Z,IF Brommapojkarna,Västerås SK,2,1,Stockholm,Sweden,17.0,0,7.5,7.1
+691739,2024-09-30T17:10Z,IFK Göteborg,GAIS,2,0,Göteborg,Sweden,23.0,0,11.7,10.2
+691724,2024-10-03T17:00Z,IFK Norrköping,IK Sirius,0,2,Norrköping,Sweden,12.0,0,9.7,6.6
+691747,2024-10-05T13:00Z,Hammarby IF,Halmstads BK,1,0,Stockholm,Sweden,17.0,0,10.3,12.5
+691744,2024-10-05T13:00Z,Mjällby AIF,Västerås SK,2,1,Sölvesborg,Sweden,15.0,0,3.8,13.1
+691743,2024-10-05T15:30Z,IF Brommapojkarna,GAIS,2,0,Stockholm,Sweden,17.0,0,5.8,11.3
+691750,2024-10-06T12:00Z,AIK,BK Häcken,0,2,Stockholm,Sweden,17.0,0,15.2,13.3
+691749,2024-10-06T12:00Z,Djurgården,Kalmar FF,1,1,Stockholm,Sweden,17.0,0,15.2,13.3
+691745,2024-10-06T14:30Z,IFK Norrköping,IFK Göteborg,0,2,Norrköping,Sweden,12.0,0,12.2,12.9
+691748,2024-10-06T14:30Z,IK Sirius,IF Elfsborg,4,1,Uppsala,Sweden,20.0,0,15.0,13.0
+691746,2024-10-06T14:30Z,Malmö FF,IFK Värnamo,1,1,Malmo,Sweden,10.0,0,18.9,12.7
+691754,2024-10-19T13:00Z,IF Elfsborg,BK Häcken,1,3,Boras,Sweden,143.0,0,13.9,13.4
+691757,2024-10-19T13:00Z,Västerås SK,Malmö FF,1,1,Västeras,Sweden,16.0,0,10.1,13.5
+691755,2024-10-19T15:30Z,Halmstads BK,IK Sirius,3,1,Halmstads,Sweden,,,,
+691751,2024-10-20T12:00Z,Kalmar FF,Mjällby AIF,0,3,Kalmar,Sweden,7.0,0,14.4,15.6
+691758,2024-10-20T14:30Z,GAIS,IFK Värnamo,0,0,Göteborg,Sweden,23.0,0,19.6,13.7
+691753,2024-10-21T12:00Z,Hammarby IF,Djurgården,2,0,Stockholm,Sweden,17.0,0,23.7,15.4
+691752,2024-10-21T17:00Z,IFK Norrköping,IF Brommapojkarna,1,1,Norrköping,Sweden,12.0,0,23.6,13.3
+691756,2024-10-21T17:10Z,IFK Göteborg,AIK,1,2,Göteborg,Sweden,23.0,0,22.5,12.3
+691765,2024-10-26T13:00Z,IK Sirius,Hammarby IF,0,3,Uppsala,Sweden,20.0,0,8.6,10.3
+691762,2024-10-26T13:00Z,Mjällby AIF,GAIS,1,1,Sölvesborg,Sweden,15.0,0,2.9,11.3
+691766,2024-10-26T15:30Z,IF Brommapojkarna,Kalmar FF,1,2,Stockholm,Sweden,17.0,0,2.3,9.4
+691761,2024-10-27T13:00Z,AIK,IF Elfsborg,2,1,Stockholm,Sweden,17.0,1.1,23.2,10.8
+691760,2024-10-27T13:00Z,IFK Värnamo,IFK Norrköping,1,2,Värnamo,Sweden,156.0,2.9,11.3,9.2
+691759,2024-10-27T15:30Z,BK Häcken,Halmstads BK,0,1,Gothenburg,Sweden,10.0,0,26.8,9.8
+691763,2024-10-28T18:00Z,Djurgården,Västerås SK,2,1,Stockholm,Sweden,17.0,0,13.8,7.6
+691764,2024-10-28T18:10Z,Malmö FF,IFK Göteborg,2,1,Malmo,Sweden,10.0,0,18.0,11.9
+691771,2024-11-02T14:00Z,Hammarby IF,Malmö FF,2,2,Stockholm,Sweden,17.0,0,15.6,4.5
+691769,2024-11-02T14:00Z,IF Elfsborg,Västerås SK,1,0,Boras,Sweden,143.0,0,6.4,4.7
+691772,2024-11-02T16:30Z,IFK Göteborg,Kalmar FF,1,1,Göteborg,Sweden,23.0,0,10.8,4.9
+691768,2024-11-03T13:00Z,BK Häcken,GAIS,1,2,Gothenburg,Sweden,10.0,0,27.4,12.4
+691767,2024-11-03T13:00Z,IF Brommapojkarna,IFK Värnamo,0,1,Stockholm,Sweden,17.0,0,25.7,11.6
+691770,2024-11-03T15:30Z,Halmstads BK,Djurgården,1,0,Halmstads,Sweden,,,,
+691774,2024-11-03T15:30Z,IK Sirius,Mjällby AIF,1,1,Uppsala,Sweden,20.0,0,26.1,11.7
+691773,2024-11-04T18:10Z,IFK Norrköping,AIK,1,0,Norrköping,Sweden,12.0,0,11.0,4.5
+691781,2024-11-10T14:00Z,AIK,Halmstads BK,5,1,Stockholm,Sweden,17.0,0,4.6,5.7
+691776,2024-11-10T14:00Z,Djurgården,IFK Norrköping,3,1,Stockholm,Sweden,17.0,0,4.6,5.7
+691775,2024-11-10T14:00Z,GAIS,IK Sirius,2,1,Göteborg,Sweden,23.0,0.2,8.2,6.2
+691782,2024-11-10T14:00Z,IFK Värnamo,IF Elfsborg,0,0,Värnamo,Sweden,156.0,0,8.8,5.1
+691777,2024-11-10T14:00Z,Kalmar FF,BK Häcken,1,0,Kalmar,Sweden,7.0,0,6.4,6.2
+691778,2024-11-10T14:00Z,Malmö FF,IF Brommapojkarna,2,1,Malmo,Sweden,10.0,0,12.8,5.6
+691779,2024-11-10T14:00Z,Mjällby AIF,IFK Göteborg,1,0,Sölvesborg,Sweden,15.0,0,11.2,6.5
+691780,2024-11-10T14:00Z,Västerås SK,Hammarby IF,1,0,Västeras,Sweden,16.0,0,5.0,4.3

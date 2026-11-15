@@ -286,3 +286,175 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 694378,2024-09-22T20:00Z,Talleres (Córdoba),Racing Club,2,0,Córdoba,Argentina,378.0,0,20.9,25.1
 694367,2024-09-22T22:30Z,Atlético Tucumán,Belgrano (Córdoba),2,4,Tucuman,Argentina,735.0,0,26.2,31.9
 694376,2024-09-22T22:30Z,Platense,Rosario Central,1,0,Buenos Aires,Argentina,31.0,0,21.4,19.0
+694377,2024-09-23T21:45Z,Sarmiento (Junín),Central Córdoba (Santiago del Estero),1,3,Junin,Argentina,73.0,0,17.1,21.6
+694368,2024-09-24T00:00Z,Banfield,Independiente Rivadavia,2,0,Buenos Aires,Argentina,31.0,0,19.4,13.7
+694380,2024-09-24T00:00Z,Vélez Sarsfield,Estudiantes de La Plata,2,0,Buenos Aires,Argentina,31.0,0,19.4,13.7
+694384,2024-09-27T18:00Z,Deportivo Riestra,Newell's Old Boys,3,3,Buenos Aires,Argentina,31.0,0,13.4,19.0
+694394,2024-09-28T00:00Z,Independiente Rivadavia,Instituto (Córdoba),1,1,Mendoza,Argentina,853.0,0,7.2,20.3
+694392,2024-09-28T18:00Z,San Lorenzo,Banfield,2,1,Buenos Aires,Argentina,31.0,0,18.8,23.3
+694385,2024-09-28T20:30Z,Estudiantes de La Plata,Defensa y Justicia,1,0,La Plata,Argentina,27.0,0,8.9,23.0
+694386,2024-09-28T20:30Z,Godoy Cruz Antonio Tomba,Huracán,1,1,Mendoza,Argentina,853.0,0,1.4,25.5
+694382,2024-09-28T23:00Z,Belgrano (Córdoba),Boca Juniors,2,0,Córdoba,Argentina,378.0,0,10.9,24.1
+694383,2024-09-29T17:30Z,Central Córdoba (Santiago del Estero),Barracas Central,2,1,Santiago del Estero,Argentina,176.0,0,21.2,36.2
+694390,2024-09-29T21:15Z,River Plate,Talleres (Córdoba),0,1,Buenos Aires,Argentina,31.0,0,13.5,22.3
+694393,2024-09-29T22:30Z,Sarmiento (Junín),Unión (Santa Fe),1,0,Junin,Argentina,73.0,0,15.4,26.1
+694381,2024-09-30T22:00Z,Argentinos Juniors,Atlético Tucumán,0,0,Buenos Aires,Argentina,31.0,0,12.7,19.9
+694389,2024-10-01T00:00Z,Racing Club,Platense,1,1,Buenos Aires,Argentina,31.0,0,11.6,18.6
+694387,2024-10-01T00:15Z,Lanús,Gimnasia La Plata,0,0,Buenos Aires,Argentina,31.0,0,11.6,18.6
+694388,2024-10-01T21:30Z,Tigre,Independiente,1,1,Buenos Aires,Argentina,31.0,0,16.2,17.3
+694391,2024-10-01T23:30Z,Rosario Central,Vélez Sarsfield,3,0,Rosario,Argentina,38.0,0,15.5,20.6
+694407,2024-10-04T22:00Z,Unión (Santa Fe),Central Córdoba (Santiago del Estero),0,2,"Rosario, Santa Fe",Argentina,38.0,0,15.0,21.7
+694401,2024-10-05T00:00Z,Huracán,Sarmiento (Junín),3,1,Buenos Aires,Argentina,31.0,0,20.0,18.0
+694408,2024-10-05T18:00Z,Vélez Sarsfield,Racing Club,1,0,Buenos Aires,Argentina,31.0,0,13.5,22.8
+694400,2024-10-05T20:30Z,Gimnasia La Plata,Godoy Cruz Antonio Tomba,0,1,La Plata,Argentina,27.0,0,16.6,21.9
+694404,2024-10-05T20:30Z,Newell's Old Boys,Lanús,2,1,Rosario,Argentina,38.0,0,11.7,27.7
+694403,2024-10-05T23:00Z,Instituto (Córdoba),San Lorenzo,2,0,Córdoba,Argentina,378.0,0,10.8,25.3
+694402,2024-10-06T18:00Z,Independiente,Deportivo Riestra,3,1,Avellaneda,Argentina,13.0,0,26.7,20.9
+694406,2024-10-06T19:30Z,Talleres (Córdoba),Belgrano (Córdoba),0,0,Córdoba,Argentina,378.0,0,12.5,29.0
+694405,2024-10-06T22:00Z,Platense,River Plate,0,0,Buenos Aires,Argentina,31.0,0,28.7,17.7
+694398,2024-10-07T00:00Z,Boca Juniors,Argentinos Juniors,1,0,Buenos Aires,Argentina,31.0,0,27.2,17.6
+694397,2024-10-07T18:00Z,Barracas Central,Independiente Rivadavia,1,1,Buenos Aires,Argentina,31.0,0,12.2,19.8
+694396,2024-10-07T21:00Z,Banfield,Estudiantes de La Plata,1,2,Buenos Aires,Argentina,31.0,0.1,13.2,19.0
+694399,2024-10-07T21:45Z,Defensa y Justicia,Rosario Central,2,1,Buenos Aires,Argentina,31.0,0.1,13.2,19.0
+694395,2024-10-08T00:00Z,Atlético Tucumán,Tigre,1,2,Tucuman,Argentina,735.0,2.9,29.1,22.4
+694212,2024-10-12T18:30Z,Godoy Cruz Antonio Tomba,San Lorenzo,1,1,Mendoza,Argentina,853.0,0,7.0,18.7
+694412,2024-10-18T18:00Z,Deportivo Riestra,Atlético Tucumán,2,0,Buenos Aires,Argentina,31.0,0,13.4,23.9
+694420,2024-10-18T20:00Z,Sarmiento (Junín),Gimnasia La Plata,1,1,Junin,Argentina,73.0,0,8.0,27.2
+694411,2024-10-18T21:45Z,Central Córdoba (Santiago del Estero),Independiente Rivadavia,2,0,Santiago del Estero,Argentina,176.0,0,7.8,25.6
+694415,2024-10-18T22:15Z,Lanús,Independiente,0,2,Buenos Aires,Argentina,31.0,0,17.3,19.4
+694417,2024-10-19T00:00Z,River Plate,Vélez Sarsfield,1,1,Buenos Aires,Argentina,31.0,0,18.1,18.7
+694410,2024-10-19T20:00Z,Belgrano (Córdoba),Platense,0,1,Córdoba,Argentina,378.0,0,23.6,26.6
+694416,2024-10-19T20:00Z,Racing Club,Defensa y Justicia,4,3,Buenos Aires,Argentina,31.0,0,19.6,26.5
+694421,2024-10-19T22:15Z,Tigre,Boca Juniors,3,0,Buenos Aires,Argentina,31.0,0,13.7,24.1
+694422,2024-10-20T00:15Z,Unión (Santa Fe),Huracán,0,1,"Rosario, Santa Fe",Argentina,38.0,0,12.2,21.4
+694409,2024-10-20T18:00Z,Argentinos Juniors,Talleres (Córdoba),3,0,Buenos Aires,Argentina,31.0,0,23.8,28.4
+694413,2024-10-20T20:15Z,Estudiantes de La Plata,Instituto (Córdoba),3,2,La Plata,Argentina,27.0,0,14.1,27.3
+694418,2024-10-20T20:15Z,Rosario Central,Banfield,1,1,Rosario,Argentina,38.0,0,19.1,30.2
+694414,2024-10-20T22:30Z,Godoy Cruz Antonio Tomba,Newell's Old Boys,2,0,Mendoza,Argentina,853.0,0,13.9,32.3
+694419,2024-10-20T22:30Z,San Lorenzo,Barracas Central,1,0,Buenos Aires,Argentina,31.0,0,13.0,26.8
+694425,2024-10-25T18:00Z,Barracas Central,Estudiantes de La Plata,1,1,Buenos Aires,Argentina,31.0,2.7,15.2,14.6
+694427,2024-10-26T00:00Z,Defensa y Justicia,River Plate,0,0,Buenos Aires,Argentina,31.0,0,11.9,13.4
+694432,2024-10-26T20:15Z,Instituto (Córdoba),Rosario Central,0,0,Córdoba,Argentina,378.0,0,11.0,24.3
+694433,2024-10-26T20:15Z,Newell's Old Boys,Sarmiento (Junín),1,1,Rosario,Argentina,38.0,0,7.1,23.8
+694430,2024-10-26T22:30Z,Independiente,Godoy Cruz Antonio Tomba,1,1,Avellaneda,Argentina,13.0,0,7.8,19.0
+694435,2024-10-27T00:00Z,Vélez Sarsfield,Belgrano (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,8.9,16.0
+694431,2024-10-27T00:45Z,Independiente Rivadavia,San Lorenzo,1,0,Mendoza,Argentina,853.0,0,6.7,21.5
+694434,2024-10-27T18:00Z,Platense,Argentinos Juniors,2,1,Buenos Aires,Argentina,31.0,0,12.5,25.2
+694424,2024-10-27T20:15Z,Banfield,Racing Club,2,1,Buenos Aires,Argentina,31.0,0,15.7,24.9
+694426,2024-10-27T22:00Z,Boca Juniors,Deportivo Riestra,1,1,Buenos Aires,Argentina,31.0,0,9.7,22.0
+694423,2024-10-28T00:15Z,Atlético Tucumán,Lanús,1,0,Tucuman,Argentina,735.0,0,16.0,26.3
+694429,2024-10-28T00:15Z,Talleres (Córdoba),Tigre,1,1,Córdoba,Argentina,378.0,0,9.7,18.8
+694428,2024-10-28T22:00Z,Gimnasia La Plata,Unión (Santa Fe),2,3,La Plata,Argentina,27.0,0,11.6,22.4
+694436,2024-10-29T00:00Z,Huracán,Central Córdoba (Santiago del Estero),0,0,Buenos Aires,Argentina,31.0,0,15.5,21.9
+694441,2024-10-31T22:00Z,Estudiantes de La Plata,Independiente Rivadavia,1,1,La Plata,Argentina,27.0,0,15.6,23.3
+694448,2024-10-31T22:00Z,Sarmiento (Junín),Independiente,0,0,Junin,Argentina,73.0,0,11.6,28.5
+694442,2024-11-01T00:15Z,Godoy Cruz Antonio Tomba,Atlético Tucumán,1,1,Mendoza,Argentina,853.0,0,15.4,27.3
+694447,2024-11-01T00:15Z,Rosario Central,Barracas Central,0,1,Rosario,Argentina,38.0,0,11.1,25.0
+694439,2024-11-01T22:00Z,Central Córdoba (Santiago del Estero),San Lorenzo,0,1,Santiago del Estero,Argentina,176.0,0,10.4,31.5
+694443,2024-11-01T22:45Z,Huracán,Gimnasia La Plata,0,0,Buenos Aires,Argentina,31.0,0,18.2,27.1
+694450,2024-11-02T00:15Z,Unión (Santa Fe),Newell's Old Boys,2,0,"Rosario, Santa Fe",Argentina,38.0,0,17.0,26.2
+694437,2024-11-02T01:00Z,Argentinos Juniors,Vélez Sarsfield,1,1,Buenos Aires,Argentina,31.0,0,21.1,24.2
+694440,2024-11-02T18:00Z,Deportivo Riestra,Talleres (Córdoba),0,0,Buenos Aires,Argentina,31.0,0,16.7,25.0
+694446,2024-11-02T21:00Z,River Plate,Banfield,3,1,Buenos Aires,Argentina,31.0,0,19.4,21.2
+694438,2024-11-02T23:00Z,Belgrano (Córdoba),Defensa y Justicia,1,2,Córdoba,Argentina,378.0,0,6.9,18.8
+694449,2024-11-03T20:00Z,Tigre,Platense,0,0,Buenos Aires,Argentina,31.0,0,34.9,22.3
+694445,2024-11-03T20:30Z,Racing Club,Instituto (Córdoba),2,0,Buenos Aires,Argentina,31.0,0,34.9,22.3
+694444,2024-11-03T22:30Z,Lanús,Boca Juniors,1,0,Buenos Aires,Argentina,31.0,0,29.1,20.8
+694451,2024-11-04T22:00Z,Atlético Tucumán,Sarmiento (Junín),1,0,Tucuman,Argentina,735.0,0,35.2,31.9
+694458,2024-11-05T00:00Z,Independiente Rivadavia,Rosario Central,1,1,Mendoza,Argentina,853.0,0,5.2,21.7
+694456,2024-11-05T21:45Z,Gimnasia La Plata,Central Córdoba (Santiago del Estero),0,0,La Plata,Argentina,27.0,0,17.0,19.9
+694462,2024-11-05T21:45Z,San Lorenzo,Estudiantes de La Plata,1,1,Buenos Aires,Argentina,31.0,0,21.9,20.6
+694457,2024-11-06T00:00Z,Independiente,Unión (Santa Fe),3,0,Avellaneda,Argentina,13.0,0,15.5,17.5
+694460,2024-11-06T00:00Z,Newell's Old Boys,Huracán,2,4,Rosario,Argentina,38.0,0,12.7,20.9
+694453,2024-11-06T19:00Z,Barracas Central,Racing Club,0,2,Buenos Aires,Argentina,31.0,0,14.4,23.4
+694452,2024-11-06T20:00Z,Banfield,Belgrano (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,14.1,23.6
+694454,2024-11-06T22:30Z,Boca Juniors,Godoy Cruz Antonio Tomba,4,1,Buenos Aires,Argentina,31.0,0,9.4,21.7
+694459,2024-11-07T00:30Z,Instituto (Córdoba),River Plate,2,3,Córdoba,Argentina,378.0,0.2,3.6,19.0
+694463,2024-11-07T21:45Z,Talleres (Córdoba),Lanús,1,2,Córdoba,Argentina,378.0,0,8.6,25.5
+694455,2024-11-07T22:00Z,Defensa y Justicia,Argentinos Juniors,2,1,Buenos Aires,Argentina,31.0,0,24.2,18.8
+694461,2024-11-08T00:00Z,Platense,Deportivo Riestra,0,0,Buenos Aires,Argentina,31.0,0,21.3,16.5
+694464,2024-11-08T00:15Z,Vélez Sarsfield,Tigre,1,0,Buenos Aires,Argentina,31.0,0,21.3,16.5
+694478,2024-11-09T19:45Z,Unión (Santa Fe),Atlético Tucumán,1,0,"Rosario, Santa Fe",Argentina,38.0,0,15.5,29.1
+694469,2024-11-09T20:00Z,Gimnasia La Plata,Newell's Old Boys,1,0,La Plata,Argentina,27.0,0,11.1,24.7
+694475,2024-11-09T22:00Z,Rosario Central,San Lorenzo,0,1,Rosario,Argentina,38.0,0,10.7,25.7
+694471,2024-11-10T00:00Z,Huracán,Independiente,1,0,Buenos Aires,Argentina,31.0,0,17.0,21.5
+694467,2024-11-10T19:00Z,Central Córdoba (Santiago del Estero),Estudiantes de La Plata,1,1,Santiago del Estero,Argentina,176.0,0,20.7,35.8
+694474,2024-11-10T20:15Z,River Plate,Barracas Central,3,0,Buenos Aires,Argentina,31.0,0.9,9.6,28.4
+694470,2024-11-10T22:15Z,Godoy Cruz Antonio Tomba,Talleres (Córdoba),0,1,Mendoza,Argentina,853.0,0,15.4,23.5
+694473,2024-11-10T22:30Z,Racing Club,Independiente Rivadavia,2,1,Buenos Aires,Argentina,31.0,0.5,10.2,23.3
+694476,2024-11-11T00:30Z,Sarmiento (Junín),Boca Juniors,0,2,Junin,Argentina,73.0,0.3,30.2,18.1
+694468,2024-11-11T19:00Z,Deportivo Riestra,Vélez Sarsfield,1,1,Buenos Aires,Argentina,31.0,0,40.9,20.7
+694472,2024-11-11T21:45Z,Lanús,Platense,0,0,Buenos Aires,Argentina,31.0,0,33.9,18.7
+694477,2024-11-11T21:45Z,Tigre,Defensa y Justicia,0,4,Buenos Aires,Argentina,31.0,0,33.9,18.7
+694465,2024-11-12T00:00Z,Argentinos Juniors,Banfield,1,0,Buenos Aires,Argentina,31.0,0,21.9,16.0
+694466,2024-11-12T00:00Z,Belgrano (Córdoba),Instituto (Córdoba),3,1,Córdoba,Argentina,378.0,0,7.8,17.8
+694490,2024-11-17T20:30Z,San Lorenzo,Racing Club,1,2,Buenos Aires,Argentina,31.0,0.1,19.3,18.7
+694480,2024-11-18T20:00Z,Banfield,Tigre,0,1,Buenos Aires,Argentina,31.0,0,16.8,20.8
+694483,2024-11-18T22:15Z,Defensa y Justicia,Deportivo Riestra,1,1,Buenos Aires,Argentina,31.0,0,18.0,20.0
+694489,2024-11-18T22:15Z,Platense,Godoy Cruz Antonio Tomba,1,0,Buenos Aires,Argentina,31.0,0,18.0,20.0
+694479,2024-11-19T00:30Z,Atlético Tucumán,Huracán,4,2,Tucuman,Argentina,735.0,0,25.4,22.1
+694487,2024-11-19T00:30Z,Instituto (Córdoba),Argentinos Juniors,1,0,Córdoba,Argentina,378.0,0,5.1,20.3
+694488,2024-11-20T20:00Z,Newell's Old Boys,Central Córdoba (Santiago del Estero),2,3,Rosario,Argentina,38.0,0,15.0,27.4
+694484,2024-11-20T22:15Z,Estudiantes de La Plata,Rosario Central,1,1,La Plata,Argentina,27.0,0,17.8,19.9
+694486,2024-11-20T22:15Z,Vélez Sarsfield,Lanús,0,0,Buenos Aires,Argentina,31.0,0,18.6,21.7
+694482,2024-11-21T00:30Z,Boca Juniors,Unión (Santa Fe),1,0,Buenos Aires,Argentina,31.0,0,20.3,19.9
+694481,2024-11-21T20:00Z,Barracas Central,Belgrano (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,17.8,23.6
+694492,2024-11-21T22:15Z,Independiente,Gimnasia La Plata,1,0,Avellaneda,Argentina,13.0,0,14.6,22.5
+694491,2024-11-21T22:15Z,Talleres (Córdoba),Sarmiento (Junín),2,0,Córdoba,Argentina,378.0,0,11.5,23.7
+694485,2024-11-22T00:30Z,Independiente Rivadavia,River Plate,2,1,Mendoza,Argentina,853.0,0,7.3,25.3
+694503,2024-11-23T22:30Z,Tigre,Instituto (Córdoba),0,0,Buenos Aires,Argentina,31.0,0,12.9,24.9
+694497,2024-11-24T00:45Z,Huracán,Boca Juniors,0,0,Buenos Aires,Argentina,31.0,0,9.4,23.5
+694494,2024-11-24T20:00Z,Deportivo Riestra,Banfield,1,1,Buenos Aires,Argentina,31.0,0.3,12.2,31.8
+694495,2024-11-24T20:00Z,Gimnasia La Plata,Atlético Tucumán,1,0,La Plata,Argentina,27.0,0,10.1,30.4
+694496,2024-11-24T22:15Z,Godoy Cruz Antonio Tomba,Vélez Sarsfield,0,0,Mendoza,Argentina,853.0,0,20.0,26.9
+694498,2024-11-25T00:30Z,Lanús,Defensa y Justicia,0,0,Buenos Aires,Argentina,31.0,3.7,12.1,25.7
+694493,2024-11-25T22:00Z,Central Córdoba (Santiago del Estero),Rosario Central,0,1,Santiago del Estero,Argentina,176.0,6.4,8.8,28.1
+694505,2024-11-26T00:15Z,Argentinos Juniors,Barracas Central,0,1,Buenos Aires,Argentina,31.0,0,20.2,22.5
+694506,2024-11-26T00:15Z,Belgrano (Córdoba),Independiente Rivadavia,0,2,Córdoba,Argentina,378.0,0,8.6,24.8
+694499,2024-11-26T22:00Z,Newell's Old Boys,Independiente,2,1,Rosario,Argentina,38.0,0,3.9,28.0
+694502,2024-11-27T00:15Z,Sarmiento (Junín),Platense,1,0,Junin,Argentina,73.0,0,8.6,23.5
+694504,2024-11-27T00:15Z,Unión (Santa Fe),Talleres (Córdoba),2,3,"Rosario, Santa Fe",Argentina,38.0,0,7.2,26.0
+694518,2024-11-29T22:00Z,San Lorenzo,Belgrano (Córdoba),0,2,Buenos Aires,Argentina,31.0,0,12.3,24.2
+694512,2024-11-30T00:00Z,Estudiantes de La Plata,River Plate,1,2,La Plata,Argentina,27.0,0,10.3,19.8
+694508,2024-11-30T22:30Z,Banfield,Lanús,0,1,Buenos Aires,Argentina,31.0,0.1,15.1,22.1
+694517,2024-11-30T22:30Z,Rosario Central,Racing Club,0,2,Rosario,Argentina,38.0,0.1,13.7,20.9
+694511,2024-12-01T00:45Z,Defensa y Justicia,Godoy Cruz Antonio Tomba,2,1,Buenos Aires,Argentina,31.0,0.3,18.2,21.5
+694515,2024-12-01T00:45Z,Instituto (Córdoba),Deportivo Riestra,2,1,Córdoba,Argentina,378.0,0.4,1.1,18.3
+694513,2024-12-01T20:00Z,Independiente,Central Córdoba (Santiago del Estero),2,0,Avellaneda,Argentina,13.0,0,19.8,23.2
+694520,2024-12-01T22:15Z,Vélez Sarsfield,Sarmiento (Junín),1,0,Buenos Aires,Argentina,31.0,0,15.2,22.5
+694510,2024-12-02T00:45Z,Boca Juniors,Gimnasia La Plata,1,0,Buenos Aires,Argentina,31.0,0,16.8,20.5
+694509,2024-12-02T20:00Z,Barracas Central,Tigre,0,0,Buenos Aires,Argentina,31.0,0,19.0,20.5
+694516,2024-12-02T22:15Z,Platense,Unión (Santa Fe),1,0,Buenos Aires,Argentina,31.0,0,13.1,19.8
+694519,2024-12-02T22:45Z,Talleres (Córdoba),Huracán,1,0,Córdoba,Argentina,378.0,0,7.1,22.2
+694514,2024-12-03T00:30Z,Independiente Rivadavia,Argentinos Juniors,2,1,Mendoza,Argentina,853.0,0,2.8,22.7
+694507,2024-12-03T01:00Z,Atlético Tucumán,Newell's Old Boys,0,0,Tucuman,Argentina,735.0,0,27.4,23.7
+694500,2024-12-04T22:00Z,Racing Club,Estudiantes de La Plata,4,5,Buenos Aires,Argentina,31.0,0,13.9,24.9
+694501,2024-12-05T00:00Z,River Plate,San Lorenzo,1,1,Buenos Aires,Argentina,31.0,0,11.3,22.8
+694524,2024-12-06T20:00Z,Deportivo Riestra,Barracas Central,0,0,Buenos Aires,Argentina,31.0,0,15.9,26.9
+694532,2024-12-06T23:00Z,Sarmiento (Junín),Defensa y Justicia,1,1,Junin,Argentina,73.0,0,10.4,22.3
+694529,2024-12-07T20:00Z,Lanús,Instituto (Córdoba),2,0,Buenos Aires,Argentina,31.0,0,14.7,21.4
+694534,2024-12-07T22:00Z,Unión (Santa Fe),Vélez Sarsfield,1,0,"Rosario, Santa Fe",Argentina,38.0,0,15.6,22.9
+694523,2024-12-08T00:15Z,Central Córdoba (Santiago del Estero),Racing Club,3,1,Santiago del Estero,Argentina,176.0,0,16.1,24.8
+694525,2024-12-08T20:00Z,Gimnasia La Plata,Talleres (Córdoba),0,1,La Plata,Argentina,27.0,0,11.7,20.1
+694526,2024-12-08T20:00Z,Godoy Cruz Antonio Tomba,Banfield,4,0,Mendoza,Argentina,853.0,0,7.7,26.8
+694531,2024-12-08T22:15Z,River Plate,Rosario Central,4,0,Buenos Aires,Argentina,31.0,0,14.9,19.3
+694530,2024-12-09T00:00Z,Newell's Old Boys,Boca Juniors,0,1,Rosario,Argentina,38.0,0,7.2,20.0
+694533,2024-12-09T20:00Z,Tigre,Independiente Rivadavia,0,2,Buenos Aires,Argentina,31.0,0,11.1,24.3
+694521,2024-12-09T22:15Z,Argentinos Juniors,San Lorenzo,1,0,Buenos Aires,Argentina,31.0,0,7.5,23.2
+694522,2024-12-09T22:15Z,Belgrano (Córdoba),Estudiantes de La Plata,2,2,Córdoba,Argentina,378.0,0,9.4,26.6
+694527,2024-12-10T00:30Z,Huracán,Platense,1,0,Buenos Aires,Argentina,31.0,0,8.4,22.3
+694528,2024-12-10T00:30Z,Independiente,Atlético Tucumán,2,1,Avellaneda,Argentina,13.0,0,8.0,22.0
+694537,2024-12-13T22:00Z,Barracas Central,Lanús,3,3,Buenos Aires,Argentina,31.0,0,14.6,24.9
+694540,2024-12-13T22:00Z,Estudiantes de La Plata,Argentinos Juniors,2,2,La Plata,Argentina,27.0,0.2,13.0,22.6
+694536,2024-12-14T00:15Z,Banfield,Sarmiento (Junín),1,1,Buenos Aires,Argentina,31.0,0,10.9,23.4
+694546,2024-12-14T00:15Z,San Lorenzo,Tigre,0,1,Buenos Aires,Argentina,31.0,0,10.9,23.4
+694542,2024-12-14T20:00Z,Instituto (Córdoba),Godoy Cruz Antonio Tomba,1,3,Córdoba,Argentina,378.0,0,4.6,30.6
+694545,2024-12-14T20:00Z,Rosario Central,Belgrano (Córdoba),2,1,Rosario,Argentina,38.0,0.1,18.7,28.6
+694538,2024-12-14T22:15Z,Boca Juniors,Independiente,0,0,Buenos Aires,Argentina,31.0,0,19.7,24.1
+694544,2024-12-15T00:15Z,Racing Club,River Plate,1,0,Buenos Aires,Argentina,31.0,0,17.6,21.9
+694539,2024-12-15T20:00Z,Defensa y Justicia,Unión (Santa Fe),0,0,Buenos Aires,Argentina,31.0,0,15.3,26.9
+694543,2024-12-15T20:00Z,Platense,Gimnasia La Plata,1,0,Buenos Aires,Argentina,31.0,0,15.3,26.9
+694541,2024-12-15T22:30Z,Talleres (Córdoba),Newell's Old Boys,1,3,Córdoba,Argentina,378.0,0,10.0,28.2
+694547,2024-12-15T22:30Z,Vélez Sarsfield,Huracán,2,0,Buenos Aires,Argentina,31.0,0,11.4,24.8
+694535,2024-12-17T00:00Z,Atlético Tucumán,Central Córdoba (Santiago del Estero),2,0,Tucuman,Argentina,735.0,0,4.5,31.0
+694548,2024-12-17T00:00Z,Independiente Rivadavia,Deportivo Riestra,0,0,Mendoza,Argentina,853.0,0,8.7,28.0

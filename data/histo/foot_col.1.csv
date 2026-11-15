@@ -536,3 +536,123 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 714325,2024-09-22T21:10Z,Boyacá Chicó FC,Deportivo Pasto,1,0,Tunja,Colombia,2693.0,0,15.2,15.2
 714316,2024-09-22T23:20Z,Alianza FC,América de Cali,0,1,Valledupar,Colombia,160.0,0,3.6,25.4
 714319,2024-09-23T01:30Z,Atlético Junior,Águilas Doradas,3,4,Barranquilla,Colombia,24.0,1.7,8.9,24.5
+714317,2024-09-24T01:10Z,Atlético Bucaramanga,Atlético Nacional,1,0,Bucaramanga,Colombia,1010.0,0,5.5,21.0
+714318,2024-09-26T01:30Z,Millonarios,Jaguares de Córdoba,0,0,Bogota,Colombia,2582.0,0,4.1,13.9
+714310,2024-09-26T23:30Z,Independiente Santa Fe,Alianza FC,2,0,Bogota,Colombia,2582.0,0.2,6.3,14.7
+714307,2024-09-27T01:30Z,Atlético Nacional,Atlético Junior,0,3,Medellin,Colombia,1405.0,0.3,3.0,18.6
+714330,2024-09-27T22:15Z,Águilas Doradas,Deportivo Pereira,1,1,Sincelejo,Colombia,209.0,0,12.3,26.1
+714335,2024-09-28T19:00Z,Internacional de Bogotá,Atlético Bucaramanga,0,1,Bogota,Colombia,2582.0,1.1,8.4,18.6
+714328,2024-09-28T21:10Z,Once Caldas,Independiente Medellín,0,2,Manizales,Colombia,2144.0,0.8,7.1,15.4
+714326,2024-09-28T23:20Z,América de Cali,Fortaleza CEIF,1,1,Cali,Colombia,758.0,2.2,2.8,20.2
+714329,2024-09-29T01:30Z,Millonarios,Envigado FC,3,0,Bogota,Colombia,2582.0,1.6,1.3,13.5
+714334,2024-09-29T19:00Z,Atlético Nacional,Boyacá Chicó FC,6,2,Medellin,Colombia,1405.0,0.3,3.5,23.2
+714331,2024-09-29T21:10Z,Jaguares de Córdoba,Atlético Junior,1,1,Montería,Colombia,29.0,0.2,8.7,27.0
+714333,2024-09-29T23:20Z,Deportes Tolima,Independiente Santa Fe,0,0,Ibague,Colombia,1047.0,0,3.2,20.4
+714332,2024-09-30T01:30Z,Deportivo Pasto,Alianza FC,1,0,Pasto,Colombia,2569.0,0.3,0.8,12.7
+714327,2024-09-30T21:00Z,Patriotas,Deportivo Cali,2,2,Tunja,Colombia,2693.0,0.1,12.0,14.3
+714278,2024-10-04T01:10Z,Independiente Santa Fe,Deportivo Pereira,1,1,Bogota,Colombia,2582.0,0,4.9,13.2
+714337,2024-10-05T00:40Z,Deportivo Cali,Millonarios,0,1,Cali,Colombia,758.0,3.1,1.5,20.7
+714341,2024-10-05T19:00Z,Envigado FC,Atlético Bucaramanga,0,0,Envigado,Colombia,1539.0,1.1,8.5,25.1
+714336,2024-10-05T21:10Z,Boyacá Chicó FC,América de Cali,0,2,Tunja,Colombia,2693.0,0.1,8.7,15.0
+714338,2024-10-05T23:20Z,Deportivo Pasto,Atlético Nacional,1,2,Pasto,Colombia,2569.0,0.1,2.4,13.7
+714345,2024-10-06T01:30Z,Alianza FC,Once Caldas,1,0,Valledupar,Colombia,160.0,0.1,2.8,25.5
+714343,2024-10-06T20:00Z,Independiente Medellín,Internacional de Bogotá,0,0,Medellin,Colombia,1405.0,0.3,3.2,23.2
+714344,2024-10-06T22:10Z,Independiente Santa Fe,Águilas Doradas,0,0,Bogota,Colombia,2582.0,0.2,6.6,14.6
+714340,2024-10-07T00:20Z,Atlético Junior,Patriotas,2,1,Barranquilla,Colombia,24.0,0,5.2,25.4
+714342,2024-10-07T23:00Z,Fortaleza CEIF,Jaguares de Córdoba,3,1,Bogota,Colombia,2582.0,0,5.8,13.5
+714339,2024-10-08T01:00Z,Deportivo Pereira,Deportes Tolima,1,0,Pereira,Colombia,1445.0,0.2,2.7,18.0
+714272,2024-10-09T21:00Z,Envigado FC,Deportivo Pasto,0,1,Envigado,Colombia,1539.0,0.1,4.9,21.3
+714282,2024-10-10T00:30Z,Atlético Nacional,Deportivo Cali,1,1,Medellin,Colombia,1405.0,0.1,3.1,19.1
+714292,2024-10-10T23:30Z,Independiente Medellín,Alianza FC,2,0,Medellin,Colombia,1405.0,0,1.5,20.5
+714305,2024-10-11T01:30Z,Independiente Santa Fe,Boyacá Chicó FC,3,1,Bogota,Colombia,2582.0,0,1.9,12.7
+714264,2024-10-12T00:30Z,América de Cali,Millonarios,2,1,Cali,Colombia,758.0,0.1,3.1,22.1
+714355,2024-10-12T22:45Z,Internacional de Bogotá,Atlético Junior,1,0,Bogota,Colombia,2582.0,0.1,10.9,17.2
+714348,2024-10-13T01:00Z,Atlético Bucaramanga,Deportivo Pereira,1,1,Bucaramanga,Colombia,1010.0,0,3.5,21.4
+714351,2024-10-14T00:30Z,Águilas Doradas,Deportivo Cali,1,1,Sincelejo,Colombia,209.0,0.3,10.9,26.0
+714352,2024-10-14T19:00Z,Patriotas,Independiente Santa Fe,1,2,Tunja,Colombia,2693.0,0.3,19.3,14.1
+714353,2024-10-14T21:10Z,Once Caldas,Deportivo Pasto,2,1,Manizales,Colombia,2144.0,7.9,2.4,16.8
+714349,2024-10-14T23:20Z,América de Cali,Independiente Medellín,1,0,Cali,Colombia,758.0,0.2,4.0,22.8
+714347,2024-10-15T01:30Z,Atlético Nacional,Envigado FC,2,1,Medellin,Colombia,1405.0,1.3,3.1,21.7
+714350,2024-10-15T22:30Z,Jaguares de Córdoba,Boyacá Chicó FC,1,0,Montería,Colombia,29.0,0.4,6.7,27.1
+714354,2024-10-17T01:05Z,Millonarios,Fortaleza CEIF,2,1,Bogota,Colombia,2582.0,0,6.5,12.7
+714258,2024-10-19T00:00Z,Independiente Santa Fe,Independiente Medellín,1,1,Bogota,Colombia,2582.0,0,7.7,14.4
+714346,2024-10-20T00:10Z,Deportes Tolima,Alianza FC,2,0,Ibague,Colombia,1047.0,7.1,9.4,21.1
+714289,2024-10-20T20:45Z,Internacional de Bogotá,América de Cali,2,2,Bogota,Colombia,2582.0,1.2,2.5,15.5
+714299,2024-10-20T22:45Z,Atlético Junior,Deportivo Pereira,3,1,Barranquilla,Colombia,24.0,0,5.6,28.4
+714300,2024-10-21T01:00Z,Águilas Doradas,Atlético Bucaramanga,1,3,Sincelejo,Colombia,209.0,0,6.1,25.6
+714293,2024-10-24T21:00Z,Envigado FC,Águilas Doradas,3,0,Envigado,Colombia,1539.0,1.3,3.4,21.3
+714358,2024-10-25T23:30Z,Deportes Tolima,Once Caldas,1,1,Ibague,Colombia,1047.0,8.7,8.3,22.5
+714356,2024-10-26T22:15Z,Alianza FC,Patriotas,1,1,Valledupar,Colombia,160.0,0,7.8,32.4
+714364,2024-10-27T00:30Z,Independiente Santa Fe,Millonarios,0,1,Bogota,Colombia,2582.0,0,10.8,13.5
+714362,2024-10-27T19:00Z,Fortaleza CEIF,Atlético Nacional,0,1,Bogota,Colombia,2582.0,0.3,15.9,18.4
+714359,2024-10-27T21:10Z,Deportivo Cali,Atlético Bucaramanga,1,0,Cali,Colombia,758.0,1.0,1.7,22.9
+714360,2024-10-27T23:20Z,Atlético Junior,América de Cali,3,1,Barranquilla,Colombia,24.0,0,10.6,28.1
+714363,2024-10-29T01:15Z,Independiente Medellín,Jaguares de Córdoba,4,1,Medellin,Colombia,1405.0,0,6.0,18.6
+714357,2024-10-29T21:00Z,Boyacá Chicó FC,Internacional de Bogotá,1,0,Tunja,Colombia,2693.0,0,14.0,14.5
+714365,2024-10-29T23:05Z,Deportivo Pasto,Águilas Doradas,3,1,Pasto,Colombia,2569.0,0,1.9,14.4
+714361,2024-10-30T01:10Z,Deportivo Pereira,Envigado FC,2,0,Pereira,Colombia,1445.0,0,7.5,19.7
+714370,2024-11-01T22:00Z,Jaguares de Córdoba,Deportivo Pereira,1,2,Montería,Colombia,29.0,0.3,5.0,25.9
+714368,2024-11-02T01:00Z,Once Caldas,Fortaleza CEIF,0,2,Manizales,Colombia,2144.0,0.5,4.9,13.2
+714371,2024-11-02T19:00Z,Internacional de Bogotá,Alianza FC,3,2,Bogota,Colombia,2582.0,0.5,3.9,16.6
+714372,2024-11-02T21:00Z,Envigado FC,Atlético Junior,0,0,Envigado,Colombia,1539.0,1.7,2.7,19.8
+714366,2024-11-02T23:30Z,Águilas Doradas,Deportes Tolima,0,1,Sincelejo,Colombia,209.0,0,3.5,24.9
+714367,2024-11-03T19:00Z,Patriotas,Boyacá Chicó FC,3,0,Tunja,Colombia,2693.0,1.1,8.8,13.5
+714375,2024-11-03T21:10Z,América de Cali,Deportivo Cali,0,1,Cali,Colombia,758.0,11.2,10.1,23.9
+714369,2024-11-03T23:20Z,Millonarios,Deportivo Pasto,1,0,Bogota,Colombia,2582.0,2.9,2.2,13.4
+714374,2024-11-04T01:30Z,Atlético Bucaramanga,Independiente Medellín,2,3,Bucaramanga,Colombia,1010.0,0,0.8,22.5
+714373,2024-11-05T01:15Z,Atlético Nacional,Independiente Santa Fe,1,1,Medellin,Colombia,1405.0,0,2.2,18.6
+714380,2024-11-06T00:30Z,Fortaleza CEIF,Internacional de Bogotá,2,1,Bogota,Colombia,2582.0,0,2.8,13.2
+714379,2024-11-06T19:30Z,Boyacá Chicó FC,Atlético Bucaramanga,1,1,Tunja,Colombia,2693.0,1.0,9.7,16.7
+714385,2024-11-06T21:30Z,Alianza FC,Águilas Doradas,3,0,Valledupar,Colombia,160.0,1.9,5.1,28.6
+714378,2024-11-06T23:30Z,Deportes Tolima,Envigado FC,3,0,Ibague,Colombia,1047.0,0,1.7,20.0
+714377,2024-11-07T01:30Z,Deportivo Cali,Jaguares de Córdoba,1,2,Cali,Colombia,758.0,0,6.1,23.2
+714384,2024-11-07T01:30Z,Independiente Medellín,Patriotas,3,0,Medellin,Colombia,1405.0,0,5.6,17.6
+714382,2024-11-07T21:50Z,Atlético Junior,Millonarios,0,0,Barranquilla,Colombia,24.0,0.3,2.2,27.0
+714376,2024-11-07T23:45Z,Deportivo Pasto,América de Cali,3,1,Pasto,Colombia,2569.0,0.1,4.4,13.2
+714381,2024-11-08T01:45Z,Deportivo Pereira,Atlético Nacional,1,1,Pereira,Colombia,1445.0,0,4.5,17.8
+714383,2024-11-09T01:20Z,Independiente Santa Fe,Once Caldas,2,1,Bogota,Colombia,2582.0,0.2,3.2,12.1
+714387,2024-11-10T01:20Z,Atlético Bucaramanga,Fortaleza CEIF,1,0,Bucaramanga,Colombia,1010.0,0.4,2.7,19.6
+714389,2024-11-10T19:00Z,Patriotas,Deportes Tolima,2,1,Tunja,Colombia,2693.0,0.2,12.3,15.3
+714394,2024-11-10T21:10Z,Envigado FC,Deportivo Cali,1,0,Envigado,Colombia,1539.0,4.4,2.3,20.6
+714393,2024-11-10T21:10Z,Jaguares de Córdoba,Alianza FC,0,0,Montería,Colombia,29.0,0.2,4.0,27.0
+714388,2024-11-10T23:20Z,Águilas Doradas,Boyacá Chicó FC,0,1,Sincelejo,Colombia,209.0,0.6,1.8,24.4
+714391,2024-11-11T01:30Z,Millonarios,Deportivo Pereira,0,0,Bogota,Colombia,2582.0,0,4.8,11.4
+714392,2024-11-11T19:00Z,Internacional de Bogotá,Deportivo Pasto,2,2,Bogota,Colombia,2582.0,0.5,2.5,16.2
+714395,2024-11-11T21:10Z,Atlético Nacional,Independiente Medellín,1,1,Medellin,Colombia,1405.0,0.8,2.5,19.8
+714390,2024-11-11T23:20Z,Once Caldas,Atlético Junior,0,0,Manizales,Colombia,2144.0,0.1,2.9,14.0
+714386,2024-11-12T01:30Z,América de Cali,Independiente Santa Fe,0,0,Cali,Colombia,758.0,0,2.4,20.4
+714396,2024-11-15T00:00Z,Alianza FC,Atlético Bucaramanga,0,4,Valledupar,Colombia,160.0,0.1,3.1,24.2
+714404,2024-11-15T00:00Z,América de Cali,Once Caldas,3,0,Cali,Colombia,758.0,0,5.6,22.1
+714400,2024-11-15T00:00Z,Atlético Junior,Deportivo Cali,3,0,Barranquilla,Colombia,24.0,0,3.7,24.7
+714403,2024-11-15T00:00Z,Boyacá Chicó FC,Millonarios,1,5,Villavicencio,Colombia,495.0,0,4.4,23.3
+714402,2024-11-15T00:00Z,Deportes Tolima,Atlético Nacional,1,0,Ibague,Colombia,1047.0,2.7,0.3,19.8
+714401,2024-11-15T00:00Z,Deportivo Pasto,Patriotas,3,2,Pasto,Colombia,2569.0,0,4.3,11.6
+714405,2024-11-15T00:00Z,Deportivo Pereira,Internacional de Bogotá,4,3,Pereira,Colombia,1445.0,0,1.9,17.9
+714399,2024-11-15T00:00Z,Fortaleza CEIF,Águilas Doradas,0,1,Bogota,Colombia,2582.0,0.2,1.9,13.0
+714398,2024-11-15T00:00Z,Independiente Medellín,Envigado FC,1,0,Medellin,Colombia,1405.0,0,0.9,18.2
+714397,2024-11-15T00:00Z,Independiente Santa Fe,Jaguares de Córdoba,3,0,Bogota,Colombia,2582.0,0.2,1.9,13.0
+723565,2024-11-20T23:30Z,Millonarios,Deportivo Pasto,2,1,Bogota,Colombia,2582.0,1.7,0.9,13.6
+723566,2024-11-21T01:30Z,Atlético Nacional,Independiente Santa Fe,5,0,Medellin,Colombia,1405.0,0.3,0.9,18.6
+723567,2024-11-21T23:30Z,Once Caldas,Deportes Tolima,0,0,Manizales,Colombia,2144.0,1.4,7.8,13.3
+723568,2024-11-22T01:30Z,Atlético Junior,América de Cali,1,0,Barranquilla,Colombia,24.0,0.1,5.4,25.7
+723679,2024-11-24T20:00Z,Deportivo Pasto,Atlético Nacional,0,1,Pasto,Colombia,2569.0,0.9,4.7,17.1
+723680,2024-11-24T22:10Z,América de Cali,Once Caldas,1,1,Cali,Colombia,758.0,0.2,2.7,24.1
+723681,2024-11-25T00:20Z,Deportes Tolima,Atlético Junior,1,0,Ibague,Colombia,1047.0,0,2.0,20.5
+723682,2024-11-27T01:00Z,Independiente Santa Fe,Millonarios,0,1,Bogota,Colombia,2582.0,0,4.3,13.7
+723683,2024-11-27T23:30Z,Deportes Tolima,América de Cali,1,0,Ibague,Colombia,1047.0,4.7,2.3,21.1
+723684,2024-11-28T01:30Z,Once Caldas,Atlético Junior,2,2,Manizales,Colombia,2144.0,0.4,0.5,13.5
+723685,2024-11-29T23:30Z,Deportivo Pasto,Independiente Santa Fe,1,0,Pasto,Colombia,2569.0,0,0.7,13.2
+723686,2024-11-30T01:30Z,Millonarios,Atlético Nacional,2,1,Medellin,Colombia,1405.0,0,3.5,19.5
+723926,2024-12-01T21:00Z,América de Cali,Deportes Tolima,4,2,Cali,Colombia,758.0,0,2.7,27.1
+723927,2024-12-01T23:30Z,Atlético Junior,Once Caldas,1,2,Barranquilla,Colombia,24.0,0,13.2,28.5
+723928,2024-12-02T23:30Z,Independiente Santa Fe,Deportivo Pasto,1,2,Bogota,Colombia,2582.0,0,3.1,15.6
+723929,2024-12-03T01:30Z,Atlético Nacional,Millonarios,1,1,Medellin,Colombia,1405.0,0.1,0.6,20.0
+723961,2024-12-04T23:30Z,Once Caldas,América de Cali,3,0,Manizales,Colombia,2144.0,2.2,6.2,13.8
+723962,2024-12-05T01:30Z,Atlético Junior,Deportes Tolima,3,2,Barranquilla,Colombia,24.0,0,16.9,28.3
+723963,2024-12-05T23:30Z,Atlético Nacional,Deportivo Pasto,2,1,Itagui,Colombia,1538.0,0.2,2.3,18.4
+723964,2024-12-06T01:30Z,Millonarios,Independiente Santa Fe,1,1,Bogota,Colombia,2582.0,0.1,5.2,14.6
+724181,2024-12-08T21:30Z,América de Cali,Atlético Junior,1,0,Cali,Colombia,758.0,0.1,0.6,25.8
+724182,2024-12-08T21:30Z,Deportes Tolima,Once Caldas,1,0,Ibague,Colombia,1047.0,0,5.6,25.8
+724183,2024-12-09T00:00Z,Deportivo Pasto,Millonarios,0,0,Pasto,Colombia,2569.0,0,1.7,13.3
+724184,2024-12-09T00:00Z,Independiente Santa Fe,Atlético Nacional,0,3,Bogota,Colombia,2582.0,0,6.7,14.5
+724715,2024-12-19T00:30Z,Deportes Tolima,Atlético Nacional,1,1,Ibague,Colombia,1047.0,0.1,8.6,20.6

@@ -341,3 +341,100 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 711460,2024-09-22T13:30Z,Bayer Leverkusen,VfL Wolfsburg,4,3,Leverkusen,Germany,52.0,0,5.9,24.0
 711465,2024-09-22T15:30Z,VfB Stuttgart,Borussia Dortmund,5,1,Stuttgart,Germany,252.0,0,4.4,22.2
 711467,2024-09-22T17:30Z,St. Pauli,RB Leipzig,0,0,Hamburg Norderstedt,Germany,,,,
+711469,2024-09-27T18:30Z,Borussia Dortmund,VfL Bochum,4,2,Aue,Germany,399.0,0,23.1,12.9
+711470,2024-09-28T13:30Z,Borussia Mönchengladbach,1. FC Union Berlin,1,0,Mönchengladbach,Germany,57.0,0.5,16.5,13.4
+711468,2024-09-28T13:30Z,Mainz,1. FC Heidenheim 1846,0,2,Mainz,Germany,125.0,0,17.5,14.7
+711474,2024-09-28T13:30Z,RB Leipzig,FC Augsburg,4,0,Leipzig,Germany,116.0,0.1,17.2,14.1
+711473,2024-09-28T13:30Z,SC Freiburg,St. Pauli,0,3,Freiburg im Breisgau,Germany,278.0,0.2,8.4,12.7
+711472,2024-09-28T13:30Z,VfL Wolfsburg,VfB Stuttgart,2,2,Wolfsburg,Germany,65.0,0.2,17.9,11.2
+711471,2024-09-28T16:30Z,Bayern Munich,Bayer Leverkusen,1,1,München,Germany,524.0,0,13.3,11.8
+711475,2024-09-29T13:30Z,Holstein Kiel,Eintracht Frankfurt,2,4,Kiel,Germany,7.0,0,10.1,14.1
+711476,2024-09-29T15:30Z,TSG Hoffenheim,Werder Bremen,3,4,Sinsheim,Germany,162.0,0,13.3,14.3
+711485,2024-10-04T18:30Z,FC Augsburg,Borussia Mönchengladbach,2,1,Augsburg,Germany,489.0,0.8,9.4,8.5
+711484,2024-10-05T13:30Z,1. FC Union Berlin,Borussia Dortmund,2,1,Berlin,Germany,74.0,0,10.2,13.9
+711483,2024-10-05T13:30Z,Bayer Leverkusen,Holstein Kiel,2,2,Leverkusen,Germany,52.0,0,7.5,15.1
+711477,2024-10-05T13:30Z,VfL Bochum,VfL Wolfsburg,1,3,Bochum,Germany,102.0,0,7.6,14.6
+711479,2024-10-05T13:30Z,Werder Bremen,SC Freiburg,0,1,Bremen,Germany,17.0,0,8.6,14.2
+711480,2024-10-05T16:30Z,St. Pauli,Mainz,0,3,Hamburg Norderstedt,Germany,,,,
+711481,2024-10-06T13:30Z,1. FC Heidenheim 1846,RB Leipzig,0,1,Heidenheim,Germany,494.0,0,10.1,10.1
+711482,2024-10-06T15:30Z,Eintracht Frankfurt,Bayern Munich,3,3,Frankfurt,Germany,113.0,0,11.0,15.2
+711478,2024-10-06T17:30Z,VfB Stuttgart,TSG Hoffenheim,1,1,Stuttgart,Germany,252.0,0,7.1,12.4
+711492,2024-10-18T18:30Z,Borussia Dortmund,St. Pauli,2,1,Aue,Germany,399.0,0,11.9,11.1
+711493,2024-10-19T13:30Z,Bayer Leverkusen,Eintracht Frankfurt,2,1,Leverkusen,Germany,52.0,0.2,14.3,16.8
+711491,2024-10-19T13:30Z,Borussia Mönchengladbach,1. FC Heidenheim 1846,3,2,Mönchengladbach,Germany,57.0,0.1,16.1,16.9
+711494,2024-10-19T13:30Z,Mainz,RB Leipzig,0,2,Mainz,Germany,125.0,0,13.9,17.6
+711488,2024-10-19T13:30Z,SC Freiburg,FC Augsburg,3,1,Freiburg im Breisgau,Germany,278.0,0,8.5,17.3
+711487,2024-10-19T13:30Z,TSG Hoffenheim,VfL Bochum,3,1,Sinsheim,Germany,162.0,0,7.6,17.4
+711490,2024-10-19T16:30Z,Bayern Munich,VfB Stuttgart,4,0,München,Germany,524.0,0,7.0,15.0
+711489,2024-10-20T13:30Z,Holstein Kiel,1. FC Union Berlin,0,2,Kiel,Germany,7.0,0,16.8,16.5
+711486,2024-10-20T15:30Z,VfL Wolfsburg,Werder Bremen,2,4,Wolfsburg,Germany,65.0,0,7.4,18.3
+711497,2024-10-25T18:30Z,Mainz,Borussia Mönchengladbach,1,1,Mainz,Germany,125.0,0,6.1,13.3
+711498,2024-10-26T13:30Z,FC Augsburg,Borussia Dortmund,2,1,Augsburg,Germany,489.0,0,12.5,12.6
+711500,2024-10-26T13:30Z,RB Leipzig,SC Freiburg,3,1,Leipzig,Germany,116.0,0,4.9,17.8
+711503,2024-10-26T13:30Z,St. Pauli,VfL Wolfsburg,0,0,Hamburg Norderstedt,Germany,,,,
+711502,2024-10-26T13:30Z,VfB Stuttgart,Holstein Kiel,2,1,Stuttgart,Germany,252.0,0,9.0,16.1
+711501,2024-10-26T16:30Z,Werder Bremen,Bayer Leverkusen,2,2,Bremen,Germany,17.0,0,9.3,15.4
+711499,2024-10-27T14:30Z,VfL Bochum,Bayern Munich,0,5,Bochum,Germany,102.0,0,10.5,15.8
+711496,2024-10-27T16:30Z,1. FC Union Berlin,Eintracht Frankfurt,1,1,Berlin,Germany,74.0,0.1,15.3,14.2
+711495,2024-10-27T18:30Z,1. FC Heidenheim 1846,TSG Hoffenheim,0,0,Heidenheim,Germany,494.0,0,3.2,12.1
+711504,2024-11-01T19:30Z,Bayer Leverkusen,VfB Stuttgart,0,0,Leverkusen,Germany,52.0,0,4.5,10.6
+711510,2024-11-02T14:30Z,Bayern Munich,1. FC Union Berlin,3,0,München,Germany,524.0,0,8.6,8.8
+711511,2024-11-02T14:30Z,Eintracht Frankfurt,VfL Bochum,7,2,Frankfurt,Germany,113.0,0,9.6,13.1
+711509,2024-11-02T14:30Z,Holstein Kiel,1. FC Heidenheim 1846,1,0,Kiel,Germany,7.0,0,5.7,8.5
+711507,2024-11-02T14:30Z,TSG Hoffenheim,St. Pauli,0,2,Sinsheim,Germany,162.0,0,12.2,11.4
+711506,2024-11-02T14:30Z,VfL Wolfsburg,FC Augsburg,1,1,Wolfsburg,Germany,65.0,0,4.4,9.1
+711505,2024-11-02T17:30Z,Borussia Dortmund,RB Leipzig,2,1,Aue,Germany,399.0,0,5.6,6.3
+711508,2024-11-03T14:30Z,SC Freiburg,Mainz,0,0,Freiburg im Breisgau,Germany,278.0,0,2.1,11.1
+711512,2024-11-03T16:30Z,Borussia Mönchengladbach,Werder Bremen,4,1,Mönchengladbach,Germany,57.0,0,10.3,8.1
+711520,2024-11-08T19:30Z,1. FC Union Berlin,SC Freiburg,0,0,Berlin,Germany,74.0,0,16.0,3.9
+711519,2024-11-09T14:30Z,Mainz,Borussia Dortmund,3,1,Mainz,Germany,125.0,0,2.5,8.8
+711521,2024-11-09T14:30Z,St. Pauli,Bayern Munich,0,1,Hamburg Norderstedt,Germany,,,,
+711517,2024-11-09T14:30Z,VfL Bochum,Bayer Leverkusen,1,1,Bochum,Germany,102.0,0,7.9,9.8
+711515,2024-11-09T14:30Z,Werder Bremen,Holstein Kiel,2,1,Bremen,Germany,17.0,0,9.3,7.2
+711516,2024-11-09T17:30Z,RB Leipzig,Borussia Mönchengladbach,0,0,Leipzig,Germany,116.0,0,6.8,3.9
+711518,2024-11-10T14:30Z,FC Augsburg,TSG Hoffenheim,0,0,Augsburg,Germany,489.0,0,4.7,5.0
+711514,2024-11-10T16:30Z,VfB Stuttgart,Eintracht Frankfurt,2,3,Stuttgart,Germany,252.0,0,4.5,4.4
+711513,2024-11-10T18:30Z,1. FC Heidenheim 1846,VfL Wolfsburg,1,3,Heidenheim,Germany,494.0,0,4.4,3.7
+711526,2024-11-22T19:30Z,Bayern Munich,FC Augsburg,3,0,München,Germany,524.0,0.3,23.4,-1.9
+711522,2024-11-23T14:30Z,Bayer Leverkusen,1. FC Heidenheim 1846,5,2,Leverkusen,Germany,52.0,0,17.8,5.4
+711523,2024-11-23T14:30Z,Borussia Dortmund,SC Freiburg,4,0,Aue,Germany,399.0,0,16.9,1.7
+711528,2024-11-23T14:30Z,TSG Hoffenheim,RB Leipzig,4,3,Sinsheim,Germany,162.0,0,12.4,5.6
+711529,2024-11-23T14:30Z,VfB Stuttgart,VfL Bochum,2,0,Stuttgart,Germany,252.0,0,13.2,4.9
+711530,2024-11-23T14:30Z,VfL Wolfsburg,1. FC Union Berlin,1,0,Wolfsburg,Germany,65.0,0,17.4,4.1
+711525,2024-11-23T17:30Z,Eintracht Frankfurt,Werder Bremen,1,0,Frankfurt,Germany,113.0,0,11.9,4.9
+711527,2024-11-24T14:30Z,Holstein Kiel,Mainz,0,3,Kiel,Germany,7.0,0,27.7,14.0
+711524,2024-11-24T16:30Z,Borussia Mönchengladbach,St. Pauli,2,0,Mönchengladbach,Germany,57.0,0,26.2,16.5
+711539,2024-11-29T19:30Z,St. Pauli,Holstein Kiel,3,1,Hamburg Norderstedt,Germany,,,,
+711535,2024-11-30T14:30Z,1. FC Union Berlin,Bayer Leverkusen,1,2,Berlin,Germany,74.0,0,9.0,4.3
+711536,2024-11-30T14:30Z,FC Augsburg,VfL Bochum,1,0,Augsburg,Germany,489.0,0,8.3,3.8
+711534,2024-11-30T14:30Z,RB Leipzig,VfL Wolfsburg,1,5,Leipzig,Germany,116.0,0,8.4,4.1
+711533,2024-11-30T14:30Z,SC Freiburg,Borussia Mönchengladbach,3,1,Freiburg im Breisgau,Germany,278.0,0,2.9,1.6
+711532,2024-11-30T14:30Z,Werder Bremen,VfB Stuttgart,2,2,Bremen,Germany,17.0,0,9.5,4.7
+711537,2024-11-30T17:30Z,Borussia Dortmund,Bayern Munich,1,1,Aue,Germany,399.0,0,12.7,0.2
+711538,2024-12-01T14:30Z,Mainz,TSG Hoffenheim,2,0,Mainz,Germany,125.0,0,8.6,-0.2
+711531,2024-12-01T16:30Z,1. FC Heidenheim 1846,Eintracht Frankfurt,0,4,Heidenheim,Germany,494.0,0,6.1,-2.7
+711545,2024-12-06T19:30Z,VfB Stuttgart,1. FC Union Berlin,3,2,Stuttgart,Germany,252.0,0,23.1,5.0
+711540,2024-12-07T14:30Z,Bayer Leverkusen,St. Pauli,2,1,Leverkusen,Germany,52.0,0.1,15.6,10.0
+711542,2024-12-07T14:30Z,Bayern Munich,1. FC Heidenheim 1846,4,2,München,Germany,524.0,0.1,8.2,5.7
+711541,2024-12-07T14:30Z,Eintracht Frankfurt,FC Augsburg,2,2,Frankfurt,Germany,113.0,0.4,11.9,5.6
+711543,2024-12-07T14:30Z,Holstein Kiel,RB Leipzig,0,2,Kiel,Germany,7.0,1.2,19.1,4.1
+711546,2024-12-07T14:30Z,VfL Bochum,Werder Bremen,0,1,Bochum,Germany,102.0,0,19.4,9.4
+711547,2024-12-07T17:30Z,Borussia Mönchengladbach,Borussia Dortmund,1,1,Mönchengladbach,Germany,57.0,0,23.8,7.7
+711548,2024-12-08T14:30Z,VfL Wolfsburg,Mainz,4,3,Wolfsburg,Germany,65.0,0,10.3,4.6
+711544,2024-12-08T16:30Z,TSG Hoffenheim,SC Freiburg,1,1,Sinsheim,Germany,162.0,0,14.0,4.0
+711557,2024-12-13T19:30Z,SC Freiburg,VfL Wolfsburg,3,2,Freiburg im Breisgau,Germany,278.0,0,1.9,-0.9
+711556,2024-12-14T14:30Z,1. FC Union Berlin,VfL Bochum,0,2,Berlin,Germany,74.0,0,14.8,1.1
+711552,2024-12-14T14:30Z,Borussia Mönchengladbach,Holstein Kiel,4,1,Mönchengladbach,Germany,57.0,0.1,16.8,3.2
+711553,2024-12-14T14:30Z,FC Augsburg,Bayer Leverkusen,0,2,Augsburg,Germany,489.0,0,18.1,3.0
+711550,2024-12-14T14:30Z,Mainz,Bayern Munich,2,1,Mainz,Germany,125.0,0,13.3,2.2
+711554,2024-12-14T17:30Z,St. Pauli,Werder Bremen,0,2,Hamburg Norderstedt,Germany,,,,
+711549,2024-12-15T14:30Z,1. FC Heidenheim 1846,VfB Stuttgart,1,3,Heidenheim,Germany,494.0,0,16.1,2.1
+711551,2024-12-15T16:30Z,Borussia Dortmund,TSG Hoffenheim,1,1,Aue,Germany,399.0,1.2,23.8,2.1
+711555,2024-12-15T18:30Z,RB Leipzig,Eintracht Frankfurt,2,1,Leipzig,Germany,116.0,2.8,23.8,5.6
+711565,2024-12-20T19:30Z,Bayern Munich,RB Leipzig,5,1,München,Germany,524.0,0,12.7,0.5
+711564,2024-12-21T14:30Z,Eintracht Frankfurt,Mainz,1,3,Frankfurt,Germany,113.0,0,19.1,6.5
+711566,2024-12-21T14:30Z,Holstein Kiel,FC Augsburg,5,1,Kiel,Germany,7.0,0.3,24.2,6.5
+711562,2024-12-21T14:30Z,TSG Hoffenheim,Borussia Mönchengladbach,1,2,Sinsheim,Germany,162.0,0,22.2,6.2
+711561,2024-12-21T14:30Z,VfB Stuttgart,St. Pauli,0,1,Stuttgart,Germany,252.0,0,19.2,6.1
+711563,2024-12-21T14:30Z,Werder Bremen,1. FC Union Berlin,4,1,Bremen,Germany,17.0,0,23.2,7.7
+711558,2024-12-21T17:30Z,Bayer Leverkusen,SC Freiburg,5,1,Leverkusen,Germany,52.0,0.7,19.1,7.4

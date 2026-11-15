@@ -179,3 +179,99 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 711853,2024-09-22T11:30Z,1. FC Magdeburg,Karlsruher SC,2,2,Magdeburg,Germany,47.0,0,5.1,21.8
 711859,2024-09-22T11:30Z,SSV Jahn Regensburg,Preußen Münster,0,3,Regensburg,Germany,341.0,0,5.4,20.3
 711860,2024-09-22T11:30Z,SV Elversberg,SSV Ulm 1846,1,3,Spiesen-Elversberg,Germany,353.0,0,3.7,21.7
+711868,2024-09-27T16:30Z,SpVgg Greuther Fürth,Fortuna Düsseldorf,1,2,Fürth,Germany,302.0,0.1,13.0,14.1
+711867,2024-09-27T16:30Z,SSV Ulm 1846,TSV Eintracht Braunschweig,3,1,Ulm,Germany,480.0,0.2,14.5,13.2
+711862,2024-09-28T11:00Z,Hamburg SV,SC Paderborn 07,2,2,Hamburg Norderstedt,Germany,,,,
+711866,2024-09-28T11:00Z,SSV Jahn Regensburg,Kaiserslautern,0,0,Regensburg,Germany,341.0,0.1,15.2,13.8
+711865,2024-09-28T11:00Z,SV Darmstadt 98,1. FC Magdeburg,1,2,Darmstadt,Germany,148.0,0.1,13.7,14.2
+711869,2024-09-28T18:30Z,Preußen Münster,Schalke 04,1,2,Münster,Germany,64.0,0,9.9,9.5
+711863,2024-09-29T11:30Z,Hannover 96,1. FC Nürnberg,2,0,Hannover,Germany,57.0,0,5.4,13.4
+711864,2024-09-29T11:30Z,Hertha Berlin,SV Elversberg,1,4,Berlin,Germany,74.0,0,15.1,13.7
+711861,2024-09-29T11:40Z,FC Cologne,Karlsruher SC,4,4,Cologne,Germany,58.0,0,12.3,13.5
+711878,2024-10-04T16:30Z,Karlsruher SC,SV Darmstadt 98,3,3,Karlsruhe,Germany,118.0,0.1,5.5,12.8
+711875,2024-10-04T16:30Z,SC Paderborn 07,SSV Jahn Regensburg,3,0,Paderborn,Germany,118.0,0,7.0,12.5
+711870,2024-10-05T11:00Z,1. FC Nürnberg,Preußen Münster,3,2,Nürnberg,Germany,300.0,0.1,9.9,11.2
+711873,2024-10-05T11:00Z,FC Cologne,SSV Ulm 1846,2,0,Cologne,Germany,58.0,0,4.5,13.5
+711876,2024-10-05T11:00Z,SV Elversberg,Kaiserslautern,1,0,Spiesen-Elversberg,Germany,353.0,0,12.6,13.3
+711872,2024-10-05T18:30Z,Schalke 04,Hertha Berlin,2,2,Gelsenkirchen,Germany,48.0,0,9.7,10.1
+711874,2024-10-06T11:30Z,1. FC Magdeburg,SpVgg Greuther Fürth,2,2,Magdeburg,Germany,47.0,0.1,9.8,13.0
+711877,2024-10-06T11:30Z,Fortuna Düsseldorf,Hamburg SV,0,3,Düsseldorf,Germany,42.0,0,19.7,14.0
+711871,2024-10-06T11:30Z,TSV Eintracht Braunschweig,Hannover 96,2,0,Braunschweig,Germany,72.0,0,14.1,12.9
+711882,2024-10-18T16:30Z,Hertha Berlin,TSV Eintracht Braunschweig,3,1,Berlin,Germany,74.0,0,8.8,14.5
+711886,2024-10-18T16:30Z,SV Darmstadt 98,FC Cologne,5,1,Darmstadt,Germany,148.0,0,8.5,13.6
+711881,2024-10-19T11:00Z,Hannover 96,Schalke 04,1,0,Hannover,Germany,57.0,0,16.8,17.9
+711883,2024-10-19T11:00Z,Preußen Münster,SV Elversberg,1,1,Münster,Germany,64.0,2.0,15.8,15.4
+711884,2024-10-19T11:00Z,SSV Jahn Regensburg,Fortuna Düsseldorf,0,3,Regensburg,Germany,341.0,0.1,7.8,16.7
+711879,2024-10-19T18:30Z,Kaiserslautern,SC Paderborn 07,3,0,Kaiserslautern,Germany,240.0,0,5.5,12.8
+711880,2024-10-20T11:30Z,Hamburg SV,1. FC Magdeburg,3,1,Hamburg Norderstedt,Germany,,,,
+711887,2024-10-20T11:30Z,SpVgg Greuther Fürth,1. FC Nürnberg,0,4,Fürth,Germany,302.0,0,9.5,16.9
+711885,2024-10-20T11:30Z,SSV Ulm 1846,Karlsruher SC,0,1,Ulm,Germany,480.0,0,6.2,14.0
+711890,2024-10-25T16:30Z,1. FC Nürnberg,SSV Jahn Regensburg,8,3,Nürnberg,Germany,300.0,0,6.5,13.2
+711888,2024-10-25T16:30Z,FC Cologne,SC Paderborn 07,1,2,Cologne,Germany,58.0,0,8.3,17.0
+711894,2024-10-26T11:00Z,Karlsruher SC,Hertha Berlin,1,3,Karlsruhe,Germany,118.0,0,10.3,16.1
+711892,2024-10-26T11:00Z,Schalke 04,SpVgg Greuther Fürth,3,4,Gelsenkirchen,Germany,48.0,0,3.1,18.9
+711895,2024-10-26T11:00Z,SV Elversberg,Hamburg SV,4,2,Spiesen-Elversberg,Germany,353.0,0,10.4,15.1
+711893,2024-10-26T18:30Z,Fortuna Düsseldorf,Kaiserslautern,3,4,Düsseldorf,Germany,42.0,0,12.0,13.7
+711889,2024-10-27T12:30Z,1. FC Magdeburg,Hannover 96,0,3,Magdeburg,Germany,47.0,0,18.5,16.9
+711896,2024-10-27T12:30Z,SV Darmstadt 98,SSV Ulm 1846,1,1,Darmstadt,Germany,148.0,0,5.3,15.5
+711891,2024-10-27T12:30Z,TSV Eintracht Braunschweig,Preußen Münster,1,1,Braunschweig,Germany,72.0,0,17.2,15.4
+711902,2024-11-01T17:30Z,Preußen Münster,Fortuna Düsseldorf,1,0,Münster,Germany,64.0,0,13.0,10.5
+711904,2024-11-01T17:30Z,SSV Ulm 1846,Schalke 04,0,0,Ulm,Germany,480.0,0,9.3,9.1
+711899,2024-11-02T12:00Z,Hannover 96,Karlsruher SC,2,1,Hannover,Germany,57.0,0,8.8,9.5
+711900,2024-11-02T12:00Z,SpVgg Greuther Fürth,SV Darmstadt 98,1,5,Fürth,Germany,302.0,0,4.2,10.7
+711903,2024-11-02T12:00Z,SSV Jahn Regensburg,SV Elversberg,1,0,Regensburg,Germany,341.0,0,5.4,11.0
+711901,2024-11-02T19:30Z,Hertha Berlin,FC Cologne,0,1,Berlin,Germany,74.0,0,8.2,2.8
+711898,2024-11-03T12:30Z,Hamburg SV,1. FC Nürnberg,1,1,Hamburg Norderstedt,Germany,,,,
+711897,2024-11-03T12:30Z,Kaiserslautern,1. FC Magdeburg,2,2,Kaiserslautern,Germany,240.0,0,10.3,12.2
+711905,2024-11-03T12:30Z,SC Paderborn 07,TSV Eintracht Braunschweig,0,0,Paderborn,Germany,118.0,0,3.4,11.2
+711908,2024-11-08T17:30Z,1. FC Nürnberg,Kaiserslautern,0,0,Nürnberg,Germany,300.0,0,8.8,5.8
+711909,2024-11-08T17:30Z,TSV Eintracht Braunschweig,Hamburg SV,3,1,Braunschweig,Germany,72.0,0,13.0,6.0
+711907,2024-11-09T12:00Z,1. FC Magdeburg,SSV Ulm 1846,0,0,Magdeburg,Germany,47.0,0,4.8,8.1
+711906,2024-11-09T12:00Z,FC Cologne,SpVgg Greuther Fürth,1,0,Cologne,Germany,58.0,0,10.0,11.4
+711914,2024-11-09T12:00Z,SV Darmstadt 98,Hertha Berlin,3,1,Darmstadt,Germany,148.0,0,2.2,10.5
+711911,2024-11-09T19:30Z,Fortuna Düsseldorf,SC Paderborn 07,1,1,Düsseldorf,Germany,42.0,0,7.6,9.6
+711912,2024-11-10T12:30Z,Karlsruher SC,Preußen Münster,1,1,Karlsruhe,Germany,118.0,0,5.1,7.4
+711910,2024-11-10T12:30Z,Schalke 04,SSV Jahn Regensburg,2,0,Gelsenkirchen,Germany,48.0,0,9.1,10.9
+711913,2024-11-10T12:30Z,SV Elversberg,Hannover 96,3,1,Spiesen-Elversberg,Germany,353.0,0,5.5,8.1
+711920,2024-11-22T17:30Z,SC Paderborn 07,1. FC Nürnberg,3,2,Paderborn,Germany,118.0,0.3,32.4,2.5
+711921,2024-11-22T17:45Z,Preußen Münster,FC Cologne,0,1,Münster,Germany,64.0,0.2,23.6,3.0
+711916,2024-11-23T12:00Z,Fortuna Düsseldorf,SV Elversberg,0,2,Düsseldorf,Germany,42.0,0,16.1,4.6
+711918,2024-11-23T12:00Z,Hannover 96,SV Darmstadt 98,1,2,Hannover,Germany,57.0,0,13.9,5.5
+711919,2024-11-23T12:00Z,Hertha Berlin,SSV Ulm 1846,2,2,Berlin,Germany,74.0,0,17.7,4.2
+711923,2024-11-23T12:00Z,SpVgg Greuther Fürth,Karlsruher SC,2,3,Fürth,Germany,302.0,0,10.7,4.2
+711917,2024-11-23T19:30Z,Hamburg SV,Schalke 04,2,2,Hamburg Norderstedt,Germany,,,,
+711915,2024-11-24T12:30Z,Kaiserslautern,TSV Eintracht Braunschweig,3,2,Kaiserslautern,Germany,240.0,0,17.1,14.8
+711922,2024-11-24T12:30Z,SSV Jahn Regensburg,1. FC Magdeburg,0,1,Regensburg,Germany,341.0,0,10.7,9.3
+711925,2024-11-29T17:30Z,1. FC Magdeburg,Hertha Berlin,1,3,Magdeburg,Germany,47.0,0,4.3,4.4
+711928,2024-11-29T17:30Z,Schalke 04,Kaiserslautern,0,3,Gelsenkirchen,Germany,48.0,0,7.8,3.5
+711924,2024-11-30T12:00Z,FC Cologne,Hannover 96,2,2,Cologne,Germany,58.0,0,11.7,5.9
+711931,2024-11-30T12:00Z,SV Elversberg,SC Paderborn 07,1,3,Spiesen-Elversberg,Germany,353.0,0,5.6,4.2
+711927,2024-11-30T12:00Z,TSV Eintracht Braunschweig,SSV Jahn Regensburg,0,0,Braunschweig,Germany,72.0,0,4.7,4.7
+711932,2024-11-30T19:30Z,SV Darmstadt 98,Preußen Münster,0,0,Darmstadt,Germany,148.0,0,7.9,-0.3
+711926,2024-12-01T12:30Z,1. FC Nürnberg,Fortuna Düsseldorf,2,2,Nürnberg,Germany,300.0,0,7.0,3.6
+711929,2024-12-01T12:30Z,Karlsruher SC,Hamburg SV,1,3,Karlsruhe,Germany,118.0,0,2.3,2.3
+711930,2024-12-01T12:30Z,SSV Ulm 1846,SpVgg Greuther Fürth,1,1,Ulm,Germany,480.0,0,8.6,2.4
+711933,2024-12-06T17:30Z,SC Paderborn 07,Schalke 04,2,4,Paderborn,Germany,118.0,0.8,23.9,7.2
+711936,2024-12-06T17:30Z,SV Elversberg,1. FC Nürnberg,2,1,Spiesen-Elversberg,Germany,353.0,0,19.3,4.6
+711938,2024-12-07T12:00Z,Hannover 96,SSV Ulm 1846,3,2,Hannover,Germany,57.0,1.6,18.0,5.6
+711939,2024-12-07T12:00Z,Kaiserslautern,Karlsruher SC,3,1,Kaiserslautern,Germany,240.0,0.7,24.8,6.6
+711937,2024-12-07T12:00Z,SpVgg Greuther Fürth,Hertha Berlin,2,1,Fürth,Germany,302.0,1.2,15.9,4.1
+711940,2024-12-07T19:30Z,Preußen Münster,1. FC Magdeburg,1,2,Münster,Germany,64.0,0,17.6,7.1
+711934,2024-12-08T12:30Z,Fortuna Düsseldorf,TSV Eintracht Braunschweig,5,0,Düsseldorf,Germany,42.0,0,11.3,8.0
+711941,2024-12-08T12:30Z,Hamburg SV,SV Darmstadt 98,2,2,Hamburg Norderstedt,Germany,,,,
+711935,2024-12-08T12:30Z,SSV Jahn Regensburg,FC Cologne,0,1,Regensburg,Germany,341.0,0,10.6,6.5
+711942,2024-12-13T17:30Z,Hertha Berlin,Preußen Münster,1,2,Berlin,Germany,74.0,0,8.5,1.2
+711949,2024-12-13T17:30Z,Karlsruher SC,SSV Jahn Regensburg,4,2,Karlsruhe,Germany,118.0,0,1.7,0.7
+711948,2024-12-14T12:00Z,1. FC Magdeburg,SC Paderborn 07,1,1,Magdeburg,Germany,47.0,0,15.9,1.4
+711947,2024-12-14T12:00Z,Schalke 04,Fortuna Düsseldorf,1,1,Gelsenkirchen,Germany,48.0,0.1,13.0,2.5
+711944,2024-12-14T12:00Z,SSV Ulm 1846,Hamburg SV,1,1,Ulm,Germany,480.0,0,11.7,3.9
+711945,2024-12-14T19:30Z,SV Darmstadt 98,Kaiserslautern,5,1,Darmstadt,Germany,148.0,0,13.5,1.4
+711950,2024-12-15T12:30Z,FC Cologne,1. FC Nürnberg,3,1,Cologne,Germany,58.0,0,14.0,6.9
+711946,2024-12-15T12:30Z,SpVgg Greuther Fürth,Hannover 96,1,0,Fürth,Germany,302.0,0.2,19.4,2.3
+711943,2024-12-15T12:30Z,TSV Eintracht Braunschweig,SV Elversberg,0,3,Braunschweig,Germany,72.0,0.3,20.9,5.5
+711955,2024-12-20T17:30Z,Fortuna Düsseldorf,1. FC Magdeburg,2,5,Düsseldorf,Germany,42.0,0,12.1,3.7
+711959,2024-12-20T17:30Z,SV Elversberg,Schalke 04,1,4,Spiesen-Elversberg,Germany,353.0,0,12.2,2.3
+711958,2024-12-21T12:00Z,Hamburg SV,SpVgg Greuther Fürth,5,0,Hamburg Norderstedt,Germany,,,,
+711957,2024-12-21T12:00Z,Preußen Münster,SSV Ulm 1846,0,0,Münster,Germany,64.0,0.1,22.8,7.8
+711952,2024-12-21T12:00Z,SC Paderborn 07,Karlsruher SC,1,2,Paderborn,Germany,118.0,0.2,23.2,7.1
+711956,2024-12-21T19:30Z,1. FC Nürnberg,TSV Eintracht Braunschweig,1,0,Nürnberg,Germany,300.0,0.3,16.8,5.5
