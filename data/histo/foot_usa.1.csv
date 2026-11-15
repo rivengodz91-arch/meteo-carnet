@@ -521,3 +521,160 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 692883,2024-06-23T02:30Z,LAFC,San Jose Earthquakes,6,2,"Los Angeles, California",USA,89.0,0,13.5,26.3
 692882,2024-06-23T02:30Z,Portland Timbers,Vancouver Whitecaps,2,0,"Portland, Oregon",USA,12.0,0,21.1,24.8
 692884,2024-06-23T02:30Z,Seattle Sounders FC,FC Dallas,3,2,"Seattle, Washington",USA,56.0,0,18.1,22.1
+692885,2024-06-28T23:30Z,New York City FC,Orlando City SC,4,2,New York City,USA,10.0,0,20.2,21.4
+692888,2024-06-29T23:30Z,Atlanta United FC,Toronto FC,2,1,"Atlanta, Georgia",USA,320.0,0,6.9,29.0
+692890,2024-06-29T23:30Z,CF Montréal,Philadelphia Union,4,2,Montreal,Canada,216.0,2.4,14.0,18.4
+692887,2024-06-29T23:30Z,New England Revolution,Columbus Crew,1,5,"Foxborough, Massachusetts",USA,88.0,0.4,20.2,20.9
+692889,2024-06-29T23:30Z,Red Bull New York,D.C. United,2,2,"Harrison, New Jersey",USA,320.0,0,9.8,35.6
+692894,2024-06-30T00:30Z,FC Dallas,FC Cincinnati,0,1,Toyota Stadium,USA,,,,
+692893,2024-06-30T00:30Z,Houston Dynamo FC,Charlotte FC,1,0,"Houston, Texas",USA,12.0,0,21.0,31.4
+692891,2024-06-30T00:30Z,Nashville SC,Inter Miami CF,1,2,"Nashville, Tennessee",USA,170.0,0,5.0,31.4
+692892,2024-06-30T00:30Z,Sporting Kansas City,Austin FC,2,0,"Kansas City, Kansas",USA,274.0,0,16.6,28.3
+692898,2024-06-30T02:30Z,LAFC,Colorado Rapids,3,0,"Los Angeles, California",USA,89.0,0,14.3,23.5
+692895,2024-06-30T02:30Z,Portland Timbers,Minnesota United FC,3,2,"Portland, Oregon",USA,12.0,0.7,13.2,19.8
+692897,2024-06-30T02:30Z,San Jose Earthquakes,LA Galaxy,0,3,"Stanford, California",USA,287.0,0,8.5,26.7
+692896,2024-06-30T02:30Z,Seattle Sounders FC,Chicago Fire FC,2,1,"Seattle, Washington",USA,56.0,0.9,8.5,18.4
+692886,2024-06-30T02:30Z,Vancouver Whitecaps,St. Louis CITY SC,4,3,Vancouver,Canada,70.0,0.2,8.7,16.1
+692904,2024-07-03T23:30Z,Charlotte FC,Inter Miami CF,1,2,"Charlotte, North Carolina",USA,229.0,0,6.3,32.6
+692903,2024-07-03T23:30Z,D.C. United,FC Cincinnati,2,3,"Washington, District of Columbia",USA,7.0,0,13.4,29.0
+692901,2024-07-03T23:30Z,New York City FC,CF Montréal,2,0,"New York, New York",USA,10.0,0,24.2,24.1
+692900,2024-07-03T23:30Z,Toronto FC,Orlando City SC,1,2,Toronto,Canada,161.0,0.1,14.1,26.7
+692899,2024-07-03T23:45Z,New England Revolution,Atlanta United FC,2,1,"Foxborough, Massachusetts",USA,88.0,0,14.1,23.5
+692906,2024-07-04T00:30Z,Chicago Fire FC,Philadelphia Union,4,3,"Chicago, Illinois",USA,179.0,0,9.2,30.0
+692905,2024-07-04T00:30Z,Minnesota United FC,Vancouver Whitecaps,1,3,"Saint Paul, Minnesota",USA,242.0,0,13.9,25.6
+692907,2024-07-04T00:30Z,St. Louis CITY SC,San Jose Earthquakes,2,0,"St. Louis, Missouri",USA,142.0,0.2,7.9,26.2
+692902,2024-07-04T00:45Z,Columbus Crew,Nashville SC,2,0,"Columbus, Ohio",USA,235.0,0.2,12.8,28.8
+692908,2024-07-04T01:30Z,Real Salt Lake,Houston Dynamo FC,3,2,"Sandy, Utah",USA,1361.0,0,21.4,27.9
+692909,2024-07-05T00:30Z,FC Dallas,Portland Timbers,3,2,Toyota Stadium,USA,,,,
+692910,2024-07-05T01:30Z,Colorado Rapids,Sporting Kansas City,2,1,"Commerce City, Colorado",USA,1572.0,0,19.5,26.8
+692911,2024-07-05T02:40Z,LA Galaxy,LAFC,1,2,"Pasadena, California",USA,9.0,0,17.0,30.0
+692913,2024-07-06T23:30Z,CF Montréal,Vancouver Whitecaps,1,1,Montreal,Canada,216.0,1.7,11.6,21.7
+692912,2024-07-06T23:30Z,Columbus Crew,Toronto FC,4,0,"Columbus, Ohio",USA,235.0,0,12.4,27.8
+692914,2024-07-06T23:30Z,FC Cincinnati,Inter Miami CF,6,1,"Cincinnati, Ohio",USA,191.0,0,9.8,27.7
+692915,2024-07-06T23:30Z,Orlando City SC,D.C. United,5,0,"Orlando, Florida",USA,30.0,0,12.4,31.1
+692916,2024-07-06T23:30Z,Philadelphia Union,Red Bull New York,0,0,"Chester, Pennsylvania",USA,34.0,0,8.7,10.1
+692918,2024-07-07T01:30Z,Real Salt Lake,Atlanta United FC,5,2,"Sandy, Utah",USA,1361.0,0,11.7,32.1
+692917,2024-07-07T01:55Z,Austin FC,New York City FC,2,1,"Austin, Texas",USA,149.0,8.0,5.0,25.9
+692919,2024-07-07T02:30Z,Seattle Sounders FC,New England Revolution,2,0,"Seattle, Washington",USA,56.0,0,16.6,27.0
+692920,2024-07-08T00:30Z,San Jose Earthquakes,Chicago Fire FC,1,0,"San Jose, California",USA,26.0,0,21.5,31.5
+692922,2024-07-08T00:30Z,Sporting Kansas City,FC Dallas,3,2,"Kansas City, Kansas",USA,274.0,0.3,10.9,27.7
+692923,2024-07-08T01:30Z,Colorado Rapids,St. Louis CITY SC,4,1,"Commerce City, Colorado",USA,1572.0,0.3,14.3,17.3
+692925,2024-07-08T02:30Z,LA Galaxy,Minnesota United FC,2,1,"Carson, California",USA,12.0,0,14.1,23.2
+692924,2024-07-08T02:30Z,Portland Timbers,Nashville SC,4,1,"Portland, Oregon",USA,12.0,0,11.9,34.8
+692928,2024-07-13T23:30Z,CF Montréal,Atlanta United FC,1,0,Montreal,Canada,216.0,0,10.8,24.9
+692927,2024-07-13T23:30Z,D.C. United,Nashville SC,2,1,"Washington, District of Columbia",USA,7.0,0,6.0,29.1
+692929,2024-07-13T23:30Z,FC Cincinnati,Charlotte FC,1,3,"Cincinnati, Ohio",USA,191.0,0,5.4,31.5
+692930,2024-07-13T23:30Z,New England Revolution,Orlando City SC,1,3,"Foxborough, Massachusetts",USA,88.0,0,10.3,25.2
+692926,2024-07-13T23:30Z,Toronto FC,Philadelphia Union,2,1,Toronto,Canada,161.0,0,6.2,25.0
+692934,2024-07-14T00:30Z,Austin FC,Seattle Sounders FC,0,1,"Austin, Texas",USA,149.0,0.1,9.7,29.1
+692933,2024-07-14T00:30Z,Chicago Fire FC,New York City FC,0,0,"Chicago, Illinois",USA,179.0,0,17.3,27.3
+692932,2024-07-14T00:30Z,FC Dallas,LA Galaxy,2,0,Toyota Stadium,USA,,,,
+692935,2024-07-14T00:30Z,St. Louis CITY SC,Vancouver Whitecaps,1,4,"St. Louis, Missouri",USA,142.0,0,11.2,30.1
+692931,2024-07-14T01:27Z,Houston Dynamo FC,Minnesota United FC,1,1,"Houston, Texas",USA,12.0,0.3,0.8,26.2
+692936,2024-07-14T01:30Z,Colorado Rapids,Red Bull New York,1,1,"Commerce City, Colorado",USA,1572.0,0,14.6,35.2
+692938,2024-07-14T02:25Z,Portland Timbers,Real Salt Lake,3,0,"Portland, Oregon",USA,12.0,0,17.5,31.3
+692937,2024-07-14T02:30Z,LAFC,Columbus Crew,1,5,"Los Angeles, California",USA,89.0,0,16.1,22.3
+692939,2024-07-14T02:30Z,San Jose Earthquakes,Sporting Kansas City,1,2,"San Jose, California",USA,26.0,0,17.3,25.6
+692943,2024-07-17T23:30Z,Atlanta United FC,New York City FC,2,2,"Atlanta, Georgia",USA,320.0,0.1,19.6,30.1
+692941,2024-07-17T23:30Z,Columbus Crew,Charlotte FC,1,1,"Columbus, Ohio",USA,235.0,0.1,12.7,25.7
+692942,2024-07-17T23:30Z,FC Cincinnati,Chicago Fire FC,0,1,"Cincinnati, Ohio",USA,191.0,3.1,5.7,23.8
+692944,2024-07-17T23:30Z,Inter Miami CF,Toronto FC,3,1,"Fort Lauderdale, Florida",USA,1.0,0.1,13.7,29.2
+692945,2024-07-17T23:30Z,Philadelphia Union,New England Revolution,5,1,"Chester, Pennsylvania",USA,34.0,0,4.8,14.8
+692940,2024-07-17T23:30Z,Red Bull New York,CF Montréal,2,2,"Harrison, New Jersey",USA,320.0,0,3.7,25.7
+692946,2024-07-18T00:30Z,FC Dallas,Austin FC,3,1,Toyota Stadium,USA,,,,
+692948,2024-07-18T00:30Z,Minnesota United FC,D.C. United,2,3,"Saint Paul, Minnesota",USA,242.0,0,11.2,21.3
+692947,2024-07-18T00:30Z,Nashville SC,Orlando City SC,0,3,"Nashville, Tennessee",USA,170.0,13.7,6.2,27.9
+692952,2024-07-18T02:30Z,LA Galaxy,Colorado Rapids,3,2,"Carson, California",USA,12.0,0,17.7,21.6
+692951,2024-07-18T02:30Z,San Jose Earthquakes,Houston Dynamo FC,0,1,"San Jose, California",USA,26.0,0,16.4,23.4
+692950,2024-07-18T02:30Z,Seattle Sounders FC,St. Louis CITY SC,2,0,"Seattle, Washington",USA,56.0,0,14.9,28.6
+692949,2024-07-18T02:30Z,Vancouver Whitecaps,Sporting Kansas City,2,1,Vancouver,Canada,70.0,0,14.8,25.8
+692953,2024-07-18T02:45Z,LAFC,Real Salt Lake,1,1,"Los Angeles, California",USA,89.0,0,13.0,24.3
+692957,2024-07-20T23:30Z,Atlanta United FC,Columbus Crew,2,1,"Atlanta, Georgia",USA,320.0,4.4,6.9,26.6
+692955,2024-07-20T23:30Z,CF Montréal,Toronto FC,0,1,Montreal,Canada,216.0,0,15.4,21.5
+692956,2024-07-20T23:30Z,Inter Miami CF,Chicago Fire FC,2,1,"Fort Lauderdale, Florida",USA,1.0,0,13.0,30.4
+692960,2024-07-20T23:30Z,New England Revolution,FC Dallas,1,1,"Foxborough, Massachusetts",USA,88.0,0,20.2,25.8
+692959,2024-07-20T23:30Z,Orlando City SC,New York City FC,1,1,"Orlando, Florida",USA,30.0,0,7.2,27.8
+692958,2024-07-20T23:30Z,Philadelphia Union,Nashville SC,3,0,"Chester, Pennsylvania",USA,34.0,0,17.2,15.0
+692961,2024-07-20T23:30Z,Red Bull New York,FC Cincinnati,3,1,"Harrison, New Jersey",USA,320.0,0,8.0,26.1
+692964,2024-07-21T00:30Z,Austin FC,Charlotte FC,2,2,"Austin, Texas",USA,149.0,0,13.6,33.3
+692962,2024-07-21T00:30Z,Minnesota United FC,San Jose Earthquakes,2,0,"Saint Paul, Minnesota",USA,242.0,0,3.4,25.0
+692963,2024-07-21T00:30Z,Sporting Kansas City,St. Louis CITY SC,1,1,"Kansas City, Kansas",USA,274.0,0.1,10.9,23.6
+692965,2024-07-21T01:30Z,Colorado Rapids,Real Salt Lake,3,2,"Commerce City, Colorado",USA,1572.0,0,16.1,26.5
+692966,2024-07-21T02:30Z,Seattle Sounders FC,LAFC,0,3,"Seattle, Washington",USA,56.0,0,17.3,25.5
+692954,2024-07-21T02:30Z,Vancouver Whitecaps,Houston Dynamo FC,3,4,Vancouver,Canada,70.0,0,7.6,25.6
+692967,2024-07-21T02:45Z,LA Galaxy,Portland Timbers,3,2,"Carson, California",USA,12.0,0,13.8,24.8
+699799,2024-07-25T00:00Z,MLS All-Stars,Liga MX All-Stars,1,4,"Columbus, Ohio",USA,235.0,0,12.6,24.3
+692968,2024-08-24T22:45Z,Minnesota United FC,Seattle Sounders FC,2,3,"Saint Paul, Minnesota",USA,242.0,0,14.0,29.4
+692970,2024-08-24T23:30Z,CF Montréal,New England Revolution,0,5,Montreal,Canada,216.0,0,7.4,21.6
+692971,2024-08-24T23:30Z,Charlotte FC,Red Bull New York,1,1,"Charlotte, North Carolina",USA,229.0,0,8.0,27.6
+692972,2024-08-24T23:30Z,D.C. United,FC Dallas,3,4,"Washington, District of Columbia",USA,7.0,0,5.0,25.0
+692973,2024-08-24T23:30Z,Inter Miami CF,FC Cincinnati,2,0,"Fort Lauderdale, Florida",USA,1.0,0,8.7,28.5
+692974,2024-08-24T23:30Z,New York City FC,Chicago Fire FC,2,2,"New York, New York",USA,10.0,0,5.5,25.2
+692977,2024-08-25T00:30Z,Houston Dynamo FC,Toronto FC,0,1,"Houston, Texas",USA,12.0,0,14.7,29.5
+692976,2024-08-25T00:30Z,Nashville SC,Austin FC,0,2,"Nashville, Tennessee",USA,170.0,0,6.8,28.3
+692978,2024-08-25T00:30Z,Sporting Kansas City,Orlando City SC,3,0,"Kansas City, Kansas",USA,274.0,0,13.5,30.6
+692979,2024-08-25T01:30Z,Real Salt Lake,San Jose Earthquakes,0,2,"Sandy, Utah",USA,1361.0,0,23.7,26.2
+692981,2024-08-25T02:30Z,LA Galaxy,Atlanta United FC,2,0,"Carson, California",USA,12.0,0,18.5,20.6
+692980,2024-08-25T02:30Z,Portland Timbers,St. Louis CITY SC,4,4,"Portland, Oregon",USA,12.0,0,5.6,19.3
+692975,2024-08-28T23:30Z,Philadelphia Union,Columbus Crew,0,1,"Chester, Pennsylvania",USA,34.0,0,8.7,13.0
+692987,2024-08-31T23:30Z,Charlotte FC,Atlanta United FC,0,1,"Charlotte, North Carolina",USA,229.0,0.9,7.3,26.8
+692984,2024-08-31T23:30Z,Columbus Crew,New York City FC,4,2,"Columbus, Ohio",USA,235.0,0,2.9,27.1
+692985,2024-08-31T23:30Z,FC Cincinnati,CF Montréal,4,1,"Cincinnati, Ohio",USA,191.0,0,6.3,25.6
+692983,2024-08-31T23:30Z,Orlando City SC,Nashville SC,3,0,"Orlando, Florida",USA,30.0,0,12.2,28.1
+692982,2024-08-31T23:30Z,Red Bull New York,Philadelphia Union,0,2,"Harrison, New Jersey",USA,320.0,0.6,0.8,24.8
+692986,2024-08-31T23:30Z,Toronto FC,D.C. United,1,3,Toronto,Canada,161.0,0,6.3,24.7
+692990,2024-09-01T00:30Z,Austin FC,Vancouver Whitecaps,0,1,"Austin, Texas",USA,149.0,0,13.8,32.2
+692989,2024-09-01T00:30Z,Chicago Fire FC,Inter Miami CF,1,4,"Chicago, Illinois",USA,179.0,0,14.3,27.0
+692988,2024-09-01T00:30Z,FC Dallas,Colorado Rapids,2,3,Toyota Stadium,USA,,,,
+692991,2024-09-01T01:30Z,Real Salt Lake,New England Revolution,2,0,"Sandy, Utah",USA,1361.0,0,6.8,30.3
+692992,2024-09-01T02:30Z,LAFC,Houston Dynamo FC,0,2,"Los Angeles, California",USA,89.0,0,10.9,23.3
+692994,2024-09-01T02:30Z,Portland Timbers,Seattle Sounders FC,1,0,"Portland, Oregon",USA,12.0,0,7.4,30.1
+692993,2024-09-01T02:30Z,San Jose Earthquakes,Minnesota United FC,1,2,"San Jose, California",USA,26.0,0,13.4,20.9
+692995,2024-09-01T18:45Z,St. Louis CITY SC,LA Galaxy,2,1,"St. Louis, Missouri",USA,142.0,0,10.9,29.3
+692829,2024-09-07T23:30Z,Columbus Crew,Seattle Sounders FC,0,4,"Columbus, Ohio",USA,235.0,0,15.3,18.0
+692998,2024-09-07T23:30Z,New England Revolution,St. Louis CITY SC,2,2,"Foxborough, Massachusetts",USA,88.0,0,13.8,19.5
+692997,2024-09-07T23:30Z,Red Bull New York,Sporting Kansas City,1,1,"Harrison, New Jersey",USA,320.0,0,11.2,22.8
+692999,2024-09-08T00:30Z,Chicago Fire FC,D.C. United,1,2,"Bridgeview, Illinois",USA,189.0,0,8.9,13.7
+692921,2024-09-08T00:30Z,Houston Dynamo FC,LAFC,0,0,"Houston, Texas",USA,12.0,0,16.8,27.2
+692996,2024-09-08T02:30Z,Vancouver Whitecaps,FC Dallas,0,0,Vancouver,Canada,70.0,0,0.4,21.2
+693002,2024-09-14T23:30Z,Atlanta United FC,Nashville SC,0,2,"Atlanta, Georgia",USA,320.0,0.3,16.8,23.4
+693003,2024-09-14T23:30Z,CF Montréal,Charlotte FC,2,1,Montreal,Canada,216.0,0,6.8,20.6
+693005,2024-09-14T23:30Z,D.C. United,New York City FC,1,1,"Washington, District of Columbia",USA,7.0,0,6.8,23.3
+693007,2024-09-14T23:30Z,FC Cincinnati,Columbus Crew,0,0,"Cincinnati, Ohio",USA,191.0,0,11.9,28.9
+693006,2024-09-14T23:30Z,Inter Miami CF,Philadelphia Union,3,1,"Fort Lauderdale, Florida",USA,1.0,0,10.8,25.9
+693001,2024-09-14T23:30Z,Orlando City SC,New England Revolution,3,0,"Orlando, Florida",USA,30.0,0.1,6.6,25.4
+693004,2024-09-14T23:30Z,Toronto FC,Austin FC,2,1,Toronto,Canada,161.0,0,9.1,20.7
+693009,2024-09-15T00:30Z,Chicago Fire FC,Red Bull New York,2,1,"Chicago, Illinois",USA,179.0,0,12.0,25.4
+693008,2024-09-15T00:30Z,Houston Dynamo FC,Real Salt Lake,4,1,"Houston, Texas",USA,12.0,0,4.4,30.7
+693010,2024-09-15T00:30Z,St. Louis CITY SC,Minnesota United FC,1,3,"St. Louis, Missouri",USA,142.0,0,5.1,26.5
+693011,2024-09-15T01:30Z,Colorado Rapids,Portland Timbers,2,1,"Commerce City, Colorado",USA,1572.0,0,14.3,27.1
+693012,2024-09-15T02:30Z,LA Galaxy,LAFC,4,2,"Carson, California",USA,12.0,0,16.5,19.2
+693000,2024-09-15T02:30Z,Vancouver Whitecaps,San Jose Earthquakes,2,0,Vancouver,Canada,70.0,0,2.4,14.9
+693013,2024-09-15T23:15Z,Seattle Sounders FC,Sporting Kansas City,2,0,"Seattle, Washington",USA,56.0,0,19.8,17.6
+693016,2024-09-18T23:30Z,Atlanta United FC,Inter Miami CF,2,2,"Atlanta, Georgia",USA,320.0,0,6.5,26.3
+693017,2024-09-18T23:30Z,New England Revolution,CF Montréal,2,2,"Foxborough, Massachusetts",USA,88.0,0,9.4,18.8
+693014,2024-09-18T23:30Z,New York City FC,Philadelphia Union,1,5,New York City,USA,10.0,0,13.5,22.1
+693015,2024-09-18T23:30Z,Toronto FC,Columbus Crew,0,2,Toronto,Canada,161.0,0,8.6,19.9
+693018,2024-09-19T00:15Z,Orlando City SC,Charlotte FC,2,0,"Orlando, Florida",USA,30.0,0,2.6,24.6
+693022,2024-09-19T00:30Z,Houston Dynamo FC,Vancouver Whitecaps,1,1,"Houston, Texas",USA,12.0,0,9.3,29.5
+693021,2024-09-19T00:30Z,Minnesota United FC,FC Cincinnati,1,2,"Saint Paul, Minnesota",USA,242.0,0,17.7,26.1
+693020,2024-09-19T00:30Z,Nashville SC,Chicago Fire FC,1,0,"Nashville, Tennessee",USA,170.0,0,6.2,24.4
+693019,2024-09-19T00:30Z,Sporting Kansas City,Colorado Rapids,4,1,"Kansas City, Kansas",USA,274.0,0,14.8,28.3
+693023,2024-09-19T01:30Z,Real Salt Lake,FC Dallas,3,2,"Sandy, Utah",USA,1361.0,0,9.7,18.8
+693026,2024-09-19T02:30Z,LAFC,Austin FC,1,1,"Los Angeles, California",USA,89.0,0,11.1,19.6
+693025,2024-09-19T02:30Z,Portland Timbers,LA Galaxy,4,2,"Portland, Oregon",USA,12.0,0,7.4,18.7
+693024,2024-09-19T02:30Z,Seattle Sounders FC,San Jose Earthquakes,2,2,"Seattle, Washington",USA,56.0,0,9.1,16.7
+693027,2024-09-21T18:00Z,New York City FC,Inter Miami CF,1,1,New York City,USA,10.0,0,14.4,26.8
+693031,2024-09-21T20:00Z,Charlotte FC,New England Revolution,4,0,"Charlotte, North Carolina",USA,229.0,0,6.4,28.0
+693028,2024-09-21T23:30Z,CF Montréal,Chicago Fire FC,2,0,Montreal,Canada,216.0,0,9.9,17.9
+693030,2024-09-21T23:30Z,Columbus Crew,Orlando City SC,4,3,"Columbus, Ohio",USA,235.0,0,6.1,27.2
+693029,2024-09-21T23:30Z,Red Bull New York,Atlanta United FC,2,2,"Harrison, New Jersey",USA,320.0,0,7.6,28.2
+693034,2024-09-22T00:30Z,Austin FC,Houston Dynamo FC,0,1,"Austin, Texas",USA,149.0,0,13.6,33.6
+693032,2024-09-22T00:30Z,FC Dallas,LAFC,3,1,Toyota Stadium,USA,,,,
+693035,2024-09-22T00:30Z,Nashville SC,FC Cincinnati,2,2,"Nashville, Tennessee",USA,170.0,0.4,6.6,27.3
+693033,2024-09-22T00:30Z,Sporting Kansas City,Minnesota United FC,0,2,"Kansas City, Kansas",USA,274.0,1.1,12.0,27.5
+693036,2024-09-22T01:30Z,Colorado Rapids,Toronto FC,2,0,"Commerce City, Colorado",USA,1572.0,4.1,1.8,13.9
+693037,2024-09-22T01:30Z,Real Salt Lake,Portland Timbers,3,3,"Sandy, Utah",USA,1361.0,0,5.8,21.1
+693038,2024-09-22T02:30Z,LA Galaxy,Vancouver Whitecaps,4,2,"Carson, California",USA,12.0,0,13.8,18.6
+693039,2024-09-22T02:30Z,San Jose Earthquakes,St. Louis CITY SC,1,2,"San Jose, California",USA,26.0,0,13.7,20.2
+693040,2024-09-22T22:15Z,Philadelphia Union,D.C. United,4,0,"Chester, Pennsylvania",USA,34.0,2.0,11.7,13.9

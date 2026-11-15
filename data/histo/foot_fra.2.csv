@@ -379,3 +379,48 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 677040,2024-05-17T18:45Z,Rodez Aveyron,AC Ajaccio,2,0,Rodez,France,627.0,0.4,1.6,12.2
 677035,2024-05-17T18:45Z,Troyes,Annecy,1,1,Paris,France,42.0,0,1.5,17.4
 677036,2024-05-17T18:45Z,US Quevilly,Saint-Étienne,2,1,Rouen,France,21.0,0,12.3,15.6
+706784,2024-08-16T18:00Z,AC Ajaccio,Rodez Aveyron,1,0,Ajaccio,France,,0,2.9,24.0
+706787,2024-08-16T18:00Z,Clermont Foot,Pau,2,2,Clermont,France,406.0,0,4.3,22.9
+706788,2024-08-16T18:00Z,Dunkerque,Annecy,0,2,Dunkerque,France,-3.0,0.1,7.4,19.4
+706789,2024-08-16T18:00Z,Grenoble,Stade Laval,2,1,Grenoble,France,218.0,0.1,2.5,22.7
+706790,2024-08-16T18:00Z,Guingamp,Troyes,4,0,Guingamp,France,73.0,0.1,7.9,19.5
+706785,2024-08-16T18:00Z,SC Amiens,Red Star FC 93,3,0,Amiens,France,28.0,0.6,7.9,20.2
+706786,2024-08-17T12:30Z,Caen,Paris FC,0,2,Caen,France,21.0,0,11.2,19.5
+706791,2024-08-19T18:45Z,Martigues,Lorient,0,1,Marseille,France,28.0,0,20.4,26.4
+706792,2024-08-19T18:45Z,Metz,Bastia,1,1,Metz,France,182.0,0,4.6,21.1
+706793,2024-08-23T18:00Z,Annecy,Martigues,2,4,Annecy,France,452.0,0,4.8,23.6
+706794,2024-08-23T18:00Z,Bastia,SC Amiens,1,0,Furiani,France,210.0,0,2.6,25.6
+706798,2024-08-23T18:00Z,Paris FC,Dunkerque,3,2,Amiens,France,28.0,0.4,10.5,20.4
+706799,2024-08-23T18:00Z,Pau,Caen,1,0,Pau,France,219.0,0,4.8,25.0
+706801,2024-08-23T18:00Z,Rodez Aveyron,Metz,1,3,Rodez,France,627.0,0,3.3,23.0
+706796,2024-08-23T18:00Z,Stade Laval,Guingamp,0,1,Laval,France,54.0,0.6,16.1,20.2
+706795,2024-08-23T18:00Z,Troyes,Clermont Foot,0,1,Paris,France,42.0,0,12.6,22.9
+706797,2024-08-24T12:30Z,Lorient,Grenoble,2,0,Lorient,France,10.0,0.3,21.0,19.8
+706800,2024-08-26T18:45Z,Red Star FC 93,AC Ajaccio,1,0,"Saint-Ouen, Paris",France,35.0,0,3.9,20.8
+706802,2024-08-30T18:00Z,AC Ajaccio,Troyes,2,1,Ajaccio,France,,0,2.5,27.7
+706804,2024-08-30T18:00Z,Caen,Annecy,1,1,Caen,France,21.0,0,10.7,18.9
+706805,2024-08-30T18:00Z,Clermont Foot,Paris FC,0,1,Clermont,France,406.0,0,7.4,23.8
+706810,2024-08-30T18:00Z,Dunkerque,Rodez Aveyron,1,0,Dunkerque,France,-3.0,0,23.1,18.8
+706807,2024-08-30T18:00Z,Grenoble,Pau,1,1,Grenoble,France,218.0,0,3.3,29.8
+706808,2024-08-30T18:00Z,Guingamp,Red Star FC 93,3,4,Guingamp,France,73.0,0,14.7,17.5
+706806,2024-08-30T18:00Z,Martigues,Bastia,0,1,Marseille,France,28.0,0,1.8,24.0
+706809,2024-08-31T12:30Z,Metz,Stade Laval,1,1,Metz,France,182.0,0,9.8,28.4
+706803,2024-08-31T12:30Z,SC Amiens,Lorient,1,0,Amiens,France,28.0,0.2,13.4,24.3
+706811,2024-09-13T18:00Z,Annecy,SC Amiens,3,0,Annecy,France,452.0,0.2,7.8,8.7
+706812,2024-09-13T18:00Z,Bastia,Troyes,0,0,Furiani,France,210.0,0,12.5,16.4
+706813,2024-09-13T18:00Z,Clermont Foot,Dunkerque,0,1,Clermont,France,406.0,0,10.7,10.6
+706816,2024-09-13T18:00Z,Lorient,Red Star FC 93,2,1,Lorient,France,10.0,0,9.6,15.1
+706818,2024-09-13T18:00Z,Pau,Martigues,3,0,Pau,France,219.0,0,7.7,14.3
+706814,2024-09-13T18:00Z,Rodez Aveyron,Guingamp,1,2,Rodez,France,627.0,0,17.0,9.5
+706819,2024-09-13T18:00Z,Stade Laval,AC Ajaccio,1,1,Laval,France,54.0,0,6.6,13.0
+706817,2024-09-14T12:30Z,Paris FC,Metz,1,2,Paris,France,42.0,0,10.7,16.4
+706815,2024-09-16T18:45Z,Grenoble,Caen,3,1,Grenoble,France,218.0,0,6.7,14.6
+706821,2024-09-20T18:00Z,Bastia,Paris FC,2,1,Furiani,France,210.0,0,2.9,19.1
+706823,2024-09-20T18:00Z,Caen,AC Ajaccio,1,0,Caen,France,21.0,0,7.2,16.1
+706824,2024-09-20T18:00Z,Dunkerque,Pau,3,2,Dunkerque,France,-3.0,0,13.6,19.7
+706825,2024-09-20T18:00Z,Guingamp,Annecy,2,2,Guingamp,France,73.0,0,7.1,16.6
+706826,2024-09-20T18:00Z,Martigues,Grenoble,0,4,Marseille,France,28.0,0,13.5,19.8
+706828,2024-09-20T18:00Z,Red Star FC 93,Stade Laval,0,3,"Saint-Ouen, Paris",France,35.0,0.1,7.4,16.1
+706820,2024-09-20T18:00Z,SC Amiens,Clermont Foot,1,0,Amiens,France,28.0,2.2,10.8,19.1
+706822,2024-09-20T18:00Z,Troyes,Rodez Aveyron,0,3,Paris,France,42.0,1.2,5.9,15.7
+706827,2024-09-21T12:30Z,Metz,Lorient,1,1,Metz,France,182.0,0,5.4,22.0

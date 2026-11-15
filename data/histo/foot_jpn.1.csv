@@ -332,3 +332,119 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 697326,2024-06-22T10:00Z,Shonan Bellmare,FC Tokyo,0,1,Shonan,Japan,36.0,0,19.1,24.0
 697325,2024-06-22T10:00Z,Urawa Red Diamonds,Kashima Antlers,2,2,Saitama,Japan,16.0,0,24.9,24.1
 697327,2024-06-23T05:00Z,Consadole Sapporo,Yokohama F. Marinos,0,1,Sapporo,Japan,26.0,0,6.3,22.0
+697334,2024-06-26T10:00Z,Avispa Fukuoka,Yokohama F. Marinos,2,1,"Hakata-ku, Fukuoka",Japan,,,,
+697333,2024-06-26T10:00Z,Cerezo Osaka,Sagan Tosu,1,0,Osaka,Japan,4.0,0,7.3,23.8
+697332,2024-06-26T10:00Z,FC Tokyo,Consadole Sapporo,1,0,Tokyo,Japan,44.0,0,10.9,24.6
+697331,2024-06-26T10:00Z,Jubilo Iwata,Tokyo Verdy 1969,3,0,Iwata,Japan,5.0,0,22.6,24.2
+697330,2024-06-26T10:00Z,Kashima Antlers,Gamba Osaka,0,0,Kashima,Japan,20.0,1.8,4.4,21.6
+697328,2024-06-26T10:00Z,Kawasaki Frontale,Shonan Bellmare,1,1,Kawasaki,Japan,1.0,0,14.8,24.5
+697329,2024-06-26T10:00Z,Kyoto Sanga,Kashiwa Reysol,2,2,Kyoto,Japan,50.0,0,3.9,24.0
+697335,2024-06-26T10:00Z,Nagoya Grampus,Urawa Red Diamonds,0,1,Toyota,Japan,55.0,0,10.7,22.8
+697337,2024-06-26T10:00Z,Sanfrecce Hiroshima,Albirex Niigata,1,1,Hiroshima,Japan,16.0,0,2.1,20.9
+697336,2024-06-26T10:00Z,Vissel Kobe,Machida Zelvia,0,0,Kobe,Japan,35.0,0.1,7.4,23.4
+697338,2024-06-29T05:00Z,Consadole Sapporo,Albirex Niigata,0,1,Sapporo,Japan,26.0,0,5.0,28.1
+697339,2024-06-29T10:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,1,1,Kawasaki,Japan,1.0,0,15.5,24.1
+697340,2024-06-29T10:00Z,Yokohama F. Marinos,Tokyo Verdy 1969,1,2,Yokohama,Japan,21.0,0,14.6,23.5
+697341,2024-06-30T09:00Z,Cerezo Osaka,Nagoya Grampus,2,1,Osaka,Japan,4.0,0.2,35.6,27.4
+697342,2024-06-30T09:00Z,Gamba Osaka,Machida Zelvia,1,3,Osaka,Japan,4.0,0.2,35.6,27.4
+697343,2024-06-30T09:30Z,FC Tokyo,Avispa Fukuoka,0,1,Tokyo,Japan,44.0,0.9,41.7,25.4
+697344,2024-06-30T09:30Z,Urawa Red Diamonds,Jubilo Iwata,3,0,Saitama,Japan,16.0,0.5,27.1,25.4
+697346,2024-06-30T10:00Z,Sagan Tosu,Kashiwa Reysol,1,4,Tosu,Japan,17.0,3.0,23.4,24.8
+697345,2024-06-30T10:00Z,Shonan Bellmare,Kyoto Sanga,0,1,Shonan,Japan,36.0,0,34.2,25.5
+697347,2024-06-30T10:00Z,Vissel Kobe,Kashima Antlers,3,1,Kobe,Japan,35.0,0,33.5,24.9
+697290,2024-07-03T10:00Z,Yokohama F. Marinos,Sagan Tosu,0,1,Yokohama,Japan,21.0,0,13.0,25.1
+697348,2024-07-05T10:00Z,Sanfrecce Hiroshima,Vissel Kobe,1,3,Hiroshima,Japan,16.0,0,14.1,26.7
+697350,2024-07-06T09:00Z,Kashima Antlers,Consadole Sapporo,2,0,Kashima,Japan,20.0,0,12.0,29.7
+697351,2024-07-06T09:00Z,Machida Zelvia,Nagoya Grampus,1,0,Tokyo,Japan,44.0,0.3,12.8,28.8
+697349,2024-07-06T09:00Z,Tokyo Verdy 1969,Cerezo Osaka,1,1,Tokyo,Japan,44.0,0.3,12.8,28.8
+697352,2024-07-06T09:30Z,Albirex Niigata,Sagan Tosu,3,4,Niigata,Japan,1.0,0.2,16.9,25.0
+697353,2024-07-06T09:30Z,Jubilo Iwata,Kawasaki Frontale,2,2,Iwata,Japan,5.0,0,19.4,29.1
+697354,2024-07-06T09:30Z,Urawa Red Diamonds,Shonan Bellmare,2,3,Saitama,Japan,16.0,0.2,6.6,28.1
+697355,2024-07-06T10:00Z,Gamba Osaka,Yokohama F. Marinos,4,0,Osaka,Japan,4.0,0,10.8,28.5
+697356,2024-07-06T10:00Z,Kashiwa Reysol,FC Tokyo,3,2,Kashiwa,Japan,24.0,0,4.8,27.4
+697357,2024-07-07T10:00Z,Avispa Fukuoka,Kyoto Sanga,1,2,"Hakata-ku, Fukuoka",Japan,,,,
+697358,2024-07-13T05:00Z,Consadole Sapporo,Vissel Kobe,1,1,Sapporo,Japan,26.0,0,21.3,21.5
+697359,2024-07-13T10:00Z,FC Tokyo,Albirex Niigata,2,0,Tokyo,Japan,44.0,1.5,19.7,24.6
+697360,2024-07-14T09:00Z,Nagoya Grampus,Kashiwa Reysol,2,1,Toyota,Japan,55.0,5.8,3.6,25.4
+697361,2024-07-14T09:00Z,Tokyo Verdy 1969,Machida Zelvia,0,1,Tokyo,Japan,44.0,0.8,9.2,27.5
+697362,2024-07-14T09:30Z,Kyoto Sanga,Urawa Red Diamonds,0,0,Kyoto,Japan,50.0,0.1,1.1,26.6
+697363,2024-07-14T09:30Z,Sanfrecce Hiroshima,Avispa Fukuoka,1,0,Hiroshima,Japan,16.0,2.2,0.0,24.4
+697365,2024-07-14T10:00Z,Kawasaki Frontale,Cerezo Osaka,1,1,Kawasaki,Japan,1.0,0,9.3,27.0
+697366,2024-07-14T10:00Z,Sagan Tosu,Gamba Osaka,0,2,Tosu,Japan,17.0,2.7,12.6,24.3
+697364,2024-07-14T10:00Z,Shonan Bellmare,Jubilo Iwata,5,0,Shonan,Japan,36.0,0,4.7,26.8
+697367,2024-07-14T10:30Z,Yokohama F. Marinos,Kashima Antlers,4,1,Yokohama,Japan,21.0,0,8.6,26.9
+697368,2024-07-20T09:00Z,Kashima Antlers,FC Tokyo,2,1,Kashima,Japan,20.0,0,9.4,30.7
+697369,2024-07-20T09:00Z,Machida Zelvia,Yokohama F. Marinos,1,2,Tokyo,Japan,44.0,0,20.1,30.7
+697376,2024-07-20T10:00Z,Avispa Fukuoka,Tokyo Verdy 1969,0,1,"Hakata-ku, Fukuoka",Japan,,,,
+697375,2024-07-20T10:00Z,Cerezo Osaka,Albirex Niigata,1,2,Osaka,Japan,4.0,0,8.6,29.0
+697370,2024-07-20T10:00Z,Gamba Osaka,Shonan Bellmare,0,1,Osaka,Japan,4.0,0,8.6,29.0
+697371,2024-07-20T10:00Z,Jubilo Iwata,Kyoto Sanga,1,2,Iwata,Japan,5.0,0,20.7,29.0
+697373,2024-07-20T10:00Z,Kashiwa Reysol,Kawasaki Frontale,2,3,Kashiwa,Japan,24.0,0,10.4,28.2
+697374,2024-07-20T10:00Z,Urawa Red Diamonds,Consadole Sapporo,3,4,Saitama,Japan,16.0,0,12.4,29.3
+697372,2024-07-20T10:00Z,Vissel Kobe,Nagoya Grampus,3,3,Kobe,Japan,35.0,0,3.1,28.0
+697377,2024-07-21T10:00Z,Sagan Tosu,Sanfrecce Hiroshima,1,4,Tosu,Japan,17.0,0,7.2,29.2
+697381,2024-08-07T10:00Z,Albirex Niigata,Jubilo Iwata,2,2,Niigata,Japan,1.0,0,12.8,26.6
+697385,2024-08-07T10:00Z,Cerezo Osaka,Machida Zelvia,0,0,Osaka,Japan,4.0,0,20.1,30.4
+697379,2024-08-07T10:00Z,Gamba Osaka,FC Tokyo,0,0,Osaka,Japan,4.0,0,20.1,30.4
+697378,2024-08-07T10:00Z,Kashima Antlers,Sagan Tosu,3,0,Kashima,Japan,20.0,0,5.1,29.9
+697384,2024-08-07T10:00Z,Kawasaki Frontale,Vissel Kobe,3,0,Kawasaki,Japan,1.0,0,6.6,27.8
+697383,2024-08-07T10:00Z,Kyoto Sanga,Nagoya Grampus,3,2,Kyoto,Japan,50.0,0,12.6,27.5
+697380,2024-08-07T10:00Z,Shonan Bellmare,Avispa Fukuoka,1,1,Shonan,Japan,36.0,0,3.1,28.0
+697382,2024-08-07T10:00Z,Tokyo Verdy 1969,Sanfrecce Hiroshima,0,1,Tokyo,Japan,44.0,0.4,7.2,27.5
+697386,2024-08-07T10:30Z,Yokohama F. Marinos,Consadole Sapporo,3,2,Yokohama,Japan,21.0,0,2.6,28.2
+697388,2024-08-10T05:00Z,Consadole Sapporo,Avispa Fukuoka,2,2,Sapporo,Japan,26.0,0,19.0,25.9
+697389,2024-08-11T09:00Z,Machida Zelvia,Shonan Bellmare,0,1,Tokyo,Japan,44.0,0,21.3,32.5
+697390,2024-08-11T09:30Z,Sanfrecce Hiroshima,Cerezo Osaka,2,0,Hiroshima,Japan,16.0,0,8.7,30.5
+697395,2024-08-11T10:00Z,FC Tokyo,Kawasaki Frontale,0,3,Tokyo,Japan,44.0,0,14.7,31.1
+697394,2024-08-11T10:00Z,Jubilo Iwata,Kashima Antlers,2,1,Fukuroi City,Japan,,,,
+697393,2024-08-11T10:00Z,Kashiwa Reysol,Gamba Osaka,0,0,Kashiwa,Japan,24.0,0,11.2,30.4
+697392,2024-08-11T10:00Z,Nagoya Grampus,Tokyo Verdy 1969,1,0,Toyota,Japan,55.0,0,15.9,31.2
+697391,2024-08-11T10:00Z,Sagan Tosu,Urawa Red Diamonds,1,1,Tosu,Japan,17.0,0,13.6,29.6
+697396,2024-08-11T10:30Z,Yokohama F. Marinos,Vissel Kobe,1,2,Yokohama,Japan,21.0,0,15.0,31.8
+697397,2024-08-12T10:00Z,Albirex Niigata,Kyoto Sanga,2,0,Niigata,Japan,1.0,0,17.5,27.5
+697398,2024-08-16T10:30Z,Consadole Sapporo,Sagan Tosu,5,3,Sapporo,Japan,26.0,0,14.5,23.3
+697400,2024-08-17T09:00Z,Kashima Antlers,Urawa Red Diamonds,0,0,Kashima,Japan,20.0,0,9.7,32.0
+697399,2024-08-17T09:00Z,Machida Zelvia,Jubilo Iwata,4,0,Tokyo,Japan,44.0,0,9.7,30.7
+697401,2024-08-17T10:00Z,Cerezo Osaka,Kyoto Sanga,3,5,Osaka,Japan,4.0,0,18.0,28.7
+697402,2024-08-17T10:00Z,FC Tokyo,Tokyo Verdy 1969,0,0,Tokyo,Japan,44.0,0,6.6,29.4
+697406,2024-08-17T10:00Z,Kawasaki Frontale,Yokohama F. Marinos,1,3,Kawasaki,Japan,1.0,0,14.1,28.9
+697405,2024-08-17T10:00Z,Nagoya Grampus,Sanfrecce Hiroshima,1,2,Toyota,Japan,55.0,0,13.4,29.7
+697404,2024-08-17T10:00Z,Shonan Bellmare,Kashiwa Reysol,1,2,Shonan,Japan,36.0,0,6.6,28.1
+697403,2024-08-17T10:00Z,Vissel Kobe,Gamba Osaka,2,2,Kobe,Japan,35.0,0,15.3,28.3
+697407,2024-08-17T10:30Z,Avispa Fukuoka,Albirex Niigata,0,1,"Hakata-ku, Fukuoka",Japan,,,,
+697408,2024-08-24T09:30Z,Gamba Osaka,Avispa Fukuoka,2,2,Osaka,Japan,4.0,0,15.9,29.9
+697409,2024-08-24T10:00Z,Kyoto Sanga,FC Tokyo,3,0,Kyoto,Japan,50.0,0,4.7,27.5
+697410,2024-08-24T10:00Z,Shonan Bellmare,Nagoya Grampus,0,1,Shonan,Japan,36.0,0,8.5,28.4
+697412,2024-08-24T10:00Z,Yokohama F. Marinos,Cerezo Osaka,4,0,Tokyo,Japan,44.0,0,8.5,28.2
+697413,2024-08-25T09:00Z,Tokyo Verdy 1969,Kashima Antlers,2,1,Tokyo,Japan,44.0,0,23.8,28.0
+697414,2024-08-25T09:30Z,Sanfrecce Hiroshima,Kashiwa Reysol,2,0,Hiroshima,Japan,16.0,0,7.1,28.6
+697417,2024-08-25T10:00Z,Albirex Niigata,Machida Zelvia,0,0,Niigata,Japan,1.0,0,6.5,27.8
+697415,2024-08-25T10:00Z,Jubilo Iwata,Consadole Sapporo,0,2,Iwata,Japan,5.0,2.0,3.0,26.5
+697416,2024-08-25T10:00Z,Vissel Kobe,Sagan Tosu,2,0,Kobe,Japan,35.0,3.5,1.1,27.0
+697418,2024-08-31T09:00Z,Machida Zelvia,Urawa Red Diamonds,2,2,Tokyo,Japan,44.0,5.5,16.2,26.2
+697419,2024-08-31T09:30Z,Sanfrecce Hiroshima,FC Tokyo,3,2,Hiroshima,Japan,16.0,0,12.6,27.9
+697423,2024-08-31T10:00Z,Kashiwa Reysol,Tokyo Verdy 1969,2,3,Kashiwa,Japan,24.0,0.2,20.3,26.0
+697421,2024-08-31T10:00Z,Sagan Tosu,Shonan Bellmare,1,2,Tosu,Japan,17.0,0,7.4,25.7
+697426,2024-09-01T05:00Z,Consadole Sapporo,Kawasaki Frontale,2,0,Sapporo,Japan,26.0,0,6.2,27.4
+697427,2024-09-01T10:00Z,Avispa Fukuoka,Vissel Kobe,0,2,"Hakata-ku, Fukuoka",Japan,,,,
+697433,2024-09-13T10:00Z,Kawasaki Frontale,Sagan Tosu,3,2,Kawasaki,Japan,1.0,0,26.3,28.2
+697434,2024-09-13T10:00Z,Vissel Kobe,Cerezo Osaka,2,1,Kobe,Japan,35.0,0,5.0,27.1
+697429,2024-09-13T10:00Z,Yokohama F. Marinos,Kyoto Sanga,1,2,Yokohama,Japan,21.0,0,23.0,28.1
+697428,2024-09-14T05:00Z,Consadole Sapporo,Tokyo Verdy 1969,0,2,Sapporo,Japan,26.0,0,20.7,21.7
+697435,2024-09-14T09:00Z,Avispa Fukuoka,Machida Zelvia,0,3,"Hakata-ku, Fukuoka",Japan,,,,
+697431,2024-09-14T09:00Z,Kashima Antlers,Sanfrecce Hiroshima,2,2,Kashima,Japan,20.0,0,12.4,31.1
+697436,2024-09-14T10:00Z,Albirex Niigata,Shonan Bellmare,3,1,Niigata,Japan,1.0,0,12.6,27.7
+697437,2024-09-14T10:00Z,FC Tokyo,Nagoya Grampus,4,1,Tokyo,Japan,44.0,0,31.2,28.3
+697430,2024-09-14T10:00Z,Gamba Osaka,Urawa Red Diamonds,0,1,Osaka,Japan,4.0,1.0,7.4,28.9
+697432,2024-09-14T10:00Z,Kashiwa Reysol,Jubilo Iwata,0,2,Kashiwa,Japan,24.0,0,22.3,28.0
+697422,2024-09-18T10:00Z,Nagoya Grampus,Albirex Niigata,3,0,Toyota,Japan,55.0,0,4.4,28.2
+697438,2024-09-21T09:00Z,Kashima Antlers,Kashiwa Reysol,0,0,Kashima,Japan,20.0,1.2,13.9,27.2
+697439,2024-09-21T10:00Z,Jubilo Iwata,Avispa Fukuoka,0,0,Iwata,Japan,5.0,0,27.6,28.4
+697447,2024-09-21T10:00Z,Machida Zelvia,Consadole Sapporo,0,0,Tokyo,Japan,44.0,0,16.0,25.4
+697442,2024-09-21T10:00Z,Urawa Red Diamonds,FC Tokyo,0,2,Saitama,Japan,16.0,0,14.5,24.5
+697446,2024-09-22T07:00Z,Nagoya Grampus,Kawasaki Frontale,2,0,Toyota,Japan,55.0,0,12.4,28.1
+697440,2024-09-22T09:00Z,Albirex Niigata,Vissel Kobe,2,3,Niigata,Japan,1.0,0.3,18.3,23.0
+697443,2024-09-22T09:00Z,Tokyo Verdy 1969,Sagan Tosu,2,0,Tokyo,Japan,44.0,0,3.4,26.9
+697445,2024-09-22T09:30Z,Sanfrecce Hiroshima,Yokohama F. Marinos,6,2,Hiroshima,Japan,16.0,0,13.6,25.2
+697441,2024-09-22T10:00Z,Kyoto Sanga,Gamba Osaka,2,2,Kyoto,Japan,50.0,0,8.8,23.4
+697444,2024-09-22T10:00Z,Shonan Bellmare,Cerezo Osaka,1,2,Shonan,Japan,36.0,0,4.3,25.7

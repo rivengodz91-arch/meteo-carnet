@@ -555,3 +555,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 702343,2024-05-16T19:00Z,Leeds United,Norwich City,4,0,Leeds,England,50.0,0,17.1,15.2
 702344,2024-05-17T19:00Z,Southampton,West Bromwich Albion,3,1,Southampton,England,19.0,0,6.6,14.1
 702620,2024-05-26T14:00Z,Leeds United,Southampton,0,1,London,England,25.0,0.2,26.9,17.8
+707623,2024-08-09T19:00Z,Blackburn Rovers,Derby County,4,2,Blackburn,England,121.0,0,22.8,16.1
+707624,2024-08-09T19:00Z,Preston North End,Sheffield United,0,2,Preston,England,34.0,0,20.9,17.6
+707626,2024-08-10T11:30Z,Cardiff City,Sunderland,0,2,Cardiff,Wales,17.0,0.2,25.2,19.1
+707632,2024-08-10T11:30Z,Hull City,Bristol City,1,1,Hull,England,8.0,0,21.7,20.0
+707627,2024-08-10T11:30Z,Leeds United,Portsmouth,3,3,Leeds,England,50.0,0.2,24.5,20.2
+707631,2024-08-10T11:30Z,Middlesbrough,Swansea City,1,0,Middlesbrough,England,15.0,0,22.4,20.3
+707628,2024-08-10T11:30Z,Millwall,Watford,2,3,London,England,25.0,0,24.8,22.7
+707629,2024-08-10T11:30Z,Oxford United,Norwich City,2,0,Oxford,England,72.0,0.1,21.5,19.4
+707625,2024-08-10T11:30Z,Queens Park Rangers,West Bromwich Albion,1,3,London,England,25.0,0,24.8,22.7
+707630,2024-08-10T11:30Z,Stoke City,Coventry City,1,0,Stoke-on-Trent,England,114.0,0.1,16.7,18.4
+707633,2024-08-11T15:00Z,Sheffield Wednesday,Plymouth Argyle,4,0,Sheffield,England,75.0,0,13.0,24.7
+707634,2024-08-12T19:00Z,Luton Town,Burnley,1,4,Luton,England,117.0,0,16.3,23.1
+707637,2024-08-16T19:00Z,Coventry City,Oxford United,3,2,Coventry,England,89.0,0,11.2,18.1
+707638,2024-08-17T11:30Z,Derby County,Middlesbrough,1,0,Derby,England,55.0,0,14.3,18.0
+707641,2024-08-17T11:30Z,Portsmouth,Luton Town,0,0,Portsmouth,England,6.0,0,7.2,19.1
+707646,2024-08-17T11:30Z,West Bromwich Albion,Leeds United,0,0,West Bromwich,England,165.0,0.1,12.1,17.4
+707635,2024-08-17T14:00Z,Bristol City,Millwall,4,3,Bristol,England,21.0,0.1,14.1,17.9
+707636,2024-08-17T14:00Z,Burnley,Cardiff City,5,0,Burnley,England,140.0,0,19.8,16.3
+707639,2024-08-17T14:00Z,Norwich City,Blackburn Rovers,2,2,Norwich,England,19.0,0,10.2,21.7
+707640,2024-08-17T14:00Z,Plymouth Argyle,Hull City,1,1,Plymouth,England,14.0,0.1,14.5,17.1
+707642,2024-08-17T14:00Z,Sheffield United,Queens Park Rangers,2,2,Sheffield,England,75.0,0,16.1,19.1
+707644,2024-08-17T14:00Z,Swansea City,Preston North End,3,0,Swansea,Wales,18.0,0.2,16.8,16.2
+707645,2024-08-17T14:00Z,Watford,Stoke City,3,0,Watford,England,77.0,0,6.2,21.3
+707643,2024-08-18T11:00Z,Sunderland,Sheffield Wednesday,4,0,Sunderland,England,36.0,0,26.7,18.4
+707654,2024-08-23T19:00Z,Sheffield Wednesday,Leeds United,0,2,Sheffield,England,75.0,0,13.6,15.8
+707648,2024-08-24T11:30Z,Bristol City,Coventry City,1,1,Bristol,England,21.0,0.3,18.8,15.1
+707649,2024-08-24T11:30Z,Hull City,Millwall,0,0,Hull,England,8.0,0.6,20.3,15.9
+707653,2024-08-24T11:30Z,Queens Park Rangers,Plymouth Argyle,1,1,London,England,25.0,1.2,12.0,16.7
+707647,2024-08-24T14:00Z,Blackburn Rovers,Oxford United,2,1,Blackburn,England,121.0,0,25.3,14.8
+707650,2024-08-24T14:00Z,Middlesbrough,Portsmouth,2,2,Middlesbrough,England,15.0,0,21.2,18.3
+707651,2024-08-24T14:00Z,Norwich City,Sheffield United,1,1,Norwich,England,19.0,2.3,8.8,15.3
+707652,2024-08-24T14:00Z,Preston North End,Luton Town,1,0,Preston,England,34.0,0.1,22.7,15.5
+707655,2024-08-24T14:00Z,Stoke City,West Bromwich Albion,1,2,Stoke-on-Trent,England,114.0,0.7,18.6,15.1
+707656,2024-08-24T14:00Z,Sunderland,Burnley,1,0,Sunderland,England,36.0,0.3,20.3,17.9
+707658,2024-08-24T14:00Z,Watford,Derby County,2,1,Watford,England,77.0,0.4,11.3,15.8
+707657,2024-08-25T14:00Z,Swansea City,Cardiff City,1,1,Swansea,Wales,18.0,0.4,30.1,15.5
+707670,2024-08-30T19:00Z,Luton Town,Queens Park Rangers,1,2,Luton,England,117.0,0,9.5,16.7
+707659,2024-08-31T11:30Z,Burnley,Blackburn Rovers,1,1,Burnley,England,140.0,0,20.3,15.2
+707660,2024-08-31T11:30Z,Cardiff City,Middlesbrough,0,2,Cardiff,Wales,17.0,0,21.3,19.0
+707661,2024-08-31T11:30Z,Coventry City,Norwich City,0,1,Coventry,England,89.0,0,19.3,18.6
+707662,2024-08-31T14:00Z,Derby County,Bristol City,3,0,Derby,England,55.0,0,22.6,19.8
+707663,2024-08-31T14:00Z,Leeds United,Hull City,2,0,Leeds,England,50.0,0,18.1,18.1
+707664,2024-08-31T14:00Z,Millwall,Sheffield Wednesday,3,0,London,England,25.0,0,26.5,20.8
+707666,2024-08-31T14:00Z,Oxford United,Preston North End,3,1,Oxford,England,72.0,0,19.6,19.3
+707667,2024-08-31T14:00Z,Plymouth Argyle,Stoke City,0,1,Plymouth,England,14.0,0,25.7,20.5
+707668,2024-08-31T14:00Z,Portsmouth,Sunderland,1,3,Portsmouth,England,6.0,0,25.6,20.0
+707665,2024-08-31T14:00Z,West Bromwich Albion,Swansea City,1,0,West Bromwich,England,165.0,0,19.5,19.1
+707669,2024-09-01T14:00Z,Sheffield United,Watford,1,0,Sheffield,England,75.0,0,16.8,21.3
+707673,2024-09-13T19:00Z,Hull City,Sheffield United,0,2,Hull,England,8.0,0,9.7,10.5
+707674,2024-09-14T11:30Z,Leeds United,Burnley,0,1,Leeds,England,50.0,0,17.2,16.5
+707676,2024-09-14T11:30Z,Millwall,Luton Town,0,1,London,England,25.0,0,13.7,16.7
+707677,2024-09-14T11:30Z,Oxford United,Stoke City,1,0,Oxford,England,72.0,0,13.9,16.4
+707671,2024-09-14T14:00Z,Blackburn Rovers,Bristol City,3,0,Blackburn,England,121.0,0,23.5,15.9
+707672,2024-09-14T14:00Z,Derby County,Cardiff City,1,0,Derby,England,55.0,0,21.3,17.8
+707675,2024-09-14T14:00Z,Middlesbrough,Preston North End,1,1,Middlesbrough,England,15.0,0,28.8,19.1
+707678,2024-09-14T14:00Z,Plymouth Argyle,Sunderland,3,2,Plymouth,England,14.0,0,13.7,15.7
+707680,2024-09-14T14:00Z,Sheffield Wednesday,Queens Park Rangers,1,1,Sheffield,England,75.0,0,21.8,18.4
+707681,2024-09-14T14:00Z,Swansea City,Norwich City,1,0,Swansea,Wales,18.0,0,16.8,16.2
+707682,2024-09-14T14:00Z,Watford,Coventry City,1,1,Watford,England,77.0,0,14.9,17.3
+707679,2024-09-15T14:00Z,Portsmouth,West Bromwich Albion,0,3,Portsmouth,England,6.0,0,19.5,18.1
+707692,2024-09-20T19:00Z,Stoke City,Hull City,1,3,Stoke-on-Trent,England,114.0,0,17.7,15.0
+707688,2024-09-21T11:30Z,Norwich City,Watford,4,1,Norwich,England,19.0,0,12.6,21.2
+707690,2024-09-21T11:30Z,Queens Park Rangers,Millwall,1,1,London,England,25.0,0,13.0,22.2
+707693,2024-09-21T11:30Z,Sunderland,Middlesbrough,1,0,Sunderland,England,36.0,0.2,19.5,15.9
+707683,2024-09-21T14:00Z,Bristol City,Oxford United,2,1,Bristol,England,21.0,0.1,14.7,19.4
+707684,2024-09-21T14:00Z,Burnley,Portsmouth,2,1,Burnley,England,140.0,0,23.5,17.9
+707685,2024-09-21T14:00Z,Cardiff City,Leeds United,0,2,Cardiff,Wales,17.0,0.4,17.0,18.7
+707686,2024-09-21T14:00Z,Coventry City,Swansea City,1,2,Coventry,England,89.0,3.4,11.5,21.4
+707687,2024-09-21T14:00Z,Luton Town,Sheffield Wednesday,2,1,Luton,England,117.0,1.1,13.2,20.8
+707691,2024-09-21T14:00Z,Sheffield United,Derby County,1,0,Sheffield,England,75.0,0.1,18.0,20.6
+707694,2024-09-21T14:00Z,West Bromwich Albion,Plymouth Argyle,1,0,West Bromwich,England,165.0,0.7,16.2,20.2
+707689,2024-09-22T11:00Z,Preston North End,Blackburn Rovers,0,0,Preston,England,34.0,0,20.6,17.3

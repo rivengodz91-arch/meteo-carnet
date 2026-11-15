@@ -51,3 +51,35 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 701962,2024-05-19T14:00Z,Livingston,Hibernian,1,1,Livingston,Scotland,969.0,0,17.8,27.7
 701961,2024-05-19T14:00Z,Motherwell,St Johnstone,1,2,Motherwell,Scotland,87.0,0,16.6,19.8
 701963,2024-05-19T14:00Z,Ross County,Aberdeen,2,2,Dingwell,Scotland,23.0,0,12.0,11.2
+709922,2024-08-03T11:30Z,Heart of Midlothian,Rangers,0,0,Edinburgh,Scotland,66.0,0,17.9,16.9
+709923,2024-08-03T14:00Z,Motherwell,Ross County,0,0,Motherwell,Scotland,87.0,0,6.3,24.8
+709924,2024-08-04T12:30Z,Dundee United,Dundee,2,2,Dundee,Scotland,77.0,0.1,19.4,17.8
+709925,2024-08-04T14:00Z,St Mirren,Hibernian,3,0,Paisley,Scotland,50.0,0,25.0,17.2
+709926,2024-08-04T15:30Z,Celtic,Kilmarnock,4,0,Glasgow,Scotland,40.0,0.4,23.1,17.7
+709927,2024-08-05T19:00Z,St Johnstone,Aberdeen,1,2,Perth,Scotland,34.0,0,18.2,12.3
+709930,2024-08-10T14:00Z,Rangers,Motherwell,2,1,Glasgow,Scotland,40.0,0.1,29.9,17.1
+709931,2024-08-10T14:00Z,Ross County,Dundee United,1,1,Dingwell,Scotland,23.0,4.2,28.5,23.4
+709932,2024-08-10T16:30Z,Dundee,Heart of Midlothian,3,1,Dundee,Scotland,77.0,0,28.3,17.5
+709933,2024-08-11T11:30Z,Hibernian,Celtic,0,2,Edinburgh,Scotland,66.0,0,1.0,18.4
+709928,2024-08-11T14:00Z,Aberdeen,St Mirren,3,1,Aberdeen,Scotland,13.0,0,14.9,15.8
+709929,2024-08-11T14:00Z,Kilmarnock,St Johnstone,0,3,Kilmarnock,Scotland,39.0,0,12.4,21.0
+709935,2024-08-24T14:00Z,Dundee United,St Johnstone,2,0,Dundee,Scotland,77.0,0,25.1,15.4
+709936,2024-08-24T14:00Z,Hibernian,Dundee,2,2,Edinburgh,Scotland,66.0,0.1,25.2,15.6
+709938,2024-08-24T14:00Z,Rangers,Ross County,6,0,Glasgow,Scotland,40.0,0.3,25.0,14.8
+709939,2024-08-25T11:00Z,St Mirren,Celtic,0,3,Paisley,Scotland,50.0,2.2,21.8,11.7
+709934,2024-08-25T14:00Z,Aberdeen,Kilmarnock,2,0,Aberdeen,Scotland,13.0,0.3,30.7,13.2
+709937,2024-08-25T14:00Z,Motherwell,Heart of Midlothian,3,1,Motherwell,Scotland,87.0,0,21.4,18.1
+709941,2024-08-31T14:00Z,Dundee,St Mirren,2,2,Dundee,Scotland,77.0,0,18.4,15.0
+709945,2024-08-31T14:00Z,St Johnstone,Motherwell,1,2,Perth,Scotland,34.0,0,18.1,15.9
+709944,2024-08-31T16:45Z,Ross County,Aberdeen,0,1,Dingwell,Scotland,23.0,0,18.7,21.6
+709940,2024-09-01T11:30Z,Celtic,Rangers,3,0,Glasgow,Scotland,40.0,0,15.1,17.1
+709942,2024-09-01T14:00Z,Heart of Midlothian,Dundee United,0,1,Edinburgh,Scotland,66.0,0,15.9,16.3
+709943,2024-09-01T14:00Z,Kilmarnock,Hibernian,1,1,Kilmarnock,Scotland,39.0,0,16.6,17.3
+709946,2024-09-14T14:00Z,Aberdeen,Motherwell,2,1,Aberdeen,Scotland,13.0,0,30.1,16.0
+709947,2024-09-14T14:00Z,Celtic,Heart of Midlothian,2,0,Glasgow,Scotland,40.0,0.4,24.2,16.0
+709949,2024-09-14T14:00Z,Hibernian,St Johnstone,2,0,Edinburgh,Scotland,66.0,0.1,27.2,16.7
+709950,2024-09-14T14:00Z,Ross County,Dundee,2,0,Dingwell,Scotland,23.0,0,19.4,16.5
+709951,2024-09-14T14:00Z,St Mirren,Kilmarnock,2,2,Paisley,Scotland,50.0,0.4,26.2,15.6
+709948,2024-09-15T11:00Z,Dundee United,Rangers,0,1,Dundee,Scotland,77.0,0,17.4,15.0
+710010,2024-09-21T14:00Z,Ross County,St Johnstone,3,3,Dingwell,Scotland,23.0,0,10.0,16.6
+710011,2024-09-21T14:00Z,St Mirren,Heart of Midlothian,2,1,Paisley,Scotland,50.0,0,20.8,14.8

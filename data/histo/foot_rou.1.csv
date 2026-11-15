@@ -316,3 +316,79 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 702617,2024-05-19T11:30Z,Otelul Galati,Universitatea Cluj,0,2,Galati,Romania,24.0,0,9.4,21.9
 700618,2024-05-19T18:00Z,Rapid Bucuresti,FCSB,2,0,Bucuresti,Romania,92.0,0,6.6,15.8
 702644,2024-05-26T17:00Z,CSU Craiova,Universitatea Cluj,1,1,Craiova,Romania,105.0,0,8.3,21.5
+710988,2024-07-12T15:30Z,FC Farul Constanta,Unirea Slobozia,0,1,Ovidiu,Romania,22.0,0,13.7,32.6
+710989,2024-07-12T18:30Z,Hermannstadt,CSU Craiova,0,0,Sibiu,Romania,410.0,0,7.9,27.5
+710991,2024-07-13T14:00Z,Sepsi Sfantu Gheorghe,Politehnica Iasi,1,0,Sfantu Gheorghe,Romania,552.0,0,9.8,32.5
+710992,2024-07-13T16:15Z,UTA Arad,Rapid Bucuresti,1,1,Arad,Romania,109.0,0,5.4,36.3
+710985,2024-07-13T19:00Z,FCSB,Universitatea Cluj,1,1,Bucuresti,Romania,92.0,0,10.3,30.8
+710986,2024-07-14T16:00Z,CFR Cluj-Napoca,Dinamo Bucuresti,3,2,Cluj,Romania,352.0,0,10.9,31.5
+710987,2024-07-15T15:30Z,FC Botosani,Otelul Galati,2,3,Botosani,Romania,159.0,0,5.4,36.2
+710990,2024-07-15T18:30Z,Petrolul Ploiesti,Gloria Buzau,0,0,Ploiesti,Romania,161.0,0,11.3,32.5
+710996,2024-07-19T16:00Z,Politehnica Iasi,FC Botosani,1,0,Iasi,Romania,66.0,0,13.4,28.7
+710999,2024-07-19T19:00Z,Unirea Slobozia,FCSB,2,2,Clinceni,Romania,84.0,0,5.1,27.6
+710997,2024-07-20T16:00Z,CSU Craiova,UTA Arad,4,2,Craiova,Romania,105.0,0,9.8,35.8
+711000,2024-07-20T19:00Z,Rapid Bucuresti,CFR Cluj-Napoca,2,2,Bucuresti,Romania,92.0,0,12.8,30.0
+710998,2024-07-21T16:00Z,Universitatea Cluj,Hermannstadt,3,1,Cluj,Romania,352.0,0,8.7,23.8
+710994,2024-07-21T19:00Z,Dinamo Bucuresti,Petrolul Ploiesti,4,1,Bucuresti,Romania,92.0,0,9.0,24.1
+710995,2024-07-22T16:00Z,Gloria Buzau,Sepsi Sfantu Gheorghe,1,2,Buzau,Romania,93.0,0.3,9.0,27.5
+710993,2024-07-22T19:00Z,Otelul Galati,FC Farul Constanta,0,0,Galati,Romania,24.0,0,14.3,25.3
+711007,2024-07-26T16:00Z,Hermannstadt,Unirea Slobozia,1,1,Sibiu,Romania,410.0,0,9.7,23.4
+711002,2024-07-26T19:00Z,FCSB,Otelul Galati,0,2,Bucuresti,Romania,92.0,0,9.8,23.3
+711005,2024-07-27T16:00Z,Politehnica Iasi,Gloria Buzau,1,2,Iasi,Romania,66.0,0,4.0,28.2
+711004,2024-07-27T19:00Z,Sepsi Sfantu Gheorghe,Dinamo Bucuresti,1,1,Sfantu Gheorghe,Romania,552.0,0,5.2,19.4
+711003,2024-07-28T16:00Z,FC Farul Constanta,FC Botosani,0,1,Ovidiu,Romania,22.0,0,15.5,28.9
+711001,2024-07-28T19:00Z,CFR Cluj-Napoca,CSU Craiova,0,2,Cluj,Romania,352.0,0,5.9,23.5
+711008,2024-07-29T16:00Z,UTA Arad,Universitatea Cluj,0,0,Arad,Romania,109.0,0,9.0,27.1
+711006,2024-07-29T19:00Z,Petrolul Ploiesti,Rapid Bucuresti,1,0,Ploiesti,Romania,161.0,0,14.8,25.8
+711015,2024-08-02T16:00Z,Otelul Galati,Hermannstadt,1,0,Galati,Romania,24.0,0,8.7,33.8
+711010,2024-08-02T19:00Z,Dinamo Bucuresti,Gloria Buzau,4,1,Bucuresti,Romania,92.0,0,2.6,30.5
+711009,2024-08-03T18:00Z,FC Farul Constanta,Politehnica Iasi,2,0,Ovidiu,Romania,22.0,0,15.8,27.4
+711011,2024-08-04T16:00Z,CSU Craiova,Petrolul Ploiesti,0,0,Craiova,Romania,105.0,0,24.4,27.7
+711130,2024-08-04T19:00Z,CFR Cluj-Napoca,Universitatea Cluj,2,3,Cluj,Romania,352.0,0,3.6,18.5
+711013,2024-08-05T16:00Z,Unirea Slobozia,UTA Arad,0,1,Clinceni,Romania,84.0,0,7.0,27.8
+711014,2024-08-05T19:00Z,Rapid Bucuresti,Sepsi Sfantu Gheorghe,2,2,Bucuresti,Romania,92.0,0,3.7,25.5
+711022,2024-08-09T18:00Z,FCSB,FC Farul Constanta,3,2,Bucuresti,Romania,92.0,0.7,1.3,23.3
+711021,2024-08-10T14:00Z,Hermannstadt,FC Botosani,2,1,Sibiu,Romania,410.0,0,7.7,28.2
+711024,2024-08-10T16:00Z,UTA Arad,Otelul Galati,1,1,Arad,Romania,109.0,0,16.3,30.7
+711017,2024-08-10T19:00Z,Gloria Buzau,Rapid Bucuresti,1,1,Buzau,Romania,93.0,0,5.8,24.0
+711018,2024-08-11T16:00Z,Sepsi Sfantu Gheorghe,CSU Craiova,1,2,Sfantu Gheorghe,Romania,552.0,0,7.4,25.0
+711023,2024-08-11T19:00Z,CFR Cluj-Napoca,Unirea Slobozia,3,0,Cluj,Romania,352.0,0,4.0,22.8
+711020,2024-08-12T16:00Z,Petrolul Ploiesti,Universitatea Cluj,0,0,Ploiesti,Romania,161.0,0,10.2,32.9
+711019,2024-08-12T19:00Z,Politehnica Iasi,Dinamo Bucuresti,2,2,Iasi,Romania,66.0,0,7.2,23.2
+711031,2024-08-16T16:00Z,Unirea Slobozia,Petrolul Ploiesti,1,2,Clinceni,Romania,84.0,0,6.7,34.5
+711029,2024-08-16T19:00Z,CSU Craiova,Gloria Buzau,5,1,Craiova,Romania,105.0,0,7.1,29.2
+711027,2024-08-17T16:00Z,FC Botosani,UTA Arad,1,0,Botosani,Romania,159.0,0,2.1,30.5
+711026,2024-08-17T19:00Z,FCSB,Politehnica Iasi,0,1,Bucuresti,Romania,92.0,0,17.1,28.8
+711032,2024-08-18T18:30Z,Rapid Bucuresti,Dinamo Bucuresti,1,1,Bucuresti,Romania,92.0,0,8.3,28.2
+711030,2024-08-19T16:00Z,Universitatea Cluj,Sepsi Sfantu Gheorghe,3,0,Cluj,Romania,352.0,0,6.4,31.3
+711025,2024-08-19T19:00Z,FC Farul Constanta,Hermannstadt,3,2,Ovidiu,Romania,22.0,0,3.4,24.7
+711038,2024-08-23T16:00Z,Petrolul Ploiesti,Otelul Galati,0,0,Ploiesti,Romania,161.0,0,8.0,31.3
+711037,2024-08-23T19:00Z,Politehnica Iasi,Rapid Bucuresti,1,2,Iasi,Romania,66.0,0,9.8,19.7
+711036,2024-08-24T16:00Z,Sepsi Sfantu Gheorghe,Unirea Slobozia,0,1,Sfantu Gheorghe,Romania,552.0,0,5.7,26.1
+711040,2024-08-24T19:00Z,Dinamo Bucuresti,CSU Craiova,2,1,Bucuresti,Romania,92.0,0,9.9,27.0
+711034,2024-08-25T16:00Z,CFR Cluj-Napoca,FC Botosani,3,0,Cluj,Romania,352.0,0,3.9,31.7
+711039,2024-08-25T19:00Z,Hermannstadt,FCSB,2,0,Sibiu,Romania,410.0,0,1.5,26.3
+711033,2024-08-26T16:00Z,Gloria Buzau,Universitatea Cluj,0,2,Buzau,Romania,93.0,0,11.9,32.0
+711035,2024-08-26T19:00Z,UTA Arad,FC Farul Constanta,1,1,Arad,Romania,109.0,0,6.4,27.4
+711043,2024-08-30T18:00Z,Otelul Galati,Sepsi Sfantu Gheorghe,2,0,Galati,Romania,24.0,3.9,16.1,22.0
+711042,2024-08-31T15:30Z,Hermannstadt,Politehnica Iasi,6,2,Sibiu,Romania,410.0,0,8.6,26.8
+711048,2024-08-31T18:30Z,CSU Craiova,Rapid Bucuresti,1,1,Craiova,Romania,105.0,0,6.2,25.2
+711041,2024-09-01T13:30Z,FC Botosani,Petrolul Ploiesti,0,2,Botosani,Romania,159.0,0,15.7,31.3
+711046,2024-09-01T15:45Z,FC Farul Constanta,CFR Cluj-Napoca,0,3,Ovidiu,Romania,22.0,0,10.8,23.6
+711047,2024-09-01T18:30Z,FCSB,UTA Arad,2,0,Bucuresti,Romania,92.0,0,3.3,22.5
+711044,2024-09-02T16:00Z,Unirea Slobozia,Gloria Buzau,2,1,Clinceni,Romania,84.0,0,8.9,28.6
+711045,2024-09-02T18:30Z,Universitatea Cluj,Dinamo Bucuresti,1,0,Cluj,Romania,352.0,0,5.8,23.1
+711055,2024-09-13T15:00Z,Sepsi Sfantu Gheorghe,FC Botosani,3,0,Sfantu Gheorghe,Romania,552.0,0,11.3,21.0
+711049,2024-09-13T18:00Z,Dinamo Bucuresti,Unirea Slobozia,1,0,Bucuresti,Romania,92.0,0,6.2,21.0
+711051,2024-09-14T15:45Z,Gloria Buzau,Otelul Galati,0,0,Buzau,Romania,93.0,0,18.6,19.1
+711052,2024-09-14T18:30Z,Petrolul Ploiesti,FC Farul Constanta,1,1,Ploiesti,Romania,161.0,0,16.1,16.5
+711053,2024-09-15T15:15Z,Politehnica Iasi,CSU Craiova,2,0,Iasi,Romania,66.0,3.5,4.0,17.1
+711050,2024-09-15T18:00Z,CFR Cluj-Napoca,FCSB,2,2,Cluj,Romania,352.0,0,11.7,12.6
+711056,2024-09-16T15:00Z,UTA Arad,Hermannstadt,1,1,Arad,Romania,109.0,0,12.3,14.6
+711054,2024-09-16T18:00Z,Rapid Bucuresti,Universitatea Cluj,0,2,Bucuresti,Romania,92.0,0,8.8,14.6
+711059,2024-09-20T15:00Z,FC Botosani,Gloria Buzau,3,3,Botosani,Romania,159.0,0,6.2,19.4
+711064,2024-09-20T18:00Z,Otelul Galati,Dinamo Bucuresti,1,1,Galati,Romania,24.0,0,11.2,15.2
+711060,2024-09-21T15:30Z,Hermannstadt,CFR Cluj-Napoca,0,0,Sibiu,Romania,410.0,0,4.7,19.8
+711058,2024-09-21T18:30Z,FCSB,Petrolul Ploiesti,1,1,Bucuresti,Romania,92.0,0,6.2,17.7
+711057,2024-09-22T13:00Z,FC Farul Constanta,Sepsi Sfantu Gheorghe,2,1,Ovidiu,Romania,22.0,0,16.7,24.4
+711061,2024-09-22T18:30Z,Universitatea Cluj,CSU Craiova,1,1,Cluj,Romania,352.0,0,4.1,13.9

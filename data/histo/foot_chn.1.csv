@@ -255,3 +255,91 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 698740,2024-06-16T11:35Z,Shanghai Shenhua FC,Chengdu Rongcheng,1,1,Shanghai,China PR,12.0,0,15.3,24.3
 698741,2024-06-16T12:00Z,Qingdao West Coast,Wuhan Three Towns,0,1,Qingdao,China PR,16.0,0,12.1,20.7
 698676,2024-06-18T11:35Z,Meizhou Hakka,Shanghai Port FC,1,2,Wuhua,China PR,106.0,0,5.1,27.7
+698742,2024-06-25T11:00Z,Henan,Qingdao West Coast,1,0,Zhengzhou,China PR,104.0,0,9.6,29.8
+698744,2024-06-25T11:35Z,Nantong Zhiyun,Tianjin Jinmen Tiger,1,1,Rugao,China PR,6.0,0,10.5,23.6
+698743,2024-06-25T11:35Z,Shenzhen Xinpengcheng,Zhejiang Professional FC,3,2,Shenzhen,China PR,4.0,0,6.4,27.2
+698745,2024-06-25T12:00Z,Wuhan Three Towns,Shanghai Port FC,0,2,Wuhan,China PR,20.0,0,6.5,23.5
+698746,2024-06-26T11:00Z,Shanghai Shenhua FC,Meizhou Hakka,3,0,Shanghai,China PR,12.0,13.1,10.2,23.4
+698747,2024-06-26T11:35Z,Changchun Yatai,Shandong Taishan,2,2,Changchun,China PR,206.0,0,12.5,25.0
+698748,2024-06-26T11:35Z,Qingdao Hainiu,Chengdu Rongcheng,1,5,Qingdao,China PR,16.0,0,15.3,22.7
+698749,2024-06-26T12:00Z,Beijing Guoan,Cangzhou Mighty Lions,4,0,Beijing,China PR,49.0,0,10.1,31.7
+698750,2024-06-29T11:00Z,Wuhan Three Towns,Nantong Zhiyun,1,2,Wuhan,China PR,20.0,0,7.1,24.6
+698751,2024-06-29T11:35Z,Shanghai Port FC,Zhejiang Professional FC,3,1,Shanghai,China PR,12.0,0,13.7,28.8
+698752,2024-06-29T11:35Z,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,3,0,Tianjin,China PR,11.0,0,15.3,26.8
+698753,2024-06-30T10:00Z,Qingdao West Coast,Shanghai Shenhua FC,0,1,Qingdao,China PR,16.0,0,13.7,24.7
+698754,2024-06-30T11:35Z,Changchun Yatai,Qingdao Hainiu,5,0,Changchun,China PR,206.0,0.1,19.5,20.9
+698755,2024-06-30T11:35Z,Chengdu Rongcheng,Cangzhou Mighty Lions,4,0,Chengdu,China PR,499.0,0.1,2.2,28.6
+698756,2024-06-30T11:35Z,Meizhou Hakka,Henan,0,3,Wuhua,China PR,106.0,0,10.1,28.5
+698757,2024-06-30T12:00Z,Beijing Guoan,Shandong Taishan,2,0,Beijing,China PR,49.0,0,7.7,29.5
+698758,2024-07-05T12:00Z,Henan,Shanghai Port FC,0,1,Zhengzhou,China PR,104.0,2.0,0.8,25.3
+698759,2024-07-06T11:00Z,Tianjin Jinmen Tiger,Changchun Yatai,2,2,Tianjin,China PR,11.0,0,9.7,28.8
+698760,2024-07-06T11:35Z,Shanghai Shenhua FC,Shandong Taishan,6,0,Shanghai,China PR,12.0,0,14.9,30.8
+698761,2024-07-06T12:00Z,Cangzhou Mighty Lions,Shenzhen Xinpengcheng,1,1,Cangzhou,China PR,15.0,0,12.1,27.9
+698762,2024-07-07T11:00Z,Nantong Zhiyun,Chengdu Rongcheng,0,1,Rugao,China PR,6.0,0,10.1,32.0
+698764,2024-07-07T11:35Z,Beijing Guoan,Wuhan Three Towns,1,2,Beijing,China PR,49.0,0,5.5,28.8
+698763,2024-07-07T11:35Z,Qingdao Hainiu,Qingdao West Coast,3,1,Qingdao,China PR,16.0,1.9,6.8,24.3
+698765,2024-07-07T12:00Z,Zhejiang Professional FC,Meizhou Hakka,4,0,Hangzhou,China PR,12.0,0,5.8,31.7
+698767,2024-07-12T11:35Z,Cangzhou Mighty Lions,Wuhan Three Towns,1,1,Cangzhou,China PR,15.0,0,5.6,28.7
+698768,2024-07-12T11:35Z,Shanghai Port FC,Beijing Guoan,5,1,Shanghai,China PR,12.0,0.2,10.3,25.7
+698769,2024-07-12T12:00Z,Chengdu Rongcheng,Tianjin Jinmen Tiger,2,1,Chengdu,China PR,499.0,0,5.4,27.2
+698766,2024-07-13T06:30Z,Qingdao West Coast,Zhejiang Professional FC,5,2,Qingdao,China PR,16.0,0,19.3,26.1
+698771,2024-07-13T11:35Z,Meizhou Hakka,Nantong Zhiyun,2,1,Wuhua,China PR,106.0,0,10.4,31.2
+698770,2024-07-13T11:35Z,Shandong Taishan,Qingdao Hainiu,1,1,Jinan,China PR,32.0,0.4,6.1,27.2
+698773,2024-07-13T12:00Z,Shanghai Shenhua FC,Changchun Yatai,3,2,Shanghai,China PR,12.0,0.1,12.1,27.8
+698772,2024-07-13T12:00Z,Shenzhen Xinpengcheng,Henan,0,0,Shenzhen,China PR,4.0,0,7.9,28.2
+698813,2024-07-20T11:35Z,Wuhan Three Towns,Chengdu Rongcheng,1,1,Wuhan,China PR,20.0,0,14.4,30.5
+698810,2024-07-21T10:00Z,Qingdao West Coast,Meizhou Hakka,3,3,Qingdao,China PR,16.0,0,20.0,27.5
+698809,2024-07-21T11:00Z,Nantong Zhiyun,Shandong Taishan,0,2,Rugao,China PR,6.0,0,6.6,31.4
+698812,2024-07-21T11:35Z,Beijing Guoan,Tianjin Jinmen Tiger,2,0,Beijing,China PR,49.0,0,9.3,34.0
+698807,2024-07-21T11:35Z,Henan,Zhejiang Professional FC,2,1,Zhengzhou,China PR,104.0,0,8.5,32.4
+698811,2024-07-21T11:35Z,Shanghai Port FC,Qingdao Hainiu,5,0,Shanghai,China PR,12.0,0,18.4,30.0
+698808,2024-07-21T11:35Z,Shenzhen Xinpengcheng,Changchun Yatai,2,1,Shenzhen,China PR,4.0,0,15.1,27.5
+698806,2024-07-22T11:35Z,Cangzhou Mighty Lions,Shanghai Shenhua FC,0,5,Cangzhou,China PR,15.0,0,9.0,33.4
+698774,2024-07-26T11:35Z,Shanghai Port FC,Nantong Zhiyun,8,1,Shanghai,China PR,12.0,1.4,31.8,27.8
+698775,2024-07-26T12:00Z,Shenzhen Xinpengcheng,Beijing Guoan,1,0,Shenzhen,China PR,4.0,3.4,14.6,27.8
+698776,2024-07-27T11:00Z,Changchun Yatai,Cangzhou Mighty Lions,1,0,Changchun,China PR,206.0,13.8,16.5,26.1
+698777,2024-07-27T11:35Z,Tianjin Jinmen Tiger,Qingdao West Coast,2,1,Tianjin,China PR,11.0,0,12.1,28.2
+698778,2024-07-28T11:35Z,Qingdao Hainiu,Meizhou Hakka,4,2,Qingdao,China PR,16.0,0,17.1,27.6
+698779,2024-07-28T11:35Z,Zhejiang Professional FC,Chengdu Rongcheng,1,3,Hangzhou,China PR,12.0,0,13.1,33.1
+698780,2024-07-28T12:00Z,Henan,Shandong Taishan,1,0,Zhengzhou,China PR,104.0,3.2,6.4,27.8
+698781,2024-07-29T11:35Z,Wuhan Three Towns,Shanghai Shenhua FC,0,2,Wuhan,China PR,20.0,0,9.3,31.9
+698782,2024-08-02T11:35Z,Qingdao West Coast,Cangzhou Mighty Lions,1,1,Qingdao,China PR,16.0,0,10.2,28.5
+698783,2024-08-03T11:00Z,Zhejiang Professional FC,Qingdao Hainiu,4,3,Hangzhou,China PR,12.0,1.8,5.2,30.3
+698784,2024-08-03T11:35Z,Meizhou Hakka,Tianjin Jinmen Tiger,3,2,Wuhua,China PR,106.0,0,5.8,31.2
+698785,2024-08-03T11:35Z,Shandong Taishan,Shanghai Port FC,0,1,Jinan,China PR,32.0,0,15.9,30.7
+698787,2024-08-03T12:00Z,Chengdu Rongcheng,Changchun Yatai,4,0,Chengdu,China PR,499.0,6.3,2.1,26.7
+698786,2024-08-03T12:00Z,Wuhan Three Towns,Shenzhen Xinpengcheng,4,1,Wuhan,China PR,20.0,0,6.3,31.2
+698788,2024-08-04T11:35Z,Beijing Guoan,Shanghai Shenhua FC,2,1,Beijing,China PR,49.0,0,10.6,28.7
+698789,2024-08-04T12:00Z,Nantong Zhiyun,Henan,1,1,Rugao,China PR,6.0,0,9.1,32.4
+698791,2024-08-09T11:35Z,Cangzhou Mighty Lions,Shandong Taishan,3,1,Cangzhou,China PR,15.0,0.5,15.8,29.2
+698795,2024-08-09T11:35Z,Shanghai Port FC,Meizhou Hakka,7,2,Shanghai,China PR,12.0,0,16.0,31.8
+698790,2024-08-09T11:35Z,Shenzhen Xinpengcheng,Chengdu Rongcheng,0,3,Shenzhen,China PR,4.0,0,11.6,28.7
+698792,2024-08-10T11:00Z,Qingdao Hainiu,Henan,0,2,Qingdao,China PR,16.0,0,22.4,29.8
+698793,2024-08-10T11:35Z,Changchun Yatai,Wuhan Three Towns,2,0,Changchun,China PR,206.0,5.0,26.2,24.3
+698794,2024-08-10T12:00Z,Shanghai Shenhua FC,Nantong Zhiyun,5,1,Shanghai,China PR,12.0,0,15.0,30.9
+698796,2024-08-11T11:35Z,Qingdao West Coast,Beijing Guoan,2,2,Qingdao,China PR,16.0,0,17.6,29.7
+698797,2024-08-11T12:00Z,Tianjin Jinmen Tiger,Zhejiang Professional FC,3,2,Tianjin,China PR,11.0,0,5.9,27.8
+698798,2024-08-16T11:00Z,Henan,Cangzhou Mighty Lions,0,2,Zhengzhou,China PR,104.0,0,4.9,29.6
+698799,2024-08-16T11:35Z,Tianjin Jinmen Tiger,Wuhan Three Towns,1,0,Tianjin,China PR,11.0,0,7.3,28.0
+698800,2024-08-16T12:00Z,Beijing Guoan,Zhejiang Professional FC,0,0,Beijing,China PR,49.0,0,4.9,24.5
+698801,2024-08-16T12:00Z,Nantong Zhiyun,Qingdao West Coast,0,3,Rugao,China PR,6.0,0,8.3,27.5
+698802,2024-08-17T11:00Z,Qingdao Hainiu,Shenzhen Xinpengcheng,1,0,Qingdao,China PR,16.0,0,8.8,28.3
+698804,2024-08-17T11:35Z,Meizhou Hakka,Changchun Yatai,2,1,Wuhua,China PR,106.0,0.2,5.2,26.0
+698803,2024-08-17T11:35Z,Shanghai Shenhua FC,Shanghai Port FC,3,1,Shanghai,China PR,12.0,0,11.9,29.6
+698805,2024-08-17T12:00Z,Shandong Taishan,Chengdu Rongcheng,3,0,Jinan,China PR,32.0,0,3.6,27.5
+698814,2024-09-13T11:00Z,Shanghai Port FC,Shenzhen Xinpengcheng,2,0,Shanghai,China PR,12.0,0,12.2,27.4
+698815,2024-09-13T11:35Z,Zhejiang Professional FC,Shanghai Shenhua FC,3,4,Hangzhou,China PR,12.0,0,11.4,28.4
+698816,2024-09-13T12:00Z,Shandong Taishan,Qingdao West Coast,0,1,Jinan,China PR,32.0,0,10.3,24.8
+698820,2024-09-14T11:35Z,Changchun Yatai,Nantong Zhiyun,3,2,Changchun,China PR,206.0,0,2.2,13.5
+698817,2024-09-14T11:35Z,Chengdu Rongcheng,Beijing Guoan,2,2,Chengdu,China PR,499.0,0,2.2,29.4
+698818,2024-09-14T11:35Z,Tianjin Jinmen Tiger,Henan,1,0,Tianjin,China PR,11.0,0,8.5,17.7
+698819,2024-09-14T12:00Z,Cangzhou Mighty Lions,Meizhou Hakka,2,1,Cangzhou,China PR,15.0,0,7.7,18.6
+698821,2024-09-15T11:00Z,Qingdao Hainiu,Wuhan Three Towns,1,1,Qingdao,China PR,16.0,0,11.3,23.6
+698822,2024-09-20T11:35Z,Meizhou Hakka,Beijing Guoan,1,3,Wuhua,China PR,106.0,0.5,3.0,27.5
+698823,2024-09-21T10:00Z,Changchun Yatai,Shanghai Port FC,3,4,Changchun,China PR,206.0,0,8.7,11.6
+698825,2024-09-21T11:35Z,Henan,Chengdu Rongcheng,2,0,Zhengzhou,China PR,104.0,0,11.8,19.1
+698824,2024-09-21T11:35Z,Shandong Taishan,Wuhan Three Towns,0,0,Jinan,China PR,32.0,0,13.4,17.2
+698826,2024-09-21T12:00Z,Shanghai Shenhua FC,Tianjin Jinmen Tiger,2,1,Shanghai,China PR,12.0,0,22.6,23.1
+698827,2024-09-22T07:30Z,Qingdao West Coast,Shenzhen Xinpengcheng,3,2,Qingdao,China PR,16.0,0,25.9,22.3
+698828,2024-09-22T11:00Z,Nantong Zhiyun,Qingdao Hainiu,2,1,Rugao,China PR,6.0,0,14.4,20.6
+698829,2024-09-22T12:00Z,Zhejiang Professional FC,Cangzhou Mighty Lions,2,2,Hangzhou,China PR,12.0,0,15.9,22.1

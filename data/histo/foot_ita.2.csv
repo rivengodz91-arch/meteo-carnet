@@ -389,3 +389,63 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 702472,2024-05-25T18:30Z,Cremonese,Catanzaro,4,1,Cremona,Italy,45.0,0,3.3,17.8
 702720,2024-05-30T18:30Z,Cremonese,Venezia,0,0,Cremona,Italy,45.0,0.7,12.9,17.7
 702721,2024-06-02T18:30Z,Venezia,Cremonese,1,0,Venezia,Italy,160.0,0,3.0,17.9
+713516,2024-08-16T18:30Z,Brescia,Palermo,1,0,Brescia,Italy,149.0,0,4.3,28.2
+713515,2024-08-17T18:30Z,Bari,Juve Stabia,1,3,Bari,Italy,5.0,0,5.5,29.0
+713521,2024-08-17T18:30Z,Pisa,Spezia,2,2,Pisa,Italy,4.0,0,4.9,25.5
+713523,2024-08-17T18:30Z,Salernitana,Cittadella,2,1,Salerno,Italy,4.0,0,4.6,29.0
+713524,2024-08-17T18:30Z,Sudtirol,Modena,2,1,Bolzano,Italy,262.0,0,4.4,28.4
+713517,2024-08-18T18:30Z,Catanzaro,Sassuolo,1,1,Catanzaro,Italy,320.0,0,13.2,27.3
+713518,2024-08-18T18:30Z,Cesena,Carrarese,2,1,Cesena,Italy,44.0,0,1.1,25.7
+713519,2024-08-18T18:30Z,Cosenza,Cremonese,1,0,Cosenza,Italy,238.0,0,2.4,26.0
+713520,2024-08-18T18:30Z,Frosinone,Sampdoria,2,2,Frosinone,Italy,291.0,0,3.3,24.7
+713522,2024-08-18T18:30Z,Reggiana,Mantova,2,2,Reggio Emilia,Italy,58.0,1.0,5.2,23.0
+713529,2024-08-23T18:30Z,Modena,Bari,2,1,Modena,Italy,34.0,0,5.9,28.4
+713534,2024-08-24T17:30Z,Sudtirol,Salernitana,3,2,Bolzano,Italy,262.0,0,2.8,29.2
+713525,2024-08-24T18:30Z,Brescia,Cittadella,0,1,Brescia,Italy,149.0,0,4.3,28.1
+713527,2024-08-24T18:30Z,Cremonese,Carrarese,1,0,Cremona,Italy,45.0,0,3.7,30.7
+713530,2024-08-24T18:30Z,Pisa,Palermo,2,0,Pisa,Italy,4.0,0,5.2,24.7
+713531,2024-08-24T18:30Z,Sampdoria,Reggiana,0,1,Genova,Italy,3.0,0,7.5,26.9
+713532,2024-08-24T18:30Z,Sassuolo,Cesena,2,1,Reggio Emilia,Italy,58.0,0,7.7,27.7
+713533,2024-08-24T18:30Z,Spezia,Frosinone,2,1,La Spezia,Italy,3.0,0,2.9,25.4
+713526,2024-08-25T18:30Z,Catanzaro,Juve Stabia,0,0,Catanzaro,Italy,320.0,0,23.1,26.0
+713528,2024-08-25T18:30Z,Mantova,Cosenza,3,2,Mantova,Italy,209.0,0,6.5,27.4
+713535,2024-08-27T18:30Z,Bari,Sassuolo,1,1,Bari,Italy,5.0,0,5.8,27.2
+713536,2024-08-27T18:30Z,Carrarese,Sudtirol,2,0,Pisa,Italy,4.0,0,6.4,27.8
+713538,2024-08-27T18:30Z,Cittadella,Pisa,0,3,Cittadella,Italy,48.0,0,5.1,26.8
+713540,2024-08-27T18:30Z,Cremonese,Palermo,0,1,Cremona,Italy,45.0,0,4.7,23.3
+713541,2024-08-27T18:30Z,Frosinone,Modena,1,1,Frosinone,Italy,291.0,0,5.5,26.8
+713543,2024-08-27T18:30Z,Reggiana,Brescia,2,0,Reggio Emilia,Italy,58.0,0,5.1,23.0
+713544,2024-08-27T18:30Z,Salernitana,Sampdoria,3,2,Salerno,Italy,4.0,0,3.2,28.3
+713537,2024-08-28T18:30Z,Cesena,Catanzaro,2,0,Cesena,Italy,44.0,0,5.0,25.7
+713539,2024-08-28T18:30Z,Cosenza,Spezia,0,0,Cosenza,Italy,238.0,0,2.3,26.1
+713542,2024-08-28T18:30Z,Juve Stabia,Mantova,1,0,Piacenza,Italy,61.0,0,5.2,27.0
+713551,2024-08-31T16:00Z,Sampdoria,Bari,0,0,Genova,Italy,3.0,0,10.1,32.6
+713548,2024-08-31T18:30Z,Modena,Cittadella,0,1,Modena,Italy,34.0,0,5.7,28.1
+713549,2024-08-31T18:30Z,Pisa,Reggiana,2,1,Pisa,Italy,4.0,0,5.9,28.5
+713552,2024-08-31T18:30Z,Sassuolo,Cremonese,1,4,Reggio Emilia,Italy,58.0,0,7.3,26.6
+713550,2024-08-31T18:30Z,Sudtirol,Brescia,1,2,Bolzano,Italy,262.0,0,4.7,27.6
+713545,2024-09-01T18:30Z,Catanzaro,Carrarese,3,1,Catanzaro,Italy,320.0,0,14.6,25.2
+713546,2024-09-01T18:30Z,Frosinone,Juve Stabia,0,0,Frosinone,Italy,291.0,0,5.0,29.3
+713547,2024-09-01T18:30Z,Mantova,Salernitana,1,0,Mantova,Italy,209.0,0,7.2,25.2
+713554,2024-09-01T18:30Z,Palermo,Cosenza,1,1,Palermo,Italy,14.0,0,6.9,26.6
+713553,2024-09-01T18:30Z,Spezia,Cesena,2,1,La Spezia,Italy,3.0,0,5.2,27.2
+713564,2024-09-13T18:30Z,Cesena,Modena,2,2,Cesena,Italy,44.0,0,3.9,14.7
+713563,2024-09-14T13:00Z,Bari,Mantova,2,0,Bari,Italy,5.0,0,19.1,21.6
+713555,2024-09-14T13:00Z,Brescia,Frosinone,4,0,Brescia,Italy,149.0,0,11.3,21.5
+713557,2024-09-14T13:00Z,Cittadella,Catanzaro,0,0,Cittadella,Italy,48.0,0,3.6,20.5
+713560,2024-09-14T13:00Z,Cremonese,Spezia,1,1,Cremona,Italy,45.0,0,11.6,21.9
+713559,2024-09-14T13:00Z,Juve Stabia,Palermo,1,3,Castellammare di Stabia,Italy,6.0,0,17.6,21.3
+713556,2024-09-15T13:00Z,Carrarese,Sassuolo,0,2,Pisa,Italy,4.0,0,15.5,23.1
+713561,2024-09-15T13:00Z,Cosenza,Sampdoria,2,1,Cosenza,Italy,238.0,0,12.5,21.3
+713558,2024-09-15T13:00Z,Reggiana,Sudtirol,1,3,Reggio Emilia,Italy,58.0,0,10.0,23.6
+713562,2024-09-15T13:00Z,Salernitana,Pisa,2,3,Salerno,Italy,4.0,0,16.1,22.1
+713569,2024-09-20T18:30Z,Catanzaro,Cremonese,1,2,Catanzaro,Italy,320.0,0,5.1,19.5
+713566,2024-09-21T13:00Z,Cosenza,Sassuolo,0,1,Cosenza,Italy,238.0,0,6.6,23.9
+713572,2024-09-21T13:00Z,Palermo,Cesena,0,0,Palermo,Italy,14.0,0,8.1,24.7
+713571,2024-09-21T13:00Z,Pisa,Brescia,2,1,Pisa,Italy,4.0,0,11.6,24.8
+713570,2024-09-21T13:00Z,Reggiana,Salernitana,0,0,Reggio Emilia,Italy,58.0,0,5.8,22.5
+713574,2024-09-21T13:00Z,Sampdoria,Sudtirol,1,0,Genova,Italy,3.0,0,9.3,24.0
+713567,2024-09-21T16:00Z,Modena,Juve Stabia,3,0,Modena,Italy,34.0,0,4.3,22.3
+713573,2024-09-22T13:00Z,Frosinone,Bari,0,3,Frosinone,Italy,291.0,0,4.1,23.7
+713565,2024-09-22T13:00Z,Mantova,Cittadella,1,0,Mantova,Italy,209.0,0.1,3.3,21.9
+713568,2024-09-22T13:00Z,Spezia,Carrarese,4,2,La Spezia,Italy,3.0,0,6.5,22.6

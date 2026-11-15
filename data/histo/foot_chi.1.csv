@@ -240,3 +240,72 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 696810,2024-06-06T21:30Z,Coquimbo Unido,Palestino,0,0,Coquimbo,Chile,22.0,0,5.7,14.5
 696819,2024-06-07T23:00Z,Unión Española,Unión La Calera,0,1,Santiago,Chile,556.0,0,1.3,18.5
 696836,2024-06-20T19:00Z,Ñublense,Huachipato,3,0,Chillán,Chile,132.0,2.8,30.4,11.1
+696842,2024-07-19T23:00Z,Huachipato,Cobreloa,1,1,Talcahuano,Chile,15.0,0,11.6,8.9
+696844,2024-07-20T16:30Z,Coquimbo Unido,Ñublense,1,0,Coquimbo,Chile,22.0,0,8.8,12.8
+696841,2024-07-20T19:00Z,O'Higgins,Copiapó,2,0,Rancagua,Chile,520.0,0,8.1,12.9
+696839,2024-07-20T21:30Z,Universidad Católica,Unión La Calera,2,0,Santiago,Chile,556.0,0,7.1,13.0
+696843,2024-07-21T00:00Z,Deportes Iquique,Audax Italiano,2,1,Iquique,Chile,15.0,0,3.3,15.7
+696840,2024-07-21T16:30Z,Palestino,Everton CD,1,4,Santiago,Chile,556.0,0,8.8,12.3
+696837,2024-07-21T19:00Z,Cobresal,Universidad de Chile,3,3,El Salvador,Chile,694.0,0.8,4.2,29.9
+696838,2024-07-21T21:30Z,Colo Colo,Unión Española,2,1,Santiago,Chile,556.0,0,6.3,13.1
+696852,2024-07-26T23:00Z,Everton CD,Deportes Iquique,1,1,Vina del Mar,Chile,17.0,0,18.4,11.8
+696849,2024-07-27T16:30Z,Copiapó,Coquimbo Unido,3,0,Coquimbo,Chile,22.0,0,5.4,11.8
+696847,2024-07-27T19:00Z,Unión Española,Cobresal,2,1,Santiago,Chile,556.0,0,8.0,16.5
+696850,2024-07-27T21:30Z,Colo Colo,O'Higgins,2,1,Santiago,Chile,556.0,0,5.7,14.7
+696848,2024-07-28T19:00Z,Ñublense,Universidad Católica,1,2,Chillán,Chile,132.0,0,21.6,12.0
+696845,2024-07-28T21:30Z,Audax Italiano,Universidad de Chile,1,0,Estadio La Portada,Chile,,,,
+696846,2024-07-29T00:00Z,Unión La Calera,Huachipato,2,1,La Calera,Chile,217.0,0,7.2,12.4
+696851,2024-07-30T00:00Z,Cobreloa,Palestino,3,1,Calama,Chile,2275.0,0,8.0,15.4
+696855,2024-08-03T00:00Z,Coquimbo Unido,Unión Española,2,2,Coquimbo,Chile,22.0,0.4,14.4,12.9
+696736,2024-08-03T16:30Z,Everton CD,O'Higgins,1,1,Vina del Mar,Chile,17.0,0,6.6,17.1
+696859,2024-08-03T21:30Z,Universidad Católica,Palestino,1,1,Santiago,Chile,556.0,0,4.0,14.1
+696856,2024-08-04T00:00Z,Deportes Iquique,Unión La Calera,1,1,Iquique,Chile,15.0,0,7.0,16.2
+696860,2024-08-04T16:30Z,Audax Italiano,Ñublense,0,1,Rancagua,Chile,520.0,0,9.4,13.1
+696854,2024-08-04T19:00Z,Cobresal,Cobreloa,3,2,El Salvador,Chile,694.0,0,6.5,29.1
+696853,2024-08-04T21:30Z,Universidad de Chile,Copiapó,1,0,Santiago,Chile,556.0,0,8.4,14.0
+696861,2024-08-09T19:00Z,Palestino,O'Higgins,4,1,Santiago,Chile,556.0,0,8.7,18.5
+696865,2024-08-09T22:00Z,Huachipato,Cobresal,0,0,Talcahuano,Chile,15.0,0,15.5,10.4
+696868,2024-08-10T00:30Z,Cobreloa,Unión La Calera,2,0,Calama,Chile,2275.0,0,11.1,11.8
+696863,2024-08-10T16:00Z,Copiapó,Ñublense,0,1,Coquimbo,Chile,22.0,0,1.1,15.1
+696867,2024-08-10T19:00Z,Universidad de Chile,Colo Colo,0,0,Santiago,Chile,556.0,0,8.7,19.0
+696862,2024-08-10T23:00Z,Coquimbo Unido,Deportes Iquique,1,2,Coquimbo,Chile,22.0,0,0.4,14.7
+696741,2024-08-11T16:30Z,Audax Italiano,Unión Española,1,1,Rancagua,Chile,520.0,0,3.1,15.0
+696864,2024-08-11T19:00Z,Everton CD,Universidad Católica,0,0,Vina del Mar,Chile,17.0,0,17.7,21.2
+696876,2024-08-16T23:00Z,Colo Colo,Coquimbo Unido,2,0,Santiago,Chile,556.0,0,3.6,9.9
+696873,2024-08-17T16:30Z,Unión Española,Cobreloa,3,0,Santiago,Chile,556.0,0,6.6,13.0
+696875,2024-08-17T19:00Z,Copiapó,Huachipato,0,2,Coquimbo,Chile,22.0,0,11.2,13.9
+696874,2024-08-17T21:30Z,O'Higgins,Universidad de Chile,0,4,Rancagua,Chile,520.0,0,8.7,11.6
+696871,2024-08-18T00:00Z,Ñublense,Everton CD,1,1,Chillán,Chile,132.0,0,16.3,7.7
+696870,2024-08-18T16:00Z,Unión La Calera,Palestino,2,1,La Calera,Chile,217.0,0,4.2,12.2
+696869,2024-08-18T19:00Z,Audax Italiano,Universidad Católica,2,1,Rancagua,Chile,520.0,0,4.3,10.2
+696872,2024-08-18T19:00Z,Cobresal,Deportes Iquique,2,1,El Salvador,Chile,694.0,0,4.0,29.7
+696884,2024-08-22T23:00Z,Ñublense,Unión Española,0,0,Chillán,Chile,132.0,1.1,10.8,5.8
+696878,2024-08-23T23:00Z,Unión La Calera,Copiapó,3,3,La Calera,Chile,217.0,0,3.9,10.1
+696879,2024-08-23T23:00Z,Universidad de Chile,Cobreloa,4,0,Santiago,Chile,556.0,0,7.1,5.0
+696877,2024-08-24T19:00Z,Coquimbo Unido,Audax Italiano,1,1,Coquimbo,Chile,22.0,0,5.9,18.0
+696883,2024-08-24T21:30Z,Deportes Iquique,O'Higgins,1,3,Iquique,Chile,15.0,0,11.6,16.9
+696881,2024-08-25T16:30Z,Palestino,Cobresal,3,0,Santiago,Chile,556.0,0,6.4,18.5
+696882,2024-08-25T19:00Z,Everton CD,Colo Colo,0,1,Vina del Mar,Chile,17.0,0,8.2,17.7
+696880,2024-08-25T21:30Z,Universidad Católica,Huachipato,4,0,Santiago,Chile,556.0,0,15.7,16.3
+696765,2024-08-27T22:00Z,Universidad de Chile,Unión Española,2,0,Santiago,Chile,556.0,0,5.2,13.7
+696885,2024-08-28T00:30Z,Cobreloa,Coquimbo Unido,1,0,Calama,Chile,2275.0,0,7.9,14.4
+696887,2024-08-28T00:30Z,Deportes Iquique,Copiapó,2,1,Iquique,Chile,15.0,0,7.5,15.4
+696890,2024-08-28T19:00Z,Cobresal,Universidad Católica,3,1,El Salvador,Chile,694.0,0.3,9.4,29.7
+696889,2024-08-28T22:00Z,O'Higgins,Unión La Calera,1,1,Talca,Chile,112.0,0,4.1,13.0
+696891,2024-08-29T00:30Z,Audax Italiano,Everton CD,1,2,Santiago,Chile,556.0,0,4.5,8.8
+696886,2024-08-29T22:00Z,Colo Colo,Ñublense,2,1,Santiago,Chile,556.0,0,9.4,10.9
+696888,2024-08-30T00:30Z,Huachipato,Palestino,2,2,Talcahuano,Chile,15.0,0,5.5,10.2
+696894,2024-08-31T19:00Z,Coquimbo Unido,Universidad de Chile,0,1,Coquimbo,Chile,22.0,0,8.0,18.7
+696899,2024-08-31T21:30Z,Universidad Católica,Deportes Iquique,2,2,Santiago,Chile,556.0,0,5.6,18.5
+696896,2024-09-01T00:00Z,Everton CD,Unión Española,3,2,Vina del Mar,Chile,17.0,0,14.9,14.4
+696898,2024-09-01T16:30Z,Palestino,Ñublense,1,1,Santiago,Chile,556.0,0,2.7,21.3
+696893,2024-09-01T19:00Z,Cobreloa,Colo Colo,0,1,Calama,Chile,2275.0,0,23.4,23.7
+696895,2024-09-01T21:30Z,Copiapó,Cobresal,2,2,Coquimbo,Chile,22.0,0,6.8,15.0
+696900,2024-09-02T00:00Z,Unión La Calera,Audax Italiano,2,1,La Calera,Chile,217.0,0,1.1,13.5
+696897,2024-09-08T15:00Z,Huachipato,O'Higgins,1,0,Talcahuano,Chile,15.0,0,15.0,11.4
+696908,2024-09-14T18:00Z,Ñublense,Cobresal,1,0,Chillán,Chile,132.0,0,21.0,18.6
+696906,2024-09-14T20:30Z,O'Higgins,Coquimbo Unido,1,1,Rancagua,Chile,520.0,0,10.2,19.5
+696901,2024-09-14T23:00Z,Audax Italiano,Cobreloa,2,0,Santiago,Chile,556.0,0,7.9,13.6
+696903,2024-09-15T15:30Z,Copiapó,Unión Española,2,3,Coquimbo,Chile,22.0,0,4.0,15.2
+696904,2024-09-15T18:00Z,Deportes Iquique,Huachipato,3,1,Iquique,Chile,15.0,0,12.3,18.3
+696907,2024-09-15T20:30Z,Universidad de Chile,Palestino,1,0,Santiago,Chile,556.0,0,11.6,22.6

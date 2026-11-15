@@ -1,4 +1,9 @@
 {
+"Aalborg|Denmark": [
+57.048,
+9.919,
+10.0
+],
 "Aalesunds|Norway": null,
 "Aarhus|Denmark": [
 56.157,
@@ -44,6 +49,11 @@ null
 52.632,
 4.749,
 5.0
+],
+"Almancil|Portugal": [
+37.087,
+-8.031,
+55.0
 ],
 "Almelo|Netherlands": [
 52.357,
@@ -357,6 +367,11 @@ null
 10.527,
 72.0
 ],
+"Breda|Netherlands": [
+51.587,
+4.776,
+9.0
+],
 "Bregenz|Austria": [
 47.503,
 9.747,
@@ -381,6 +396,11 @@ null
 48.39,
 -4.486,
 49.0
+],
+"Bridgeview, Illinois|USA": [
+41.75,
+-87.804,
+189.0
 ],
 "Brisbane|Australia": [
 -27.468,
@@ -437,6 +457,11 @@ null
 -2.233,
 140.0
 ],
+"Buzau|Romania": [
+45.15,
+26.833,
+93.0
+],
 "Caen|France": [
 49.186,
 -0.359,
@@ -477,6 +502,16 @@ null
 -0.984,
 1.0
 ],
+"Castellammare di Stabia|Italy": [
+40.702,
+14.487,
+6.0
+],
+"Castellón|Spain": [
+39.986,
+-0.049,
+30.0
+],
 "Catanzaro|Italy": [
 38.882,
 16.601,
@@ -496,6 +531,11 @@ null
 43.88,
 125.323,
 206.0
+],
+"Chapecó|Brazil": [
+-27.096,
+-52.618,
+668.0
 ],
 "Charlotte, North Carolina|USA": [
 35.227,
@@ -551,6 +591,11 @@ null
 45.78,
 3.087,
 406.0
+],
+"Clinceni|Romania": [
+44.373,
+25.955,
+84.0
 ],
 "Cluj|Romania": [
 46.767,
@@ -647,6 +692,11 @@ null
 -64.189,
 378.0
 ],
+"Córdoba|Spain": [
+37.892,
+-4.773,
+117.0
+],
 "Dalian|China PR": [
 38.912,
 121.602,
@@ -661,6 +711,11 @@ null
 59.238,
 14.431,
 112.0
+],
+"Derby|England": [
+52.923,
+-1.477,
+55.0
 ],
 "Derry|Republic of Ireland": [
 54.998,
@@ -777,6 +832,7 @@ null
 -35.309,
 37.0
 ],
+"Estadio La Portada|Chile": null,
 "Estoril|Portugal": [
 38.706,
 -9.398,
@@ -848,6 +904,11 @@ null
 291.0
 ],
 "Fukuroi City|Japan": null,
+"Funchal|Portugal": [
+32.666,
+-16.925,
+280.0
+],
 "Furiani|France": [
 42.658,
 9.414,
@@ -948,6 +1009,11 @@ null
 5.715,
 218.0
 ],
+"Groningen|Netherlands": [
+53.219,
+6.567,
+16.0
+],
 "Guadalajara|Mexico": [
 20.677,
 -103.347,
@@ -972,6 +1038,11 @@ null
 57.683,
 11.951,
 23.0
+],
+"Haderslev|Denmark": [
+55.249,
+9.488,
+13.0
 ],
 "Haifa|Israel": [
 32.813,
@@ -1116,6 +1187,11 @@ null
 28.95,
 39.0
 ],
+"Itagua|Paraguay": [
+-22.852,
+-43.775,
+31.0
+],
 "Itagui|Colombia": [
 6.185,
 -75.599,
@@ -1125,6 +1201,11 @@ null
 34.7,
 137.85,
 5.0
+],
+"Izmir|Türkiye": [
+38.413,
+27.138,
+122.0
 ],
 "Jinan|China PR": [
 36.668,
@@ -1226,6 +1307,11 @@ null
 -71.198,
 217.0
 ],
+"La Coruña|Spain": [
+25.88,
+-103.298,
+1102.0
+],
 "La Línea de la Concepción|Spain": [
 36.168,
 -5.348,
@@ -1321,6 +1407,7 @@ null
 21.946,
 230.0
 ],
+"Levadia|Greece": null,
 "Leverkusen|Germany": [
 51.03,
 6.984,
@@ -1452,6 +1539,11 @@ null
 8.28,
 125.0
 ],
+"Malaga|Spain": [
+36.72,
+-4.42,
+22.0
+],
 "Malmo|Sweden": [
 55.606,
 13.001,
@@ -1476,6 +1568,11 @@ null
 -0.949,
 -80.731,
 3.0
+],
+"Mantova|Italy": [
+44.732,
+8.623,
+209.0
 ],
 "Marseille|France": [
 43.297,
@@ -1587,6 +1684,11 @@ null
 25.586,
 87.0
 ],
+"Mugla|": [
+37.218,
+28.366,
+672.0
+],
 "Mönchengladbach|Germany": [
 51.185,
 6.442,
@@ -1596,6 +1698,11 @@ null
 48.137,
 11.575,
 524.0
+],
+"Münster|Germany": [
+51.962,
+7.626,
+64.0
 ],
 "Nantes|France": [
 47.217,
@@ -1727,6 +1834,11 @@ null
 -5.845,
 237.0
 ],
+"Oxford|England": [
+51.752,
+-1.256,
+72.0
+],
 "Pachuca|Mexico": [
 20.117,
 -98.733,
@@ -1751,6 +1863,11 @@ null
 39.55,
 2.733,
 4.0
+],
+"Palmira, Valle Cauca|Colombia": [
+3.535,
+-76.298,
+886.0
 ],
 "Pamplona|Spain": [
 42.817,
@@ -1833,6 +1950,11 @@ null
 13.275,
 354.0
 ],
+"Ponta Delgada|Portugal": [
+37.74,
+-25.669,
+12.0
+],
 "Portimão|Portugal": [
 37.139,
 -8.538,
@@ -1857,6 +1979,11 @@ null
 41.148,
 -8.611,
 91.0
+],
+"Portsmouth|England": [
+50.799,
+-1.091,
+6.0
 ],
 "Prague|Czechia": [
 50.088,
@@ -1898,6 +2025,11 @@ null
 43.533,
 26.518,
 190.0
+],
+"Regensburg|Germany": [
+49.015,
+12.102,
+341.0
 ],
 "Reggio Emilia|Italy": [
 44.698,
@@ -1998,6 +2130,11 @@ null
 45.434,
 4.39,
 529.0
+],
+"Saint-Ouen, Paris|France": [
+48.907,
+2.333,
+35.0
 ],
 "Saitama|Japan": [
 35.908,
@@ -2154,10 +2291,20 @@ null
 9.545,
 19.0
 ],
+"Sincelejo|Colombia": [
+9.305,
+-75.391,
+209.0
+],
 "Sinsheim|Germany": [
 49.253,
 8.879,
 162.0
+],
+"Sion|Switzerland": [
+46.227,
+7.356,
+500.0
 ],
 "Sittard|Netherlands": [
 50.998,
@@ -2259,6 +2406,11 @@ null
 -73.117,
 15.0
 ],
+"Talca|Chile": [
+-35.423,
+-71.65,
+112.0
+],
 "Tel-Aviv|Israel": [
 32.081,
 34.781,
@@ -2283,6 +2435,11 @@ null
 32.503,
 -117.004,
 97.0
+],
+"Tilburg|Netherlands": [
+51.556,
+5.091,
+16.0
 ],
 "Tirana|Albania": [
 41.327,
@@ -2390,6 +2547,11 @@ null
 13.237,
 113.0
 ],
+"Ulm|Germany": [
+48.398,
+9.992,
+480.0
+],
 "Uppsala|Sweden": [
 59.859,
 17.639,
@@ -2455,10 +2617,16 @@ null
 -8.52,
 96.0
 ],
+"Vila das Aves|Portugal": null,
 "Vila do Conde|Portugal": [
 41.353,
 -8.745,
 12.0
+],
+"Villa Hayes|Paraguay": [
+-25.093,
+-57.527,
+58.0
 ],
 "Villarreal|Spain": [
 38.726,
@@ -2469,6 +2637,11 @@ null
 -25.749,
 -56.435,
 143.0
+],
+"Villavicencio|Colombia": [
+4.132,
+-73.626,
+495.0
 ],
 "Vina del Mar|Chile": [
 -33.025,

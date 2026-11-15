@@ -379,3 +379,64 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 674383,2024-05-26T14:15Z,Celta Vigo,Valencia,2,2,Vigo,Spain,86.0,0,17.1,17.2
 674388,2024-05-26T14:15Z,Las Palmas,Alavés,1,1,Las Palmas de Gran Canaria,Spain,122.0,0,18.8,23.3
 674387,2024-05-26T19:00Z,Sevilla,Barcelona,1,2,Sevilla,Spain,16.0,0,13.9,29.6
+704660,2024-08-15T17:00Z,Athletic Club,Getafe,1,1,Bilbao,Spain,20.0,0,11.1,22.8
+704665,2024-08-15T19:30Z,Real Betis,Girona,1,1,Sevilla,Spain,16.0,0,6.1,35.8
+704661,2024-08-16T17:00Z,Celta Vigo,Alavés,2,1,Vigo,Spain,86.0,0,16.6,30.7
+704662,2024-08-16T19:30Z,Las Palmas,Sevilla,2,2,Las Palmas de Gran Canaria,Spain,122.0,0,19.0,26.0
+704664,2024-08-17T17:00Z,Osasuna,Leganés,1,1,Pamplona,Spain,460.0,0,22.1,22.7
+704668,2024-08-17T19:30Z,Valencia,Barcelona,1,2,Manises,Spain,55.0,0,10.7,28.1
+704666,2024-08-18T17:00Z,Real Sociedad,Rayo Vallecano,1,2,San Sebastian,Spain,74.0,0,7.1,21.3
+704663,2024-08-18T19:30Z,Mallorca,Real Madrid,1,1,Palma de Mallorca,Spain,4.0,0,1.1,26.1
+704667,2024-08-19T17:00Z,Real Valladolid,Espanyol,1,0,Valladolid,Spain,702.0,0,12.6,31.8
+704669,2024-08-19T19:30Z,Villarreal,Atlético Madrid,2,2,Villarreal,Spain,42.0,0,15.9,32.5
+704673,2024-08-23T17:00Z,Celta Vigo,Valencia,3,1,Vigo,Spain,86.0,0,12.8,22.8
+704678,2024-08-23T19:30Z,Sevilla,Villarreal,1,2,Sevilla,Spain,16.0,0,12.0,32.6
+704676,2024-08-24T15:00Z,Osasuna,Mallorca,1,0,Pamplona,Spain,460.0,1.5,23.5,24.8
+704672,2024-08-24T17:00Z,Barcelona,Athletic Club,2,1,Barcelona,Spain,15.0,0,13.8,27.6
+704679,2024-08-24T19:30Z,Espanyol,Real Sociedad,0,1,Barcelona,Spain,15.0,0,5.8,26.1
+704674,2024-08-24T19:30Z,Getafe,Rayo Vallecano,0,0,Getafe,Spain,623.0,0,13.4,31.8
+704677,2024-08-25T15:00Z,Real Madrid,Real Valladolid,3,0,Madrid,Spain,665.0,0,12.1,34.7
+704675,2024-08-25T17:00Z,Leganés,Las Palmas,2,1,"Leganés, Madrid",Spain,672.0,0,12.0,33.9
+704670,2024-08-25T17:15Z,Alavés,Real Betis,0,0,Vitoria-Gasteiz,Spain,547.0,0,16.6,17.5
+704671,2024-08-25T19:30Z,Atlético Madrid,Girona,3,0,Madrid,Spain,665.0,0,6.2,31.9
+704688,2024-08-26T19:30Z,Villarreal,Celta Vigo,4,3,Villarreal,Spain,42.0,0,5.7,32.2
+704689,2024-08-27T17:00Z,Mallorca,Sevilla,0,0,Palma de Mallorca,Spain,4.0,0,10.0,26.5
+704685,2024-08-27T19:30Z,Rayo Vallecano,Barcelona,1,2,Madrid,Spain,665.0,0,9.7,31.6
+704680,2024-08-28T17:00Z,Athletic Club,Valencia,1,0,Bilbao,Spain,20.0,0,11.7,23.0
+704684,2024-08-28T17:00Z,Real Valladolid,Leganés,0,0,Valladolid,Spain,702.0,0,14.4,33.0
+704681,2024-08-28T19:30Z,Atlético Madrid,Espanyol,0,0,Madrid,Spain,665.0,0,8.3,30.8
+704687,2024-08-28T19:30Z,Real Sociedad,Alavés,1,2,San Sebastian,Spain,74.0,0,4.4,19.7
+704682,2024-08-29T17:00Z,Girona,Osasuna,4,0,Girona,Spain,81.0,0,9.6,28.5
+704683,2024-08-29T19:30Z,Las Palmas,Real Madrid,1,1,Las Palmas de Gran Canaria,Spain,122.0,0.3,15.0,22.9
+704692,2024-08-31T15:00Z,Barcelona,Real Valladolid,7,0,Barcelona,Spain,15.0,0,14.2,28.6
+704691,2024-08-31T17:00Z,Athletic Club,Atlético Madrid,0,1,Bilbao,Spain,20.0,6.6,1.1,22.7
+704698,2024-08-31T17:15Z,Espanyol,Rayo Vallecano,2,1,Barcelona,Spain,15.0,0,8.4,27.2
+704696,2024-08-31T19:30Z,Leganés,Mallorca,0,1,"Leganés, Madrid",Spain,672.0,0,8.4,24.4
+704694,2024-08-31T19:30Z,Valencia,Villarreal,1,1,Manises,Spain,55.0,0,6.6,25.6
+704690,2024-09-01T15:00Z,Alavés,Las Palmas,2,0,Vitoria-Gasteiz,Spain,547.0,0,12.0,23.9
+704695,2024-09-01T15:00Z,Osasuna,Celta Vigo,3,2,Pamplona,Spain,460.0,0.5,11.1,23.9
+704697,2024-09-01T17:00Z,Sevilla,Girona,0,2,Sevilla,Spain,16.0,0,15.0,33.7
+704693,2024-09-01T17:15Z,Getafe,Real Sociedad,0,0,Getafe,Spain,623.0,0,6.5,29.2
+704699,2024-09-01T19:30Z,Real Madrid,Real Betis,2,0,Madrid,Spain,665.0,0,6.4,25.3
+704707,2024-09-13T19:00Z,Real Betis,Leganés,2,0,Sevilla,Spain,16.0,0,15.5,29.0
+704709,2024-09-14T12:00Z,Mallorca,Villarreal,1,2,Palma de Mallorca,Spain,4.0,0.3,11.2,24.7
+704701,2024-09-14T14:15Z,Espanyol,Alavés,3,2,Barcelona,Spain,15.0,0,16.2,23.8
+704702,2024-09-14T16:30Z,Sevilla,Getafe,1,0,Sevilla,Spain,16.0,0,16.6,33.4
+704704,2024-09-14T19:00Z,Real Sociedad,Real Madrid,0,2,San Sebastian,Spain,74.0,0,17.6,15.8
+704706,2024-09-15T12:00Z,Celta Vigo,Real Valladolid,3,1,Vigo,Spain,86.0,0,3.7,28.3
+704703,2024-09-15T14:15Z,Girona,Barcelona,1,4,Girona,Spain,81.0,0,4.7,27.6
+704700,2024-09-15T16:30Z,Las Palmas,Athletic Club,2,3,Las Palmas de Gran Canaria,Spain,122.0,0,16.0,24.3
+704705,2024-09-15T19:00Z,Atlético Madrid,Valencia,3,0,Madrid,Spain,665.0,0,5.2,26.2
+704708,2024-09-16T19:00Z,Rayo Vallecano,Osasuna,3,1,Madrid,Spain,665.0,0,22.7,24.1
+704723,2024-09-17T17:00Z,Mallorca,Real Sociedad,1,0,Palma de Mallorca,Spain,4.0,0,18.8,21.5
+704686,2024-09-18T17:00Z,Real Betis,Getafe,2,1,Sevilla,Spain,16.0,0,17.4,29.1
+704726,2024-09-19T17:00Z,Leganés,Athletic Club,0,2,"Leganés, Madrid",Spain,672.0,0.1,6.2,18.5
+704710,2024-09-20T19:00Z,Alavés,Sevilla,2,1,Vitoria-Gasteiz,Spain,547.0,0,12.0,17.2
+704716,2024-09-21T12:00Z,Real Valladolid,Real Sociedad,0,0,Valladolid,Spain,702.0,0,8.7,20.0
+704712,2024-09-21T14:15Z,Osasuna,Las Palmas,2,1,Pamplona,Spain,460.0,2.5,15.1,19.1
+704715,2024-09-21T16:30Z,Valencia,Girona,2,0,Manises,Spain,55.0,0.6,7.3,22.2
+704717,2024-09-21T19:00Z,Real Madrid,Espanyol,4,1,Madrid,Spain,665.0,0,9.5,19.1
+704713,2024-09-22T12:00Z,Getafe,Leganés,1,1,Getafe,Spain,623.0,0,14.2,23.2
+704719,2024-09-22T14:15Z,Athletic Club,Celta Vigo,3,1,Bilbao,Spain,20.0,5.6,10.8,19.5
+704711,2024-09-22T16:30Z,Villarreal,Barcelona,1,5,Villarreal,Spain,42.0,0,10.7,25.5
+704714,2024-09-22T19:00Z,Rayo Vallecano,Atlético Madrid,1,1,Madrid,Spain,665.0,0,11.4,19.5

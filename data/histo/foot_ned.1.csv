@@ -308,3 +308,55 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 702645,2024-05-23T16:45Z,NEC Nijmegen,Go Ahead Eagles,1,2,Nijmegen,Netherlands,25.0,0.4,10.6,18.4
 702646,2024-05-23T19:00Z,FC Utrecht,Sparta Rotterdam,3,1,Utrecht,Netherlands,13.0,0,5.8,15.3
 702701,2024-05-26T16:00Z,FC Utrecht,Go Ahead Eagles,1,2,Utrecht,Netherlands,13.0,2.2,21.8,17.8
+705206,2024-08-09T18:00Z,FC Groningen,NAC Breda,4,1,Groningen,Netherlands,16.0,0,13.4,18.4
+705207,2024-08-10T14:30Z,Feyenoord Rotterdam,Willem II,1,1,Rotterdam,Netherlands,9.0,0,15.4,21.8
+705208,2024-08-10T16:45Z,NEC Nijmegen,FC Twente,1,2,Nijmegen,Netherlands,25.0,0,14.7,23.7
+705212,2024-08-10T18:00Z,Almere City,AZ Alkmaar,0,1,Almere,Netherlands,-3.0,0,13.2,19.8
+705210,2024-08-10T19:00Z,PSV Eindhoven,RKC Waalwijk,5,1,Eindhoven,Netherlands,22.0,0,8.4,22.1
+705211,2024-08-11T10:15Z,Sparta Rotterdam,Heracles Almelo,0,0,Rotterdam,Netherlands,9.0,0,1.8,23.6
+705209,2024-08-11T12:30Z,FC Utrecht,PEC Zwolle,1,0,Utrecht,Netherlands,13.0,0,4.5,24.6
+705213,2024-08-11T12:30Z,Go Ahead Eagles,Fortuna Sittard,0,2,Deventer,Netherlands,12.0,0,3.3,24.5
+705214,2024-08-11T14:45Z,Ajax Amsterdam,Heerenveen,1,0,Amsterdam,Netherlands,13.0,0,5.8,25.8
+705215,2024-08-16T18:00Z,Fortuna Sittard,Almere City,3,0,Sittard,Netherlands,48.0,0.9,8.9,21.0
+705216,2024-08-17T14:30Z,Heerenveen,FC Utrecht,1,1,Heerenveen,Netherlands,,0,2.1,21.8
+705217,2024-08-17T16:45Z,FC Twente,Sparta Rotterdam,1,1,Enschede,Netherlands,45.0,0,0.8,22.3
+705218,2024-08-17T18:00Z,AZ Alkmaar,NEC Nijmegen,1,0,Alkmaar,Netherlands,5.0,0,10.9,19.0
+705219,2024-08-17T19:00Z,RKC Waalwijk,FC Groningen,1,2,Waalwijk,Netherlands,4.0,0,7.6,18.2
+705220,2024-08-18T10:15Z,Heracles Almelo,PSV Eindhoven,1,3,Almelo,Netherlands,15.0,0.1,4.4,21.6
+705221,2024-08-18T12:30Z,PEC Zwolle,Feyenoord Rotterdam,1,5,Zwolle,Netherlands,9.0,0,12.0,22.4
+705222,2024-08-18T12:30Z,Willem II,Go Ahead Eagles,2,0,Tilburg,Netherlands,16.0,0,12.0,23.0
+705223,2024-08-18T14:45Z,NAC Breda,Ajax Amsterdam,2,1,Breda,Netherlands,9.0,0,17.7,21.5
+705224,2024-08-24T16:45Z,NEC Nijmegen,PEC Zwolle,1,0,Nijmegen,Netherlands,25.0,1.1,23.8,27.0
+705225,2024-08-24T18:00Z,Almere City,PSV Eindhoven,1,7,Almere,Netherlands,-3.0,5.0,5.4,18.7
+705226,2024-08-24T19:00Z,NAC Breda,FC Utrecht,1,2,Breda,Netherlands,9.0,0.7,8.9,18.6
+705229,2024-08-25T10:15Z,FC Groningen,AZ Alkmaar,0,0,Groningen,Netherlands,16.0,0.2,27.2,18.2
+705231,2024-08-25T12:30Z,Heracles Almelo,Willem II,1,1,Almelo,Netherlands,15.0,0.1,21.0,18.6
+705230,2024-08-25T12:30Z,Sparta Rotterdam,Feyenoord Rotterdam,1,1,Rotterdam,Netherlands,9.0,0.1,22.6,19.1
+705232,2024-08-25T14:45Z,Go Ahead Eagles,RKC Waalwijk,2,0,Deventer,Netherlands,12.0,0.2,20.1,18.9
+705234,2024-08-30T18:00Z,RKC Waalwijk,AZ Alkmaar,0,3,Waalwijk,Netherlands,4.0,0,12.6,19.5
+705237,2024-08-31T14:30Z,Almere City,FC Groningen,1,1,Almere,Netherlands,-3.0,0,25.5,21.9
+705235,2024-08-31T16:45Z,Fortuna Sittard,NEC Nijmegen,0,3,Sittard,Netherlands,48.0,0,12.5,25.6
+705236,2024-08-31T18:00Z,Heerenveen,NAC Breda,4,0,Heerenveen,Netherlands,,0,19.1,18.2
+705233,2024-08-31T19:00Z,Willem II,Sparta Rotterdam,1,2,Tilburg,Netherlands,16.0,0,15.1,21.0
+705238,2024-09-01T10:15Z,FC Utrecht,FC Twente,2,1,Utrecht,Netherlands,13.0,0,13.7,24.0
+705240,2024-09-01T12:30Z,PEC Zwolle,Heracles Almelo,3,0,Zwolle,Netherlands,9.0,0,18.5,25.0
+705241,2024-09-01T14:45Z,PSV Eindhoven,Go Ahead Eagles,3,0,Eindhoven,Netherlands,22.0,0,12.7,30.5
+705242,2024-09-14T14:30Z,FC Twente,PEC Zwolle,1,1,Enschede,Netherlands,45.0,0,12.1,15.0
+705246,2024-09-14T14:30Z,PSV Eindhoven,NEC Nijmegen,2,0,Eindhoven,Netherlands,22.0,0,11.0,15.6
+705243,2024-09-14T16:45Z,FC Groningen,Feyenoord Rotterdam,2,2,Groningen,Netherlands,16.0,0,8.7,15.3
+705244,2024-09-14T18:00Z,NAC Breda,Fortuna Sittard,1,0,Breda,Netherlands,9.0,0,6.5,12.4
+705245,2024-09-14T19:00Z,AZ Alkmaar,Heerenveen,9,1,Alkmaar,Netherlands,5.0,0,7.6,12.2
+705247,2024-09-15T10:15Z,Sparta Rotterdam,Go Ahead Eagles,1,2,Rotterdam,Netherlands,9.0,0,13.0,17.9
+705248,2024-09-15T12:30Z,Willem II,RKC Waalwijk,3,0,Tilburg,Netherlands,16.0,0,6.8,18.4
+705250,2024-09-15T14:45Z,Heracles Almelo,Almere City,0,0,Almelo,Netherlands,15.0,0,7.9,18.3
+705228,2024-09-17T18:00Z,FC Twente,Heerenveen,2,0,Enschede,Netherlands,45.0,0,12.7,16.8
+705227,2024-09-18T18:00Z,Ajax Amsterdam,Fortuna Sittard,5,0,Amsterdam,Netherlands,13.0,0,18.9,18.4
+705251,2024-09-20T18:00Z,PEC Zwolle,AZ Alkmaar,1,2,Zwolle,Netherlands,9.0,0,15.5,18.2
+705252,2024-09-21T14:30Z,FC Utrecht,Willem II,3,2,Utrecht,Netherlands,13.0,0,10.7,23.1
+705253,2024-09-21T16:45Z,RKC Waalwijk,Sparta Rotterdam,1,2,Waalwijk,Netherlands,4.0,0,8.2,22.8
+705254,2024-09-21T18:00Z,Go Ahead Eagles,Ajax Amsterdam,1,1,Deventer,Netherlands,12.0,0,9.0,18.0
+705255,2024-09-21T19:00Z,NEC Nijmegen,Heracles Almelo,1,2,Nijmegen,Netherlands,25.0,0,7.4,16.2
+705256,2024-09-22T10:15Z,Heerenveen,FC Groningen,2,1,Heerenveen,Netherlands,,0,5.1,19.5
+705257,2024-09-22T12:30Z,Almere City,FC Twente,0,5,Almere,Netherlands,-3.0,0,8.9,23.2
+705258,2024-09-22T12:30Z,Feyenoord Rotterdam,NAC Breda,2,0,Rotterdam,Netherlands,9.0,0,10.7,22.2
+705259,2024-09-22T14:45Z,Fortuna Sittard,PSV Eindhoven,1,3,Sittard,Netherlands,48.0,0.8,2.9,22.0
