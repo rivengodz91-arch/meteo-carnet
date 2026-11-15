@@ -799,3 +799,123 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 740634,2025-09-13T19:00Z,Brentford,Chelsea,2,2,London,England,25.0,0,11.2,14.6
 740633,2025-09-14T13:00Z,Burnley,Liverpool,0,1,Burnley,England,140.0,1.9,20.1,12.1
 740630,2025-09-14T15:30Z,Manchester City,Manchester United,3,0,Manchester,England,51.0,1.5,21.8,12.5
+740641,2025-09-20T11:30Z,Liverpool,Everton,2,1,Liverpool,England,30.0,6.2,9.7,13.8
+740636,2025-09-20T14:00Z,Brighton & Hove Albion,Tottenham Hotspur,2,2,Falmer,England,97.0,0,31.2,19.0
+740637,2025-09-20T14:00Z,Burnley,Nottingham Forest,1,1,Burnley,England,140.0,4.4,17.7,10.9
+740638,2025-09-20T14:00Z,West Ham United,Crystal Palace,1,2,London,England,25.0,0,17.2,20.2
+740640,2025-09-20T14:00Z,Wolverhampton Wanderers,Leeds United,1,3,Wolverhampton,England,160.0,1.0,21.0,16.5
+740645,2025-09-20T16:30Z,Manchester United,Chelsea,2,1,Manchester,England,51.0,7.7,22.2,12.4
+740642,2025-09-20T19:00Z,Fulham,Brentford,3,1,London,England,25.0,0,23.5,16.3
+740644,2025-09-21T13:00Z,AFC Bournemouth,Newcastle United,0,0,Bournemouth,England,19.0,0,16.1,14.7
+740639,2025-09-21T13:00Z,Sunderland,Aston Villa,1,1,Sunderland,England,36.0,0,13.2,12.7
+740643,2025-09-21T15:30Z,Arsenal,Manchester City,1,1,London,England,25.0,0,10.4,15.5
+740649,2025-09-27T11:30Z,Brentford,Manchester United,3,1,London,England,25.0,0,15.1,16.2
+740648,2025-09-27T14:00Z,Chelsea,Brighton & Hove Albion,1,3,London,England,25.0,0,14.2,17.4
+740647,2025-09-27T14:00Z,Crystal Palace,Liverpool,2,1,London,England,25.0,0,14.2,17.4
+740655,2025-09-27T14:00Z,Leeds United,AFC Bournemouth,2,2,Leeds,England,50.0,0,18.7,14.5
+740654,2025-09-27T14:00Z,Manchester City,Burnley,5,1,Manchester,England,51.0,0,15.7,15.0
+740651,2025-09-27T16:30Z,Nottingham Forest,Sunderland,0,1,Nottingham,England,46.0,0,12.5,15.1
+740646,2025-09-27T19:00Z,Tottenham Hotspur,Wolverhampton Wanderers,1,1,London,England,25.0,0,8.7,13.7
+740650,2025-09-28T13:00Z,Aston Villa,Fulham,3,1,Birmingham,England,149.0,0,9.2,15.9
+740653,2025-09-28T15:30Z,Newcastle United,Arsenal,1,2,Newcastle-upon-Tyne,England,54.0,0,7.6,15.7
+740652,2025-09-29T19:00Z,Everton,West Ham United,1,1,Liverpool,England,30.0,0,4.7,11.9
+740658,2025-10-03T19:00Z,AFC Bournemouth,Fulham,3,1,Bournemouth,England,19.0,0.7,38.8,17.3
+740662,2025-10-04T11:30Z,Leeds United,Tottenham Hotspur,1,2,Leeds,England,50.0,0.4,19.9,10.4
+740656,2025-10-04T14:00Z,Arsenal,West Ham United,2,0,London,England,25.0,0,30.2,14.1
+740663,2025-10-04T14:00Z,Manchester United,Sunderland,2,0,Manchester,England,51.0,0.2,23.1,12.0
+740660,2025-10-04T16:30Z,Chelsea,Liverpool,2,1,London,England,25.0,0,23.2,13.3
+740657,2025-10-05T13:00Z,Aston Villa,Burnley,2,1,Birmingham,England,149.0,0,24.8,14.4
+740661,2025-10-05T13:00Z,Everton,Crystal Palace,2,1,Liverpool,England,30.0,0.2,31.0,13.8
+740664,2025-10-05T13:00Z,Newcastle United,Nottingham Forest,2,0,Newcastle-upon-Tyne,England,54.0,0,26.7,14.6
+740665,2025-10-05T13:00Z,Wolverhampton Wanderers,Brighton & Hove Albion,1,1,Wolverhampton,England,160.0,0,27.1,14.5
+740659,2025-10-05T15:30Z,Brentford,Manchester City,0,1,Brentford,England,396.0,0,23.9,16.4
+740672,2025-10-18T11:30Z,Nottingham Forest,Chelsea,0,3,Nottingham,England,46.0,0,8.1,12.0
+740666,2025-10-18T14:00Z,Brighton & Hove Albion,Newcastle United,2,1,Falmer,England,97.0,0,17.6,14.1
+740667,2025-10-18T14:00Z,Burnley,Leeds United,2,0,Burnley,England,140.0,0,12.7,10.6
+740668,2025-10-18T14:00Z,Crystal Palace,AFC Bournemouth,3,3,London,England,25.0,0,10.3,14.5
+740671,2025-10-18T14:00Z,Manchester City,Everton,2,0,Manchester,England,51.0,0,9.3,12.6
+740673,2025-10-18T14:00Z,Sunderland,Wolverhampton Wanderers,2,0,Sunderland,England,36.0,0,13.0,12.0
+740669,2025-10-18T16:30Z,Fulham,Arsenal,0,1,London,England,25.0,0,7.8,13.9
+740674,2025-10-19T13:00Z,Tottenham Hotspur,Aston Villa,1,2,London,England,25.0,0.6,14.1,15.1
+740670,2025-10-19T15:30Z,Liverpool,Manchester United,1,2,Liverpool,England,30.0,3.4,24.6,14.2
+740675,2025-10-20T19:00Z,West Ham United,Brentford,0,2,London,England,25.0,0.1,5.3,12.5
+740682,2025-10-24T19:00Z,Leeds United,West Ham United,2,1,Leeds,England,50.0,0.5,15.2,8.5
+740685,2025-10-25T14:00Z,Chelsea,Sunderland,1,2,London,England,25.0,0.1,17.4,10.8
+740680,2025-10-25T14:00Z,Newcastle United,Fulham,2,1,Newcastle-upon-Tyne,England,54.0,0,21.7,8.3
+740683,2025-10-25T16:30Z,Manchester United,Brighton & Hove Albion,4,2,Manchester,England,51.0,0,12.7,8.6
+740679,2025-10-25T19:00Z,Brentford,Liverpool,3,2,London,England,25.0,0,15.9,7.8
+740678,2025-10-26T14:00Z,AFC Bournemouth,Nottingham Forest,2,0,Bournemouth,England,19.0,0,22.6,11.0
+740676,2025-10-26T14:00Z,Arsenal,Crystal Palace,1,0,London,England,25.0,0,13.1,9.8
+740677,2025-10-26T14:00Z,Aston Villa,Manchester City,1,0,Birmingham,England,149.0,0.4,17.7,8.5
+740684,2025-10-26T14:00Z,Wolverhampton Wanderers,Burnley,2,3,Wolverhampton,England,160.0,0.5,18.1,8.6
+740681,2025-10-26T16:30Z,Everton,Tottenham Hotspur,0,3,Liverpool,England,30.0,1.2,27.1,10.4
+740686,2025-11-01T15:00Z,Brighton & Hove Albion,Leeds United,3,0,Falmer,England,97.0,0.3,30.6,13.2
+740687,2025-11-01T15:00Z,Burnley,Arsenal,0,2,Burnley,England,140.0,0.1,20.9,8.7
+740688,2025-11-01T15:00Z,Crystal Palace,Brentford,2,0,London,England,25.0,0.4,15.5,14.2
+740689,2025-11-01T15:00Z,Fulham,Wolverhampton Wanderers,3,0,London,England,25.0,0.4,15.5,14.2
+740692,2025-11-01T15:00Z,Nottingham Forest,Manchester United,2,2,Nottingham,England,46.0,0,15.8,12.4
+740690,2025-11-01T17:30Z,Tottenham Hotspur,Chelsea,0,1,London,England,25.0,0.7,13.6,10.8
+740694,2025-11-01T20:00Z,Liverpool,Aston Villa,2,0,Liverpool,England,30.0,0,12.6,7.9
+740695,2025-11-02T14:00Z,West Ham United,Newcastle United,3,1,London,England,25.0,0,13.9,12.2
+740691,2025-11-02T16:30Z,Manchester City,AFC Bournemouth,3,1,Manchester,England,51.0,0,9.9,10.1
+740693,2025-11-03T20:00Z,Sunderland,Everton,1,1,Sunderland,England,36.0,0.3,28.8,14.8
+740705,2025-11-08T12:30Z,Tottenham Hotspur,Manchester United,2,2,London,England,25.0,0,10.0,13.0
+740701,2025-11-08T15:00Z,Everton,Fulham,2,0,Liverpool,England,30.0,0,6.1,13.2
+740696,2025-11-08T15:00Z,West Ham United,Burnley,3,2,London,England,25.0,0,6.7,14.1
+740704,2025-11-08T17:30Z,Sunderland,Arsenal,2,2,Sunderland,England,36.0,0,8.4,11.2
+740699,2025-11-08T20:00Z,Chelsea,Wolverhampton Wanderers,3,0,London,England,25.0,0,7.7,10.2
+740697,2025-11-09T14:00Z,Aston Villa,AFC Bournemouth,4,0,Birmingham,England,149.0,0,14.3,12.4
+740698,2025-11-09T14:00Z,Brentford,Newcastle United,3,1,London,England,25.0,0,11.9,13.5
+740700,2025-11-09T14:00Z,Crystal Palace,Brighton & Hove Albion,0,0,London,England,25.0,0,11.9,13.5
+740703,2025-11-09T14:00Z,Nottingham Forest,Leeds United,3,1,Nottingham,England,46.0,0,15.9,12.4
+740702,2025-11-09T16:30Z,Manchester City,Liverpool,3,0,Manchester,England,51.0,0.5,14.6,12.0
+740707,2025-11-22T12:30Z,Burnley,Chelsea,0,2,Burnley,England,140.0,0,10.8,3.8
+740715,2025-11-22T15:00Z,AFC Bournemouth,West Ham United,2,2,Bournemouth,England,19.0,3.6,35.4,9.9
+740706,2025-11-22T15:00Z,Brighton & Hove Albion,Brentford,2,1,Falmer,England,97.0,1.8,35.9,8.3
+740708,2025-11-22T15:00Z,Fulham,Sunderland,1,0,London,England,25.0,1.6,17.0,7.5
+740710,2025-11-22T15:00Z,Liverpool,Nottingham Forest,0,3,Liverpool,England,30.0,0.2,3.2,8.2
+740713,2025-11-22T15:00Z,Wolverhampton Wanderers,Crystal Palace,0,2,Wolverhampton,England,160.0,0,12.0,7.8
+740712,2025-11-22T17:30Z,Newcastle United,Manchester City,2,1,Newcastle-upon-Tyne,England,54.0,0,7.9,4.5
+740709,2025-11-23T14:00Z,Leeds United,Aston Villa,1,2,Leeds,England,50.0,0.2,17.9,6.0
+740714,2025-11-23T16:30Z,Arsenal,Tottenham Hotspur,4,1,London,England,25.0,0,15.2,8.3
+740711,2025-11-24T20:00Z,Manchester United,Everton,0,1,Manchester,England,51.0,0,10.0,5.9
+740718,2025-11-29T15:00Z,Brentford,Burnley,3,1,Brentford,England,396.0,1.1,15.9,-7.2
+740717,2025-11-29T15:00Z,Manchester City,Leeds United,3,2,Manchester,England,51.0,0.2,4.1,5.8
+740724,2025-11-29T15:00Z,Sunderland,AFC Bournemouth,3,2,Sunderland,England,36.0,2.5,11.6,5.3
+740721,2025-11-29T17:30Z,Everton,Newcastle United,1,4,Liverpool,England,30.0,0.4,4.8,4.7
+740720,2025-11-29T20:00Z,Tottenham Hotspur,Fulham,1,2,London,England,25.0,0,14.4,5.7
+740725,2025-11-30T12:00Z,Crystal Palace,Manchester United,1,2,London,England,25.0,0,11.2,7.1
+740716,2025-11-30T14:05Z,Aston Villa,Wolverhampton Wanderers,1,0,Birmingham,England,149.0,0,13.1,6.7
+740723,2025-11-30T14:05Z,Nottingham Forest,Brighton & Hove Albion,0,2,Nottingham,England,46.0,0,14.7,6.7
+740722,2025-11-30T14:05Z,West Ham United,Liverpool,0,2,London,England,25.0,0,11.2,7.6
+740719,2025-11-30T16:30Z,Chelsea,Arsenal,1,1,London,England,25.0,0,9.0,6.5
+740733,2025-12-02T19:30Z,AFC Bournemouth,Everton,0,1,Bournemouth,England,19.0,0.3,14.3,8.4
+740730,2025-12-02T19:30Z,Fulham,Manchester City,4,5,London,England,25.0,0.2,10.3,8.1
+740729,2025-12-02T20:15Z,Newcastle United,Tottenham Hotspur,2,2,Newcastle-upon-Tyne,England,54.0,0,15.4,4.5
+740734,2025-12-03T19:30Z,Arsenal,Brentford,2,0,London,England,25.0,0,9.9,6.6
+740727,2025-12-03T19:30Z,Brighton & Hove Albion,Aston Villa,3,4,Falmer,England,97.0,0,16.7,8.5
+740726,2025-12-03T19:30Z,Burnley,Crystal Palace,0,1,Burnley,England,140.0,0,20.1,4.4
+740728,2025-12-03T19:30Z,Wolverhampton Wanderers,Nottingham Forest,0,1,Wolverhampton,England,160.0,0,13.6,5.1
+740732,2025-12-03T20:15Z,Leeds United,Chelsea,3,1,Leeds,England,50.0,0,12.0,4.0
+740731,2025-12-03T20:15Z,Liverpool,Sunderland,1,1,Liverpool,England,30.0,0,16.2,5.8
+740735,2025-12-04T20:00Z,Manchester United,West Ham United,1,1,Manchester,England,51.0,0.2,8.0,5.2
+740745,2025-12-06T12:30Z,Aston Villa,Arsenal,2,1,Birmingham,England,149.0,0.1,24.0,10.1
+740743,2025-12-06T15:00Z,AFC Bournemouth,Chelsea,0,0,Bournemouth,England,19.0,0,30.5,11.7
+740739,2025-12-06T15:00Z,Everton,Nottingham Forest,3,0,Liverpool,England,30.0,0.9,16.8,9.9
+740736,2025-12-06T15:00Z,Manchester City,Sunderland,3,0,Manchester,England,51.0,1.6,15.9,9.6
+740741,2025-12-06T15:00Z,Newcastle United,Burnley,2,1,Newcastle-upon-Tyne,England,54.0,0,6.1,8.0
+740744,2025-12-06T15:00Z,Tottenham Hotspur,Brentford,2,0,London,England,25.0,0.3,19.2,11.5
+740742,2025-12-06T17:30Z,Leeds United,Liverpool,3,3,Leeds,England,50.0,0.6,17.8,9.1
+740740,2025-12-07T14:00Z,Brighton & Hove Albion,West Ham United,1,1,Falmer,England,97.0,2.5,39.8,13.6
+740738,2025-12-07T16:30Z,Fulham,Crystal Palace,1,2,London,England,25.0,0,25.0,14.0
+740737,2025-12-08T20:00Z,Wolverhampton Wanderers,Manchester United,1,4,Wolverhampton,England,160.0,0,14.1,9.9
+740750,2025-12-13T15:00Z,Chelsea,Everton,2,0,London,England,25.0,0,8.1,8.8
+740752,2025-12-13T15:00Z,Liverpool,Brighton & Hove Albion,2,0,Liverpool,England,30.0,0,15.9,9.8
+740754,2025-12-13T17:30Z,Burnley,Fulham,2,3,Burnley,England,140.0,0.1,25.2,7.5
+740746,2025-12-13T20:00Z,Arsenal,Wolverhampton Wanderers,2,1,London,England,25.0,0,11.6,6.9
+740747,2025-12-14T14:00Z,Crystal Palace,Manchester City,0,3,London,England,25.0,0,16.6,10.2
+740755,2025-12-14T14:00Z,Nottingham Forest,Tottenham Hotspur,3,0,Nottingham,England,46.0,0,21.7,10.0
+740749,2025-12-14T14:00Z,Sunderland,Newcastle United,1,0,Sunderland,England,36.0,0.2,32.1,10.3
+740748,2025-12-14T14:00Z,West Ham United,Aston Villa,2,3,London,England,25.0,0,16.6,10.2
+740753,2025-12-14T16:30Z,Brentford,Leeds United,1,1,Brentford,England,396.0,0,18.2,-18.2
+740751,2025-12-15T20:00Z,Manchester United,AFC Bournemouth,4,4,Manchester,England,51.0,0.1,2.3,7.7

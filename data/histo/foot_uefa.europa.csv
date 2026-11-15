@@ -329,3 +329,111 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 733647,2025-05-08T19:00Z,Bodo/Glimt,Tottenham Hotspur,0,2,Bodø/Glimt,Norway,,,,
 733648,2025-05-08T19:00Z,Manchester United,Athletic Club,4,1,Manchester,England,51.0,0,10.1,14.0
 733649,2025-05-21T19:00Z,Tottenham Hotspur,Manchester United,1,0,Bilbao,Spain,20.0,0.1,13.6,15.2
+757798,2025-09-24T16:45Z,FC Midtjylland,SK Sturm Graz,2,0,Herning,Denmark,60.0,0,6.3,13.5
+757797,2025-09-24T16:45Z,PAOK,Maccabi Tel-Aviv,0,0,Thessaloniki,Greece,-9999.0,0,9.5,25.3
+757801,2025-09-24T19:00Z,Braga,Feyenoord Rotterdam,1,0,Braga,Portugal,190.0,0,10.0,18.7
+757800,2025-09-24T19:00Z,Dinamo Zagreb,Fenerbahce,3,1,Zagreb,Croatia,135.0,0,4.7,14.7
+757803,2025-09-24T19:00Z,Malmö FF,Ludogorets Razgrad,1,2,Malmo,Sweden,10.0,0,10.0,10.7
+757804,2025-09-24T19:00Z,Nice,AS Roma,1,2,Nice,France,25.0,0,3.7,16.2
+757805,2025-09-24T19:00Z,Real Betis,Nottingham Forest,2,2,Sevilla,Spain,16.0,0,10.2,27.1
+757799,2025-09-24T19:00Z,Red Star Belgrade,Celtic,1,1,Belgrade,Serbia,120.0,0.2,9.6,22.1
+757802,2025-09-24T19:00Z,SC Freiburg,FC Basel,2,1,Freiburg im Breisgau,Germany,278.0,0,5.4,9.8
+757807,2025-09-25T16:45Z,Go Ahead Eagles,FCSB,0,1,Deventer,Netherlands,12.0,0,19.5,14.5
+757806,2025-09-25T16:45Z,Lille,SK Brann,2,1,Lille,France,20.0,0,12.9,12.6
+757808,2025-09-25T19:00Z,Aston Villa,Bologna,1,0,Birmingham,England,149.0,0,10.8,12.6
+757813,2025-09-25T19:00Z,FC Utrecht,Lyon,0,1,Utrecht,Netherlands,13.0,0,15.5,12.4
+757812,2025-09-25T19:00Z,Ferencvaros,Viktoria Plzen,1,1,Budapest,Hungary,104.0,0.1,9.4,13.1
+757810,2025-09-25T19:00Z,Rangers,Racing Genk,0,1,Glasgow,Scotland,40.0,0,5.9,11.2
+757811,2025-09-25T19:00Z,RB Salzburg,FC Porto,0,1,Salzburg,Austria,424.0,0,0.7,11.7
+757809,2025-09-25T19:00Z,VfB Stuttgart,Celta Vigo,2,1,Stuttgart,Germany,252.0,0,2.7,8.4
+757814,2025-09-25T19:00Z,Young Boys,Panathinaikos,1,4,Bern,Switzerland,549.0,0.1,2.3,9.7
+757820,2025-10-02T16:45Z,AS Roma,Lille,0,1,Roma,Italy,576.0,1.0,14.1,6.0
+757822,2025-10-02T16:45Z,Bologna,SC Freiburg,1,1,Bologna,Italy,54.0,0,7.2,15.4
+757815,2025-10-02T16:45Z,Celtic,Braga,0,2,Glasgow,Scotland,40.0,0.2,17.4,15.1
+757816,2025-10-02T16:45Z,FCSB,Young Boys,0,2,Bucuresti,Romania,92.0,1.5,25.5,8.0
+757817,2025-10-02T16:45Z,Fenerbahce,Nice,2,1,Istanbul,Türkiye,39.0,0,19.7,19.4
+757818,2025-10-02T16:45Z,Ludogorets Razgrad,Real Betis,0,2,Razgrad,Bulgaria,190.0,2.2,23.2,9.1
+757823,2025-10-02T16:45Z,Panathinaikos,Go Ahead Eagles,1,2,Athens,Greece,70.0,0,0.4,18.3
+757819,2025-10-02T16:45Z,SK Brann,FC Utrecht,1,0,Bergen,Norway,20.0,1.0,28.9,11.0
+757821,2025-10-02T16:45Z,Viktoria Plzen,Malmö FF,3,0,Plzen,Czechia,354.0,0,8.6,10.6
+757824,2025-10-02T19:00Z,Celta Vigo,PAOK,3,1,Vigo,Spain,86.0,0,2.7,15.1
+757827,2025-10-02T19:00Z,FC Basel,VfB Stuttgart,2,0,Basel,Switzerland,279.0,0,1.6,10.0
+757828,2025-10-02T19:00Z,FC Porto,Red Star Belgrade,2,1,Porto,Portugal,91.0,0,9.0,15.7
+757831,2025-10-02T19:00Z,Feyenoord Rotterdam,Aston Villa,0,2,Rotterdam,Netherlands,9.0,0,10.2,14.0
+757825,2025-10-02T19:00Z,Lyon,RB Salzburg,2,0,Lyon,France,173.0,0,4.5,11.0
+757826,2025-10-02T19:00Z,Maccabi Tel-Aviv,Dinamo Zagreb,1,3,Backa Topola,Serbia,94.0,0,24.4,10.2
+757830,2025-10-02T19:00Z,Nottingham Forest,FC Midtjylland,2,3,Nottingham,England,46.0,0,18.0,15.7
+757829,2025-10-02T19:00Z,Racing Genk,Ferencvaros,0,1,Genk,Belgium,66.0,0,9.0,11.6
+757832,2025-10-02T19:00Z,SK Sturm Graz,Rangers,2,1,Graz,Austria,362.0,0,5.1,4.9
+757835,2025-10-23T16:45Z,Braga,Red Star Belgrade,2,0,Braga,Portugal,190.0,1.6,3.8,14.4
+757840,2025-10-23T16:45Z,FCSB,Bologna,1,2,Bucuresti,Romania,92.0,0,4.7,16.4
+757841,2025-10-23T16:45Z,Fenerbahce,VfB Stuttgart,1,0,Istanbul,Türkiye,39.0,0,7.1,18.1
+757837,2025-10-23T16:45Z,Go Ahead Eagles,Aston Villa,2,1,Deventer,Netherlands,12.0,2.2,21.2,10.3
+757836,2025-10-23T16:45Z,Lyon,FC Basel,2,0,Lyon,France,173.0,0.3,13.5,12.9
+757833,2025-10-23T16:45Z,Racing Genk,Real Betis,0,0,Genk,Belgium,66.0,1.9,37.1,10.5
+757839,2025-10-23T16:45Z,RB Salzburg,Ferencvaros,2,3,Salzburg,Austria,424.0,7.5,3.3,9.5
+757838,2025-10-23T16:45Z,SK Brann,Rangers,3,0,Bergen,Norway,20.0,0,7.1,9.6
+757843,2025-10-23T19:00Z,AS Roma,Viktoria Plzen,1,2,Roma,Italy,576.0,0,4.9,9.2
+757845,2025-10-23T19:00Z,Celta Vigo,Nice,2,1,Vigo,Spain,86.0,0,3.9,11.8
+757850,2025-10-23T19:00Z,Celtic,SK Sturm Graz,2,1,Glasgow,Scotland,40.0,0,8.3,6.6
+757834,2025-10-23T19:00Z,Feyenoord Rotterdam,Panathinaikos,3,1,Rotterdam,Netherlands,9.0,0.7,29.9,11.7
+757849,2025-10-23T19:00Z,Lille,PAOK,3,4,Lille,France,20.0,1.7,22.4,9.9
+757848,2025-10-23T19:00Z,Maccabi Tel-Aviv,FC Midtjylland,0,3,Backa Topola,Serbia,94.0,0.1,12.7,19.2
+757847,2025-10-23T19:00Z,Malmö FF,Dinamo Zagreb,1,1,Malmo,Sweden,10.0,0.6,23.0,13.0
+757846,2025-10-23T19:00Z,Nottingham Forest,FC Porto,2,0,Nottingham,England,46.0,0,22.4,8.6
+757844,2025-10-23T19:00Z,SC Freiburg,FC Utrecht,2,0,Freiburg im Breisgau,Germany,278.0,0.1,25.6,10.0
+757842,2025-10-23T19:00Z,Young Boys,Ludogorets Razgrad,3,2,Bern,Switzerland,549.0,0.4,24.4,9.0
+757853,2025-11-06T17:45Z,Dinamo Zagreb,Celta Vigo,0,3,Zagreb,Croatia,135.0,0,3.5,7.7
+757857,2025-11-06T17:45Z,FC Basel,FCSB,3,1,Basel,Switzerland,279.0,0,8.0,8.3
+757858,2025-11-06T17:45Z,FC Midtjylland,Celtic,3,1,Herning,Denmark,60.0,0,11.1,10.2
+757851,2025-11-06T17:45Z,FC Utrecht,FC Porto,1,1,Utrecht,Netherlands,13.0,0,9.4,11.1
+757854,2025-11-06T17:45Z,Malmö FF,Panathinaikos,0,1,Malmo,Sweden,10.0,0,17.0,9.5
+757855,2025-11-06T17:45Z,Nice,SC Freiburg,1,3,Nice,France,25.0,0,11.9,15.0
+757852,2025-11-06T17:45Z,RB Salzburg,Go Ahead Eagles,2,0,Salzburg,Austria,424.0,0,1.3,3.4
+757856,2025-11-06T17:45Z,Red Star Belgrade,Lille,1,0,Belgrade,Serbia,120.0,0,15.6,10.1
+757859,2025-11-06T17:45Z,SK Sturm Graz,Nottingham Forest,0,0,Graz,Austria,362.0,0,3.7,4.5
+757861,2025-11-06T20:00Z,Aston Villa,Maccabi Tel-Aviv,2,0,Birmingham,England,149.0,0,10.8,12.7
+757862,2025-11-06T20:00Z,Bologna,SK Brann,0,0,Bologna,Italy,54.0,0,2.3,8.1
+757867,2025-11-06T20:00Z,Braga,Racing Genk,3,4,Braga,Portugal,190.0,0.2,8.3,11.8
+757864,2025-11-06T20:00Z,Ferencvaros,Ludogorets Razgrad,3,1,Budapest,Hungary,104.0,0,4.1,6.2
+757868,2025-11-06T20:00Z,PAOK,Young Boys,4,0,Thessaloniki,Greece,-9999.0,0,2.3,13.3
+757865,2025-11-06T20:00Z,Rangers,AS Roma,0,2,Glasgow,Scotland,40.0,0.2,4.7,13.7
+757866,2025-11-06T20:00Z,Real Betis,Lyon,2,0,Sevilla,Spain,16.0,0,6.2,15.1
+757860,2025-11-06T20:00Z,VfB Stuttgart,Feyenoord Rotterdam,2,0,Stuttgart,Germany,252.0,0,4.9,5.2
+757863,2025-11-06T20:00Z,Viktoria Plzen,Fenerbahce,0,0,Plzen,Czechia,354.0,0,5.1,1.8
+757876,2025-11-27T17:45Z,AS Roma,FC Midtjylland,2,1,Roma,Italy,576.0,0.1,4.5,4.1
+757869,2025-11-27T17:45Z,Aston Villa,Young Boys,2,1,Birmingham,England,149.0,0.1,21.5,12.4
+757870,2025-11-27T17:45Z,FC Porto,Nice,3,0,Porto,Portugal,91.0,0,9.5,12.3
+757871,2025-11-27T17:45Z,Fenerbahce,Ferencvaros,1,1,Istanbul,Türkiye,39.0,0,8.5,16.7
+757872,2025-11-27T17:45Z,Feyenoord Rotterdam,Celtic,1,3,Rotterdam,Netherlands,9.0,0,18.6,8.9
+757873,2025-11-27T17:45Z,Lille,Dinamo Zagreb,4,0,Lille,France,20.0,0,18.1,8.9
+757874,2025-11-27T17:45Z,Ludogorets Razgrad,Celta Vigo,3,2,Razgrad,Bulgaria,190.0,0,5.9,12.4
+757875,2025-11-27T17:45Z,PAOK,SK Brann,1,1,Thessaloniki,Greece,-9999.0,0.3,2.5,13.8
+757877,2025-11-27T17:45Z,Viktoria Plzen,SC Freiburg,0,0,Plzen,Czechia,354.0,0,11.8,0.3
+757886,2025-11-27T20:00Z,Bologna,RB Salzburg,4,1,Bologna,Italy,54.0,0,3.7,3.8
+757879,2025-11-27T20:00Z,Go Ahead Eagles,VfB Stuttgart,0,4,Deventer,Netherlands,12.0,0,22.1,7.2
+757884,2025-11-27T20:00Z,Maccabi Tel-Aviv,Lyon,0,6,Backa Topola,Serbia,94.0,0,13.8,3.8
+757885,2025-11-27T20:00Z,Nottingham Forest,Malmö FF,3,0,Nottingham,England,46.0,0.3,22.3,13.3
+757882,2025-11-27T20:00Z,Panathinaikos,SK Sturm Graz,2,1,Athens,Greece,70.0,0.5,10.1,14.5
+757880,2025-11-27T20:00Z,Racing Genk,FC Basel,2,1,Genk,Belgium,66.0,0,18.6,6.2
+757878,2025-11-27T20:00Z,Rangers,Braga,1,1,Glasgow,Scotland,40.0,0,32.2,9.5
+757883,2025-11-27T20:00Z,Real Betis,FC Utrecht,2,1,Sevilla,Spain,16.0,0,6.0,10.2
+757881,2025-11-27T20:00Z,Red Star Belgrade,FCSB,1,0,Belgrade,Serbia,120.0,0.9,11.2,2.4
+757891,2025-12-11T17:45Z,Dinamo Zagreb,Real Betis,1,3,Zagreb,Croatia,135.0,0,1.2,1.2
+757895,2025-12-11T17:45Z,FC Midtjylland,Racing Genk,1,0,Herning,Denmark,60.0,0,17.5,8.2
+757888,2025-12-11T17:45Z,FC Utrecht,Nottingham Forest,1,2,Utrecht,Netherlands,13.0,0,12.3,6.3
+757893,2025-12-11T17:45Z,Ferencvaros,Rangers,2,1,Budapest,Hungary,104.0,0,3.2,5.6
+757894,2025-12-11T17:45Z,Ludogorets Razgrad,PAOK,3,3,Razgrad,Bulgaria,190.0,0,6.2,6.5
+757892,2025-12-11T17:45Z,Nice,Braga,0,1,Nice,France,25.0,0,8.9,11.9
+757889,2025-12-11T17:45Z,SK Sturm Graz,Red Star Belgrade,0,1,Graz,Austria,362.0,0,4.1,1.8
+757890,2025-12-11T17:45Z,VfB Stuttgart,Maccabi Tel-Aviv,4,1,Stuttgart,Germany,252.0,0,1.3,6.4
+757887,2025-12-11T17:45Z,Young Boys,Lille,1,0,Bern,Switzerland,549.0,0,2.7,3.5
+757901,2025-12-11T20:00Z,Celta Vigo,Bologna,1,2,Vigo,Spain,86.0,0.5,11.5,11.2
+757902,2025-12-11T20:00Z,Celtic,AS Roma,0,3,Glasgow,Scotland,40.0,0.4,18.8,10.9
+757904,2025-12-11T20:00Z,FC Basel,Aston Villa,1,2,Basel,Switzerland,279.0,0,9.8,8.1
+757903,2025-12-11T20:00Z,FC Porto,Malmö FF,2,1,Porto,Portugal,91.0,0.2,16.5,13.2
+757899,2025-12-11T20:00Z,FCSB,Feyenoord Rotterdam,4,3,Bucuresti,Romania,92.0,0,2.8,4.0
+757898,2025-12-11T20:00Z,Lyon,Go Ahead Eagles,2,1,Lyon,France,173.0,0,5.2,7.1
+757897,2025-12-11T20:00Z,Panathinaikos,Viktoria Plzen,0,0,Athens,Greece,70.0,0,4.5,11.8
+757896,2025-12-11T20:00Z,SC Freiburg,RB Salzburg,1,0,Freiburg im Breisgau,Germany,278.0,0.1,1.0,8.1
+757900,2025-12-11T20:00Z,SK Brann,Fenerbahce,0,4,Bergen,Norway,20.0,0,12.8,8.3

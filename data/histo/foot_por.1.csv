@@ -655,3 +655,85 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 750282,2025-09-14T14:30Z,Estrela,Vitória de Guimaraes,0,2,Amadora,Portugal,138.0,0,12.9,27.5
 750288,2025-09-14T17:00Z,Arouca,Casa Pia,0,2,Arouca,Portugal,313.0,0,11.0,22.3
 750284,2025-09-14T19:30Z,Braga,Gil Vicente,0,1,Braga,Portugal,190.0,0,8.9,19.5
+750299,2025-09-19T19:15Z,Rio Ave,FC Porto,0,3,Vila do Conde,Portugal,12.0,0,8.2,20.7
+750292,2025-09-20T14:30Z,C.D. Nacional,Arouca,1,2,Funchal,Portugal,280.0,0,8.0,26.3
+750295,2025-09-20T14:30Z,Santa Clara,Alverca,2,1,Ponta Delgada,Portugal,12.0,0,19.1,21.5
+750291,2025-09-20T17:00Z,AVS,Benfica,0,3,Vila das Aves,Portugal,,,,
+750296,2025-09-20T19:30Z,Vitória de Guimaraes,Braga,1,1,Guimarães,Portugal,189.0,0,9.8,14.6
+750297,2025-09-21T14:30Z,Tondela,Estrela,0,0,Tondela,Portugal,305.0,0,13.3,20.9
+750294,2025-09-21T17:00Z,Gil Vicente,Estoril,2,0,Barcelos,Portugal,36.0,0,16.3,17.7
+750293,2025-09-21T19:30Z,Casa Pia,FC Famalicao,1,1,Rio Maior,Portugal,82.0,0,21.1,15.0
+750298,2025-09-22T19:15Z,Sporting CP,Moreirense,3,0,Lisbon,Portugal,68.0,0,21.5,17.4
+750248,2025-09-23T19:15Z,Benfica,Rio Ave,1,1,Lisbon,Portugal,68.0,0,20.0,20.0
+750302,2025-09-26T19:15Z,Benfica,Gil Vicente,2,1,Lisbon,Portugal,68.0,0,8.9,20.2
+750305,2025-09-27T14:30Z,Moreirense,Casa Pia,2,1,Moreira de Conegos,Portugal,151.0,1.5,18.4,19.3
+750308,2025-09-27T15:30Z,Santa Clara,Tondela,1,2,Ponta Delgada,Portugal,12.0,0,14.3,21.0
+750307,2025-09-27T17:00Z,Estrela,AVS,3,0,Amadora,Portugal,138.0,0.7,26.9,19.7
+750303,2025-09-27T19:30Z,Estoril,Sporting CP,0,1,Estoril,Portugal,24.0,0.2,27.6,19.0
+750300,2025-09-28T14:30Z,Alverca,Vitória de Guimaraes,2,0,Alverca do Ribatejo,Portugal,18.0,0,35.1,21.7
+750304,2025-09-28T17:00Z,Braga,C.D. Nacional,0,1,Braga,Portugal,190.0,0,16.0,24.0
+750306,2025-09-28T19:30Z,FC Famalicao,Rio Ave,0,0,Vila Nova de Famalicão,Portugal,96.0,0,13.8,21.0
+750301,2025-09-29T19:00Z,Arouca,FC Porto,0,4,Arouca,Portugal,313.0,0,2.0,18.6
+750312,2025-10-03T19:15Z,Casa Pia,Estoril,2,2,Rio Maior,Portugal,82.0,0,18.9,16.0
+750311,2025-10-04T14:30Z,C.D. Nacional,Moreirense,3,2,Funchal,Portugal,280.0,0,8.5,21.9
+750314,2025-10-04T14:30Z,Gil Vicente,Estrela,2,0,Barcelos,Portugal,36.0,0.1,11.0,20.2
+750309,2025-10-04T17:00Z,AVS,Alverca,1,3,Vila das Aves,Portugal,,,,
+750317,2025-10-04T19:30Z,Vitória de Guimaraes,Santa Clara,2,1,Guimarães,Portugal,189.0,0.1,5.9,17.4
+750310,2025-10-05T14:30Z,Arouca,FC Famalicao,1,1,Arouca,Portugal,313.0,0,3.6,25.2
+750315,2025-10-05T16:30Z,Rio Ave,Tondela,3,0,Vila do Conde,Portugal,12.0,0,14.8,22.4
+750316,2025-10-05T18:15Z,Sporting CP,Braga,1,1,Lisbon,Portugal,68.0,0,12.0,22.5
+750313,2025-10-05T20:15Z,FC Porto,Benfica,0,0,Porto,Portugal,91.0,0,8.9,18.8
+750318,2025-10-24T19:15Z,Alverca,Gil Vicente,0,4,Alverca do Ribatejo,Portugal,18.0,0,7.5,20.4
+750324,2025-10-25T17:00Z,Santa Clara,AVS,2,0,Ponta Delgada,Portugal,12.0,0.5,23.7,16.8
+750319,2025-10-25T19:30Z,Benfica,Arouca,5,0,Lisbon,Portugal,68.0,0,2.5,19.0
+750321,2025-10-25T19:30Z,Estrela,Rio Ave,1,2,Amadora,Portugal,138.0,0.1,6.1,17.8
+750320,2025-10-26T15:30Z,Estoril,C.D. Nacional,1,1,Estoril,Portugal,24.0,0,0.4,22.3
+750322,2025-10-26T15:30Z,FC Famalicao,Vitória de Guimaraes,2,0,Vila Nova de Famalicão,Portugal,96.0,0,10.0,20.3
+750326,2025-10-26T18:00Z,Tondela,Sporting CP,0,3,Tondela,Portugal,305.0,0,17.4,15.7
+750325,2025-10-26T20:30Z,Braga,Casa Pia,4,0,Braga,Portugal,190.0,0,7.3,11.5
+750323,2025-10-27T20:15Z,Moreirense,FC Porto,1,2,Moreira de Conegos,Portugal,151.0,0,5.2,14.6
+750327,2025-10-31T20:15Z,Sporting CP,Alverca,2,0,Lisbon,Portugal,68.0,0.5,19.8,19.0
+750333,2025-11-01T15:30Z,C.D. Nacional,FC Famalicao,0,1,Funchal,Portugal,280.0,0.1,13.7,20.6
+750334,2025-11-01T18:00Z,Casa Pia,Estrela,3,5,Rio Maior,Portugal,82.0,0.1,8.9,16.7
+750328,2025-11-01T18:00Z,Rio Ave,Estoril,0,4,Vila do Conde,Portugal,12.0,0,5.7,15.2
+750330,2025-11-01T20:30Z,Vitória de Guimaraes,Benfica,0,3,Guimarães,Portugal,189.0,0,3.1,12.0
+750331,2025-11-02T15:30Z,AVS,Tondela,2,2,Vila das Aves,Portugal,,,,
+750332,2025-11-02T18:00Z,Arouca,Moreirense,0,2,Arouca,Portugal,313.0,0,4.1,12.4
+750329,2025-11-02T20:30Z,FC Porto,Braga,2,1,Porto,Portugal,91.0,0,5.4,13.6
+750335,2025-11-03T20:45Z,Gil Vicente,Santa Clara,1,0,Barcelos,Portugal,36.0,0,4.7,11.4
+750337,2025-11-07T20:15Z,Estoril,Arouca,4,3,Estoril,Portugal,24.0,0,9.8,16.4
+750340,2025-11-08T15:30Z,Alverca,Rio Ave,1,1,Alverca do Ribatejo,Portugal,18.0,0,9.3,18.8
+750343,2025-11-08T18:00Z,Tondela,Vitória de Guimaraes,0,1,Tondela,Portugal,305.0,0,7.9,11.9
+750336,2025-11-08T20:30Z,Santa Clara,Sporting CP,1,2,Ponta Delgada,Portugal,12.0,0,7.8,16.6
+750341,2025-11-09T15:30Z,AVS,Gil Vicente,1,1,Vila das Aves,Portugal,,,,
+750342,2025-11-09T15:30Z,Estrela,C.D. Nacional,1,1,Amadora,Portugal,138.0,0,3.9,17.2
+750338,2025-11-09T18:00Z,FC Famalicao,FC Porto,0,1,Vila Nova de Famalicão,Portugal,96.0,0,7.1,13.9
+750339,2025-11-09T20:30Z,Benfica,Casa Pia,2,2,Lisbon,Portugal,68.0,0,4.3,14.0
+750344,2025-11-09T20:30Z,Braga,Moreirense,2,1,Braga,Portugal,190.0,0.2,8.8,14.0
+750353,2025-11-28T20:15Z,Vitória de Guimaraes,AVS,4,0,Guimarães,Portugal,189.0,0,1.3,8.7
+750351,2025-11-29T15:30Z,Casa Pia,Alverca,0,2,Rio Maior,Portugal,82.0,2.5,12.6,15.3
+750347,2025-11-29T15:30Z,Moreirense,FC Famalicao,2,2,Moreira de Conegos,Portugal,151.0,4.4,16.7,12.1
+750352,2025-11-29T18:00Z,C.D. Nacional,Benfica,1,2,Funchal,Portugal,280.0,0,2.4,14.6
+750345,2025-11-29T20:30Z,Gil Vicente,Tondela,0,1,Barcelos,Portugal,36.0,0,4.1,9.7
+750348,2025-11-30T15:30Z,Rio Ave,Santa Clara,1,1,Vila do Conde,Portugal,12.0,0,11.4,14.2
+750346,2025-11-30T18:00Z,Sporting CP,Estrela,4,0,Lisbon,Portugal,68.0,0,15.3,12.4
+750350,2025-11-30T20:30Z,FC Porto,Estoril,1,0,Porto,Portugal,91.0,0,8.0,9.5
+750349,2025-12-01T20:15Z,Arouca,Braga,0,4,Arouca,Portugal,313.0,0,15.6,10.4
+750355,2025-12-05T20:15Z,Benfica,Sporting CP,1,1,Lisbon,Portugal,68.0,0,11.8,15.7
+750360,2025-12-06T15:30Z,Santa Clara,Casa Pia,1,0,Ponta Delgada,Portugal,12.0,0.2,38.5,19.5
+750357,2025-12-06T18:00Z,AVS,Rio Ave,1,2,Vila das Aves,Portugal,,,,
+750359,2025-12-06T20:30Z,FC Famalicao,Braga,1,2,Vila Nova de Famalicão,Portugal,96.0,0.7,17.5,14.5
+750354,2025-12-07T15:30Z,Estoril,Moreirense,3,3,Estoril,Portugal,24.0,0.1,14.1,16.3
+750356,2025-12-07T18:00Z,Alverca,C.D. Nacional,1,0,Alverca do Ribatejo,Portugal,18.0,0.3,8.3,14.5
+750358,2025-12-07T18:00Z,Estrela,Arouca,3,1,Amadora,Portugal,138.0,0,8.0,14.4
+750361,2025-12-07T20:30Z,Tondela,FC Porto,0,2,Tondela,Portugal,305.0,0.2,3.5,12.8
+750362,2025-12-08T20:30Z,Vitória de Guimaraes,Gil Vicente,0,0,Guimarães,Portugal,189.0,0.3,18.6,13.6
+750370,2025-12-13T15:30Z,Casa Pia,Gil Vicente,1,1,Rio Maior,Portugal,82.0,0,15.1,17.3
+750364,2025-12-13T18:00Z,Rio Ave,Vitória de Guimaraes,0,1,Vila do Conde,Portugal,12.0,0,5.6,12.0
+750366,2025-12-13T20:30Z,Sporting CP,AVS,6,0,Lisbon,Portugal,68.0,0,17.4,14.9
+750367,2025-12-14T15:30Z,FC Famalicao,Estoril,4,0,Vila Nova de Famalicão,Portugal,96.0,0,5.0,16.4
+750363,2025-12-14T18:00Z,Moreirense,Benfica,0,4,Moreira de Conegos,Portugal,151.0,0,3.5,10.3
+750368,2025-12-14T20:30Z,Arouca,Alverca,1,0,Arouca,Portugal,313.0,0,5.2,9.2
+750369,2025-12-15T17:30Z,C.D. Nacional,Tondela,3,1,Funchal,Portugal,280.0,0,3.8,15.8
+750365,2025-12-15T18:45Z,Braga,Santa Clara,1,0,Braga,Portugal,190.0,8.6,4.8,9.7
+750371,2025-12-15T20:45Z,FC Porto,Estrela,3,1,Porto,Portugal,91.0,0.7,9.1,10.5

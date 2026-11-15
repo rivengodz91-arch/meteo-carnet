@@ -702,3 +702,19 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 744546,2025-09-14T18:00Z,Csíkszereda,FCSB,1,1,Miercurea Ciuc,Romania,653.0,0,8.8,14.9
 744425,2025-09-15T15:00Z,Hermannstadt,Unirea Slobozia,0,2,Sibiu,Romania,410.0,0,14.1,21.5
 744428,2025-09-15T18:00Z,Petrolul Ploiesti,Dinamo Bucuresti,0,3,Ploiesti,Romania,161.0,0,12.5,20.3
+744432,2025-09-19T17:30Z,FC Botosani,FCSB,3,1,Botosani,Romania,159.0,0,11.4,18.5
+744436,2025-09-20T15:45Z,FC Arges,Universitatea Cluj,1,0,Mioveni,Romania,326.0,0,6.7,23.2
+744437,2025-09-20T18:00Z,Otelul Galati,CSU Craiova,1,0,Galati,Romania,24.0,0,8.4,19.7
+744439,2025-09-21T13:00Z,Unirea Slobozia,Petrolul Ploiesti,1,0,Clinceni,Romania,84.0,0,9.0,28.0
+744433,2025-09-21T15:15Z,CFR Cluj-Napoca,UTA Arad,1,1,Cluj,Romania,352.0,0,10.8,24.1
+744438,2025-09-21T18:00Z,Rapid Bucuresti,Hermannstadt,1,2,Bucuresti,Romania,92.0,0,7.2,21.4
+744434,2025-09-22T15:00Z,Csíkszereda,Metaloglobus,2,2,Miercurea Ciuc,Romania,653.0,0,7.4,19.9
+744435,2025-09-22T18:00Z,Dinamo Bucuresti,FC Farul Constanta,1,1,Bucuresti,Romania,92.0,0,12.8,21.0
+744442,2025-09-26T15:00Z,Hermannstadt,FC Arges,0,1,Sibiu,Romania,410.0,0,18.6,14.0
+744447,2025-09-26T18:00Z,CSU Craiova,Dinamo Bucuresti,2,2,Craiova,Romania,105.0,0,16.8,14.4
+744445,2025-09-27T12:00Z,UTA Arad,Csíkszereda,0,0,Arad,Romania,109.0,0,5.9,20.2
+744444,2025-09-27T17:30Z,Petrolul Ploiesti,Rapid Bucuresti,0,1,Ploiesti,Romania,161.0,0,6.1,12.8
+744441,2025-09-28T14:30Z,FC Farul Constanta,Unirea Slobozia,1,1,Ovidiu,Romania,22.0,0,10.9,17.5
+744440,2025-09-28T17:30Z,FCSB,Otelul Galati,1,0,Bucuresti,Romania,92.0,0,4.9,16.8
+744443,2025-09-29T15:00Z,Metaloglobus,FC Botosani,0,2,Clinceni,Romania,84.0,1.1,6.0,12.9
+744446,2025-09-29T18:00Z,Universitatea Cluj,CFR Cluj-Napoca,2,2,Cluj,Romania,352.0,0,3.6,7.9

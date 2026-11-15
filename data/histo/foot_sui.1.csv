@@ -491,3 +491,9 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 743169,2025-09-14T14:30Z,Grasshoppers,Lausanne Sports,3,1,Zürich,Switzerland,429.0,0,3.9,20.2
 743156,2025-09-17T17:00Z,FC Lugano,Lausanne Sports,1,1,Lugano,Switzerland,284.0,0,2.1,19.9
 743153,2025-09-17T17:00Z,FC Sion,Servette,0,2,Sion,Switzerland,500.0,0,2.1,22.3
+743172,2025-09-27T16:00Z,FC Lugano,Grasshoppers,2,1,Lugano,Switzerland,284.0,0,5.1,13.9
+743173,2025-09-27T16:00Z,Servette,Winterthur,4,0,Geneva,Switzerland,400.0,0,7.3,14.4
+743170,2025-09-27T18:30Z,FC Zürich,St. Gallen,3,1,Zürich,Switzerland,429.0,0,5.0,11.1
+743175,2025-09-28T12:00Z,Young Boys,FC Thun,4,2,Bern,Switzerland,549.0,0,8.0,15.0
+743171,2025-09-28T14:30Z,FC Basel,FC Luzern,1,2,Basel,Switzerland,279.0,0,8.5,16.8
+743174,2025-09-28T14:30Z,FC Sion,Lausanne Sports,0,0,Sion,Switzerland,500.0,0,4.8,21.0

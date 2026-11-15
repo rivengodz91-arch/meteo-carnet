@@ -293,3 +293,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 733675,2025-05-08T19:00Z,Chelsea,Djurgården,1,0,London,England,25.0,0,15.1,13.2
 733674,2025-05-08T19:00Z,Fiorentina,Real Betis,2,2,Firenze,Italy,58.0,0,5.4,14.1
 733676,2025-05-28T19:00Z,Real Betis,Chelsea,1,4,Wroclaw,Poland,115.0,0,15.5,14.6
+757971,2025-10-02T16:45Z,Dynamo Kyiv,Crystal Palace,0,2,Lublin,Poland,184.0,0,7.4,8.0
+757966,2025-10-02T16:45Z,FC Noah,Rijeka,1,0,Yerevan,Armenia,1002.0,0,5.1,14.7
+757967,2025-10-02T16:45Z,Jagiellonia Bialystok,Hamrun Spartans,1,0,Bialystok,Poland,135.0,0,5.3,8.4
+757970,2025-10-02T16:45Z,KuPS Kuopio,Drita Gjilan,1,1,Tampere,Finland,114.0,0,6.4,8.8
+757968,2025-10-02T16:45Z,Lausanne Sports,Breidablik,3,0,Lausanne,Switzerland,453.0,0,13.9,12.3
+757965,2025-10-02T16:45Z,Lech Poznan,Rapid Vienna,4,1,Poznan,Poland,69.0,0,4.4,10.7
+757973,2025-10-02T16:45Z,Omonia Nicosia,Mainz,0,1,Nicosia,Cyprus,155.0,0,9.7,24.4
+757972,2025-10-02T16:45Z,Rayo Vallecano,KF Shkëndija,2,0,Madrid,Spain,665.0,0,3.6,28.1
+757969,2025-10-02T16:45Z,Zrinjski Mostar,Lincoln Red Imps,5,0,Mostar,Bosnia and Herzegovina,66.0,0.1,28.5,10.6
+757976,2025-10-02T19:00Z,Aberdeen,Shakhtar Donetsk,2,3,Aberdeen,Scotland,13.0,0,34.3,14.6
+757978,2025-10-02T19:00Z,AEK Larnaca,AZ Alkmaar,4,0,Larnaca,Cyprus,24.0,0,11.6,23.3
+757977,2025-10-02T19:00Z,Fiorentina,Sigma Olomouc,2,0,Firenze,Italy,58.0,0,7.4,11.3
+757974,2025-10-02T19:00Z,Legia Warsaw,Samsunspor,0,1,Warsaw,Poland,113.0,0,4.9,5.7
+757982,2025-10-02T19:00Z,NK Celje,AEK Athens,3,1,Celje,Slovenia,240.0,0,4.9,7.0
+757975,2025-10-02T19:00Z,Raków Czestochowa,CSU Craiova,2,0,Sosnowiec,Poland,256.0,0,8.6,5.1
+757980,2025-10-02T19:00Z,Shelbourne,BK Häcken,0,0,Dublin,,17.0,7.1,18.2,15.5
+757981,2025-10-02T19:00Z,Slovan Bratislava,Strasbourg,1,2,Bratislava,Slovakia,157.0,0,11.6,6.6
+757979,2025-10-02T19:00Z,Sparta Prague,Shamrock Rovers,4,1,Prague,Czechia,202.0,0,7.6,7.7
+757987,2025-10-23T16:45Z,AEK Athens,Aberdeen,6,0,Athens,Greece,70.0,0,1.7,19.7
+757997,2025-10-23T16:45Z,AZ Alkmaar,Slovan Bratislava,1,0,Alkmaar,Netherlands,5.0,5.8,52.3,11.4
+757990,2025-10-23T16:45Z,BK Häcken,Rayo Vallecano,2,2,Göteborg,Sweden,23.0,0.1,22.7,11.5
+757988,2025-10-23T16:45Z,Breidablik,KuPS Kuopio,0,0,Reykjavik,Iceland,37.0,0,14.8,1.9
+757989,2025-10-23T16:45Z,Drita Gjilan,Omonia Nicosia,1,1,Prishtina,Kosovo,,,,
+757991,2025-10-23T16:45Z,KF Shkëndija,Shelbourne,1,0,Skopje,North Macedonia,247.0,0,3.5,14.8
+757985,2025-10-23T16:45Z,Rapid Vienna,Fiorentina,0,3,Wien,Austria,876.0,2.9,25.8,7.6
+757984,2025-10-23T16:45Z,Shakhtar Donetsk,Legia Warsaw,1,2,Krakow,Poland,219.0,0,9.9,15.8
+757983,2025-10-23T16:45Z,Strasbourg,Jagiellonia Bialystok,1,1,Strasbourg,France,147.0,1.4,23.3,10.8
+758000,2025-10-23T19:00Z,Crystal Palace,AEK Larnaca,0,1,London,England,25.0,0.2,21.1,8.0
+757996,2025-10-23T19:00Z,CSU Craiova,FC Noah,1,1,Craiova,Romania,105.0,0,12.8,15.8
+757992,2025-10-23T19:00Z,Hamrun Spartans,Lausanne Sports,0,1,Attard,Malta,69.0,0,14.2,22.7
+757999,2025-10-23T19:00Z,Lincoln Red Imps,Lech Poznan,2,1,Gibraltar,Gibraltar,11.0,0,17.9,25.1
+757998,2025-10-23T19:00Z,Mainz,Zrinjski Mostar,1,0,Mainz,Germany,125.0,0,27.6,11.5
+757993,2025-10-23T19:00Z,Samsunspor,Dynamo Kyiv,3,0,Samsun,Türkiye,64.0,0,5.7,17.2
+757994,2025-10-23T19:00Z,Shamrock Rovers,NK Celje,0,2,Dublin,,17.0,0,25.6,7.2
+757995,2025-10-23T19:00Z,Sigma Olomouc,Raków Czestochowa,1,1,Olomouc,Czechia,223.0,4.1,18.7,12.0
+757986,2025-10-24T14:00Z,Rijeka,Sparta Prague,1,0,Rijeka,Croatia,12.0,0,3.8,15.3
+758006,2025-11-06T17:45Z,AEK Athens,Shamrock Rovers,1,1,Athens,Greece,70.0,0,2.1,15.6
+758003,2025-11-06T17:45Z,AEK Larnaca,Aberdeen,0,0,Larnaca,Cyprus,24.0,0,13.9,22.2
+758008,2025-11-06T17:45Z,FC Noah,Sigma Olomouc,1,2,Yerevan,Armenia,1002.0,0,3.1,7.7
+758004,2025-11-06T17:45Z,KuPS Kuopio,Slovan Bratislava,3,1,Tampere,Finland,114.0,0,7.8,7.4
+758009,2025-11-06T17:45Z,Mainz,Fiorentina,2,1,Mainz,Germany,125.0,0,0.6,6.0
+758007,2025-11-06T17:45Z,NK Celje,Legia Warsaw,2,1,Celje,Slovenia,240.0,0,2.5,6.6
+758001,2025-11-06T17:45Z,Samsunspor,Hamrun Spartans,3,0,Samsun,Türkiye,64.0,0,2.8,14.9
+758002,2025-11-06T17:45Z,Shakhtar Donetsk,Breidablik,2,0,Krakow,Poland,219.0,0,5.8,7.0
+758005,2025-11-06T17:45Z,Sparta Prague,Raków Czestochowa,0,0,Prague,Czechia,202.0,0,10.5,8.3
+758016,2025-11-06T20:00Z,BK Häcken,Strasbourg,1,2,Göteborg,Sweden,23.0,0,11.3,9.9
+758018,2025-11-06T20:00Z,Crystal Palace,AZ Alkmaar,3,1,London,England,25.0,0,6.1,14.8
+758015,2025-11-06T20:00Z,Dynamo Kyiv,Zrinjski Mostar,6,0,Lublin,Poland,184.0,0,11.0,6.5
+758010,2025-11-06T20:00Z,KF Shkëndija,Jagiellonia Bialystok,1,1,Skopje,North Macedonia,247.0,0,3.1,11.0
+758014,2025-11-06T20:00Z,Lausanne Sports,Omonia Nicosia,1,1,Lausanne,Switzerland,453.0,0,5.4,6.3
+758017,2025-11-06T20:00Z,Lincoln Red Imps,Rijeka,1,1,Gibraltar,Gibraltar,11.0,0,9.4,14.7
+758012,2025-11-06T20:00Z,Rapid Vienna,CSU Craiova,0,1,Wien,Austria,876.0,0,12.7,4.5
+758013,2025-11-06T20:00Z,Rayo Vallecano,Lech Poznan,3,2,Madrid,Spain,665.0,0,10.8,9.4
+758011,2025-11-06T20:00Z,Shelbourne,Drita Gjilan,0,1,Dublin,,17.0,0,10.9,13.0
+758019,2025-11-27T17:45Z,AZ Alkmaar,Shelbourne,2,0,Alkmaar,Netherlands,5.0,0,31.3,10.7
+758026,2025-11-27T17:45Z,CSU Craiova,Mainz,1,0,Craiova,Romania,105.0,2.6,10.1,5.9
+758020,2025-11-27T17:45Z,Hamrun Spartans,Lincoln Red Imps,3,1,Attard,Malta,69.0,0,23.9,11.9
+758021,2025-11-27T17:45Z,Lech Poznan,Lausanne Sports,2,0,Poznan,Poland,69.0,0,12.8,-1.0
+758022,2025-11-27T17:45Z,Omonia Nicosia,Dynamo Kyiv,2,0,Nicosia,Cyprus,155.0,0,2.7,15.4
+758023,2025-11-27T17:45Z,Raków Czestochowa,Rapid Vienna,4,1,Sosnowiec,Poland,256.0,0,6.9,0.2
+758025,2025-11-27T17:45Z,Sigma Olomouc,NK Celje,2,1,Olomouc,Czechia,223.0,0,6.6,0.3
+758024,2025-11-27T17:45Z,Slovan Bratislava,Rayo Vallecano,2,1,Bratislava,Slovakia,157.0,0,13.9,1.6
+758027,2025-11-27T17:45Z,Zrinjski Mostar,BK Häcken,2,1,Mostar,Bosnia and Herzegovina,66.0,3.5,24.4,4.4
+758028,2025-11-27T20:00Z,Aberdeen,FC Noah,1,1,Aberdeen,Scotland,13.0,0,36.3,9.8
+758029,2025-11-27T20:00Z,Breidablik,Samsunspor,2,2,Reykjavik,Iceland,37.0,0,11.1,-1.4
+758036,2025-11-27T20:00Z,Drita Gjilan,KF Shkëndija,1,0,Prishtina,Kosovo,,,,
+758030,2025-11-27T20:00Z,Fiorentina,AEK Athens,0,1,Firenze,Italy,58.0,0,20.1,8.0
+758033,2025-11-27T20:00Z,Jagiellonia Bialystok,KuPS Kuopio,1,0,Bialystok,Poland,135.0,0,9.7,0.4
+758032,2025-11-27T20:00Z,Legia Warsaw,Sparta Prague,0,1,Warsaw,Poland,113.0,0,8.7,-0.2
+758031,2025-11-27T20:00Z,Rijeka,AEK Larnaca,0,0,Rijeka,Croatia,12.0,0,3.4,5.2
+758035,2025-11-27T20:00Z,Shamrock Rovers,Shakhtar Donetsk,1,2,Dublin,,17.0,0,31.3,10.3
+758034,2025-11-27T20:00Z,Strasbourg,Crystal Palace,2,1,Strasbourg,France,147.0,0,11.8,2.3
+758038,2025-12-11T17:45Z,BK Häcken,AEK Larnaca,1,1,Göteborg,Sweden,23.0,0,25.3,8.7
+758041,2025-12-11T17:45Z,Breidablik,Shamrock Rovers,3,1,Reykjavik,Iceland,37.0,0,41.5,4.0
+758040,2025-12-11T17:45Z,CSU Craiova,Sparta Prague,1,2,Craiova,Romania,105.0,0,4.9,4.6
+758042,2025-12-11T17:45Z,Drita Gjilan,AZ Alkmaar,0,3,Prishtina,Kosovo,,,,
+758043,2025-12-11T17:45Z,FC Noah,Legia Warsaw,2,1,Yerevan,Armenia,1002.0,0,1.5,2.9
+758044,2025-12-11T17:45Z,Fiorentina,Dynamo Kyiv,2,1,Firenze,Italy,58.0,0,2.0,9.8
+758037,2025-12-11T17:45Z,Jagiellonia Bialystok,Rayo Vallecano,1,2,Bialystok,Poland,135.0,0,14.8,6.4
+758045,2025-12-11T17:45Z,KF Shkëndija,Slovan Bratislava,2,0,Skopje,North Macedonia,247.0,0,0.3,4.5
+758039,2025-12-11T17:45Z,Samsunspor,AEK Athens,1,2,Samsun,Türkiye,64.0,0.1,6.2,8.0
+758052,2025-12-11T20:00Z,Aberdeen,Strasbourg,0,1,Aberdeen,Scotland,13.0,0,25.8,9.9
+758053,2025-12-11T20:00Z,Hamrun Spartans,Shakhtar Donetsk,0,2,Attard,Malta,69.0,0,1.6,13.2
+758054,2025-12-11T20:00Z,KuPS Kuopio,Lausanne Sports,0,0,Tampere,Finland,114.0,0,10.3,-0.6
+758050,2025-12-11T20:00Z,Lech Poznan,Mainz,1,1,Poznan,Poland,69.0,0,16.0,8.5
+758046,2025-12-11T20:00Z,Lincoln Red Imps,Sigma Olomouc,2,1,Gibraltar,Gibraltar,11.0,0.2,6.5,13.5
+758047,2025-12-11T20:00Z,Raków Czestochowa,Zrinjski Mostar,1,0,Sosnowiec,Poland,256.0,0,11.2,5.2
+758051,2025-12-11T20:00Z,Rapid Vienna,Omonia Nicosia,0,1,Wien,Austria,876.0,0,3.9,1.9
+758048,2025-12-11T20:00Z,Rijeka,NK Celje,3,0,Rijeka,Croatia,12.0,0,12.6,9.0
+758049,2025-12-11T20:00Z,Shelbourne,Crystal Palace,0,3,Dublin,,17.0,1.1,13.0,7.4

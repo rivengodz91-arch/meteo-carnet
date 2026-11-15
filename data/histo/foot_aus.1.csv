@@ -344,3 +344,50 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 721519,2025-05-24T06:00Z,Auckland FC,Melbourne Victory,0,2,Auckland,New Zealand,43.0,0,11.5,15.4
 721520,2025-05-24T09:35Z,Melbourne City FC,Western United,1,1,Melbourne,Australia,25.0,0,19.5,15.3
 721521,2025-05-31T09:40Z,Melbourne City FC,Melbourne Victory,1,0,Melbourne,Australia,25.0,0,3.3,10.7
+758415,2025-10-17T08:00Z,Adelaide United FC,Sydney FC,2,1,Adelaide,Australia,59.0,0,13.5,17.3
+758416,2025-10-17T10:05Z,Brisbane Roar FC,Macarthur FC,1,0,Brisbane,Australia,27.0,0,12.4,21.4
+758417,2025-10-18T06:00Z,Western Sydney Wanderers FC,Melbourne City FC,1,1,Sydney,Australia,58.0,0,15.5,19.6
+758418,2025-10-18T08:35Z,Melbourne Victory,Auckland FC,0,0,Melbourne,Australia,25.0,0,5.2,19.1
+758419,2025-10-18T10:45Z,Perth Glory FC,Wellington Phoenix,2,2,Perth,Australia,34.0,0,14.9,18.1
+758420,2025-10-19T04:00Z,Central Coast Mariners FC,Newcastle Jets,3,2,New South Wales,Australia,-9999.0,0,6.8,27.1
+758421,2025-10-24T08:35Z,Newcastle Jets,Melbourne Victory,5,2,"Newcastle, New South Wales",Australia,48.0,0,23.0,18.5
+758422,2025-10-25T04:00Z,Auckland FC,Western Sydney Wanderers FC,1,0,Auckland,New Zealand,43.0,0,21.5,15.9
+758423,2025-10-25T06:00Z,Melbourne City FC,Perth Glory FC,4,0,Melbourne,Australia,25.0,0.7,4.7,14.4
+758424,2025-10-25T08:35Z,Sydney FC,Central Coast Mariners FC,2,0,Sydney,Australia,58.0,0,14.1,19.8
+758425,2025-10-26T02:00Z,Wellington Phoenix,Brisbane Roar FC,2,1,Wellington,New Zealand,31.0,0,39.4,15.4
+758426,2025-10-27T08:00Z,Macarthur FC,Adelaide United FC,2,1,Sydney,Australia,58.0,0.2,26.9,14.7
+758427,2025-10-31T08:35Z,Brisbane Roar FC,Melbourne City FC,0,0,Brisbane,Australia,27.0,9.4,7.9,22.5
+758428,2025-10-31T10:45Z,Perth Glory FC,Melbourne Victory,0,2,Perth,Australia,34.0,0.2,20.9,19.8
+758429,2025-11-01T04:00Z,Auckland FC,Adelaide United FC,2,1,Auckland,New Zealand,43.0,0.3,20.8,17.4
+758430,2025-11-01T06:00Z,Newcastle Jets,Sydney FC,1,4,"Newcastle, New South Wales",Australia,48.0,0.1,6.6,21.5
+758431,2025-11-01T08:35Z,Macarthur FC,Western Sydney Wanderers FC,1,1,Sydney,Australia,58.0,0,8.9,19.5
+758432,2025-11-02T05:00Z,Central Coast Mariners FC,Wellington Phoenix,1,1,New South Wales,Australia,-9999.0,0,7.8,30.2
+758434,2025-11-07T08:35Z,Adelaide United FC,Western Sydney Wanderers FC,2,0,Adelaide,Australia,59.0,0,25.2,15.3
+758435,2025-11-07T10:45Z,Perth Glory FC,Central Coast Mariners FC,0,1,Perth,Australia,34.0,0,16.4,22.4
+758436,2025-11-08T06:00Z,Wellington Phoenix,Auckland FC,1,2,Wellington,New Zealand,31.0,0,35.9,14.9
+758437,2025-11-08T08:35Z,Melbourne Victory,Melbourne City FC,0,2,Melbourne,Australia,25.0,2.0,21.3,10.4
+758438,2025-11-09T04:00Z,Sydney FC,Macarthur FC,2,0,Sydney,Australia,58.0,0,25.2,18.2
+758433,2025-11-09T06:00Z,Brisbane Roar FC,Newcastle Jets,3,0,Queensland,Australia,-9999.0,0,20.3,25.8
+758439,2025-11-21T08:35Z,Adelaide United FC,Melbourne City FC,4,1,Adelaide,Australia,59.0,0,7.4,23.4
+758440,2025-11-22T04:00Z,Wellington Phoenix,Macarthur FC,0,1,Wellington,New Zealand,31.0,0,18.8,15.8
+758441,2025-11-22T06:00Z,Western Sydney Wanderers FC,Central Coast Mariners FC,3,2,Sydney,Australia,58.0,0.5,14.2,20.7
+758442,2025-11-22T08:35Z,Sydney FC,Melbourne Victory,3,0,Sydney,Australia,58.0,0,12.8,20.0
+758443,2025-11-23T02:00Z,Auckland FC,Brisbane Roar FC,1,1,Auckland,New Zealand,43.0,0.1,13.9,21.6
+758444,2025-11-23T06:00Z,Newcastle Jets,Perth Glory FC,1,2,"Newcastle, New South Wales",Australia,48.0,0,14.8,24.6
+758445,2025-11-28T08:35Z,Brisbane Roar FC,Melbourne Victory,1,0,Brisbane,Australia,27.0,0,10.2,26.6
+758446,2025-11-29T04:00Z,Wellington Phoenix,Adelaide United FC,2,1,Wellington,New Zealand,31.0,0,32.0,19.4
+758447,2025-11-29T06:00Z,Central Coast Mariners FC,Melbourne City FC,0,0,New South Wales,Australia,-9999.0,0,3.7,26.0
+758448,2025-11-29T08:35Z,Western Sydney Wanderers FC,Sydney FC,1,0,Sydney,Australia,58.0,0,18.5,26.2
+758449,2025-11-30T02:00Z,Auckland FC,Newcastle Jets,1,2,Auckland,New Zealand,43.0,3.6,19.6,22.3
+758450,2025-11-30T07:00Z,Macarthur FC,Perth Glory FC,0,2,Sydney,Australia,58.0,0,27.7,25.2
+758451,2025-12-05T08:35Z,Macarthur FC,Melbourne Victory,0,0,Sydney,Australia,58.0,0,18.6,28.0
+758452,2025-12-05T10:45Z,Perth Glory FC,Western Sydney Wanderers FC,1,0,Perth,Australia,34.0,0,20.4,20.8
+758453,2025-12-06T04:00Z,Auckland FC,Wellington Phoenix,3,1,Auckland,New Zealand,43.0,0,13.1,24.2
+758454,2025-12-06T06:00Z,Newcastle Jets,Melbourne City FC,0,1,"Newcastle, New South Wales",Australia,48.0,0,15.7,35.0
+758455,2025-12-06T08:35Z,Central Coast Mariners FC,Sydney FC,1,2,New South Wales,Australia,-9999.0,0,5.8,28.0
+758456,2025-12-07T08:35Z,Adelaide United FC,Brisbane Roar FC,0,1,Adelaide,Australia,59.0,0,3.7,18.9
+758458,2025-12-12T08:35Z,Central Coast Mariners FC,Auckland FC,1,2,New South Wales,Australia,-9999.0,0,8.5,29.0
+758459,2025-12-13T06:00Z,Western Sydney Wanderers FC,Brisbane Roar FC,0,0,Sydney,Australia,58.0,0,9.7,22.2
+758460,2025-12-13T08:35Z,Melbourne Victory,Adelaide United FC,2,1,Melbourne,Australia,25.0,0,17.6,18.5
+758461,2025-12-13T10:45Z,Perth Glory FC,Sydney FC,0,1,Perth,Australia,34.0,0,9.9,35.0
+758462,2025-12-14T02:00Z,Wellington Phoenix,Newcastle Jets,1,3,Wellington,New Zealand,31.0,0,25.3,20.7

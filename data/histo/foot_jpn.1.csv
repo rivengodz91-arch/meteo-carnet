@@ -815,3 +815,91 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 725701,2025-09-13T10:00Z,Kashima Antlers,Shonan Bellmare,3,0,Kashima,Japan,20.0,0,8.3,26.6
 725702,2025-09-13T10:00Z,Yokohama F. Marinos,Kawasaki Frontale,0,3,Yokohama,Japan,21.0,0.1,20.4,26.2
 725703,2025-09-15T10:00Z,FC Tokyo,Tokyo Verdy 1969,1,0,Tokyo,Japan,44.0,0,6.4,27.5
+725712,2025-09-20T08:00Z,Nagoya Grampus,Shonan Bellmare,3,1,Toyota,Japan,55.0,0,12.3,26.0
+725709,2025-09-20T09:00Z,Tokyo Verdy 1969,Fagiano Okayama,4,2,Tokyo,Japan,44.0,0.3,12.4,25.3
+725706,2025-09-20T09:00Z,Yokohama FC,Albirex Niigata,1,0,Yokohama,Japan,21.0,0.6,14.0,24.9
+725708,2025-09-20T09:30Z,Cerezo Osaka,Kashiwa Reysol,1,1,Osaka,Japan,4.0,0,10.4,28.4
+725714,2025-09-20T10:00Z,Kawasaki Frontale,FC Tokyo,0,1,Kawasaki,Japan,1.0,0.4,20.3,25.1
+725710,2025-09-20T10:00Z,Kyoto Sanga,Shimizu S-Pulse,0,1,Kyoto,Japan,50.0,0,11.7,27.2
+725705,2025-09-20T10:00Z,Urawa Red Diamonds,Kashima Antlers,0,1,Saitama,Japan,16.0,0,15.7,25.1
+725707,2025-09-20T10:00Z,Yokohama F. Marinos,Avispa Fukuoka,2,0,Yokohama,Japan,21.0,0.4,17.0,24.6
+725722,2025-09-23T05:00Z,Albirex Niigata,Nagoya Grampus,0,0,Niigata,Japan,1.0,0,9.4,25.2
+725724,2025-09-23T09:00Z,Fagiano Okayama,Yokohama FC,0,0,Okayama,Japan,5.0,0.5,10.0,22.6
+725723,2025-09-23T09:00Z,FC Tokyo,Avispa Fukuoka,1,0,Tokyo,Japan,44.0,0,9.2,21.3
+725716,2025-09-23T09:00Z,Kashima Antlers,Cerezo Osaka,3,1,Kashima,Japan,20.0,0.4,5.9,25.4
+725719,2025-09-23T09:00Z,Shimizu S-Pulse,Urawa Red Diamonds,0,0,Shimzu,Japan,,,,
+725715,2025-09-23T10:00Z,Gamba Osaka,Yokohama F. Marinos,3,1,Osaka,Japan,4.0,0,4.9,26.0
+725717,2025-09-23T10:00Z,Kashiwa Reysol,Sanfrecce Hiroshima,0,0,Kashiwa,Japan,24.0,0,9.6,19.6
+725718,2025-09-23T10:00Z,Kyoto Sanga,Machida Zelvia,1,1,Kyoto,Japan,50.0,0,7.6,24.0
+725720,2025-09-23T10:00Z,Shonan Bellmare,Kawasaki Frontale,1,2,Shonan,Japan,36.0,0,8.9,21.4
+725721,2025-09-23T10:00Z,Vissel Kobe,Tokyo Verdy 1969,4,0,Kobe,Japan,35.0,0,5.3,23.3
+725732,2025-09-27T07:00Z,Machida Zelvia,Fagiano Okayama,1,0,Tokyo,Japan,44.0,0,7.3,26.1
+725728,2025-09-27T08:00Z,Gamba Osaka,Albirex Niigata,4,2,Osaka,Japan,4.0,0,12.8,26.9
+725725,2025-09-27T08:00Z,Nagoya Grampus,Kashima Antlers,0,4,Toyota,Japan,55.0,0,16.8,25.4
+725731,2025-09-27T09:00Z,Avispa Fukuoka,Sanfrecce Hiroshima,1,2,"Hakata-ku, Fukuoka",Japan,,,,
+725733,2025-09-27T09:00Z,Tokyo Verdy 1969,Urawa Red Diamonds,0,0,Tokyo,Japan,44.0,0,7.0,24.3
+725729,2025-09-27T10:00Z,Vissel Kobe,Shimizu S-Pulse,2,1,Kobe,Japan,35.0,0,14.9,21.8
+725726,2025-09-28T08:00Z,Yokohama FC,Shonan Bellmare,1,0,Yokohama,Japan,21.0,0,15.0,26.5
+725734,2025-09-28T09:00Z,FC Tokyo,Yokohama F. Marinos,2,3,Tokyo,Japan,44.0,0,12.6,25.6
+725730,2025-09-28T09:30Z,Cerezo Osaka,Kyoto Sanga,1,2,Osaka,Japan,4.0,2.6,14.4,26.2
+725727,2025-09-28T10:00Z,Kawasaki Frontale,Kashiwa Reysol,4,4,Kawasaki,Japan,1.0,0,13.6,25.5
+725735,2025-10-03T10:00Z,Shonan Bellmare,Tokyo Verdy 1969,0,1,Shonan,Japan,36.0,0,5.8,22.0
+725736,2025-10-04T04:00Z,Shimizu S-Pulse,FC Tokyo,1,1,Shimzu,Japan,,,,
+725744,2025-10-04T04:30Z,Nagoya Grampus,Cerezo Osaka,2,1,Toyota,Japan,55.0,0.7,0.5,22.2
+725738,2025-10-04T05:00Z,Albirex Niigata,Fagiano Okayama,1,1,Niigata,Japan,1.0,0.3,15.7,26.8
+725741,2025-10-04T06:00Z,Avispa Fukuoka,Yokohama FC,1,0,"Hakata-ku, Fukuoka",Japan,,,,
+725737,2025-10-04T07:00Z,Sanfrecce Hiroshima,Machida Zelvia,2,1,Hiroshima,Japan,16.0,0.4,11.3,24.7
+725740,2025-10-04T08:00Z,Urawa Red Diamonds,Vissel Kobe,1,0,Saitama,Japan,16.0,0.1,5.0,22.6
+725742,2025-10-04T08:30Z,Kashiwa Reysol,Yokohama F. Marinos,1,0,Kashiwa,Japan,24.0,0.1,3.1,22.0
+725739,2025-10-04T10:00Z,Kyoto Sanga,Kawasaki Frontale,1,1,Kyoto,Japan,50.0,0,6.6,21.4
+725743,2025-10-05T06:00Z,Kashima Antlers,Gamba Osaka,0,0,Kashima,Japan,20.0,0,12.2,28.9
+725749,2025-10-17T10:00Z,Sanfrecce Hiroshima,FC Tokyo,0,0,Hiroshima,Japan,16.0,0,0.5,21.3
+725747,2025-10-17T10:00Z,Vissel Kobe,Kashima Antlers,0,0,Kobe,Japan,35.0,0,2.7,21.7
+725754,2025-10-18T05:00Z,Fagiano Okayama,Cerezo Osaka,1,2,Okayama,Japan,5.0,0,8.4,29.2
+725750,2025-10-18T05:00Z,Gamba Osaka,Kashiwa Reysol,0,5,Osaka,Japan,4.0,0,1.4,25.7
+725751,2025-10-18T05:00Z,Kawasaki Frontale,Shimizu S-Pulse,5,3,Kawasaki,Japan,1.0,0,20.8,24.4
+725752,2025-10-18T05:00Z,Machida Zelvia,Avispa Fukuoka,0,0,Tokyo,Japan,44.0,0,16.2,24.8
+725746,2025-10-18T05:00Z,Tokyo Verdy 1969,Albirex Niigata,1,0,Tokyo,Japan,44.0,0,16.2,24.8
+725748,2025-10-18T05:00Z,Yokohama F. Marinos,Urawa Red Diamonds,4,0,Yokohama,Japan,21.0,0,19.7,24.5
+725753,2025-10-18T05:00Z,Yokohama FC,Nagoya Grampus,2,2,Yokohama,Japan,21.0,0,19.7,24.5
+725745,2025-10-19T06:00Z,Shonan Bellmare,Kyoto Sanga,1,1,Shonan,Japan,36.0,0.2,11.5,22.0
+725762,2025-10-25T05:00Z,FC Tokyo,Fagiano Okayama,3,1,Tokyo,Japan,44.0,0.1,10.8,13.4
+725760,2025-10-25T05:00Z,Kashiwa Reysol,Yokohama FC,2,0,Kashiwa,Japan,24.0,0,12.1,14.1
+725764,2025-10-25T05:00Z,Kyoto Sanga,Kashima Antlers,1,1,Kyoto,Japan,50.0,0,11.3,20.9
+725758,2025-10-25T05:00Z,Nagoya Grampus,Gamba Osaka,0,2,Toyota,Japan,55.0,0,6.5,19.3
+725757,2025-10-25T05:00Z,Shimizu S-Pulse,Tokyo Verdy 1969,1,0,Shimzu,Japan,,,,
+725761,2025-10-25T05:00Z,Urawa Red Diamonds,Machida Zelvia,0,0,Saitama,Japan,16.0,1.4,8.8,13.3
+725756,2025-10-25T05:00Z,Yokohama F. Marinos,Sanfrecce Hiroshima,3,0,Yokohama,Japan,21.0,0.6,14.8,14.1
+725755,2025-10-25T06:00Z,Cerezo Osaka,Kawasaki Frontale,2,0,Osaka,Japan,4.0,1.1,12.2,21.4
+725759,2025-10-26T05:00Z,Albirex Niigata,Vissel Kobe,2,2,Niigata,Japan,1.0,1.8,3.1,16.9
+725763,2025-10-26T05:40Z,Avispa Fukuoka,Shonan Bellmare,1,0,"Hakata-ku, Fukuoka",Japan,,,,
+725766,2025-11-08T05:00Z,Kashima Antlers,Yokohama FC,2,1,Kashima,Japan,20.0,0,8.6,23.3
+725774,2025-11-08T05:00Z,Tokyo Verdy 1969,Avispa Fukuoka,0,0,Tokyo,Japan,44.0,0,6.5,15.9
+725767,2025-11-08T06:00Z,Kawasaki Frontale,Fagiano Okayama,1,1,Kawasaki,Japan,1.0,0,8.7,16.1
+725773,2025-11-08T06:00Z,Shonan Bellmare,Albirex Niigata,5,2,Shonan,Japan,36.0,0,4.0,16.4
+725768,2025-11-08T07:00Z,Kashiwa Reysol,Nagoya Grampus,1,0,Kashiwa,Japan,24.0,0,9.8,13.4
+725771,2025-11-09T04:00Z,Sanfrecce Hiroshima,Urawa Red Diamonds,3,0,Hiroshima,Japan,16.0,0,7.5,15.9
+725769,2025-11-09T05:00Z,Kyoto Sanga,Yokohama F. Marinos,0,3,Kyoto,Japan,50.0,5.4,6.2,15.8
+725770,2025-11-09T05:00Z,Machida Zelvia,FC Tokyo,0,1,Tokyo,Japan,44.0,1.0,2.8,12.3
+725765,2025-11-09T06:00Z,Gamba Osaka,Vissel Kobe,1,1,Osaka,Japan,4.0,3.2,6.0,16.1
+725772,2025-11-09T06:00Z,Shimizu S-Pulse,Cerezo Osaka,1,4,Shimzu,Japan,,,,
+725776,2025-11-30T05:00Z,Albirex Niigata,Kashiwa Reysol,1,3,Niigata,Japan,1.0,0,16.4,16.0
+725778,2025-11-30T05:00Z,Avispa Fukuoka,Gamba Osaka,1,0,"Hakata-ku, Fukuoka",Japan,,,,
+725779,2025-11-30T05:00Z,Fagiano Okayama,Urawa Red Diamonds,0,1,Okayama,Japan,5.0,0,4.3,15.7
+725784,2025-11-30T05:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,1,2,Kawasaki,Japan,1.0,0,6.0,15.2
+725780,2025-11-30T05:00Z,Machida Zelvia,Nagoya Grampus,3,1,Tokyo,Japan,44.0,0,2.6,16.2
+725777,2025-11-30T05:00Z,Shonan Bellmare,Shimizu S-Pulse,1,0,Shonan,Japan,36.0,0,3.4,16.7
+725782,2025-11-30T05:00Z,Tokyo Verdy 1969,Kashima Antlers,0,1,Tokyo,Japan,44.0,0,2.6,16.2
+725783,2025-11-30T05:00Z,Vissel Kobe,FC Tokyo,0,0,Kobe,Japan,35.0,0,6.5,14.3
+725781,2025-11-30T05:00Z,Yokohama F. Marinos,Cerezo Osaka,3,1,Yokohama,Japan,21.0,0,4.8,15.5
+725775,2025-11-30T05:00Z,Yokohama FC,Kyoto Sanga,0,1,Yokohama,Japan,21.0,0,4.8,15.5
+725785,2025-12-06T05:00Z,Cerezo Osaka,Yokohama FC,1,3,Osaka,Japan,4.0,0,4.5,10.9
+725786,2025-12-06T05:00Z,FC Tokyo,Albirex Niigata,1,1,Tokyo,Japan,44.0,0,3.3,11.8
+725787,2025-12-06T05:00Z,Gamba Osaka,Tokyo Verdy 1969,4,1,Osaka,Japan,4.0,0,4.5,10.9
+725788,2025-12-06T05:00Z,Kashima Antlers,Yokohama F. Marinos,2,1,Kashima,Japan,20.0,0,8.3,13.6
+725793,2025-12-06T05:00Z,Kashiwa Reysol,Machida Zelvia,1,0,Kashiwa,Japan,24.0,0,3.7,11.8
+725790,2025-12-06T05:00Z,Kyoto Sanga,Vissel Kobe,2,0,Kyoto,Japan,50.0,0,6.4,9.6
+725791,2025-12-06T05:00Z,Nagoya Grampus,Avispa Fukuoka,1,0,Toyota,Japan,55.0,0,3.4,10.5
+725792,2025-12-06T05:00Z,Sanfrecce Hiroshima,Shonan Bellmare,2,1,Hiroshima,Japan,16.0,0,11.5,10.5
+725789,2025-12-06T05:00Z,Shimizu S-Pulse,Fagiano Okayama,1,2,Shimzu,Japan,,,,
+725794,2025-12-06T05:00Z,Urawa Red Diamonds,Kawasaki Frontale,4,0,Saitama,Japan,16.0,0,5.1,11.8

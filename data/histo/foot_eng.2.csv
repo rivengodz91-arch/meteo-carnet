@@ -1172,3 +1172,193 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 744658,2025-09-13T14:00Z,West Bromwich Albion,Derby County,0,1,West Bromwich,England,165.0,0.1,14.2,14.8
 744653,2025-09-13T14:00Z,Wrexham,Queens Park Rangers,1,3,Wrexham,Wales,87.0,0.2,20.5,14.7
 744650,2025-09-14T11:00Z,Southampton,Portsmouth,0,0,Southampton,England,19.0,0,15.1,15.1
+744662,2025-09-19T19:00Z,Middlesbrough,West Bromwich Albion,2,1,Middlesbrough,England,15.0,0.5,9.9,18.1
+744668,2025-09-20T11:30Z,Birmingham City,Swansea City,1,0,Birmingham,England,149.0,0,16.4,16.0
+744663,2025-09-20T11:30Z,Leicester City,Coventry City,0,0,Leicester,England,65.0,0,17.5,16.4
+744671,2025-09-20T11:30Z,Queens Park Rangers,Stoke City,1,0,London,England,25.0,0,16.3,19.7
+744665,2025-09-20T14:00Z,Derby County,Preston North End,0,1,Derby,England,55.0,2.8,13.0,17.4
+744664,2025-09-20T14:00Z,Hull City,Southampton,3,1,Hull,England,8.0,2.2,13.0,13.7
+744660,2025-09-20T14:00Z,Norwich City,Wrexham,2,3,Norwich,England,19.0,0,20.4,21.0
+744669,2025-09-20T14:00Z,Portsmouth,Sheffield Wednesday,0,2,Portsmouth,England,6.0,0.6,22.9,19.3
+744670,2025-09-20T14:00Z,Sheffield United,Charlton Athletic,0,1,Sheffield,England,75.0,2.2,5.1,15.9
+744666,2025-09-21T14:00Z,Bristol City,Oxford United,1,3,Bristol,England,21.0,0,14.7,13.7
+744661,2025-09-22T19:00Z,Millwall,Watford,1,0,London,England,25.0,0,9.0,12.4
+744675,2025-09-26T19:00Z,West Bromwich Albion,Leicester City,1,1,West Bromwich,England,165.0,0,5.2,12.8
+744673,2025-09-27T11:30Z,Coventry City,Birmingham City,3,0,Coventry,England,89.0,0,17.7,14.4
+744677,2025-09-27T11:30Z,Swansea City,Millwall,1,1,Swansea,Wales,18.0,0.6,18.5,13.4
+744674,2025-09-27T11:30Z,Wrexham,Derby County,1,1,Wrexham,Wales,87.0,0,22.6,12.6
+744672,2025-09-27T14:00Z,Charlton Athletic,Blackburn Rovers,3,0,London,England,25.0,0,14.2,17.4
+744681,2025-09-27T14:00Z,Ipswich Town,Portsmouth,2,1,Ipswich,England,18.0,0,16.5,16.1
+744682,2025-09-27T14:00Z,Oxford United,Sheffield United,0,1,Oxford,England,72.0,0,19.0,16.2
+744683,2025-09-27T14:00Z,Preston North End,Bristol City,0,0,Preston,England,34.0,0.1,18.8,14.9
+744680,2025-09-27T14:00Z,Sheffield Wednesday,Queens Park Rangers,1,1,Sheffield,England,75.0,0,17.4,15.0
+744679,2025-09-27T14:00Z,Southampton,Middlesbrough,1,1,Southampton,England,19.0,0,16.7,16.0
+744678,2025-09-27T14:00Z,Stoke City,Norwich City,1,1,Stoke-on-Trent,England,114.0,0,19.7,14.0
+744676,2025-09-27T14:00Z,Watford,Hull City,2,1,Watford,England,77.0,0,17.1,16.5
+744687,2025-09-30T18:45Z,Birmingham City,Sheffield Wednesday,2,2,Birmingham,England,149.0,0,4.0,15.0
+744686,2025-09-30T18:45Z,Blackburn Rovers,Swansea City,1,2,Blackburn,England,121.0,0,6.0,12.8
+744685,2025-09-30T18:45Z,Bristol City,Ipswich Town,1,1,Bristol,England,21.0,0,3.9,12.6
+744690,2025-09-30T18:45Z,Hull City,Preston North End,2,2,Hull,England,8.0,0,6.5,14.1
+744688,2025-09-30T18:45Z,Leicester City,Wrexham,1,1,Leicester,England,65.0,0,4.8,14.3
+744689,2025-09-30T18:45Z,Middlesbrough,Stoke City,0,0,Middlesbrough,England,15.0,0,8.8,14.1
+744691,2025-09-30T18:45Z,Sheffield United,Southampton,1,2,Sheffield,England,75.0,0,4.9,13.3
+744684,2025-09-30T19:00Z,Derby County,Charlton Athletic,1,1,Derby,England,55.0,0,0.9,13.1
+744694,2025-10-01T18:45Z,Millwall,Coventry City,0,4,London,England,25.0,0,8.1,15.4
+744693,2025-10-01T18:45Z,Norwich City,West Bromwich Albion,0,1,Norwich,England,19.0,0,10.8,13.7
+744692,2025-10-01T18:45Z,Portsmouth,Watford,2,2,Portsmouth,England,6.0,0,8.7,14.5
+744695,2025-10-01T19:00Z,Queens Park Rangers,Oxford United,0,0,London,England,25.0,0,8.5,14.7
+744704,2025-10-03T19:00Z,Wrexham,Birmingham City,1,1,Wrexham,Wales,87.0,0.2,36.2,16.4
+744706,2025-10-04T11:30Z,Blackburn Rovers,Stoke City,1,1,Blackburn,England,121.0,3.4,32.2,9.4
+744702,2025-10-04T11:30Z,Hull City,Sheffield United,1,0,Hull,England,8.0,0.1,34.7,10.0
+744697,2025-10-04T11:30Z,Sheffield Wednesday,Coventry City,0,5,Sheffield,England,75.0,1.9,29.8,8.5
+744705,2025-10-04T14:00Z,Bristol City,Queens Park Rangers,1,2,Bristol,England,21.0,0,36.0,12.6
+744703,2025-10-04T14:00Z,Derby County,Southampton,1,1,Derby,England,55.0,0.3,28.0,11.6
+744700,2025-10-04T14:00Z,Millwall,West Bromwich Albion,3,0,London,England,25.0,0,30.2,14.1
+744699,2025-10-04T14:00Z,Portsmouth,Middlesbrough,1,0,Portsmouth,England,6.0,0,40.6,14.5
+744698,2025-10-04T14:00Z,Preston North End,Charlton Athletic,2,0,Preston,England,34.0,0.2,30.1,13.0
+744696,2025-10-04T14:00Z,Swansea City,Leicester City,1,3,Swansea,Wales,18.0,0.1,29.3,12.3
+744707,2025-10-04T14:00Z,Watford,Oxford United,2,1,Watford,England,77.0,0,37.8,12.7
+744701,2025-10-05T11:00Z,Ipswich Town,Norwich City,3,1,Ipswich,England,18.0,0,32.6,14.3
+744715,2025-10-17T19:00Z,Middlesbrough,Ipswich Town,2,1,Middlesbrough,England,15.0,0,4.2,9.6
+744713,2025-10-18T11:30Z,Oxford United,Derby County,1,0,Oxford,England,72.0,0,18.4,14.1
+744714,2025-10-18T11:30Z,Queens Park Rangers,Millwall,1,2,London,England,25.0,0,13.5,14.6
+744710,2025-10-18T11:30Z,Southampton,Swansea City,0,0,Southampton,England,19.0,0,21.5,14.8
+744719,2025-10-18T14:00Z,Birmingham City,Hull City,2,3,Birmingham,England,149.0,0,16.5,13.4
+744718,2025-10-18T14:00Z,Charlton Athletic,Sheffield Wednesday,2,1,London,England,25.0,0,10.3,14.5
+744717,2025-10-18T14:00Z,Coventry City,Blackburn Rovers,2,0,Coventry,England,89.0,0,16.1,13.9
+744712,2025-10-18T14:00Z,Norwich City,Bristol City,0,1,Norwich,England,19.0,0.1,11.8,13.4
+744711,2025-10-18T14:00Z,Sheffield United,Watford,1,0,Sheffield,England,75.0,0,8.4,11.9
+744709,2025-10-18T14:00Z,Stoke City,Wrexham,1,0,Stoke-on-Trent,England,114.0,0,19.5,12.7
+744708,2025-10-18T14:00Z,West Bromwich Albion,Preston North End,2,1,West Bromwich,England,165.0,0,16.4,13.2
+744716,2025-10-18T18:45Z,Leicester City,Portsmouth,1,1,Leicester,England,65.0,0,12.5,11.7
+744721,2025-10-21T18:45Z,Blackburn Rovers,Sheffield United,1,3,Blackburn,England,121.0,0.6,22.7,10.1
+744727,2025-10-21T18:45Z,Derby County,Norwich City,1,0,Derby,England,55.0,0,19.2,11.7
+744724,2025-10-21T18:45Z,Hull City,Leicester City,2,1,Hull,England,8.0,0.2,20.9,12.6
+744723,2025-10-21T18:45Z,Ipswich Town,Charlton Athletic,0,3,Ipswich,England,18.0,0,15.7,13.2
+744722,2025-10-21T18:45Z,Millwall,Stoke City,2,0,London,England,25.0,0,12.5,13.4
+744725,2025-10-21T18:45Z,Portsmouth,Coventry City,1,2,Portsmouth,England,6.0,0,14.6,13.2
+744720,2025-10-21T18:45Z,Preston North End,Birmingham City,0,1,Preston,England,34.0,0,18.3,11.5
+744726,2025-10-21T19:00Z,Bristol City,Southampton,3,1,Bristol,England,21.0,0,14.1,11.6
+744730,2025-10-22T18:45Z,Swansea City,Queens Park Rangers,0,1,Swansea,Wales,18.0,3.1,11.2,10.3
+744729,2025-10-22T18:45Z,Watford,West Bromwich Albion,2,1,Watford,England,77.0,0.1,7.6,11.8
+744728,2025-10-22T18:45Z,Wrexham,Oxford United,1,0,Wrexham,Wales,87.0,0,2.9,8.6
+744731,2025-10-22T19:00Z,Sheffield Wednesday,Middlesbrough,0,1,Sheffield,England,75.0,0,3.8,9.2
+744736,2025-10-24T19:00Z,Preston North End,Sheffield United,3,2,Preston,England,34.0,0.7,11.6,9.2
+744739,2025-10-25T11:30Z,Coventry City,Watford,3,1,Coventry,England,89.0,0.1,19.5,9.6
+744732,2025-10-25T11:30Z,Ipswich Town,West Bromwich Albion,1,0,Ipswich,England,18.0,0,23.0,10.6
+744735,2025-10-25T11:30Z,Portsmouth,Stoke City,0,1,Portsmouth,England,6.0,0.1,19.7,11.6
+744737,2025-10-25T14:00Z,Blackburn Rovers,Southampton,2,1,Blackburn,England,121.0,0,24.3,7.8
+744738,2025-10-25T14:00Z,Bristol City,Birmingham City,1,0,Bristol,England,21.0,0.2,20.9,10.3
+744740,2025-10-25T14:00Z,Derby County,Queens Park Rangers,1,0,Derby,England,55.0,0,24.8,9.3
+744741,2025-10-25T14:00Z,Hull City,Charlton Athletic,1,1,Hull,England,8.0,0,22.2,9.0
+744733,2025-10-25T14:00Z,Middlesbrough,Wrexham,1,1,Middlesbrough,England,15.0,0,23.4,9.0
+744734,2025-10-25T14:00Z,Millwall,Leicester City,1,0,London,England,25.0,0.1,17.4,10.8
+744742,2025-10-25T14:00Z,Sheffield Wednesday,Oxford United,1,2,Sheffield,England,75.0,0,19.2,8.9
+744743,2025-10-25T14:00Z,Swansea City,Norwich City,2,1,Swansea,Wales,18.0,0,23.8,9.3
+744746,2025-10-31T20:00Z,Wrexham,Coventry City,3,2,Wrexham,Wales,87.0,0,19.1,11.0
+744755,2025-11-01T12:30Z,Leicester City,Blackburn Rovers,0,2,Leicester,England,65.0,0,22.4,12.8
+744745,2025-11-01T12:30Z,Norwich City,Hull City,0,2,Norwich,England,19.0,0,28.2,14.7
+744747,2025-11-01T12:30Z,West Bromwich Albion,Sheffield Wednesday,0,0,West Bromwich,England,165.0,0,18.4,12.1
+744753,2025-11-01T15:00Z,Birmingham City,Portsmouth,4,0,Birmingham,England,149.0,0.6,15.9,11.2
+744754,2025-11-01T15:00Z,Charlton Athletic,Swansea City,1,1,London,England,25.0,0.4,15.5,14.2
+744744,2025-11-01T15:00Z,Oxford United,Millwall,2,2,Oxford,England,72.0,1.9,17.2,11.4
+744752,2025-11-01T15:00Z,Queens Park Rangers,Ipswich Town,1,4,London,England,25.0,0.4,15.5,14.2
+744751,2025-11-01T15:00Z,Sheffield United,Derby County,1,3,Sheffield,England,75.0,0,14.9,11.6
+744750,2025-11-01T15:00Z,Southampton,Preston North End,0,2,Southampton,England,19.0,3.1,17.5,11.1
+744749,2025-11-01T15:00Z,Stoke City,Bristol City,5,1,Stoke-on-Trent,England,114.0,0,15.8,10.9
+744748,2025-11-01T15:00Z,Watford,Middlesbrough,3,0,Watford,England,77.0,3.2,15.7,13.2
+744756,2025-11-04T19:45Z,Birmingham City,Millwall,4,0,Birmingham,England,149.0,5.5,18.9,12.5
+744758,2025-11-04T19:45Z,Bristol City,Blackburn Rovers,0,1,Bristol,England,21.0,0.6,27.9,14.7
+744759,2025-11-04T19:45Z,Charlton Athletic,West Bromwich Albion,1,0,London,England,25.0,0,17.0,14.5
+744763,2025-11-04T19:45Z,Derby County,Hull City,2,1,Derby,England,55.0,7.7,18.2,12.9
+744762,2025-11-04T19:45Z,Ipswich Town,Watford,1,1,Ipswich,England,18.0,0.6,23.3,13.4
+744757,2025-11-04T19:45Z,Leicester City,Middlesbrough,1,1,Leicester,England,65.0,3.4,23.0,12.6
+744761,2025-11-04T19:45Z,Oxford United,Stoke City,0,3,Oxford,England,72.0,0.5,23.5,13.6
+744760,2025-11-04T20:00Z,Coventry City,Sheffield United,3,1,Coventry,England,89.0,1.3,22.4,13.4
+744766,2025-11-05T19:45Z,Preston North End,Swansea City,2,1,Preston,England,34.0,0,18.1,14.7
+744767,2025-11-05T19:45Z,Queens Park Rangers,Southampton,1,2,London,England,25.0,0,9.8,15.3
+744764,2025-11-05T19:45Z,Sheffield Wednesday,Norwich City,1,1,Sheffield,England,75.0,0,14.9,14.4
+744765,2025-11-05T20:00Z,Portsmouth,Wrexham,0,0,Portsmouth,England,6.0,0,19.2,15.3
+744776,2025-11-07T20:00Z,Watford,Bristol City,1,1,Watford,England,77.0,0,12.4,11.7
+744772,2025-11-08T12:30Z,Blackburn Rovers,Derby County,1,2,Blackburn,England,121.0,0.3,16.7,11.1
+744771,2025-11-08T12:30Z,Hull City,Portsmouth,3,2,Hull,England,8.0,0,13.3,14.0
+744769,2025-11-08T12:30Z,Millwall,Preston North End,1,1,London,England,25.0,0,10.0,13.0
+744770,2025-11-08T15:00Z,Middlesbrough,Birmingham City,2,1,Middlesbrough,England,15.0,0,13.7,13.8
+744768,2025-11-08T15:00Z,Norwich City,Leicester City,1,2,Norwich,England,19.0,0,10.1,13.5
+744773,2025-11-08T15:00Z,Sheffield United,Queens Park Rangers,0,0,Sheffield,England,75.0,0,9.3,12.7
+744779,2025-11-08T15:00Z,Southampton,Sheffield Wednesday,3,1,Southampton,England,19.0,0,9.0,14.1
+744778,2025-11-08T15:00Z,Stoke City,Coventry City,0,1,Stoke-on-Trent,England,114.0,0,10.6,12.3
+744777,2025-11-08T15:00Z,Swansea City,Ipswich Town,1,4,Swansea,Wales,18.0,0.1,11.5,12.9
+744775,2025-11-08T15:00Z,West Bromwich Albion,Oxford United,2,1,West Bromwich,England,165.0,0,8.6,12.6
+744774,2025-11-08T15:00Z,Wrexham,Charlton Athletic,1,0,Wrexham,Wales,87.0,0,8.7,12.2
+744784,2025-11-21T20:00Z,Preston North End,Blackburn Rovers,1,2,Preston,England,34.0,0,15.4,2.7
+744781,2025-11-22T12:30Z,Bristol City,Swansea City,3,0,Bristol,England,21.0,2.1,26.6,9.0
+744791,2025-11-22T12:30Z,Charlton Athletic,Southampton,1,5,London,England,25.0,0.7,18.8,7.8
+744790,2025-11-22T12:30Z,Coventry City,West Bromwich Albion,3,2,Coventry,England,89.0,3.5,23.9,7.3
+744780,2025-11-22T15:00Z,Birmingham City,Norwich City,4,1,Birmingham,England,149.0,0.1,15.7,7.8
+744789,2025-11-22T15:00Z,Derby County,Watford,2,3,Derby,England,55.0,0.1,9.7,7.3
+744788,2025-11-22T15:00Z,Ipswich Town,Wrexham,0,0,Ipswich,England,18.0,0.5,23.0,6.9
+744787,2025-11-22T15:00Z,Leicester City,Stoke City,2,1,Leicester,England,65.0,1.1,16.6,7.2
+744786,2025-11-22T15:00Z,Oxford United,Middlesbrough,1,1,Oxford,England,72.0,1.0,24.3,7.8
+744785,2025-11-22T15:00Z,Portsmouth,Millwall,3,1,Portsmouth,England,6.0,2.9,32.5,8.3
+744783,2025-11-22T15:00Z,Queens Park Rangers,Hull City,3,2,London,England,25.0,1.6,17.0,7.5
+744782,2025-11-23T12:00Z,Sheffield Wednesday,Sheffield United,0,3,Sheffield,England,75.0,0.2,21.4,7.5
+744796,2025-11-25T19:45Z,Hull City,Ipswich Town,0,2,Hull,England,8.0,0,11.1,3.9
+744792,2025-11-25T19:45Z,Middlesbrough,Coventry City,2,4,Middlesbrough,England,15.0,0,11.8,4.4
+744803,2025-11-25T19:45Z,Norwich City,Oxford United,1,1,Norwich,England,19.0,0,13.3,4.3
+744797,2025-11-25T19:45Z,Stoke City,Charlton Athletic,3,0,Stoke-on-Trent,England,114.0,0,11.5,1.2
+744798,2025-11-25T19:45Z,Swansea City,Derby County,1,2,Swansea,Wales,18.0,0,9.2,3.8
+744795,2025-11-25T19:45Z,Watford,Preston North End,1,1,Watford,England,77.0,0,14.0,4.0
+744799,2025-11-25T20:00Z,Southampton,Leicester City,3,0,Southampton,England,19.0,0,13.5,2.9
+744802,2025-11-26T19:45Z,Blackburn Rovers,Queens Park Rangers,0,1,Blackburn,England,121.0,0.6,24.2,5.2
+744793,2025-11-26T19:45Z,Millwall,Sheffield Wednesday,1,0,London,England,25.0,0,11.8,6.0
+744794,2025-11-26T19:45Z,Sheffield United,Portsmouth,3,0,Sheffield,England,75.0,0,18.6,6.0
+744801,2025-11-26T19:45Z,Wrexham,Bristol City,2,0,Wrexham,Wales,87.0,0.1,18.7,8.3
+744800,2025-11-26T20:00Z,West Bromwich Albion,Birmingham City,1,1,West Bromwich,England,165.0,0.4,19.8,7.0
+744806,2025-11-28T20:00Z,Oxford United,Ipswich Town,2,1,Oxford,England,72.0,0,13.7,8.3
+744814,2025-11-29T12:30Z,Leicester City,Sheffield United,2,3,Leicester,England,65.0,0.3,16.5,6.4
+744807,2025-11-29T12:30Z,Portsmouth,Bristol City,0,1,Portsmouth,England,6.0,0.7,21.7,9.4
+744809,2025-11-29T12:30Z,Stoke City,Hull City,1,2,Stoke-on-Trent,England,114.0,0.4,7.7,5.7
+744813,2025-11-29T15:00Z,Coventry City,Charlton Athletic,3,1,Coventry,England,89.0,0,12.3,6.7
+744815,2025-11-29T15:00Z,Middlesbrough,Derby County,2,1,Middlesbrough,England,15.0,2.3,14.1,5.6
+744804,2025-11-29T15:00Z,Millwall,Southampton,3,2,London,England,25.0,0,12.9,8.2
+744805,2025-11-29T15:00Z,Norwich City,Queens Park Rangers,3,1,Norwich,England,19.0,0.4,26.7,10.1
+744808,2025-11-29T15:00Z,Sheffield Wednesday,Preston North End,2,3,Sheffield,England,75.0,0.5,12.5,5.1
+744810,2025-11-29T15:00Z,West Bromwich Albion,Swansea City,3,2,West Bromwich,England,165.0,0.6,12.2,5.5
+744811,2025-11-29T15:00Z,Wrexham,Blackburn Rovers,1,1,Wrexham,Wales,87.0,1.0,12.7,5.7
+744812,2025-12-01T20:00Z,Birmingham City,Watford,2,1,Birmingham,England,149.0,2.0,21.4,10.4
+744667,2025-12-02T19:45Z,Blackburn Rovers,Ipswich Town,1,1,Blackburn,England,121.0,0.3,13.3,5.1
+744820,2025-12-05T20:15Z,Hull City,Middlesbrough,1,4,Hull,England,8.0,4.1,29.7,6.1
+744819,2025-12-06T12:30Z,Derby County,Leicester City,1,3,Derby,England,55.0,0.1,21.7,10.5
+744827,2025-12-06T12:30Z,Watford,Norwich City,3,2,Watford,England,77.0,0.1,22.4,11.4
+744817,2025-12-06T15:00Z,Bristol City,Millwall,0,1,Bristol,England,21.0,1.2,32.3,9.9
+744821,2025-12-06T15:00Z,Ipswich Town,Coventry City,3,0,Ipswich,England,18.0,0,22.9,11.0
+744822,2025-12-06T15:00Z,Preston North End,Wrexham,1,1,Preston,England,34.0,1.9,15.5,9.2
+744823,2025-12-06T15:00Z,Queens Park Rangers,West Bromwich Albion,3,1,London,England,25.0,0.3,19.2,11.5
+744824,2025-12-06T15:00Z,Sheffield United,Stoke City,4,0,Sheffield,England,75.0,0.1,15.2,10.1
+744825,2025-12-06T15:00Z,Southampton,Birmingham City,3,1,Southampton,England,19.0,0.1,21.6,11.5
+744826,2025-12-06T15:00Z,Swansea City,Oxford United,2,0,Swansea,Wales,18.0,0.2,32.0,10.9
+744832,2025-12-09T19:45Z,Blackburn Rovers,Oxford United,1,1,Blackburn,England,121.0,0.1,31.3,10.9
+744831,2025-12-09T19:45Z,Charlton Athletic,Middlesbrough,1,2,London,England,25.0,0,22.2,13.7
+744828,2025-12-09T19:45Z,Preston North End,Coventry City,1,1,Preston,England,34.0,0,33.5,12.3
+744830,2025-12-09T19:45Z,Sheffield United,Norwich City,1,1,Sheffield,England,75.0,0,29.1,12.3
+744833,2025-12-09T19:45Z,Southampton,West Bromwich Albion,3,2,Southampton,England,19.0,0,22.4,12.8
+744834,2025-12-09T19:45Z,Swansea City,Portsmouth,1,0,Swansea,Wales,18.0,0.2,29.3,11.4
+744835,2025-12-09T19:45Z,Watford,Sheffield Wednesday,1,1,Watford,England,77.0,0,25.8,12.9
+744829,2025-12-09T20:00Z,Queens Park Rangers,Birmingham City,2,1,London,England,25.0,0,20.2,13.1
+744838,2025-12-10T19:45Z,Bristol City,Leicester City,2,2,Bristol,England,21.0,0,16.3,8.9
+744837,2025-12-10T19:45Z,Derby County,Millwall,1,1,Derby,England,55.0,0,20.6,9.0
+744839,2025-12-10T19:45Z,Ipswich Town,Stoke City,1,0,Ipswich,England,18.0,0,16.6,9.1
+744836,2025-12-10T20:00Z,Hull City,Wrexham,2,0,Hull,England,8.0,0,18.5,9.2
+744850,2025-12-12T20:00Z,West Bromwich Albion,Sheffield United,2,0,West Bromwich,England,165.0,0,10.7,5.5
+744851,2025-12-13T12:30Z,Norwich City,Southampton,2,1,Norwich,England,19.0,0,9.9,7.8
+744846,2025-12-13T12:30Z,Oxford United,Preston North End,1,2,Oxford,England,72.0,0,7.1,7.3
+744849,2025-12-13T12:30Z,Stoke City,Swansea City,2,1,Stoke-on-Trent,England,114.0,0,18.0,6.8
+744840,2025-12-13T15:00Z,Birmingham City,Charlton Athletic,1,1,Birmingham,England,149.0,0,17.2,7.4
+744841,2025-12-13T15:00Z,Coventry City,Bristol City,1,0,Coventry,England,89.0,0,17.9,7.6
+744842,2025-12-13T15:00Z,Leicester City,Ipswich Town,3,1,Leicester,England,65.0,0,17.0,7.3
+744843,2025-12-13T15:00Z,Middlesbrough,Queens Park Rangers,3,1,Middlesbrough,England,15.0,0,28.6,8.0
+744844,2025-12-13T15:00Z,Millwall,Hull City,1,3,London,England,25.0,0,8.1,8.8
+744847,2025-12-13T15:00Z,Portsmouth,Blackburn Rovers,2,1,Portsmouth,England,6.0,0,6.6,8.0
+744845,2025-12-13T15:00Z,Wrexham,Watford,2,2,Wrexham,Wales,87.0,0,22.1,9.0
+744848,2025-12-15T20:00Z,Sheffield Wednesday,Derby County,0,3,Sheffield,England,75.0,0.8,6.7,8.9

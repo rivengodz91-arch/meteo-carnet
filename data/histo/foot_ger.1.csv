@@ -638,3 +638,102 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 746741,2025-09-13T16:30Z,Bayern Munich,Hamburg SV,5,0,München,Germany,524.0,0.1,7.1,18.7
 746742,2025-09-14T13:30Z,St. Pauli,FC Augsburg,2,1,Hamburg Norderstedt,Germany,,,,
 746740,2025-09-14T15:30Z,Borussia Mönchengladbach,Werder Bremen,0,4,Mönchengladbach,Germany,57.0,0,13.9,18.0
+746753,2025-09-19T18:30Z,VfB Stuttgart,St. Pauli,2,0,Stuttgart,Germany,252.0,0,4.8,20.1
+746748,2025-09-20T13:30Z,FC Augsburg,Mainz,1,4,Augsburg,Germany,489.0,0,1.8,28.9
+746749,2025-09-20T13:30Z,Hamburg SV,1. FC Heidenheim 1846,2,1,Hamburg Norderstedt,Germany,,,,
+746752,2025-09-20T13:30Z,TSG Hoffenheim,Bayern Munich,1,4,Sinsheim,Germany,162.0,0,4.9,28.6
+746751,2025-09-20T13:30Z,Werder Bremen,SC Freiburg,0,3,Bremen,Germany,17.0,0,9.8,27.1
+746750,2025-09-20T16:30Z,RB Leipzig,FC Cologne,3,1,Leipzig,Germany,116.0,0,11.8,26.9
+746747,2025-09-21T13:30Z,Eintracht Frankfurt,1. FC Union Berlin,3,4,Frankfurt,Germany,113.0,0.7,12.7,19.3
+746745,2025-09-21T15:30Z,Bayer Leverkusen,Borussia Mönchengladbach,1,1,Leverkusen,Germany,52.0,0,12.9,15.4
+746746,2025-09-21T17:30Z,Borussia Dortmund,VfL Wolfsburg,1,0,Aue,Germany,399.0,0.7,16.6,19.5
+746759,2025-09-26T18:30Z,Bayern Munich,Werder Bremen,4,0,München,Germany,524.0,0,6.9,13.1
+746754,2025-09-27T13:30Z,1. FC Heidenheim 1846,FC Augsburg,2,1,Heidenheim,Germany,494.0,0,8.5,13.4
+746757,2025-09-27T13:30Z,Mainz,Borussia Dortmund,0,2,Mainz,Germany,125.0,0,3.1,16.4
+746760,2025-09-27T13:30Z,St. Pauli,Bayer Leverkusen,1,2,Hamburg Norderstedt,Germany,,,,
+746761,2025-09-27T13:30Z,VfL Wolfsburg,RB Leipzig,0,1,Wolfsburg,Germany,65.0,0.1,10.5,17.0
+746762,2025-09-27T16:30Z,Borussia Mönchengladbach,Eintracht Frankfurt,4,6,Mönchengladbach,Germany,57.0,0,4.8,16.6
+746758,2025-09-28T13:30Z,SC Freiburg,TSG Hoffenheim,1,1,Freiburg im Breisgau,Germany,278.0,0,7.6,15.8
+746755,2025-09-28T15:30Z,FC Cologne,VfB Stuttgart,1,2,Cologne,Germany,58.0,0,3.5,18.2
+746756,2025-09-28T17:30Z,1. FC Union Berlin,Hamburg SV,0,0,Berlin,Germany,74.0,0,8.8,13.8
+746771,2025-10-03T18:30Z,TSG Hoffenheim,FC Cologne,0,1,Sinsheim,Germany,162.0,0,7.8,11.0
+746766,2025-10-04T13:30Z,Bayer Leverkusen,1. FC Union Berlin,2,0,Leverkusen,Germany,52.0,0.1,23.7,14.3
+746765,2025-10-04T13:30Z,Borussia Dortmund,RB Leipzig,1,1,Aue,Germany,399.0,4.2,32.6,13.0
+746767,2025-10-04T13:30Z,FC Augsburg,VfL Wolfsburg,3,1,Augsburg,Germany,489.0,0,23.2,19.3
+746769,2025-10-04T13:30Z,Werder Bremen,St. Pauli,1,0,Bremen,Germany,17.0,1.5,29.4,11.6
+746763,2025-10-04T16:30Z,Eintracht Frankfurt,Bayern Munich,0,3,Frankfurt,Germany,113.0,0,21.3,13.4
+746770,2025-10-05T13:30Z,VfB Stuttgart,1. FC Heidenheim 1846,1,0,Stuttgart,Germany,252.0,0.5,23.9,11.8
+746768,2025-10-05T15:30Z,Hamburg SV,Mainz,4,0,Hamburg Norderstedt,Germany,,,,
+746764,2025-10-05T17:30Z,Borussia Mönchengladbach,SC Freiburg,0,0,Mönchengladbach,Germany,57.0,0,18.1,12.6
+746779,2025-10-17T18:30Z,1. FC Union Berlin,Borussia Mönchengladbach,3,1,Berlin,Germany,74.0,0.1,9.9,10.2
+746777,2025-10-18T13:30Z,1. FC Heidenheim 1846,Werder Bremen,2,2,Heidenheim,Germany,494.0,0,8.2,11.2
+746780,2025-10-18T13:30Z,FC Cologne,FC Augsburg,1,1,Cologne,Germany,58.0,0,7.8,13.1
+746778,2025-10-18T13:30Z,Mainz,Bayer Leverkusen,3,4,Mainz,Germany,125.0,0,8.2,14.1
+746773,2025-10-18T13:30Z,RB Leipzig,Hamburg SV,2,1,Leipzig,Germany,116.0,0,5.1,9.7
+746775,2025-10-18T13:30Z,VfL Wolfsburg,VfB Stuttgart,0,3,Wolfsburg,Germany,65.0,0,2.8,10.1
+746776,2025-10-18T16:30Z,Bayern Munich,Borussia Dortmund,2,1,München,Germany,524.0,0,7.1,9.7
+746774,2025-10-19T13:30Z,SC Freiburg,Eintracht Frankfurt,2,2,Freiburg im Breisgau,Germany,278.0,0,2.5,16.4
+746772,2025-10-19T15:30Z,St. Pauli,TSG Hoffenheim,0,3,Hamburg Norderstedt,Germany,,,,
+746781,2025-10-24T18:30Z,Werder Bremen,1. FC Union Berlin,1,0,Bremen,Germany,17.0,0,25.5,9.2
+746784,2025-10-25T13:30Z,Eintracht Frankfurt,St. Pauli,2,0,Frankfurt,Germany,113.0,0.8,21.9,10.9
+746783,2025-10-25T13:30Z,FC Augsburg,RB Leipzig,0,6,Augsburg,Germany,489.0,1.3,25.1,10.3
+746782,2025-10-25T13:30Z,Hamburg SV,VfL Wolfsburg,0,1,Hamburg Norderstedt,Germany,,,,
+746789,2025-10-25T13:30Z,TSG Hoffenheim,1. FC Heidenheim 1846,3,1,Sinsheim,Germany,162.0,0,29.2,11.6
+746785,2025-10-25T13:45Z,Borussia Mönchengladbach,Bayern Munich,0,3,Mönchengladbach,Germany,57.0,4.0,27.8,10.3
+746787,2025-10-25T16:30Z,Borussia Dortmund,FC Cologne,1,0,Aue,Germany,399.0,0,23.4,7.5
+746786,2025-10-26T14:30Z,Bayer Leverkusen,SC Freiburg,2,0,Leverkusen,Germany,52.0,0,23.3,9.5
+746788,2025-10-26T16:30Z,VfB Stuttgart,Mainz,2,1,Stuttgart,Germany,252.0,0,13.4,7.1
+746791,2025-10-31T19:30Z,FC Augsburg,Borussia Dortmund,0,1,Augsburg,Germany,489.0,0,8.7,8.5
+746797,2025-11-01T14:30Z,1. FC Heidenheim 1846,Eintracht Frankfurt,1,1,Heidenheim,Germany,494.0,0.2,9.4,12.3
+746794,2025-11-01T14:30Z,1. FC Union Berlin,SC Freiburg,0,0,Berlin,Germany,74.0,0.1,9.9,14.8
+746790,2025-11-01T14:30Z,Mainz,Werder Bremen,1,1,Mainz,Germany,125.0,0.6,11.0,13.1
+746798,2025-11-01T14:30Z,RB Leipzig,VfB Stuttgart,3,1,Leipzig,Germany,116.0,0.1,10.9,15.1
+746793,2025-11-01T14:30Z,St. Pauli,Borussia Mönchengladbach,0,4,Hamburg Norderstedt,Germany,,,,
+746792,2025-11-01T17:30Z,Bayern Munich,Bayer Leverkusen,3,0,München,Germany,524.0,0,8.0,13.6
+746796,2025-11-02T14:30Z,FC Cologne,Hamburg SV,4,1,Cologne,Germany,58.0,0.4,6.0,13.6
+746795,2025-11-02T16:30Z,VfL Wolfsburg,TSG Hoffenheim,2,3,Wolfsburg,Germany,65.0,0,7.5,10.7
+746804,2025-11-07T19:30Z,Werder Bremen,VfL Wolfsburg,2,1,Bremen,Germany,17.0,0,7.1,9.8
+746806,2025-11-08T14:30Z,1. FC Union Berlin,Bayern Munich,2,2,Berlin,Germany,74.0,0,4.4,7.8
+746799,2025-11-08T14:30Z,Bayer Leverkusen,1. FC Heidenheim 1846,6,0,Leverkusen,Germany,52.0,0,3.8,11.2
+746807,2025-11-08T14:30Z,Hamburg SV,Borussia Dortmund,1,1,Hamburg Norderstedt,Germany,,,,
+746805,2025-11-08T14:30Z,TSG Hoffenheim,RB Leipzig,3,1,Sinsheim,Germany,162.0,0,4.0,6.1
+746800,2025-11-08T17:30Z,Borussia Mönchengladbach,FC Cologne,3,1,Mönchengladbach,Germany,57.0,0,5.5,9.5
+746803,2025-11-09T14:30Z,SC Freiburg,St. Pauli,2,1,Freiburg im Breisgau,Germany,278.0,0.2,2.4,11.1
+746802,2025-11-09T16:30Z,VfB Stuttgart,FC Augsburg,3,2,Stuttgart,Germany,252.0,0.4,8.6,8.4
+746801,2025-11-09T18:30Z,Eintracht Frankfurt,Mainz,1,0,Frankfurt,Germany,113.0,0,6.8,7.9
+746816,2025-11-21T19:30Z,Mainz,TSG Hoffenheim,1,1,Mainz,Germany,125.0,0,5.0,-2.9
+746808,2025-11-22T14:30Z,1. FC Heidenheim 1846,Borussia Mönchengladbach,0,3,Heidenheim,Germany,494.0,0,2.3,-0.6
+746813,2025-11-22T14:30Z,Bayern Munich,SC Freiburg,6,2,München,Germany,524.0,0,4.8,-2.6
+746815,2025-11-22T14:30Z,Borussia Dortmund,VfB Stuttgart,3,3,Aue,Germany,399.0,0,1.0,-2.9
+746814,2025-11-22T14:30Z,FC Augsburg,Hamburg SV,1,0,Augsburg,Germany,489.0,0,2.7,-1.6
+746810,2025-11-22T14:30Z,VfL Wolfsburg,Bayer Leverkusen,1,3,Wolfsburg,Germany,65.0,0,11.1,2.3
+746809,2025-11-22T17:30Z,FC Cologne,Eintracht Frankfurt,3,4,Cologne,Germany,58.0,0,11.2,0.4
+746811,2025-11-23T14:30Z,RB Leipzig,Werder Bremen,2,0,Leipzig,Germany,116.0,0,9.7,0.8
+746812,2025-11-23T16:30Z,St. Pauli,1. FC Union Berlin,0,1,Hamburg Norderstedt,Germany,,,,
+746817,2025-11-28T19:30Z,Borussia Mönchengladbach,RB Leipzig,0,0,Mönchengladbach,Germany,57.0,0,15.6,8.9
+746823,2025-11-29T14:30Z,1. FC Union Berlin,1. FC Heidenheim 1846,1,2,Berlin,Germany,74.0,0,8.3,7.5
+746818,2025-11-29T14:30Z,Bayern Munich,St. Pauli,3,1,München,Germany,524.0,0,7.6,4.1
+746821,2025-11-29T14:30Z,TSG Hoffenheim,FC Augsburg,3,0,Sinsheim,Germany,162.0,0,7.7,8.5
+746820,2025-11-29T14:30Z,Werder Bremen,FC Cologne,1,1,Bremen,Germany,17.0,0,13.8,9.4
+746824,2025-11-29T17:30Z,Bayer Leverkusen,Borussia Dortmund,1,2,Leverkusen,Germany,52.0,0,16.7,10.2
+746825,2025-11-30T14:30Z,Hamburg SV,VfB Stuttgart,2,1,Hamburg Norderstedt,Germany,,,,
+746822,2025-11-30T16:30Z,Eintracht Frankfurt,VfL Wolfsburg,1,1,Frankfurt,Germany,113.0,0.2,8.7,6.7
+746819,2025-11-30T18:30Z,SC Freiburg,Mainz,4,0,Freiburg im Breisgau,Germany,278.0,0.6,3.3,5.6
+746832,2025-12-05T19:30Z,Mainz,Borussia Mönchengladbach,0,1,Mainz,Germany,125.0,0,5.2,2.0
+746830,2025-12-06T14:30Z,1. FC Heidenheim 1846,SC Freiburg,2,1,Heidenheim,Germany,494.0,0,14.9,6.0
+746834,2025-12-06T14:30Z,FC Augsburg,Bayer Leverkusen,2,0,Augsburg,Germany,489.0,0,14.8,5.2
+746833,2025-12-06T14:30Z,FC Cologne,St. Pauli,1,1,Cologne,Germany,58.0,2.7,13.9,9.4
+746828,2025-12-06T14:30Z,VfB Stuttgart,Bayern Munich,0,5,Stuttgart,Germany,252.0,0,15.1,9.5
+746827,2025-12-06T14:30Z,VfL Wolfsburg,1. FC Union Berlin,3,1,Wolfsburg,Germany,65.0,0,13.0,6.3
+746829,2025-12-06T17:30Z,RB Leipzig,Eintracht Frankfurt,6,0,Leipzig,Germany,116.0,0,14.9,4.8
+746826,2025-12-07T14:30Z,Hamburg SV,Werder Bremen,3,2,Hamburg Norderstedt,Germany,,,,
+746831,2025-12-07T16:30Z,Borussia Dortmund,TSG Hoffenheim,2,0,Aue,Germany,399.0,0,13.5,6.8
+746838,2025-12-12T19:30Z,1. FC Union Berlin,RB Leipzig,3,1,Berlin,Germany,74.0,0,6.4,4.8
+746836,2025-12-13T14:30Z,Borussia Mönchengladbach,VfL Wolfsburg,1,3,Mönchengladbach,Germany,57.0,0,6.9,8.5
+746841,2025-12-13T14:30Z,Eintracht Frankfurt,FC Augsburg,1,0,Frankfurt,Germany,113.0,0,3.6,5.7
+746835,2025-12-13T14:30Z,St. Pauli,1. FC Heidenheim 1846,2,1,Hamburg Norderstedt,Germany,,,,
+746839,2025-12-13T14:30Z,TSG Hoffenheim,Hamburg SV,4,1,Sinsheim,Germany,162.0,0,2.3,5.5
+746837,2025-12-13T17:30Z,Bayer Leverkusen,FC Cologne,2,0,Leverkusen,Germany,52.0,0,6.3,7.5
+746842,2025-12-14T14:30Z,SC Freiburg,Borussia Dortmund,1,1,Freiburg im Breisgau,Germany,278.0,0,2.7,4.7
+746840,2025-12-14T16:30Z,Bayern Munich,Mainz,2,2,München,Germany,524.0,0,4.5,1.8
+746843,2025-12-14T18:30Z,Werder Bremen,VfB Stuttgart,0,4,Bremen,Germany,17.0,0,15.3,6.9

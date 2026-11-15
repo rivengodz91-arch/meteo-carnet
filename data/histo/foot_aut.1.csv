@@ -424,3 +424,70 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 747364,2025-09-14T12:30Z,Rapid Vienna,WSG Swarovski Tirol,4,1,Wien,Austria,876.0,0.3,24.7,12.5
 747365,2025-09-14T12:30Z,SV Josko Ried,TSV Hartberg,0,2,Ried,Austria,468.0,0.1,21.0,17.7
 747363,2025-09-14T15:00Z,SK Sturm Graz,Austria Vienna,0,1,Graz,Austria,362.0,0,7.2,20.8
+747368,2025-09-20T15:00Z,Austria Vienna,SV Josko Ried,3,2,Wien,Austria,876.0,0,5.6,24.5
+747367,2025-09-20T15:00Z,RB Salzburg,SK Sturm Graz,0,2,Salzburg,Austria,424.0,0,5.5,26.4
+747371,2025-09-20T15:00Z,TSV Hartberg,Wolfsberger,2,2,Maria Enzersdorf,Austria,223.0,0,21.7,27.7
+747370,2025-09-21T12:30Z,LASK Linz,FC Blau-Weiß Linz,2,0,Linz,Austria,266.0,0,3.6,24.5
+747366,2025-09-21T12:30Z,SC Rheindorf Altach,WSG Swarovski Tirol,1,1,Altach,Austria,413.0,0,6.7,23.1
+747369,2025-09-21T15:00Z,Grazer AK,Rapid Vienna,1,1,Graz,Austria,362.0,0,7.5,25.3
+747372,2025-09-27T15:00Z,FC Blau-Weiß Linz,SC Rheindorf Altach,1,0,Linz,Austria,266.0,0,12.7,19.7
+747376,2025-09-27T15:00Z,SV Josko Ried,Grazer AK,0,0,Ried,Austria,468.0,0.4,9.5,16.4
+747373,2025-09-27T15:00Z,Wolfsberger,LASK Linz,1,0,Wolfsberg,Austria,461.0,0,5.8,16.3
+747374,2025-09-28T12:30Z,SK Sturm Graz,TSV Hartberg,1,0,Graz,Austria,362.0,0,4.0,17.8
+747377,2025-09-28T12:30Z,WSG Swarovski Tirol,RB Salzburg,1,2,Innsbruck,Austria,570.0,0,3.7,18.6
+747375,2025-09-28T15:00Z,Rapid Vienna,Austria Vienna,1,3,Wien,Austria,876.0,0,8.7,13.8
+747380,2025-10-04T15:00Z,Austria Vienna,FC Blau-Weiß Linz,0,1,Wien,Austria,876.0,0,18.4,9.2
+747381,2025-10-04T15:00Z,Grazer AK,Wolfsberger,1,3,Graz,Austria,362.0,0,3.8,9.1
+747383,2025-10-04T15:00Z,SV Josko Ried,WSG Swarovski Tirol,2,0,Ried,Austria,468.0,0,10.8,17.1
+747382,2025-10-05T12:30Z,LASK Linz,TSV Hartberg,3,3,Linz,Austria,266.0,0.1,22.5,12.3
+747378,2025-10-05T12:30Z,SC Rheindorf Altach,SK Sturm Graz,0,2,Altach,Austria,413.0,1.0,14.1,11.9
+747379,2025-10-05T15:00Z,RB Salzburg,Rapid Vienna,2,1,Salzburg,Austria,424.0,1.9,9.8,8.9
+747386,2025-10-18T15:00Z,Grazer AK,TSV Hartberg,0,0,Graz,Austria,362.0,0,8.0,12.8
+747387,2025-10-18T15:00Z,Wolfsberger,SV Josko Ried,1,2,Wolfsberg,Austria,461.0,0,2.6,13.6
+747389,2025-10-18T15:00Z,WSG Swarovski Tirol,Austria Vienna,2,3,Innsbruck,Austria,570.0,0,2.2,15.1
+747384,2025-10-19T12:30Z,FC Blau-Weiß Linz,SK Sturm Graz,3,4,Linz,Austria,266.0,0,14.4,11.4
+747385,2025-10-19T12:30Z,RB Salzburg,SC Rheindorf Altach,2,2,Salzburg,Austria,424.0,0,4.5,12.1
+747388,2025-10-19T15:00Z,Rapid Vienna,LASK Linz,0,2,Wien,Austria,876.0,0,9.0,5.9
+747392,2025-10-25T15:00Z,LASK Linz,Grazer AK,1,0,Linz,Austria,266.0,2.9,20.7,7.8
+747390,2025-10-25T15:00Z,SC Rheindorf Altach,TSV Hartberg,2,2,Altach,Austria,413.0,7.5,2.3,7.1
+747395,2025-10-25T15:00Z,WSG Swarovski Tirol,FC Blau-Weiß Linz,2,0,Innsbruck,Austria,570.0,0,6.7,11.4
+747393,2025-10-26T13:30Z,SK Sturm Graz,Wolfsberger,1,3,Graz,Austria,362.0,1.9,7.2,11.4
+747394,2025-10-26T13:30Z,SV Josko Ried,Rapid Vienna,0,2,Ried,Austria,468.0,0,24.1,7.9
+747391,2025-10-26T16:00Z,Austria Vienna,RB Salzburg,0,3,Wien,Austria,876.0,0,22.4,3.4
+747396,2025-11-01T16:00Z,FC Blau-Weiß Linz,LASK Linz,0,1,Linz,Austria,266.0,0,0.9,11.3
+747398,2025-11-01T16:00Z,Grazer AK,SC Rheindorf Altach,3,1,Graz,Austria,362.0,0,1.7,13.8
+747401,2025-11-01T16:00Z,TSV Hartberg,Austria Vienna,2,1,Maria Enzersdorf,Austria,223.0,0,10.9,15.8
+747397,2025-11-02T13:30Z,RB Salzburg,SV Josko Ried,4,1,Salzburg,Austria,424.0,1.1,8.4,12.2
+747399,2025-11-02T13:30Z,Wolfsberger,WSG Swarovski Tirol,0,0,Wolfsberg,Austria,461.0,0,4.9,17.1
+747400,2025-11-02T16:00Z,Rapid Vienna,SK Sturm Graz,2,1,Wien,Austria,876.0,1.4,8.4,8.5
+747402,2025-11-08T16:00Z,Austria Vienna,Grazer AK,2,1,Wien,Austria,876.0,0,7.7,2.5
+747406,2025-11-08T16:00Z,SV Josko Ried,FC Blau-Weiß Linz,2,1,Ried,Austria,468.0,0,7.9,3.4
+747404,2025-11-08T16:00Z,Wolfsberger,TSV Hartberg,1,2,Wolfsberg,Austria,461.0,0,0.6,7.2
+747403,2025-11-09T13:30Z,LASK Linz,SC Rheindorf Altach,1,0,Linz,Austria,266.0,0.2,5.5,6.7
+747407,2025-11-09T13:30Z,WSG Swarovski Tirol,Rapid Vienna,1,1,Innsbruck,Austria,570.0,0,1.9,11.9
+747405,2025-11-09T16:00Z,SK Sturm Graz,RB Salzburg,1,1,Graz,Austria,362.0,0,4.9,6.8
+747409,2025-11-22T16:00Z,FC Blau-Weiß Linz,Austria Vienna,2,3,Linz,Austria,266.0,0,1.3,-2.3
+747408,2025-11-22T16:00Z,SC Rheindorf Altach,Wolfsberger,3,1,Altach,Austria,413.0,0,3.1,-1.8
+747413,2025-11-22T16:00Z,TSV Hartberg,SV Josko Ried,2,0,Hartberg,Austria,396.0,0.1,7.3,-0.7
+747410,2025-11-23T13:30Z,RB Salzburg,WSG Swarovski Tirol,2,3,Salzburg,Austria,424.0,0,3.8,2.1
+747411,2025-11-23T13:30Z,SK Sturm Graz,LASK Linz,1,3,Graz,Austria,362.0,0,4.4,0.4
+747412,2025-11-23T16:00Z,Rapid Vienna,Grazer AK,1,2,Wien,Austria,876.0,0,5.5,-7.9
+747415,2025-11-29T16:00Z,Austria Vienna,WSG Swarovski Tirol,0,0,Wien,Austria,876.0,0,4.2,0.5
+747416,2025-11-29T16:00Z,Grazer AK,FC Blau-Weiß Linz,3,1,Graz,Austria,362.0,0,0.3,1.2
+747418,2025-11-29T16:00Z,SV Josko Ried,Wolfsberger,1,0,Ried,Austria,468.0,0,4.8,2.4
+747414,2025-11-30T13:30Z,SC Rheindorf Altach,RB Salzburg,1,1,Altach,Austria,413.0,0.2,2.2,6.5
+747419,2025-11-30T13:30Z,TSV Hartberg,SK Sturm Graz,0,1,Hartberg,Austria,396.0,0,0.8,7.1
+747417,2025-11-30T16:00Z,LASK Linz,Rapid Vienna,3,0,Linz,Austria,266.0,0,6.8,0.5
+747350,2025-12-03T19:30Z,SK Sturm Graz,WSG Swarovski Tirol,1,3,Graz,Austria,362.0,0,2.4,0.4
+747420,2025-12-06T16:00Z,FC Blau-Weiß Linz,RB Salzburg,0,2,Linz,Austria,266.0,0,3.4,1.8
+747423,2025-12-06T16:00Z,Rapid Vienna,SV Josko Ried,1,2,Wien,Austria,876.0,0,6.5,1.8
+747424,2025-12-06T16:00Z,TSV Hartberg,LASK Linz,2,2,Hartberg,Austria,396.0,0,2.8,4.9
+747421,2025-12-07T13:30Z,Wolfsberger,Austria Vienna,2,1,Wolfsberg,Austria,461.0,0,3.7,7.0
+747425,2025-12-07T13:30Z,WSG Swarovski Tirol,SC Rheindorf Altach,0,3,Innsbruck,Austria,570.0,0,5.2,8.4
+747422,2025-12-07T16:00Z,SK Sturm Graz,Grazer AK,2,1,Graz,Austria,362.0,0,1.7,2.6
+747429,2025-12-13T16:00Z,Grazer AK,LASK Linz,1,2,Graz,Austria,362.0,0,6.2,-2.0
+747430,2025-12-13T16:00Z,SV Josko Ried,SC Rheindorf Altach,3,0,Ried,Austria,468.0,0,4.2,0.1
+747431,2025-12-13T16:00Z,TSV Hartberg,WSG Swarovski Tirol,2,1,Hartberg,Austria,396.0,0,1.0,-1.9
+747426,2025-12-14T13:30Z,FC Blau-Weiß Linz,Rapid Vienna,1,1,Linz,Austria,266.0,0,1.8,1.7
+747427,2025-12-14T13:30Z,RB Salzburg,Wolfsberger,2,1,Salzburg,Austria,424.0,0,6.9,4.1
+747428,2025-12-14T16:00Z,Austria Vienna,SK Sturm Graz,3,1,Wien,Austria,876.0,0,3.2,-1.9
