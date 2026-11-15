@@ -540,3 +540,80 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 705433,2025-03-16T13:30Z,FC Groningen,Fortuna Sittard,1,0,Groningen,Netherlands,16.0,0,10.2,8.1
 705434,2025-03-16T13:30Z,FC Twente,Feyenoord Rotterdam,2,6,Enschede,Netherlands,45.0,0,10.6,7.8
 705431,2025-03-16T15:45Z,Ajax Amsterdam,AZ Alkmaar,2,2,Amsterdam,Netherlands,13.0,0,10.1,6.9
+705445,2025-03-29T15:30Z,NAC Breda,FC Groningen,1,1,Breda,Netherlands,9.0,0,11.7,11.6
+705442,2025-03-29T17:45Z,Fortuna Sittard,Sparta Rotterdam,0,3,Sittard,Netherlands,48.0,0,6.8,12.0
+705448,2025-03-29T17:45Z,Willem II,Almere City,0,2,Tilburg,Netherlands,16.0,0,9.1,10.3
+705444,2025-03-29T20:00Z,NEC Nijmegen,AZ Alkmaar,3,3,Nijmegen,Netherlands,25.0,0,8.6,6.4
+705446,2025-03-29T20:00Z,PEC Zwolle,RKC Waalwijk,2,0,Zwolle,Netherlands,9.0,0,11.2,6.3
+705440,2025-03-30T10:15Z,FC Utrecht,Heerenveen,2,0,Utrecht,Netherlands,13.0,0,27.0,11.7
+705443,2025-03-30T12:30Z,Heracles Almelo,FC Twente,2,1,Almelo,Netherlands,15.0,0.1,34.5,11.6
+705447,2025-03-30T12:30Z,PSV Eindhoven,Ajax Amsterdam,0,2,Eindhoven,Netherlands,22.0,0,24.3,12.3
+705441,2025-03-30T14:45Z,Feyenoord Rotterdam,Go Ahead Eagles,3,2,Rotterdam,Netherlands,9.0,0,24.3,11.7
+705422,2025-04-01T18:00Z,AZ Alkmaar,RKC Waalwijk,2,2,Alkmaar,Netherlands,5.0,0,17.1,10.6
+705424,2025-04-02T18:00Z,Feyenoord Rotterdam,FC Groningen,4,1,Rotterdam,Netherlands,9.0,0,16.8,13.7
+705457,2025-04-04T18:00Z,Heerenveen,Willem II,3,1,Heerenveen,Netherlands,,0,20.1,10.6
+705449,2025-04-05T14:30Z,AZ Alkmaar,Feyenoord Rotterdam,0,1,Alkmaar,Netherlands,5.0,0,20.8,12.8
+705453,2025-04-05T16:45Z,FC Twente,Fortuna Sittard,1,1,Enschede,Netherlands,45.0,0,20.1,13.4
+705452,2025-04-05T18:00Z,FC Groningen,PSV Eindhoven,1,3,Groningen,Netherlands,16.0,0,19.5,7.5
+705451,2025-04-05T19:00Z,Almere City,PEC Zwolle,2,2,Almere,Netherlands,-3.0,0,21.9,9.6
+705455,2025-04-06T10:15Z,RKC Waalwijk,Heracles Almelo,0,0,Waalwijk,Netherlands,4.0,0,16.8,8.7
+705454,2025-04-06T12:30Z,Go Ahead Eagles,FC Utrecht,2,2,Deventer,Netherlands,12.0,0,14.8,10.0
+705456,2025-04-06T12:30Z,Sparta Rotterdam,NEC Nijmegen,2,0,Rotterdam,Netherlands,9.0,0,15.3,11.0
+705450,2025-04-06T14:45Z,Ajax Amsterdam,NAC Breda,3,1,Amsterdam,Netherlands,13.0,0,15.6,10.9
+705461,2025-04-11T18:00Z,NEC Nijmegen,RKC Waalwijk,2,1,Nijmegen,Netherlands,25.0,0,6.6,13.8
+705459,2025-04-12T14:30Z,Fortuna Sittard,Feyenoord Rotterdam,0,2,Sittard,Netherlands,48.0,0,15.7,23.1
+705465,2025-04-12T16:45Z,Sparta Rotterdam,Heerenveen,3,1,Rotterdam,Netherlands,9.0,0,15.3,22.5
+705464,2025-04-12T18:00Z,PSV Eindhoven,Almere City,5,0,Eindhoven,Netherlands,22.0,0,18.5,19.8
+705462,2025-04-12T19:00Z,NAC Breda,Go Ahead Eagles,1,1,Breda,Netherlands,9.0,0,12.9,18.8
+705458,2025-04-13T10:15Z,FC Utrecht,FC Groningen,3,1,Utrecht,Netherlands,13.0,0,22.3,15.3
+705460,2025-04-13T12:30Z,Heracles Almelo,AZ Alkmaar,1,0,Almelo,Netherlands,15.0,0,20.3,18.3
+705463,2025-04-13T12:30Z,PEC Zwolle,FC Twente,1,1,Zwolle,Netherlands,9.0,0,20.9,16.8
+705466,2025-04-13T14:45Z,Willem II,Ajax Amsterdam,1,2,Tilburg,Netherlands,16.0,0.3,13.3,16.4
+705479,2025-04-19T18:00Z,Heerenveen,Almere City,2,1,Heerenveen,Netherlands,,0,13.1,8.7
+705477,2025-04-20T10:15Z,FC Utrecht,Ajax Amsterdam,4,0,Utrecht,Netherlands,13.0,0,6.0,13.2
+705470,2025-04-23T18:00Z,FC Groningen,Heracles Almelo,4,1,Groningen,Netherlands,16.0,0,13.1,12.3
+705467,2025-04-24T16:45Z,AZ Alkmaar,NAC Breda,1,1,Alkmaar,Netherlands,5.0,0.4,16.6,10.9
+705475,2025-04-24T19:00Z,FC Twente,PSV Eindhoven,1,3,Enschede,Netherlands,45.0,0.3,15.7,11.2
+705471,2025-04-25T16:45Z,RKC Waalwijk,FC Utrecht,0,4,Waalwijk,Netherlands,4.0,0,10.3,14.7
+705472,2025-04-25T19:00Z,Feyenoord Rotterdam,PEC Zwolle,4,0,Rotterdam,Netherlands,9.0,0,6.2,11.4
+705473,2025-04-27T10:15Z,Fortuna Sittard,Willem II,1,0,Sittard,Netherlands,48.0,0,5.3,17.1
+705468,2025-04-27T12:30Z,Ajax Amsterdam,Sparta Rotterdam,1,1,Amsterdam,Netherlands,13.0,0,6.9,18.6
+705474,2025-04-27T12:30Z,Heerenveen,NEC Nijmegen,1,0,Heerenveen,Netherlands,,0,6.8,17.2
+705469,2025-04-27T14:45Z,Almere City,Go Ahead Eagles,0,0,Almere,Netherlands,-3.0,0,10.3,18.2
+705484,2025-05-03T14:30Z,NEC Nijmegen,Willem II,1,1,Nijmegen,Netherlands,25.0,0,14.6,17.6
+705480,2025-05-03T16:45Z,Heracles Almelo,Feyenoord Rotterdam,1,4,Almelo,Netherlands,15.0,0,21.9,16.3
+705476,2025-05-03T18:00Z,FC Groningen,RKC Waalwijk,6,1,Groningen,Netherlands,16.0,0,19.4,10.6
+705482,2025-05-03T19:00Z,PSV Eindhoven,Fortuna Sittard,4,1,Eindhoven,Netherlands,22.0,0,17.9,13.1
+705481,2025-05-04T10:15Z,NAC Breda,PEC Zwolle,1,3,Breda,Netherlands,9.0,0,13.1,12.0
+705478,2025-05-04T12:30Z,Go Ahead Eagles,AZ Alkmaar,0,3,Deventer,Netherlands,12.0,0,17.1,12.2
+705483,2025-05-04T12:30Z,Sparta Rotterdam,FC Twente,0,2,Rotterdam,Netherlands,9.0,0,17.2,13.6
+705493,2025-05-09T18:00Z,Willem II,Heracles Almelo,1,2,Tilburg,Netherlands,16.0,0,12.7,17.6
+705492,2025-05-10T14:30Z,RKC Waalwijk,Heerenveen,3,1,Waalwijk,Netherlands,4.0,0,15.7,20.3
+705490,2025-05-10T16:45Z,Fortuna Sittard,NAC Breda,1,0,Sittard,Netherlands,48.0,0,11.0,19.8
+705487,2025-05-10T19:00Z,Almere City,Sparta Rotterdam,0,3,Almere,Netherlands,-3.0,0,18.9,17.2
+705491,2025-05-11T10:15Z,PEC Zwolle,Go Ahead Eagles,1,1,Zwolle,Netherlands,9.0,0,11.2,20.2
+705488,2025-05-11T12:30Z,FC Twente,FC Utrecht,2,0,Enschede,Netherlands,45.0,0,14.0,23.2
+705489,2025-05-11T12:30Z,Feyenoord Rotterdam,PSV Eindhoven,2,3,Rotterdam,Netherlands,9.0,0,14.2,23.6
+705486,2025-05-11T14:45Z,Ajax Amsterdam,NEC Nijmegen,0,3,Amsterdam,Netherlands,13.0,0,14.3,23.9
+705485,2025-05-11T14:45Z,AZ Alkmaar,FC Groningen,3,0,Alkmaar,Netherlands,5.0,0,15.7,23.1
+705494,2025-05-14T18:00Z,Almere City,Fortuna Sittard,1,1,Almere,Netherlands,-3.0,0,19.0,13.4
+705495,2025-05-14T18:00Z,FC Groningen,Ajax Amsterdam,2,2,Groningen,Netherlands,16.0,0,22.1,12.1
+705496,2025-05-14T18:00Z,FC Twente,AZ Alkmaar,2,3,Enschede,Netherlands,45.0,0,18.9,16.5
+705497,2025-05-14T18:00Z,FC Utrecht,Sparta Rotterdam,1,1,Utrecht,Netherlands,13.0,0,14.3,15.2
+705498,2025-05-14T18:00Z,Feyenoord Rotterdam,RKC Waalwijk,2,0,Rotterdam,Netherlands,9.0,0,15.5,13.5
+705499,2025-05-14T18:00Z,Go Ahead Eagles,Heerenveen,1,0,Deventer,Netherlands,12.0,0,19.5,14.1
+705500,2025-05-14T18:00Z,NEC Nijmegen,NAC Breda,3,0,Nijmegen,Netherlands,25.0,0,13.3,14.9
+705501,2025-05-14T18:00Z,PSV Eindhoven,Heracles Almelo,4,1,Eindhoven,Netherlands,22.0,0,16.8,17.9
+705502,2025-05-14T18:00Z,Willem II,PEC Zwolle,1,2,Tilburg,Netherlands,16.0,0,16.9,16.5
+705504,2025-05-18T12:30Z,Ajax Amsterdam,FC Twente,2,0,Amsterdam,Netherlands,13.0,0,9.6,18.5
+705503,2025-05-18T12:30Z,AZ Alkmaar,Almere City,1,1,Alkmaar,Netherlands,5.0,0.1,10.1,17.1
+705505,2025-05-18T12:30Z,Fortuna Sittard,FC Utrecht,0,0,Sittard,Netherlands,48.0,0,3.9,15.5
+705511,2025-05-18T12:30Z,Heerenveen,Feyenoord Rotterdam,2,0,Heerenveen,Netherlands,,0,13.6,17.3
+705506,2025-05-18T12:30Z,Heracles Almelo,NEC Nijmegen,1,2,Almelo,Netherlands,15.0,0,11.8,19.0
+705507,2025-05-18T12:30Z,NAC Breda,Willem II,1,1,Breda,Netherlands,9.0,0,6.9,16.7
+705508,2025-05-18T12:30Z,PEC Zwolle,FC Groningen,2,0,Zwolle,Netherlands,9.0,0,8.9,17.5
+705509,2025-05-18T12:30Z,RKC Waalwijk,Go Ahead Eagles,5,3,Waalwijk,Netherlands,4.0,0,5.6,16.1
+705510,2025-05-18T12:30Z,Sparta Rotterdam,PSV Eindhoven,1,3,Rotterdam,Netherlands,9.0,0.1,7.2,17.1
+735819,2025-05-22T16:45Z,AZ Alkmaar,Heerenveen,4,1,Alkmaar,Netherlands,5.0,0.1,25.5,11.4
+735820,2025-05-22T19:00Z,FC Twente,NEC Nijmegen,3,2,Enschede,Netherlands,45.0,0,18.4,11.2
+735915,2025-05-25T16:00Z,AZ Alkmaar,FC Twente,3,2,Alkmaar,Netherlands,5.0,0,16.3,15.4

@@ -398,3 +398,74 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 731096,2025-03-16T21:00Z,Cobresal,O'Higgins,0,0,El Salvador,Chile,694.0,0,14.3,32.2
 731101,2025-03-16T21:00Z,Palestino,Ñublense,2,0,Santiago,Chile,556.0,0,9.8,28.4
 731097,2025-03-16T23:30Z,Deportes Iquique,Unión Española,0,4,Iquique,Chile,15.0,0,9.3,21.4
+731104,2025-03-27T21:15Z,Colo Colo,Palestino,1,1,Santiago,Chile,556.0,0,4.1,22.5
+731106,2025-03-27T23:30Z,Everton CD,Universidad de Chile,2,0,Vina del Mar,Chile,17.0,0,7.2,17.3
+731109,2025-03-28T21:15Z,Unión Española,Universidad Católica,1,2,Santiago,Chile,556.0,0,4.4,23.8
+731111,2025-03-28T23:30Z,Ñublense,Deportes Iquique,1,1,Chillán,Chile,132.0,0,8.0,18.8
+731108,2025-03-29T21:00Z,O'Higgins,Deportes Limache,3,1,San Fernando,Chile,10.0,0,9.9,25.9
+731107,2025-03-30T15:00Z,Huachipato,La Serena,3,1,Talcahuano,Chile,15.0,0,14.3,14.0
+731105,2025-03-30T21:00Z,Coquimbo Unido,Audax Italiano,2,1,Coquimbo,Chile,22.0,0,23.5,21.3
+731110,2025-03-30T23:30Z,Unión La Calera,Cobresal,2,1,La Calera,Chile,217.0,0,6.2,16.0
+731114,2025-04-12T16:30Z,Coquimbo Unido,Huachipato,0,0,Coquimbo,Chile,22.0,0,9.7,18.9
+731113,2025-04-12T19:00Z,Cobresal,Universidad Católica,1,1,El Salvador,Chile,694.0,0,14.5,33.0
+731112,2025-04-13T00:00Z,Audax Italiano,O'Higgins,1,0,Santiago,Chile,556.0,0,2.7,17.5
+731116,2025-04-13T16:30Z,La Serena,Everton CD,2,1,Estadio La Portada,Chile,,,,
+731117,2025-04-14T19:00Z,Palestino,Unión La Calera,1,0,Santiago,Chile,556.0,0,11.3,22.1
+731119,2025-04-14T22:00Z,Unión Española,Ñublense,3,0,Santiago,Chile,556.0,0,9.5,18.0
+731115,2025-04-15T00:30Z,Deportes Limache,Deportes Iquique,2,0,La Calera,Chile,217.0,0,2.2,15.0
+731126,2025-04-17T22:00Z,Universidad de Chile,La Serena,3,1,Santiago,Chile,556.0,0,2.3,19.8
+731120,2025-04-18T22:00Z,Audax Italiano,Unión Española,2,0,Santiago,Chile,556.0,0,4.8,23.2
+731123,2025-04-19T19:00Z,Huachipato,Cobresal,0,1,Talcahuano,Chile,15.0,0,9.2,14.9
+731125,2025-04-19T21:30Z,Universidad Católica,Deportes Limache,2,1,Vina del Mar,Chile,17.0,0,4.2,18.1
+731122,2025-04-20T16:30Z,Everton CD,Unión La Calera,1,1,Vina del Mar,Chile,17.0,0,5.8,19.0
+731124,2025-04-20T19:00Z,O'Higgins,Palestino,1,0,San Fernando,Chile,10.0,0,2.2,27.8
+731127,2025-04-21T00:00Z,Ñublense,Coquimbo Unido,0,0,Chillán,Chile,132.0,0,5.8,11.6
+731255,2025-04-25T22:00Z,Ñublense,La Serena,2,0,Chillán,Chile,132.0,0,0.6,12.5
+731135,2025-04-25T22:00Z,Unión La Calera,Audax Italiano,1,0,La Calera,Chile,217.0,0,7.6,18.4
+731134,2025-04-26T00:30Z,Universidad Católica,Everton CD,6,0,Santiago,Chile,556.0,0,0.2,14.1
+731128,2025-04-26T18:00Z,Cobresal,Deportes Limache,3,1,El Salvador,Chile,694.0,0,3.2,30.4
+731129,2025-04-26T20:00Z,Colo Colo,Coquimbo Unido,2,0,Santiago,Chile,556.0,0,7.5,19.9
+731132,2025-04-27T16:30Z,O'Higgins,Deportes Iquique,2,2,San Fernando,Chile,10.0,0,1.4,26.8
+731133,2025-04-27T19:00Z,Palestino,Universidad de Chile,2,3,Santiago,Chile,556.0,0,3.6,23.6
+731130,2025-04-27T21:30Z,Huachipato,Unión Española,2,1,Talcahuano,Chile,15.0,0,17.2,16.1
+731142,2025-05-02T20:00Z,Deportes Limache,Colo Colo,1,0,Quillota,Chile,128.0,0,5.8,24.1
+731139,2025-05-03T00:30Z,Unión Española,Cobresal,0,1,Santiago,Chile,556.0,0,0.8,16.0
+731141,2025-05-03T16:30Z,Everton CD,Palestino,1,2,Vina del Mar,Chile,17.0,0,4.1,22.5
+731140,2025-05-03T20:00Z,Universidad de Chile,Universidad Católica,1,0,Santiago,Chile,556.0,0,6.8,22.8
+731137,2025-05-03T22:30Z,Coquimbo Unido,O'Higgins,2,0,Coquimbo,Chile,22.0,0,3.8,15.2
+731136,2025-05-04T19:00Z,Deportes Iquique,Huachipato,3,0,Iquique,Chile,15.0,0,9.1,20.5
+731143,2025-05-04T21:30Z,Audax Italiano,La Serena,2,1,Santiago,Chile,556.0,0,6.5,21.4
+731138,2025-05-05T00:00Z,Ñublense,Unión La Calera,1,1,Chillán,Chile,132.0,0,9.4,10.3
+731147,2025-05-17T00:00Z,Unión La Calera,Coquimbo Unido,0,1,La Calera,Chile,217.0,0,1.0,11.4
+731149,2025-05-17T19:00Z,Cobresal,Audax Italiano,0,1,El Salvador,Chile,694.0,0.8,9.6,29.4
+731151,2025-05-17T21:30Z,O'Higgins,Universidad Católica,2,0,Santiago,Chile,556.0,0,4.8,12.2
+731267,2025-05-18T19:00Z,Deportes Limache,Palestino,0,1,Quillota,Chile,128.0,0,3.7,18.6
+731270,2025-05-18T22:30Z,Universidad de Chile,Huachipato,5,1,Santiago,Chile,556.0,1.5,0.7,12.5
+731146,2025-05-19T19:00Z,Unión Española,Everton CD,0,3,Santiago,Chile,556.0,0,4.3,19.8
+731150,2025-05-19T22:00Z,Colo Colo,Ñublense,2,2,Santiago,Chile,556.0,0,2.5,16.4
+731148,2025-05-20T00:30Z,La Serena,Deportes Iquique,2,1,Estadio La Portada,Chile,,,,
+731152,2025-05-23T22:00Z,Deportes Limache,Universidad de Chile,2,0,Quillota,Chile,128.0,0,2.8,13.7
+731159,2025-05-24T19:00Z,Everton CD,Cobresal,2,2,Vina del Mar,Chile,17.0,0,5.6,22.7
+731156,2025-05-24T21:30Z,Colo Colo,Unión Española,4,1,Santiago,Chile,556.0,0,2.1,19.0
+731157,2025-05-25T00:00Z,Coquimbo Unido,Palestino,0,0,Coquimbo,Chile,22.0,0,2.4,12.0
+731154,2025-05-25T16:30Z,Ñublense,O'Higgins,0,1,Chillán,Chile,132.0,3.1,26.2,11.4
+731158,2025-05-25T19:00Z,Universidad Católica,La Serena,1,3,Santiago,Chile,556.0,0,4.4,18.8
+731153,2025-05-26T00:00Z,Deportes Iquique,Unión La Calera,0,1,Iquique,Chile,15.0,0,3.1,16.8
+731155,2025-05-26T23:30Z,Audax Italiano,Huachipato,4,3,Santiago,Chile,556.0,1.2,3.4,10.6
+731162,2025-05-31T16:30Z,Huachipato,Ñublense,0,1,Talcahuano,Chile,15.0,0,8.6,11.8
+731163,2025-05-31T16:30Z,La Serena,Coquimbo Unido,2,4,Estadio La Portada,Chile,,,,
+731165,2025-05-31T19:00Z,Universidad de Chile,O'Higgins,6,0,Santiago,Chile,556.0,0,1.8,17.7
+731161,2025-06-01T00:00Z,Everton CD,Audax Italiano,1,1,Vina del Mar,Chile,17.0,0,13.6,15.3
+731164,2025-06-01T19:00Z,Palestino,Universidad Católica,1,1,Santiago,Chile,556.0,0,1.5,18.8
+731167,2025-06-01T21:30Z,Unión La Calera,Colo Colo,0,1,La Calera,Chile,217.0,0,2.9,15.3
+731160,2025-06-02T22:00Z,Cobresal,Deportes Iquique,2,1,El Salvador,Chile,694.0,2.0,10.9,24.5
+731166,2025-06-03T19:00Z,Unión Española,Deportes Limache,2,2,Santiago,Chile,556.0,0,1.8,14.4
+731121,2025-06-13T00:00Z,Deportes Iquique,Colo Colo,2,2,Iquique,Chile,15.0,0,4.4,17.6
+731171,2025-06-14T00:00Z,Deportes Limache,Unión La Calera,0,1,Quillota,Chile,128.0,0,1.3,9.1
+731173,2025-06-14T16:30Z,Palestino,La Serena,2,1,Santiago,Chile,556.0,0,2.9,14.1
+731174,2025-06-14T19:00Z,Universidad Católica,Huachipato,1,0,Santiago,Chile,556.0,0,1.3,16.0
+731172,2025-06-15T16:30Z,O'Higgins,Unión Española,1,0,San Fernando,Chile,10.0,0,0.4,25.4
+731169,2025-06-15T19:00Z,Coquimbo Unido,Universidad de Chile,1,0,Coquimbo,Chile,22.0,0,8.2,14.2
+731175,2025-06-16T00:00Z,Ñublense,Audax Italiano,2,3,Chillán,Chile,132.0,1.7,9.1,8.6
+731170,2025-06-17T00:00Z,Deportes Iquique,Everton CD,1,2,Iquique,Chile,15.0,0,5.8,15.9
+731168,2025-06-17T22:00Z,Colo Colo,Cobresal,4,0,Santiago,Chile,556.0,0,2.3,8.4

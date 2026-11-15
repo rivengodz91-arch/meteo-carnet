@@ -689,3 +689,92 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 713807,2025-03-16T14:00Z,Reggiana,Sampdoria,2,2,Reggio Emilia,Italy,58.0,0,16.7,13.9
 713812,2025-03-16T14:00Z,Sudtirol,Carrarese,2,2,Bolzano,Italy,262.0,0,4.3,10.0
 713806,2025-03-16T16:15Z,Catanzaro,Cosenza,4,0,Catanzaro,Italy,320.0,0,27.8,13.8
+713819,2025-03-28T19:30Z,Spezia,Brescia,0,1,La Spezia,Italy,3.0,0,1.1,13.8
+713822,2025-03-29T14:00Z,Cosenza,Pisa,0,3,Cosenza,Italy,238.0,0.8,7.4,14.3
+713820,2025-03-29T14:00Z,Mantova,Sudtirol,2,0,Mantova,Italy,209.0,0,8.3,14.9
+713824,2025-03-29T14:00Z,Modena,Catanzaro,2,1,Modena,Italy,34.0,0.2,17.5,14.1
+713817,2025-03-29T14:00Z,Sampdoria,Frosinone,0,3,Genova,Italy,3.0,0.3,13.5,14.8
+713821,2025-03-29T16:15Z,Cremonese,Cittadella,2,2,Cremona,Italy,45.0,0.4,0.8,13.2
+713816,2025-03-29T18:30Z,Sassuolo,Reggiana,5,1,Reggio Emilia,Italy,58.0,1.1,3.1,11.1
+713815,2025-03-30T13:00Z,Carrarese,Bari,2,1,Carrara,Italy,100.0,0,2.5,20.3
+713823,2025-03-30T13:00Z,Cesena,Juve Stabia,1,2,Cesena,Italy,44.0,0,8.3,16.6
+713818,2025-03-30T15:15Z,Salernitana,Palermo,1,2,Salerno,Italy,4.0,0,7.5,16.9
+713829,2025-04-04T18:30Z,Reggiana,Cremonese,1,2,Reggio Emilia,Italy,58.0,0,7.3,14.2
+713833,2025-04-05T13:00Z,Brescia,Mantova,1,2,Brescia,Italy,149.0,0,12.6,20.3
+713834,2025-04-05T13:00Z,Cittadella,Carrarese,0,0,Cittadella,Italy,48.0,0,9.3,21.7
+713825,2025-04-05T13:00Z,Frosinone,Cosenza,2,2,Frosinone,Italy,291.0,0,10.6,18.8
+713831,2025-04-05T13:00Z,Sudtirol,Cesena,1,1,Bolzano,Italy,262.0,0,1.0,24.2
+713828,2025-04-05T15:15Z,Pisa,Modena,1,2,Pisa,Italy,4.0,0,11.0,18.7
+713826,2025-04-05T17:30Z,Juve Stabia,Salernitana,1,0,Castellammare di Stabia,Italy,6.0,0,4.4,14.9
+713832,2025-04-06T13:00Z,Catanzaro,Bari,3,3,Catanzaro,Italy,320.0,0,29.4,17.5
+713827,2025-04-06T13:00Z,Palermo,Sassuolo,5,3,Palermo,Italy,14.0,0.3,7.6,17.7
+713830,2025-04-06T15:15Z,Spezia,Sampdoria,2,0,La Spezia,Italy,3.0,0,4.7,15.9
+713844,2025-04-11T18:30Z,Bari,Palermo,2,1,Bari,Italy,5.0,0,6.2,17.8
+713835,2025-04-12T13:00Z,Carrarese,Catanzaro,2,2,Carrara,Italy,100.0,0,10.2,16.8
+713837,2025-04-12T13:00Z,Cosenza,Brescia,1,1,Cosenza,Italy,238.0,0,5.8,19.4
+713843,2025-04-12T13:00Z,Reggiana,Pisa,0,2,Reggio Emilia,Italy,58.0,0,8.7,20.1
+713842,2025-04-12T13:00Z,Salernitana,Sudtirol,2,1,Salerno,Italy,4.0,0,10.6,17.1
+713841,2025-04-12T15:15Z,Sampdoria,Cittadella,1,0,Genova,Italy,3.0,0,8.6,19.7
+713840,2025-04-12T17:30Z,Modena,Sassuolo,1,3,Modena,Italy,34.0,0,2.4,19.2
+713836,2025-04-13T13:00Z,Cesena,Frosinone,1,1,Cesena,Italy,44.0,1.1,6.4,14.0
+713838,2025-04-13T13:00Z,Cremonese,Juve Stabia,1,1,Cremona,Italy,45.0,0,2.2,16.5
+713839,2025-04-13T15:15Z,Mantova,Spezia,2,2,Mantova,Italy,209.0,0,10.0,15.5
+713864,2025-04-25T10:30Z,Frosinone,Spezia,2,2,Frosinone,Italy,291.0,4.3,2.6,17.2
+713857,2025-04-25T13:00Z,Bari,Modena,1,2,Bari,Italy,5.0,0.1,6.4,21.8
+713855,2025-04-25T13:00Z,Brescia,Pisa,1,2,Brescia,Italy,149.0,0.1,7.1,19.2
+713863,2025-04-25T13:00Z,Carrarese,Sampdoria,1,0,Carrara,Italy,100.0,0,8.0,18.0
+713858,2025-04-25T13:00Z,Reggiana,Cittadella,2,1,Reggio Emilia,Italy,58.0,0.7,12.6,17.7
+713856,2025-04-25T13:00Z,Salernitana,Cosenza,3,1,Salerno,Italy,4.0,0.1,12.4,17.5
+713860,2025-04-25T16:00Z,Cremonese,Mantova,4,2,Cremona,Italy,45.0,0,11.2,17.8
+713861,2025-04-25T18:30Z,Cesena,Sassuolo,0,2,Cesena,Italy,44.0,0,10.1,13.3
+713862,2025-04-27T13:00Z,Catanzaro,Palermo,1,3,Catanzaro,Italy,320.0,0.4,9.0,17.5
+713859,2025-04-27T13:00Z,Sudtirol,Juve Stabia,2,0,Bolzano,Italy,262.0,0.2,3.9,20.9
+713867,2025-05-01T10:30Z,Juve Stabia,Catanzaro,2,0,Castellammare di Stabia,Italy,6.0,0,3.6,22.9
+713866,2025-05-01T13:00Z,Cosenza,Bari,1,0,Cosenza,Italy,238.0,0,8.6,24.0
+713868,2025-05-01T13:00Z,Mantova,Cesena,3,0,Mantova,Italy,209.0,0,2.7,25.1
+713869,2025-05-01T13:00Z,Modena,Reggiana,2,3,Modena,Italy,34.0,0,4.9,26.6
+713870,2025-05-01T13:00Z,Palermo,Sudtirol,1,2,Palermo,Italy,14.0,0,8.5,22.5
+713871,2025-05-01T13:00Z,Pisa,Frosinone,1,0,Pisa,Italy,4.0,0,6.0,25.8
+713872,2025-05-01T13:00Z,Sampdoria,Cremonese,0,0,Genova,Italy,3.0,0,1.6,26.1
+713874,2025-05-01T13:00Z,Spezia,Salernitana,2,0,La Spezia,Italy,3.0,0,5.8,23.0
+713865,2025-05-01T15:15Z,Cittadella,Brescia,0,1,Cittadella,Italy,48.0,0,5.5,25.2
+713873,2025-05-01T17:30Z,Sassuolo,Carrarese,2,0,Reggio Emilia,Italy,58.0,0,6.0,23.1
+713875,2025-05-04T13:00Z,Bari,Pisa,1,0,Bari,Italy,5.0,0,8.1,28.1
+713876,2025-05-04T13:00Z,Brescia,Juve Stabia,0,0,Brescia,Italy,149.0,0.4,11.0,22.3
+713877,2025-05-04T13:00Z,Carrarese,Modena,2,1,Carrara,Italy,100.0,0.6,15.0,19.4
+713878,2025-05-04T13:00Z,Catanzaro,Sampdoria,2,2,Catanzaro,Italy,320.0,0,18.6,24.6
+713879,2025-05-04T13:00Z,Cesena,Palermo,2,1,Cesena,Italy,44.0,0,3.9,26.1
+713881,2025-05-04T13:00Z,Frosinone,Cittadella,1,1,Frosinone,Italy,291.0,0,11.2,20.6
+713882,2025-05-04T13:00Z,Reggiana,Spezia,2,1,Reggio Emilia,Italy,58.0,0,5.5,23.9
+713883,2025-05-04T13:00Z,Salernitana,Mantova,2,0,Salerno,Italy,4.0,0,11.6,21.4
+713884,2025-05-04T13:00Z,Sudtirol,Cosenza,2,1,Bolzano,Italy,262.0,0.5,12.7,25.4
+713880,2025-05-04T17:30Z,Cremonese,Sassuolo,1,1,Cremona,Italy,45.0,0.1,3.9,20.3
+713885,2025-05-09T18:30Z,Cittadella,Bari,3,1,Cittadella,Italy,48.0,0,6.4,14.7
+713886,2025-05-09T18:30Z,Cosenza,Cesena,0,1,Cosenza,Italy,238.0,0.1,1.0,15.5
+713887,2025-05-09T18:30Z,Juve Stabia,Reggiana,1,2,Castellammare di Stabia,Italy,6.0,0,5.2,17.3
+713888,2025-05-09T18:30Z,Mantova,Carrarese,2,1,Mantova,Italy,209.0,0,4.9,15.4
+713894,2025-05-09T18:30Z,Modena,Brescia,2,2,Modena,Italy,34.0,0,0.4,16.5
+713890,2025-05-09T18:30Z,Palermo,Frosinone,2,0,Palermo,Italy,14.0,0,4.4,18.1
+713891,2025-05-09T18:30Z,Pisa,Sudtirol,3,3,Pisa,Italy,4.0,0,4.2,15.7
+713892,2025-05-09T18:30Z,Sampdoria,Salernitana,1,0,Genova,Italy,3.0,0,10.4,15.6
+713889,2025-05-09T18:30Z,Sassuolo,Catanzaro,0,2,Reggio Emilia,Italy,58.0,0,2.9,15.5
+713893,2025-05-09T18:30Z,Spezia,Cremonese,2,3,La Spezia,Italy,3.0,0,3.0,15.9
+713849,2025-05-13T18:30Z,Brescia,Reggiana,2,1,Brescia,Italy,149.0,0,6.2,17.3
+713848,2025-05-13T18:30Z,Cittadella,Salernitana,0,2,Cittadella,Italy,48.0,0,8.0,17.3
+713852,2025-05-13T18:30Z,Juve Stabia,Sampdoria,0,0,Castellammare di Stabia,Italy,6.0,0,2.0,17.4
+713845,2025-05-13T18:30Z,Mantova,Catanzaro,0,0,Mantova,Italy,209.0,1.0,2.2,16.7
+713846,2025-05-13T18:30Z,Modena,Cesena,0,1,Modena,Italy,34.0,0,3.1,16.9
+713854,2025-05-13T18:30Z,Palermo,Carrarese,1,1,Palermo,Italy,14.0,0,4.8,18.9
+713853,2025-05-13T18:30Z,Pisa,Cremonese,2,1,Pisa,Italy,4.0,0.2,1.5,17.6
+713847,2025-05-13T18:30Z,Sassuolo,Frosinone,0,1,Reggio Emilia,Italy,58.0,0,2.7,16.9
+713851,2025-05-13T18:30Z,Spezia,Cosenza,3,1,La Spezia,Italy,3.0,0,4.1,17.6
+713850,2025-05-13T18:30Z,Sudtirol,Bari,0,0,Bolzano,Italy,262.0,0,2.1,16.3
+735771,2025-05-17T15:15Z,Catanzaro,Cesena,1,0,Catanzaro,Italy,320.0,0,8.8,16.1
+735772,2025-05-17T17:30Z,Juve Stabia,Palermo,1,0,Castellammare di Stabia,Italy,6.0,0,10.2,17.9
+735790,2025-05-21T18:30Z,Catanzaro,Spezia,0,2,Catanzaro,Italy,320.0,0,18.3,18.1
+735789,2025-05-21T18:30Z,Juve Stabia,Cremonese,2,1,Castellammare di Stabia,Italy,6.0,0,9.4,18.1
+735791,2025-05-25T15:15Z,Cremonese,Juve Stabia,3,0,Cremona,Italy,45.0,0,6.7,21.9
+735792,2025-05-25T17:30Z,Spezia,Catanzaro,2,1,La Spezia,Italy,3.0,0,3.7,19.0
+736030,2025-05-29T18:30Z,Cremonese,Spezia,0,0,Cremona,Italy,45.0,0,2.3,23.5
+736031,2025-06-01T18:30Z,Spezia,Cremonese,2,3,La Spezia,Italy,3.0,0,2.2,21.0
+735793,2025-06-15T18:30Z,Sampdoria,Salernitana,2,0,Genova,Italy,3.0,0,4.7,28.3

@@ -622,3 +622,66 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 707023,2025-03-15T13:00Z,Dunkerque,Metz,2,3,Dunkerque,France,-3.0,0,25.7,6.1
 707024,2025-03-15T13:00Z,Stade Laval,Paris FC,3,0,Laval,France,54.0,0,19.3,6.9
 707025,2025-03-15T19:00Z,Lorient,Bastia,4,0,Lorient,France,10.0,0,14.5,5.5
+707027,2025-03-28T19:00Z,Bastia,Dunkerque,2,0,Furiani,France,210.0,0,5.7,11.5
+707028,2025-03-28T19:00Z,Clermont Foot,SC Amiens,1,1,Clermont,France,406.0,0,10.2,8.2
+707031,2025-03-28T19:00Z,Martigues,AC Ajaccio,2,0,Martigues,France,5.0,0,34.2,14.6
+707032,2025-03-28T19:00Z,Metz,Troyes,2,1,Metz,France,182.0,0,17.4,9.7
+707034,2025-03-28T19:00Z,Pau,Annecy,1,0,Pau,France,219.0,0.1,13.2,9.2
+707035,2025-03-28T19:00Z,Red Star FC 93,Rodez Aveyron,1,1,"Saint-Ouen, Paris",France,35.0,0.5,15.1,9.1
+707029,2025-03-29T13:00Z,Grenoble,Lorient,1,2,Grenoble,France,218.0,0.1,16.1,12.5
+707030,2025-03-29T19:00Z,Guingamp,Stade Laval,2,0,Guingamp,France,73.0,0,12.5,9.2
+707033,2025-03-31T18:45Z,Paris FC,Caen,4,2,Paris,France,42.0,0,9.8,11.3
+707036,2025-04-04T18:00Z,AC Ajaccio,SC Amiens,2,1,Ajaccio,France,,0,3.8,16.3
+707037,2025-04-04T18:00Z,Annecy,Bastia,1,1,Annecy,France,452.0,0,2.4,15.0
+707043,2025-04-04T18:00Z,Paris FC,Clermont Foot,2,0,Paris,France,42.0,0,9.9,18.6
+707039,2025-04-04T18:00Z,Rodez Aveyron,Martigues,1,0,Rodez,France,627.0,0.2,36.9,11.5
+707041,2025-04-04T18:00Z,Stade Laval,Grenoble,1,2,Laval,France,54.0,0,7.5,18.1
+707040,2025-04-05T12:00Z,Caen,Metz,2,2,Caen,France,21.0,0,9.6,19.2
+707042,2025-04-05T18:00Z,Lorient,Pau,5,0,Lorient,France,10.0,0,8.0,14.4
+707038,2025-04-05T18:00Z,Troyes,Red Star FC 93,2,2,Paris,France,42.0,0,7.3,19.2
+707044,2025-04-07T18:45Z,Dunkerque,Guingamp,3,1,Dunkerque,France,-3.0,0,18.9,9.3
+707050,2025-04-11T18:00Z,Martigues,Metz,1,4,Martigues,France,5.0,0,7.3,14.9
+707051,2025-04-11T18:00Z,Pau,Clermont Foot,2,2,Pau,France,219.0,0,5.1,19.6
+707052,2025-04-11T18:00Z,Red Star FC 93,Annecy,0,1,"Saint-Ouen, Paris",France,35.0,0,11.1,19.8
+707053,2025-04-11T18:00Z,Rodez Aveyron,Caen,2,2,Rodez,France,627.0,0,20.5,12.5
+707045,2025-04-11T18:00Z,SC Amiens,Dunkerque,1,0,Amiens,France,28.0,0,7.8,16.8
+707047,2025-04-11T18:00Z,Troyes,AC Ajaccio,0,0,Paris,France,42.0,0,9.5,19.6
+707049,2025-04-12T12:00Z,Guingamp,Lorient,1,2,Guingamp,France,73.0,0.4,5.6,16.4
+707048,2025-04-12T18:00Z,Grenoble,Paris FC,1,2,Grenoble,France,218.0,0,7.3,19.4
+707046,2025-04-14T18:45Z,Bastia,Stade Laval,5,2,Furiani,France,210.0,0.1,7.6,14.0
+707054,2025-04-18T18:00Z,AC Ajaccio,Pau,1,1,Ajaccio,France,,0,2.7,13.6
+707057,2025-04-18T18:00Z,Caen,Martigues,0,3,Caen,France,21.0,0.9,15.6,14.4
+707058,2025-04-18T18:00Z,Clermont Foot,Troyes,0,2,Clermont,France,406.0,0,0.9,14.5
+707059,2025-04-18T18:00Z,Dunkerque,Grenoble,2,0,Dunkerque,France,-3.0,0,18.4,14.7
+707055,2025-04-18T18:00Z,SC Amiens,Guingamp,3,2,Amiens,France,28.0,0,16.6,14.2
+707060,2025-04-18T18:00Z,Stade Laval,Rodez Aveyron,2,1,Laval,France,54.0,2.2,14.5,12.9
+707062,2025-04-19T12:00Z,Paris FC,Bastia,1,0,Paris,France,42.0,0,8.8,19.2
+707061,2025-04-19T18:00Z,Metz,Red Star FC 93,2,2,Metz,France,182.0,0,10.4,15.4
+707056,2025-04-21T18:45Z,Annecy,Lorient,0,0,Annecy,France,452.0,0,1.8,11.3
+707063,2025-04-25T18:00Z,Annecy,AC Ajaccio,2,0,Annecy,France,452.0,0,12.1,11.8
+707064,2025-04-25T18:00Z,Bastia,Grenoble,2,3,Furiani,France,210.0,0,6.2,15.6
+707066,2025-04-25T18:00Z,Guingamp,Martigues,2,1,Guingamp,France,73.0,0,10.5,13.6
+707070,2025-04-25T18:00Z,Red Star FC 93,Clermont Foot,1,1,"Saint-Ouen, Paris",France,35.0,0,7.2,14.9
+707067,2025-04-25T18:00Z,Stade Laval,SC Amiens,1,0,Laval,France,54.0,0,11.9,14.3
+707065,2025-04-25T18:00Z,Troyes,Dunkerque,1,0,Paris,France,42.0,0,7.7,14.7
+707071,2025-04-26T12:00Z,Rodez Aveyron,Paris FC,1,1,Rodez,France,627.0,0.1,11.2,10.6
+707068,2025-04-26T18:00Z,Lorient,Caen,4,0,Lorient,France,10.0,0,7.8,14.6
+707069,2025-04-26T18:00Z,Pau,Metz,2,1,Pau,France,219.0,0.8,17.4,11.6
+707072,2025-05-02T18:00Z,AC Ajaccio,Lorient,2,1,Ajaccio,France,,0,5.0,20.0
+707074,2025-05-02T18:00Z,Caen,Red Star FC 93,1,1,Caen,France,21.0,0,7.4,14.1
+707075,2025-05-02T18:00Z,Clermont Foot,Annecy,3,2,Clermont,France,406.0,0,18.0,18.7
+707076,2025-05-02T18:00Z,Dunkerque,Stade Laval,0,0,Dunkerque,France,-3.0,0,12.1,14.1
+707077,2025-05-02T18:00Z,Grenoble,Troyes,3,1,Grenoble,France,218.0,0,5.7,23.5
+707078,2025-05-02T18:00Z,Guingamp,Bastia,2,2,Guingamp,France,73.0,0,11.3,14.0
+707079,2025-05-02T18:00Z,Martigues,Paris FC,1,1,Martigues,France,5.0,0.5,17.1,19.1
+707080,2025-05-02T18:00Z,Metz,Rodez Aveyron,3,3,Metz,France,182.0,0,5.0,22.4
+707073,2025-05-02T18:00Z,SC Amiens,Pau,4,2,Amiens,France,28.0,0,5.9,23.0
+707081,2025-05-10T15:00Z,Annecy,Grenoble,3,1,Annecy,France,452.0,0.6,4.8,18.0
+707082,2025-05-10T15:00Z,Bastia,Caen,2,1,Furiani,France,210.0,0,4.8,18.2
+707085,2025-05-10T15:00Z,Lorient,Martigues,5,1,Lorient,France,10.0,5.6,11.3,16.6
+707086,2025-05-10T15:00Z,Paris FC,AC Ajaccio,2,0,Paris,France,42.0,0,13.4,23.3
+707087,2025-05-10T15:00Z,Pau,Guingamp,1,3,Pau,France,219.0,3.0,4.3,17.2
+707088,2025-05-10T15:00Z,Red Star FC 93,Dunkerque,1,1,"Saint-Ouen, Paris",France,35.0,0,13.3,23.6
+707089,2025-05-10T15:00Z,Rodez Aveyron,Clermont Foot,1,1,Rodez,France,627.0,0,33.4,14.6
+707084,2025-05-10T15:00Z,Stade Laval,Metz,2,3,Laval,France,54.0,0,16.6,21.8
+707083,2025-05-10T15:00Z,Troyes,SC Amiens,1,0,Paris,France,42.0,0,13.4,23.3

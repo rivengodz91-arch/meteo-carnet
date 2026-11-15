@@ -825,3 +825,209 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 726856,2025-03-16T18:25Z,Philadelphia Union,Nashville SC,1,3,"Chester, Pennsylvania",USA,34.0,0,6.9,7.9
 726857,2025-03-16T20:45Z,Portland Timbers,LA Galaxy,1,1,"Portland, Oregon",USA,12.0,0.3,4.9,8.4
 726858,2025-03-16T23:00Z,Atlanta United FC,Inter Miami CF,1,2,"Atlanta, Georgia",USA,320.0,0,16.4,17.6
+726859,2025-03-22T18:30Z,FC Cincinnati,Atlanta United FC,2,2,"Cincinnati, Ohio",USA,191.0,0,21.1,11.0
+726860,2025-03-22T20:30Z,Minnesota United FC,LA Galaxy,2,2,"Saint Paul, Minnesota",USA,242.0,0,12.1,1.8
+726861,2025-03-22T23:30Z,Charlotte FC,San Jose Earthquakes,4,1,"Charlotte, North Carolina",USA,229.0,0,21.5,19.7
+726863,2025-03-22T23:30Z,Columbus Crew,New York City FC,0,0,"Columbus, Ohio",USA,235.0,0,13.9,7.8
+726864,2025-03-22T23:30Z,Orlando City SC,D.C. United,4,1,"Orlando, Florida",USA,30.0,0,4.7,22.4
+726862,2025-03-22T23:30Z,Philadelphia Union,St. Louis CITY SC,1,0,"Chester, Pennsylvania",USA,34.0,0.9,13.9,9.8
+726865,2025-03-22T23:30Z,Red Bull New York,Toronto FC,2,1,"Harrison, New Jersey",USA,320.0,0,21.8,20.0
+726867,2025-03-23T00:30Z,Nashville SC,CF Montréal,3,0,"Nashville, Tennessee",USA,170.0,0,7.6,12.1
+726866,2025-03-23T00:30Z,Sporting Kansas City,LAFC,0,2,"Kansas City, Kansas",USA,274.0,0,12.3,14.6
+726868,2025-03-23T01:30Z,Colorado Rapids,Portland Timbers,0,3,"Commerce City, Colorado",USA,1572.0,0,11.7,12.7
+726869,2025-03-23T01:30Z,Real Salt Lake,FC Dallas,0,1,"Sandy, Utah",USA,1361.0,0,11.9,9.7
+726870,2025-03-23T02:30Z,Seattle Sounders FC,Houston Dynamo FC,0,0,"Seattle, Washington",USA,56.0,0,10.1,10.0
+726871,2025-03-23T02:30Z,Vancouver Whitecaps,Chicago Fire FC,1,3,Vancouver,Canada,70.0,0.6,4.9,6.5
+726872,2025-03-23T20:00Z,Austin FC,San Diego FC,2,1,"Austin, Texas",USA,149.0,0,12.2,30.4
+726874,2025-03-29T18:30Z,New England Revolution,Red Bull New York,2,1,"Foxborough, Massachusetts",USA,88.0,0,17.5,4.1
+726873,2025-03-29T18:30Z,Toronto FC,Vancouver Whitecaps,0,0,Toronto,Canada,161.0,0.3,17.6,1.2
+726875,2025-03-29T20:30Z,Colorado Rapids,Charlotte FC,2,0,"Commerce City, Colorado",USA,1572.0,0,7.0,14.3
+726878,2025-03-29T23:30Z,Atlanta United FC,New York City FC,4,3,"Atlanta, Georgia",USA,320.0,0,14.2,22.1
+726877,2025-03-29T23:30Z,D.C. United,Columbus Crew,1,2,"Washington, District of Columbia",USA,7.0,0,10.2,23.1
+726876,2025-03-29T23:30Z,Inter Miami CF,Philadelphia Union,2,1,"Fort Lauderdale, Florida",USA,1.0,0.8,19.2,23.5
+726880,2025-03-30T00:30Z,Chicago Fire FC,CF Montréal,1,1,"Chicago, Illinois",USA,179.0,0,15.5,18.1
+726882,2025-03-30T00:30Z,FC Dallas,Sporting Kansas City,2,1,Toyota Stadium,USA,,,,
+726879,2025-03-30T00:30Z,Minnesota United FC,Real Salt Lake,2,0,"Saint Paul, Minnesota",USA,242.0,7.6,20.4,3.1
+726881,2025-03-30T00:30Z,Nashville SC,FC Cincinnati,1,2,"Nashville, Tennessee",USA,170.0,0.1,19.2,20.1
+726885,2025-03-30T02:30Z,LA Galaxy,Orlando City SC,1,2,"Carson, California",USA,12.0,0,6.0,15.3
+726884,2025-03-30T02:30Z,San Diego FC,LAFC,3,2,"San Diego, California",USA,20.0,0,10.0,14.7
+726883,2025-03-30T02:30Z,San Jose Earthquakes,Seattle Sounders FC,1,1,"San Jose, California",USA,26.0,0,9.1,13.6
+726886,2025-03-30T18:15Z,St. Louis CITY SC,Austin FC,0,1,"St. Louis, Missouri",USA,142.0,0.4,22.2,18.3
+726887,2025-03-30T23:00Z,Portland Timbers,Houston Dynamo FC,3,1,"Portland, Oregon",USA,12.0,1.2,6.1,13.8
+726888,2025-04-05T18:30Z,Charlotte FC,Nashville SC,2,1,"Charlotte, North Carolina",USA,229.0,0.2,21.2,27.9
+726889,2025-04-05T20:30Z,Real Salt Lake,LA Galaxy,2,0,"Sandy, Utah",USA,1361.0,0,17.1,9.6
+726894,2025-04-05T23:30Z,Atlanta United FC,FC Dallas,1,1,"Atlanta, Georgia",USA,320.0,0,19.5,29.0
+726893,2025-04-05T23:30Z,Columbus Crew,CF Montréal,2,1,"Columbus, Ohio",USA,235.0,1.6,11.4,14.9
+726892,2025-04-05T23:30Z,FC Cincinnati,New England Revolution,1,0,"Cincinnati, Ohio",USA,191.0,5.5,13.2,14.3
+726891,2025-04-05T23:30Z,Philadelphia Union,Orlando City SC,0,0,"Chester, Pennsylvania",USA,34.0,0,9.8,5.1
+726890,2025-04-05T23:30Z,Red Bull New York,Chicago Fire FC,2,1,"Harrison, New Jersey",USA,320.0,0,23.3,10.1
+726895,2025-04-05T23:45Z,Austin FC,Portland Timbers,0,0,"Austin, Texas",USA,149.0,0,17.3,19.5
+726896,2025-04-06T00:30Z,Sporting Kansas City,St. Louis CITY SC,2,0,"Kansas City, Kansas",USA,274.0,0,15.1,7.2
+726897,2025-04-06T01:00Z,Houston Dynamo FC,LAFC,1,0,"Houston, Texas",USA,12.0,0.9,15.4,16.0
+726898,2025-04-06T01:30Z,Vancouver Whitecaps,Colorado Rapids,2,0,Vancouver,Canada,70.0,0,4.6,15.6
+726899,2025-04-06T02:30Z,San Diego FC,Seattle Sounders FC,3,0,"San Diego, California",USA,20.0,0,0.5,18.0
+726900,2025-04-06T19:00Z,New York City FC,Minnesota United FC,1,2,New York City,USA,10.0,0,12.0,15.5
+726902,2025-04-06T21:00Z,San Jose Earthquakes,D.C. United,6,1,"San Jose, California",USA,26.0,0,13.1,24.3
+726901,2025-04-06T23:00Z,Inter Miami CF,Toronto FC,1,1,"Fort Lauderdale, Florida",USA,1.0,0,13.6,26.2
+726903,2025-04-12T18:30Z,Toronto FC,Minnesota United FC,0,0,Toronto,Canada,161.0,0.2,4.7,8.3
+726904,2025-04-12T18:45Z,Atlanta United FC,New England Revolution,0,1,"Atlanta, Georgia",USA,320.0,0,15.3,14.7
+726905,2025-04-12T20:30Z,Orlando City SC,Red Bull New York,0,0,"Orlando, Florida",USA,30.0,0,14.4,22.6
+726912,2025-04-12T23:30Z,CF Montréal,Charlotte FC,0,1,Montreal,Canada,216.0,0,6.9,5.5
+726908,2025-04-12T23:30Z,D.C. United,FC Cincinnati,0,1,"Washington, District of Columbia",USA,7.0,0,13.2,10.0
+726907,2025-04-12T23:30Z,New York City FC,Philadelphia Union,1,0,"New York, New York",USA,10.0,0,13.7,4.5
+726906,2025-04-12T23:30Z,Vancouver Whitecaps,Austin FC,5,1,Vancouver,Canada,70.0,0,22.5,10.1
+726910,2025-04-13T00:30Z,FC Dallas,Seattle Sounders FC,0,1,Toyota Stadium,USA,,,,
+726909,2025-04-13T00:30Z,Nashville SC,Real Salt Lake,2,1,"Nashville, Tennessee",USA,170.0,0,2.9,11.6
+726911,2025-04-13T01:30Z,Colorado Rapids,San Diego FC,3,2,"Commerce City, Colorado",USA,1572.0,0,26.0,26.0
+726914,2025-04-13T02:30Z,LA Galaxy,Houston Dynamo FC,1,1,"Carson, California",USA,12.0,0,6.6,17.1
+726913,2025-04-13T02:30Z,LAFC,San Jose Earthquakes,2,1,"Los Angeles, California",USA,89.0,0,8.4,18.4
+726915,2025-04-13T18:15Z,Sporting Kansas City,Portland Timbers,2,4,"Kansas City, Kansas",USA,274.0,0,22.5,27.4
+726916,2025-04-13T20:30Z,Chicago Fire FC,Inter Miami CF,0,0,"Chicago, Illinois",USA,179.0,0,21.0,15.7
+726917,2025-04-13T23:00Z,St. Louis CITY SC,Columbus Crew,1,2,"St. Louis, Missouri",USA,142.0,0,16.1,23.5
+726918,2025-04-19T17:45Z,Austin FC,LA Galaxy,1,0,"Austin, Texas",USA,149.0,0.9,17.9,25.3
+726919,2025-04-19T20:30Z,Columbus Crew,Inter Miami CF,0,1,"Cleveland, Ohio",USA,199.0,0.4,20.0,10.5
+726921,2025-04-19T23:30Z,CF Montréal,Orlando City SC,0,0,Montreal,Canada,216.0,0.1,16.3,15.5
+726920,2025-04-19T23:30Z,Charlotte FC,San Diego FC,3,0,"Charlotte, North Carolina",USA,229.0,0,17.7,28.8
+726925,2025-04-19T23:30Z,New England Revolution,New York City FC,2,0,"Foxborough, Massachusetts",USA,88.0,0,21.3,22.1
+726923,2025-04-19T23:30Z,Philadelphia Union,Atlanta United FC,3,0,"Chester, Pennsylvania",USA,34.0,0,7.7,7.2
+726924,2025-04-19T23:30Z,Red Bull New York,D.C. United,1,2,"Harrison, New Jersey",USA,320.0,0,9.4,20.1
+726922,2025-04-19T23:30Z,Seattle Sounders FC,Nashville SC,3,0,"Seattle, Washington",USA,56.0,0,11.0,14.0
+726927,2025-04-20T00:30Z,Chicago Fire FC,FC Cincinnati,2,3,"Chicago, Illinois",USA,179.0,0,10.8,9.5
+726929,2025-04-20T00:30Z,Houston Dynamo FC,Colorado Rapids,2,2,"Houston, Texas",USA,12.0,0,20.8,25.4
+726928,2025-04-20T00:30Z,Minnesota United FC,FC Dallas,0,0,"Saint Paul, Minnesota",USA,242.0,0,6.2,9.7
+726926,2025-04-20T00:30Z,St. Louis CITY SC,Vancouver Whitecaps,0,0,"St. Louis, Missouri",USA,142.0,0.5,4.2,14.0
+726930,2025-04-20T01:30Z,Real Salt Lake,Toronto FC,0,1,"Sandy, Utah",USA,1361.0,0,8.0,11.4
+726931,2025-04-20T02:15Z,Portland Timbers,LAFC,3,3,"Portland, Oregon",USA,12.0,0,13.0,13.0
+726932,2025-04-20T02:30Z,San Jose Earthquakes,Sporting Kansas City,3,5,"San Jose, California",USA,26.0,0,13.3,16.1
+726933,2025-04-26T18:30Z,FC Cincinnati,Sporting Kansas City,2,1,"Cincinnati, Ohio",USA,191.0,0,16.7,14.5
+726934,2025-04-26T18:30Z,Toronto FC,New York City FC,0,1,Toronto,Canada,161.0,0,27.4,9.3
+726936,2025-04-26T20:30Z,Philadelphia Union,D.C. United,3,0,"Chester, Pennsylvania",USA,34.0,0,6.8,12.2
+726935,2025-04-26T20:30Z,Red Bull New York,CF Montréal,1,0,"Harrison, New Jersey",USA,320.0,0,10.4,19.9
+726937,2025-04-26T23:15Z,Orlando City SC,Atlanta United FC,3,0,"Orlando, Florida",USA,30.0,0,13.4,29.6
+726940,2025-04-26T23:30Z,Charlotte FC,New England Revolution,0,1,"Charlotte, North Carolina",USA,229.0,0,13.2,26.1
+726941,2025-04-26T23:30Z,Columbus Crew,San Jose Earthquakes,2,1,"Columbus, Ohio",USA,235.0,0,13.1,14.5
+726938,2025-04-26T23:30Z,San Diego FC,Real Salt Lake,1,3,"San Diego, California",USA,20.0,0.2,15.3,15.7
+726942,2025-04-27T00:30Z,Houston Dynamo FC,Austin FC,2,0,"Houston, Texas",USA,12.0,0,11.6,24.9
+726943,2025-04-27T00:30Z,Nashville SC,Chicago Fire FC,7,2,"Nashville, Tennessee",USA,170.0,0,11.6,19.6
+726945,2025-04-27T01:30Z,Colorado Rapids,Seattle Sounders FC,1,1,"Commerce City, Colorado",USA,1572.0,0,5.8,17.8
+726944,2025-04-27T19:00Z,Minnesota United FC,Vancouver Whitecaps,1,3,"Saint Paul, Minnesota",USA,242.0,0,22.1,16.4
+726939,2025-04-27T21:00Z,Inter Miami CF,FC Dallas,3,4,"Fort Lauderdale, Florida",USA,1.0,0,13.9,27.4
+726947,2025-04-27T23:00Z,LAFC,St. Louis CITY SC,2,2,"Los Angeles, California",USA,89.0,0,10.4,16.2
+726946,2025-04-28T01:00Z,LA Galaxy,Portland Timbers,2,4,"Carson, California",USA,12.0,0,10.6,15.7
+726948,2025-05-03T18:45Z,Atlanta United FC,Nashville SC,1,1,"Atlanta, Georgia",USA,320.0,0.5,7.7,19.0
+726949,2025-05-03T20:30Z,Toronto FC,New England Revolution,0,2,Toronto,Canada,161.0,0,5.6,9.6
+726950,2025-05-03T23:30Z,CF Montréal,Philadelphia Union,1,2,Montreal,Canada,216.0,0,7.0,11.6
+726952,2025-05-03T23:30Z,Columbus Crew,Charlotte FC,4,2,"Columbus, Ohio",USA,235.0,0.9,15.8,12.3
+726953,2025-05-03T23:30Z,D.C. United,Colorado Rapids,2,1,"Washington, District of Columbia",USA,7.0,8.8,7.3,20.8
+726951,2025-05-03T23:30Z,Inter Miami CF,Red Bull New York,4,1,"Fort Lauderdale, Florida",USA,1.0,0.2,8.0,25.3
+726954,2025-05-04T00:30Z,Austin FC,Minnesota United FC,0,3,"Austin, Texas",USA,149.0,0,10.3,22.0
+726955,2025-05-04T00:30Z,Chicago Fire FC,Orlando City SC,0,0,"Chicago, Illinois",USA,179.0,0,16.1,7.1
+726956,2025-05-04T01:15Z,San Diego FC,FC Dallas,5,0,"San Diego, California",USA,20.0,0.3,11.3,15.9
+726957,2025-05-04T01:30Z,Vancouver Whitecaps,Real Salt Lake,2,1,Vancouver,Canada,70.0,0,10.2,11.1
+726960,2025-05-04T02:30Z,LAFC,Houston Dynamo FC,2,0,"Los Angeles, California",USA,89.0,0,6.8,17.1
+726958,2025-05-04T02:30Z,San Jose Earthquakes,Portland Timbers,4,1,"San Jose, California",USA,26.0,0,11.2,14.6
+726959,2025-05-04T02:30Z,Seattle Sounders FC,St. Louis CITY SC,4,1,"Seattle, Washington",USA,56.0,0,6.0,12.1
+726961,2025-05-04T19:00Z,New York City FC,FC Cincinnati,1,0,"New York, New York",USA,10.0,2.5,13.1,19.0
+726962,2025-05-04T23:00Z,Sporting Kansas City,LA Galaxy,1,0,"Kansas City, Kansas",USA,274.0,0,6.4,19.1
+726963,2025-05-10T18:30Z,Chicago Fire FC,Atlanta United FC,2,1,"Chicago, Illinois",USA,179.0,0,17.9,13.0
+726965,2025-05-10T20:30Z,Minnesota United FC,Inter Miami CF,4,1,"Saint Paul, Minnesota",USA,242.0,0,11.0,22.4
+726964,2025-05-10T20:30Z,Toronto FC,D.C. United,2,0,Toronto,Canada,161.0,0,10.7,19.9
+726967,2025-05-10T23:30Z,FC Cincinnati,Austin FC,2,1,"Cincinnati, Ohio",USA,191.0,0,1.0,20.3
+726969,2025-05-10T23:30Z,New York City FC,CF Montréal,0,1,New York City,USA,10.0,0,10.2,19.0
+726968,2025-05-10T23:30Z,Orlando City SC,New England Revolution,3,3,"Orlando, Florida",USA,30.0,0,6.1,26.0
+726966,2025-05-10T23:30Z,Philadelphia Union,Columbus Crew,2,2,"Chester, Pennsylvania",USA,34.0,0,12.6,13.4
+726970,2025-05-10T23:30Z,Red Bull New York,LA Galaxy,7,0,"Harrison, New Jersey",USA,320.0,0,14.6,19.1
+726973,2025-05-11T00:30Z,FC Dallas,Real Salt Lake,1,1,Toyota Stadium,USA,,,,
+726972,2025-05-11T00:30Z,Houston Dynamo FC,Seattle Sounders FC,1,3,"Houston, Texas",USA,12.0,0.3,9.5,23.7
+726974,2025-05-11T00:30Z,Nashville SC,Charlotte FC,2,1,"Nashville, Tennessee",USA,170.0,0,14.6,19.3
+726971,2025-05-11T00:30Z,St. Louis CITY SC,San Diego FC,1,2,"St. Louis, Missouri",USA,142.0,0,2.6,21.3
+726975,2025-05-11T01:30Z,Colorado Rapids,San Jose Earthquakes,0,2,"Commerce City, Colorado",USA,1572.0,0,4.0,22.8
+726976,2025-05-11T02:30Z,Portland Timbers,Sporting Kansas City,1,0,"Portland, Oregon",USA,12.0,0,9.4,19.0
+726977,2025-05-11T23:00Z,Vancouver Whitecaps,LAFC,2,2,Vancouver,Canada,70.0,0,5.4,14.8
+726979,2025-05-14T23:30Z,CF Montréal,Columbus Crew,1,1,Montreal,Canada,216.0,0,8.1,21.6
+726980,2025-05-14T23:30Z,D.C. United,New York City FC,0,0,"Washington, District of Columbia",USA,7.0,4.9,7.5,21.8
+726978,2025-05-14T23:30Z,Orlando City SC,Charlotte FC,3,1,"Orlando, Florida",USA,30.0,0,6.3,28.8
+726981,2025-05-14T23:30Z,Philadelphia Union,LA Galaxy,3,2,"Chester, Pennsylvania",USA,34.0,0,11.0,12.7
+726982,2025-05-14T23:30Z,Toronto FC,FC Cincinnati,0,1,Toronto,Canada,161.0,0,15.1,14.8
+726984,2025-05-15T00:30Z,Houston Dynamo FC,Minnesota United FC,2,0,"Houston, Texas",USA,12.0,0,17.7,29.5
+726983,2025-05-15T00:30Z,Nashville SC,Red Bull New York,2,1,"Nashville, Tennessee",USA,170.0,0,9.4,23.7
+726986,2025-05-15T00:45Z,St. Louis CITY SC,Sporting Kansas City,2,2,"St. Louis, Missouri",USA,142.0,0,11.7,23.1
+726985,2025-05-15T01:00Z,Austin FC,Atlanta United FC,1,1,"Austin, Texas",USA,149.0,0,18.4,31.5
+726987,2025-05-15T01:30Z,Real Salt Lake,Portland Timbers,0,0,"Sandy, Utah",USA,1361.0,0,10.7,11.0
+726990,2025-05-15T02:30Z,LAFC,Seattle Sounders FC,4,0,"Los Angeles, California",USA,89.0,0,7.2,20.8
+726988,2025-05-15T02:30Z,San Diego FC,Colorado Rapids,2,0,"San Diego, California",USA,20.0,0,8.8,17.2
+726989,2025-05-15T02:30Z,San Jose Earthquakes,Inter Miami CF,3,3,"San Jose, California",USA,26.0,0,12.0,20.7
+726991,2025-05-17T18:30Z,CF Montréal,Toronto FC,1,6,Montreal,Canada,216.0,0.7,14.8,21.0
+726992,2025-05-17T20:30Z,New York City FC,Red Bull New York,2,0,"New York, New York",USA,10.0,0.5,8.9,25.9
+726993,2025-05-17T23:15Z,Columbus Crew,FC Cincinnati,1,1,"Columbus, Ohio",USA,235.0,0,19.1,18.7
+726994,2025-05-17T23:30Z,Atlanta United FC,Philadelphia Union,0,1,"Atlanta, Georgia",USA,320.0,0,11.6,28.0
+726995,2025-05-17T23:30Z,Charlotte FC,Chicago Fire FC,1,4,"Charlotte, North Carolina",USA,229.0,0,18.9,26.9
+726996,2025-05-17T23:30Z,New England Revolution,San Jose Earthquakes,0,0,"Foxborough, Massachusetts",USA,88.0,0,15.7,18.1
+726998,2025-05-18T00:30Z,Austin FC,Vancouver Whitecaps,0,0,"Austin, Texas",USA,149.0,0,9.6,33.3
+727000,2025-05-18T00:30Z,Minnesota United FC,St. Louis CITY SC,3,0,"Saint Paul, Minnesota",USA,242.0,0,15.2,8.6
+726999,2025-05-18T00:30Z,Nashville SC,D.C. United,0,0,"Nashville, Tennessee",USA,170.0,0,16.7,25.0
+726997,2025-05-18T01:25Z,FC Dallas,Houston Dynamo FC,0,2,Toyota Stadium,USA,,,,
+727001,2025-05-18T01:30Z,Colorado Rapids,Real Salt Lake,1,0,"Commerce City, Colorado",USA,1572.0,0,12.2,19.2
+727002,2025-05-18T01:30Z,Portland Timbers,Seattle Sounders FC,1,1,"Portland, Oregon",USA,12.0,0,17.2,15.2
+727003,2025-05-18T02:30Z,San Diego FC,Sporting Kansas City,0,0,"San Diego, California",USA,20.0,0.6,11.9,15.3
+727004,2025-05-18T23:00Z,Inter Miami CF,Orlando City SC,0,3,"Fort Lauderdale, Florida",USA,1.0,0,13.4,29.2
+727005,2025-05-19T01:00Z,LA Galaxy,LAFC,2,2,"Carson, California",USA,12.0,0,10.0,19.4
+727006,2025-05-24T19:00Z,Seattle Sounders FC,FC Dallas,1,0,"Seattle, Washington",USA,56.0,0,2.2,16.5
+727007,2025-05-24T20:45Z,San Diego FC,LA Galaxy,2,1,"San Diego, California",USA,20.0,0,12.7,19.6
+727008,2025-05-24T23:30Z,CF Montréal,LAFC,2,2,Montreal,Canada,216.0,0.7,4.3,7.9
+727009,2025-05-24T23:30Z,Charlotte FC,Columbus Crew,3,2,"Charlotte, North Carolina",USA,229.0,0,9.4,24.0
+727010,2025-05-24T23:30Z,D.C. United,Red Bull New York,0,2,"Washington, District of Columbia",USA,7.0,0,12.2,18.2
+727011,2025-05-24T23:30Z,Orlando City SC,Portland Timbers,1,0,"Orlando, Florida",USA,30.0,0,8.0,27.6
+727012,2025-05-24T23:30Z,Philadelphia Union,Inter Miami CF,3,3,"Chester, Pennsylvania",USA,34.0,0.1,19.2,15.2
+727013,2025-05-24T23:30Z,Toronto FC,Nashville SC,1,2,Toronto,Canada,161.0,0,17.9,12.9
+727015,2025-05-25T00:30Z,Minnesota United FC,Austin FC,1,1,"Saint Paul, Minnesota",USA,242.0,0,6.5,16.9
+727014,2025-05-25T00:30Z,Sporting Kansas City,New England Revolution,3,3,"Kansas City, Kansas",USA,274.0,0.4,15.9,20.6
+727016,2025-05-25T01:30Z,Colorado Rapids,St. Louis CITY SC,1,0,"Commerce City, Colorado",USA,1572.0,1.1,16.7,13.6
+727017,2025-05-25T01:30Z,Real Salt Lake,Vancouver Whitecaps,2,3,"Sandy, Utah",USA,1361.0,0,9.0,24.1
+727018,2025-05-25T02:30Z,San Jose Earthquakes,Houston Dynamo FC,3,3,"San Jose, California",USA,26.0,0,10.2,17.3
+727019,2025-05-25T19:00Z,New York City FC,Chicago Fire FC,3,1,New York City,USA,10.0,0,17.4,18.7
+727020,2025-05-25T23:00Z,Atlanta United FC,FC Cincinnati,4,2,"Atlanta, Georgia",USA,320.0,0,2.6,28.2
+727021,2025-05-28T23:30Z,Atlanta United FC,Orlando City SC,3,2,"Atlanta, Georgia",USA,320.0,1.0,7.9,24.9
+727023,2025-05-28T23:30Z,D.C. United,New England Revolution,1,1,"Washington, District of Columbia",USA,7.0,0.2,13.5,15.5
+727024,2025-05-28T23:30Z,FC Cincinnati,FC Dallas,3,3,"Cincinnati, Ohio",USA,191.0,0,7.8,21.3
+727022,2025-05-28T23:30Z,Inter Miami CF,CF Montréal,4,2,"Fort Lauderdale, Florida",USA,1.0,0,9.4,30.1
+727025,2025-05-28T23:30Z,New York City FC,Houston Dynamo FC,0,3,New York City,USA,10.0,2.6,7.0,14.0
+727027,2025-05-28T23:30Z,Red Bull New York,Charlotte FC,4,2,"Harrison, New Jersey",USA,320.0,0,5.4,21.3
+727026,2025-05-28T23:30Z,Toronto FC,Philadelphia Union,1,2,Toronto,Canada,161.0,0.7,15.8,11.2
+727028,2025-05-29T00:00Z,Columbus Crew,Nashville SC,2,2,"Columbus, Ohio",USA,235.0,0,5.3,18.8
+727029,2025-05-29T00:30Z,Austin FC,Real Salt Lake,1,1,"Austin, Texas",USA,149.0,3.0,10.1,23.8
+727030,2025-05-29T00:30Z,Seattle Sounders FC,San Diego FC,1,0,"Seattle, Washington",USA,56.0,0,16.5,26.2
+727031,2025-05-29T02:15Z,LA Galaxy,San Jose Earthquakes,0,1,"Carson, California",USA,12.0,0,6.5,18.2
+727032,2025-05-29T02:30Z,Portland Timbers,Colorado Rapids,2,1,"Portland, Oregon",USA,12.0,0,15.1,25.3
+727033,2025-05-29T02:30Z,Vancouver Whitecaps,Minnesota United FC,0,0,Vancouver,Canada,70.0,0,4.4,22.8
+727035,2025-05-31T18:30Z,St. Louis CITY SC,San Jose Earthquakes,2,1,"St. Louis, Missouri",USA,142.0,0,17.4,27.8
+727036,2025-05-31T20:30Z,Nashville SC,New York City FC,2,2,"Nashville, Tennessee",USA,170.0,0,19.7,26.8
+727039,2025-05-31T23:30Z,CF Montréal,New England Revolution,0,3,Montreal,Canada,216.0,2.2,15.8,10.2
+727041,2025-05-31T23:30Z,FC Cincinnati,D.C. United,1,2,"Cincinnati, Ohio",USA,191.0,0,14.3,20.1
+727040,2025-05-31T23:30Z,Inter Miami CF,Columbus Crew,5,1,"Fort Lauderdale, Florida",USA,1.0,0,10.3,30.3
+727038,2025-05-31T23:30Z,Orlando City SC,Chicago Fire FC,1,3,"Orlando, Florida",USA,30.0,0.4,12.0,27.1
+727037,2025-05-31T23:30Z,Red Bull New York,Atlanta United FC,2,0,"Harrison, New Jersey",USA,320.0,0,7.6,24.8
+727042,2025-05-31T23:30Z,Toronto FC,Charlotte FC,0,2,Toronto,Canada,161.0,0,22.9,12.1
+727043,2025-06-01T00:30Z,FC Dallas,Philadelphia Union,0,0,Toyota Stadium,USA,,,,
+727044,2025-06-01T00:30Z,Houston Dynamo FC,Sporting Kansas City,1,3,"Houston, Texas",USA,12.0,0,3.7,30.3
+727047,2025-06-01T02:30Z,LA Galaxy,Real Salt Lake,2,0,"Carson, California",USA,12.0,0,6.7,23.0
+727048,2025-06-01T02:30Z,San Diego FC,Austin FC,2,0,"San Diego, California",USA,20.0,0,2.7,22.8
+727049,2025-06-01T22:00Z,Seattle Sounders FC,Minnesota United FC,2,3,"Seattle, Washington",USA,56.0,0,10.6,17.1
+727050,2025-06-07T23:30Z,D.C. United,Chicago Fire FC,1,7,"Washington, District of Columbia",USA,7.0,0,9.3,27.2
+727051,2025-06-08T01:30Z,Colorado Rapids,Austin FC,0,2,"Commerce City, Colorado",USA,1572.0,0,3.8,24.1
+727052,2025-06-08T23:00Z,Portland Timbers,St. Louis CITY SC,2,1,"Portland, Oregon",USA,12.0,0,8.6,35.0
+727034,2025-06-09T01:00Z,LAFC,Sporting Kansas City,3,1,"Los Angeles, California",USA,89.0,0,10.1,22.2
+727053,2025-06-09T01:00Z,Vancouver Whitecaps,Seattle Sounders FC,3,0,Vancouver,Canada,70.0,0,4.4,25.7
+727054,2025-06-12T23:30Z,New York City FC,Atlanta United FC,4,0,New York City,USA,10.0,0,12.3,30.1
+727056,2025-06-14T02:30Z,Portland Timbers,San Jose Earthquakes,1,1,"Portland, Oregon",USA,12.0,0,8.9,16.4
+727057,2025-06-14T20:30Z,St. Louis CITY SC,LA Galaxy,3,3,"St. Louis, Missouri",USA,142.0,0.5,11.4,25.2
+727060,2025-06-14T23:30Z,Columbus Crew,Vancouver Whitecaps,2,1,"Columbus, Ohio",USA,235.0,0.6,2.9,24.4
+727059,2025-06-14T23:30Z,New England Revolution,FC Cincinnati,0,1,"Foxborough, Massachusetts",USA,88.0,0,12.2,14.1
+727058,2025-06-14T23:30Z,Philadelphia Union,Charlotte FC,2,1,"Chester, Pennsylvania",USA,34.0,0,8.4,13.0
+727062,2025-06-15T00:30Z,Austin FC,Red Bull New York,2,1,"Austin, Texas",USA,149.0,0,7.7,29.1
+727063,2025-06-15T00:30Z,Chicago Fire FC,Nashville SC,0,2,"Chicago, Illinois",USA,179.0,0,10.3,17.8
+727064,2025-06-15T00:30Z,Houston Dynamo FC,CF Montréal,1,3,"Houston, Texas",USA,12.0,0,7.5,29.8
+727061,2025-06-15T00:30Z,Minnesota United FC,San Diego FC,2,4,"Saint Paul, Minnesota",USA,242.0,0,9.8,17.2
+727065,2025-06-15T00:30Z,Sporting Kansas City,FC Dallas,2,4,"Kansas City, Kansas",USA,274.0,0,6.0,29.2
+727066,2025-06-15T01:30Z,Colorado Rapids,Orlando City SC,0,1,"Commerce City, Colorado",USA,1572.0,0,12.4,30.8
+727067,2025-06-15T01:30Z,Real Salt Lake,D.C. United,2,0,"Sandy, Utah",USA,1361.0,0,9.1,33.4

@@ -381,3 +381,101 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 691778,2024-11-10T14:00Z,Malmö FF,IF Brommapojkarna,2,1,Malmo,Sweden,10.0,0,12.8,5.6
 691779,2024-11-10T14:00Z,Mjällby AIF,IFK Göteborg,1,0,Sölvesborg,Sweden,15.0,0,11.2,6.5
 691780,2024-11-10T14:00Z,Västerås SK,Hammarby IF,1,0,Västeras,Sweden,16.0,0,5.0,4.3
+725802,2025-03-29T14:00Z,Djurgården,Malmö FF,0,1,Stockholm,Sweden,17.0,0,15.8,12.1
+725806,2025-03-29T16:30Z,BK Häcken,IF Brommapojkarna,2,0,Gothenburg,Sweden,10.0,0,13.3,7.6
+725805,2025-03-30T12:00Z,Hammarby IF,IFK Göteborg,4,0,Stockholm,Sweden,17.0,0,4.7,8.8
+725803,2025-03-30T12:00Z,IF Elfsborg,Mjällby AIF,2,2,Boras,Sweden,143.0,0.2,16.0,4.0
+725808,2025-03-30T14:30Z,Halmstads BK,Degerfors IF,0,5,Halmstads,Sweden,,,,
+725807,2025-03-30T14:30Z,IFK Norrköping,Östers IF,4,3,Norrköping,Sweden,12.0,0.1,15.5,6.6
+725809,2025-03-31T17:00Z,IFK Värnamo,IK Sirius,1,2,Värnamo,Sweden,156.0,0,6.4,8.7
+725804,2025-03-31T17:10Z,GAIS,AIK,0,1,Göteborg,Sweden,23.0,0,11.7,7.1
+725813,2025-04-05T13:00Z,IFK Göteborg,Halmstads BK,1,0,Göteborg,Sweden,23.0,0,18.9,7.3
+725816,2025-04-05T13:00Z,IK Sirius,Djurgården,0,1,Uppsala,Sweden,20.0,0,27.1,3.7
+725810,2025-04-05T15:30Z,Östers IF,BK Häcken,2,0,Vaxjo,Sweden,169.0,0,20.7,5.3
+725812,2025-04-06T12:00Z,AIK,IFK Norrköping,4,3,Stockholm,Sweden,17.0,0,9.3,5.7
+725811,2025-04-06T12:00Z,IF Brommapojkarna,Hammarby IF,0,2,Stockholm,Sweden,17.0,0,9.3,5.7
+725817,2025-04-06T14:30Z,Degerfors IF,IFK Värnamo,1,0,Degerfors,Sweden,112.0,0,13.6,11.2
+725815,2025-04-06T14:30Z,Mjällby AIF,GAIS,1,1,Sölvesborg,Sweden,15.0,0,18.0,9.0
+725814,2025-04-07T17:10Z,Malmö FF,IF Elfsborg,2,1,Malmo,Sweden,10.0,0,16.6,8.6
+725823,2025-04-12T13:00Z,BK Häcken,Mjällby AIF,0,3,Gothenburg,Sweden,10.0,0,15.7,12.0
+725819,2025-04-12T15:30Z,IF Elfsborg,IFK Norrköping,2,0,Boras,Sweden,143.0,0,15.7,14.6
+725822,2025-04-13T12:00Z,Hammarby IF,Djurgården,2,0,Stockholm,Sweden,17.0,0,16.8,12.9
+725825,2025-04-13T12:00Z,IFK Värnamo,IFK Göteborg,0,1,Värnamo,Sweden,156.0,0,18.7,16.8
+725820,2025-04-13T14:30Z,GAIS,Degerfors IF,2,0,Göteborg,Sweden,23.0,0,19.1,18.7
+725824,2025-04-13T14:30Z,IK Sirius,IF Brommapojkarna,0,3,Uppsala,Sweden,20.0,0,21.5,13.9
+725821,2025-04-14T17:00Z,Halmstads BK,Östers IF,1,0,Halmstads,Sweden,,,,
+725818,2025-04-14T17:10Z,AIK,Malmö FF,0,0,Stockholm,Sweden,17.0,0,11.5,12.3
+725830,2025-04-18T13:00Z,Malmö FF,IK Sirius,1,1,Malmo,Sweden,10.0,0.5,25.9,10.3
+725831,2025-04-18T13:00Z,Mjällby AIF,Hammarby IF,3,1,Sölvesborg,Sweden,15.0,0,12.6,11.6
+725827,2025-04-19T13:00Z,Degerfors IF,IF Elfsborg,0,1,Degerfors,Sweden,112.0,4.1,17.5,7.9
+725832,2025-04-19T13:00Z,IFK Norrköping,Halmstads BK,3,0,Norrköping,Sweden,12.0,4.9,18.3,10.4
+725826,2025-04-20T12:00Z,IF Brommapojkarna,IFK Värnamo,3,2,Stockholm,Sweden,17.0,0,5.4,8.1
+725833,2025-04-20T12:00Z,Östers IF,AIK,0,1,Vaxjo,Sweden,169.0,0.1,9.5,10.7
+725829,2025-04-20T14:30Z,IFK Göteborg,BK Häcken,2,3,Göteborg,Sweden,23.0,0.4,9.3,8.9
+725828,2025-04-21T12:00Z,Djurgården,GAIS,0,0,Stockholm,Sweden,17.0,0,9.5,9.2
+725839,2025-04-23T17:00Z,BK Häcken,Degerfors IF,3,4,Gothenburg,Sweden,10.0,0,8.0,10.7
+725837,2025-04-23T17:00Z,Halmstads BK,Mjällby AIF,1,3,Halmstads,Sweden,,,,
+725838,2025-04-23T17:00Z,Hammarby IF,Malmö FF,2,0,Stockholm,Sweden,17.0,0.5,11.1,6.9
+725835,2025-04-23T17:00Z,IF Elfsborg,IK Sirius,4,3,Boras,Sweden,143.0,0.1,8.5,10.0
+725834,2025-04-24T17:00Z,Djurgården,Östers IF,1,0,Stockholm,Sweden,17.0,0,9.8,6.5
+725836,2025-04-24T17:00Z,GAIS,IF Brommapojkarna,1,1,Göteborg,Sweden,23.0,0,7.6,10.5
+725840,2025-04-24T17:00Z,IFK Norrköping,IFK Göteborg,2,3,Norrköping,Sweden,12.0,0,13.6,6.8
+725841,2025-04-24T17:00Z,IFK Värnamo,AIK,1,2,Värnamo,Sweden,156.0,0,9.9,10.9
+725845,2025-04-27T12:00Z,BK Häcken,Hammarby IF,1,1,Gothenburg,Sweden,10.0,0,19.7,12.6
+725843,2025-04-27T12:00Z,Mjällby AIF,Degerfors IF,4,1,Sölvesborg,Sweden,15.0,0,20.0,10.3
+725842,2025-04-27T14:00Z,AIK,IF Elfsborg,2,0,Stockholm,Sweden,17.0,0,14.8,14.1
+725849,2025-04-27T14:30Z,IFK Värnamo,IFK Norrköping,1,3,Värnamo,Sweden,156.0,0,13.9,14.9
+725844,2025-04-27T14:30Z,IK Sirius,Halmstads BK,1,1,Uppsala,Sweden,20.0,0,25.4,15.6
+725848,2025-04-28T17:10Z,IFK Göteborg,GAIS,1,1,Göteborg,Sweden,23.0,0,17.6,12.5
+725847,2025-04-29T17:00Z,Malmö FF,Östers IF,2,0,Malmo,Sweden,10.0,0,13.0,15.1
+725852,2025-05-03T13:00Z,Degerfors IF,IK Sirius,1,1,Degerfors,Sweden,112.0,0.1,11.2,13.8
+725853,2025-05-03T15:30Z,Halmstads BK,IFK Värnamo,4,2,Halmstads,Sweden,,,,
+725850,2025-05-04T12:00Z,Djurgården,AIK,1,1,Stockholm,Sweden,17.0,0.1,26.7,7.1
+725856,2025-05-04T12:00Z,IFK Norrköping,BK Häcken,0,2,Norrköping,Sweden,12.0,0,25.3,8.4
+725855,2025-05-04T14:30Z,Mjällby AIF,IFK Göteborg,1,0,Sölvesborg,Sweden,15.0,0.1,21.9,7.6
+725857,2025-05-04T14:30Z,Östers IF,Hammarby IF,0,3,Vaxjo,Sweden,169.0,0.1,16.9,7.1
+725854,2025-05-05T17:00Z,Malmö FF,IF Brommapojkarna,1,2,Malmo,Sweden,10.0,0,22.1,9.7
+725851,2025-05-05T17:10Z,IF Elfsborg,GAIS,2,0,Boras,Sweden,143.0,0,21.0,10.3
+725865,2025-05-10T13:00Z,IF Brommapojkarna,Halmstads BK,0,1,Stockholm,Sweden,17.0,0,2.3,9.5
+725859,2025-05-10T15:30Z,GAIS,IFK Värnamo,1,1,Göteborg,Sweden,23.0,0,9.4,14.3
+725862,2025-05-10T15:30Z,IK Sirius,BK Häcken,2,0,Uppsala,Sweden,20.0,0,2.8,9.8
+725863,2025-05-11T12:00Z,AIK,Mjällby AIF,2,1,Stockholm,Sweden,17.0,0,5.9,12.9
+725860,2025-05-11T12:00Z,Hammarby IF,IFK Norrköping,1,1,Stockholm,Sweden,17.0,0,5.9,12.9
+725858,2025-05-11T14:30Z,Degerfors IF,Malmö FF,1,4,Degerfors,Sweden,112.0,0,8.8,14.2
+725864,2025-05-11T14:30Z,Östers IF,IF Elfsborg,0,1,Vaxjo,Sweden,169.0,0,6.8,11.3
+725861,2025-05-12T17:10Z,IFK Göteborg,Djurgården,1,2,Göteborg,Sweden,23.0,0,8.7,13.3
+725870,2025-05-14T17:00Z,BK Häcken,AIK,3,3,Gothenburg,Sweden,10.0,0,16.9,13.1
+725867,2025-05-14T17:00Z,Halmstads BK,GAIS,1,3,Halmstads,Sweden,,,,
+725869,2025-05-14T17:00Z,Hammarby IF,IK Sirius,3,2,Stockholm,Sweden,17.0,0.7,19.8,6.3
+725866,2025-05-15T17:00Z,Djurgården,Mjällby AIF,1,3,Stockholm,Sweden,17.0,0,21.4,12.2
+725868,2025-05-15T17:00Z,IF Elfsborg,IF Brommapojkarna,4,3,Boras,Sweden,143.0,0,18.5,14.3
+725871,2025-05-15T17:00Z,IFK Göteborg,Östers IF,0,1,Göteborg,Sweden,23.0,0,10.6,16.3
+725872,2025-05-15T17:00Z,IFK Norrköping,Degerfors IF,1,2,Norrköping,Sweden,12.0,0,14.0,14.3
+725873,2025-05-15T17:00Z,IFK Värnamo,Malmö FF,2,2,Värnamo,Sweden,156.0,0,15.1,13.6
+725874,2025-05-18T12:00Z,AIK,Hammarby IF,0,0,Stockholm,Sweden,17.0,0,22.7,15.1
+725877,2025-05-18T12:00Z,BK Häcken,IFK Värnamo,2,0,Gothenburg,Sweden,10.0,0,20.6,16.4
+725878,2025-05-18T14:30Z,Malmö FF,Halmstads BK,3,0,Malmo,Sweden,10.0,0.4,23.6,12.8
+725881,2025-05-18T14:30Z,Östers IF,GAIS,1,1,Vaxjo,Sweden,169.0,0,24.8,15.6
+725875,2025-05-19T17:00Z,Degerfors IF,IFK Göteborg,1,3,Degerfors,Sweden,112.0,0,12.9,18.7
+725880,2025-05-19T17:00Z,IK Sirius,IFK Norrköping,1,2,Uppsala,Sweden,20.0,0,4.2,20.1
+725879,2025-05-19T17:00Z,Mjällby AIF,IF Brommapojkarna,1,0,Sölvesborg,Sweden,15.0,0,20.0,12.8
+725876,2025-05-19T17:10Z,IF Elfsborg,Djurgården,4,0,Boras,Sweden,143.0,0,8.9,20.4
+725945,2025-05-22T17:00Z,Hammarby IF,Mjällby AIF,1,2,Stockholm,Sweden,17.0,0,10.6,9.3
+725943,2025-05-22T17:00Z,Malmö FF,AIK,0,0,Malmo,Sweden,10.0,0,29.5,9.6
+725889,2025-05-24T13:00Z,IFK Värnamo,Östers IF,1,1,Värnamo,Sweden,156.0,0,13.7,13.2
+725885,2025-05-24T15:30Z,GAIS,IK Sirius,2,1,Göteborg,Sweden,23.0,0,17.1,11.1
+725888,2025-05-25T12:00Z,Halmstads BK,IF Elfsborg,1,4,Halmstads,Sweden,,,,
+725883,2025-05-25T12:00Z,IFK Göteborg,Malmö FF,1,0,Göteborg,Sweden,23.0,1.7,22.0,12.1
+725886,2025-05-25T14:30Z,Djurgården,BK Häcken,1,1,Stockholm,Sweden,17.0,0,14.7,12.2
+725882,2025-05-25T14:30Z,IF Brommapojkarna,AIK,0,1,Stockholm,Sweden,17.0,0,14.7,12.2
+725884,2025-05-26T17:00Z,IFK Norrköping,Mjällby AIF,1,1,Norrköping,Sweden,12.0,0,15.2,15.2
+725887,2025-05-26T17:10Z,Hammarby IF,Degerfors IF,1,0,Stockholm,Sweden,17.0,0,14.1,16.7
+725846,2025-05-29T16:00Z,IF Brommapojkarna,Djurgården,0,1,Stockholm,Sweden,17.0,0,9.4,19.3
+725891,2025-05-31T13:00Z,Degerfors IF,Östers IF,1,2,Degerfors,Sweden,112.0,0,15.4,16.3
+725892,2025-05-31T13:00Z,IF Elfsborg,Hammarby IF,0,2,Boras,Sweden,143.0,0,14.0,17.4
+725896,2025-05-31T13:00Z,IFK Norrköping,GAIS,0,3,Norrköping,Sweden,12.0,0,16.2,18.2
+725893,2025-06-01T12:00Z,Halmstads BK,Djurgården,1,0,Halmstads,Sweden,,,,
+725890,2025-06-01T12:00Z,IF Brommapojkarna,IFK Göteborg,1,3,Stockholm,Sweden,17.0,0,15.0,19.6
+725894,2025-06-01T12:00Z,Malmö FF,BK Häcken,3,0,Malmo,Sweden,10.0,0,20.1,17.7
+725897,2025-06-01T14:30Z,IK Sirius,AIK,3,1,Uppsala,Sweden,20.0,0,20.2,19.1
+725895,2025-06-01T14:30Z,Mjällby AIF,IFK Värnamo,2,0,Sölvesborg,Sweden,15.0,0.2,13.7,13.9

@@ -359,3 +359,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712034,2025-03-16T12:30Z,1. FC Nürnberg,SpVgg Greuther Fürth,3,0,Nürnberg,Germany,300.0,0,9.5,9.3
 712038,2025-03-16T12:30Z,Karlsruher SC,SSV Ulm 1846,0,0,Karlsruhe,Germany,118.0,0,12.3,7.9
 712035,2025-03-16T12:30Z,TSV Eintracht Braunschweig,Hertha Berlin,1,5,Braunschweig,Germany,72.0,0,7.7,6.9
+712042,2025-03-28T17:30Z,Hamburg SV,SV Elversberg,0,0,Hamburg Norderstedt,Germany,,,,
+712048,2025-03-28T17:30Z,SSV Ulm 1846,SV Darmstadt 98,2,1,Ulm,Germany,480.0,0,4.1,10.6
+712043,2025-03-29T12:00Z,Hannover 96,1. FC Magdeburg,0,0,Hannover,Germany,57.0,0,15.6,12.9
+712044,2025-03-29T12:00Z,Hertha Berlin,Karlsruher SC,3,1,Berlin,Germany,74.0,0,14.2,15.4
+712045,2025-03-29T12:00Z,SC Paderborn 07,FC Cologne,1,2,Paderborn,Germany,118.0,0,14.3,11.9
+712041,2025-03-29T19:30Z,Kaiserslautern,Fortuna Düsseldorf,3,1,Kaiserslautern,Germany,240.0,0,7.7,6.7
+712046,2025-03-30T11:30Z,Preußen Münster,TSV Eintracht Braunschweig,1,1,Münster,Germany,64.0,0.2,29.5,11.7
+712049,2025-03-30T11:30Z,SpVgg Greuther Fürth,Schalke 04,3,3,Fürth,Germany,302.0,0.3,21.3,11.1
+712047,2025-03-30T11:30Z,SSV Jahn Regensburg,1. FC Nürnberg,2,1,Regensburg,Germany,341.0,0,18.2,12.2
+712056,2025-04-04T16:30Z,Karlsruher SC,Hannover 96,1,0,Karlsruhe,Germany,118.0,0,13.1,20.4
+712054,2025-04-04T16:30Z,TSV Eintracht Braunschweig,SC Paderborn 07,3,2,Braunschweig,Germany,72.0,0,3.4,18.7
+712052,2025-04-05T11:00Z,1. FC Nürnberg,Hamburg SV,0,3,Nürnberg,Germany,300.0,0,10.4,17.3
+712055,2025-04-05T11:00Z,Fortuna Düsseldorf,Preußen Münster,1,0,Düsseldorf,Germany,42.0,0,14.3,16.8
+712053,2025-04-05T11:00Z,SV Darmstadt 98,SpVgg Greuther Fürth,1,0,Darmstadt,Germany,148.0,0,9.4,18.4
+712050,2025-04-05T18:30Z,FC Cologne,Hertha Berlin,0,1,Cologne,Germany,58.0,0,13.2,12.9
+712051,2025-04-06T11:30Z,1. FC Magdeburg,Kaiserslautern,2,0,Magdeburg,Germany,47.0,0,14.9,6.4
+712058,2025-04-06T11:30Z,Schalke 04,SSV Ulm 1846,2,1,Gelsenkirchen,Germany,48.0,0,13.4,9.7
+712057,2025-04-06T11:30Z,SV Elversberg,SSV Jahn Regensburg,6,0,Spiesen-Elversberg,Germany,353.0,0,19.8,8.2
+712060,2025-04-11T16:30Z,Hamburg SV,TSV Eintracht Braunschweig,2,4,Hamburg Norderstedt,Germany,,,,
+712067,2025-04-11T16:30Z,SpVgg Greuther Fürth,FC Cologne,1,1,Fürth,Germany,302.0,0,14.9,16.7
+712061,2025-04-12T11:00Z,Hannover 96,SV Elversberg,1,3,Hannover,Germany,57.0,0,4.5,17.8
+712062,2025-04-12T11:00Z,Hertha Berlin,SV Darmstadt 98,1,1,Berlin,Germany,74.0,0,6.0,15.5
+712066,2025-04-12T11:00Z,SSV Ulm 1846,1. FC Magdeburg,1,0,Ulm,Germany,480.0,0,13.7,16.9
+712059,2025-04-12T18:30Z,Kaiserslautern,1. FC Nürnberg,1,2,Kaiserslautern,Germany,240.0,0,8.1,16.1
+712064,2025-04-13T11:30Z,Preußen Münster,Karlsruher SC,1,1,Münster,Germany,64.0,0.4,23.4,17.7
+712063,2025-04-13T11:30Z,SC Paderborn 07,Fortuna Düsseldorf,1,2,Paderborn,Germany,118.0,0.3,22.6,17.9
+712065,2025-04-13T11:30Z,SSV Jahn Regensburg,Schalke 04,2,0,Regensburg,Germany,341.0,0,4.0,18.0
+712070,2025-04-19T11:00Z,1. FC Nürnberg,SC Paderborn 07,2,3,Nürnberg,Germany,300.0,0,6.0,14.6
+712075,2025-04-19T11:00Z,SV Elversberg,Fortuna Düsseldorf,1,1,Spiesen-Elversberg,Germany,353.0,0,8.9,15.1
+712071,2025-04-19T11:00Z,TSV Eintracht Braunschweig,Kaiserslautern,2,0,Braunschweig,Germany,72.0,0.2,9.0,9.5
+712072,2025-04-19T18:30Z,Schalke 04,Hamburg SV,2,2,Gelsenkirchen,Germany,48.0,0,6.4,12.5
+712069,2025-04-20T11:30Z,1. FC Magdeburg,SSV Jahn Regensburg,3,0,Magdeburg,Germany,47.0,0,5.9,16.6
+712068,2025-04-20T11:30Z,FC Cologne,Preußen Münster,3,1,Cologne,Germany,58.0,0,1.8,18.6
+712073,2025-04-20T11:30Z,Karlsruher SC,SpVgg Greuther Fürth,1,0,Karlsruhe,Germany,118.0,0,21.8,18.9
+712074,2025-04-20T11:30Z,SSV Ulm 1846,Hertha Berlin,2,3,Ulm,Germany,480.0,0,8.1,19.2
+712076,2025-04-20T11:30Z,SV Darmstadt 98,Hannover 96,3,1,Darmstadt,Germany,148.0,0,11.2,20.5
+712081,2025-04-25T16:30Z,Hertha Berlin,1. FC Magdeburg,1,1,Berlin,Germany,74.0,0,13.6,15.9
+712085,2025-04-25T16:30Z,SpVgg Greuther Fürth,SSV Ulm 1846,0,1,Fürth,Germany,302.0,0.1,11.0,12.0
+712083,2025-04-26T11:00Z,Preußen Münster,SV Darmstadt 98,1,1,Münster,Germany,64.0,0,13.2,16.4
+712082,2025-04-26T11:00Z,SC Paderborn 07,SV Elversberg,1,1,Paderborn,Germany,118.0,0,14.4,16.1
+712084,2025-04-26T11:00Z,SSV Jahn Regensburg,TSV Eintracht Braunschweig,1,1,Regensburg,Germany,341.0,0,13.0,15.4
+712078,2025-04-26T18:30Z,Fortuna Düsseldorf,1. FC Nürnberg,3,3,Düsseldorf,Germany,42.0,0,10.9,15.8
+712079,2025-04-27T11:30Z,Hamburg SV,Karlsruher SC,1,2,Hamburg Norderstedt,Germany,,,,
+712080,2025-04-27T11:30Z,Hannover 96,FC Cologne,1,0,Hannover,Germany,57.0,0,11.4,15.2
+712077,2025-04-27T11:30Z,Kaiserslautern,Schalke 04,2,1,Kaiserslautern,Germany,240.0,0,11.6,15.8
+712089,2025-05-02T16:30Z,1. FC Magdeburg,Preußen Münster,0,5,Magdeburg,Germany,47.0,0,18.3,24.3
+712086,2025-05-02T16:30Z,Schalke 04,SC Paderborn 07,0,2,Gelsenkirchen,Germany,48.0,0,5.7,24.4
+712090,2025-05-03T11:00Z,SSV Ulm 1846,Hannover 96,1,2,Ulm,Germany,480.0,0.7,14.3,17.3
+712091,2025-05-03T11:00Z,SV Darmstadt 98,Hamburg SV,0,4,Darmstadt,Germany,148.0,0,18.9,21.2
+712087,2025-05-03T11:00Z,TSV Eintracht Braunschweig,Fortuna Düsseldorf,2,2,Braunschweig,Germany,72.0,0.2,2.2,16.6
+712094,2025-05-03T18:30Z,FC Cologne,SSV Jahn Regensburg,1,1,Cologne,Germany,58.0,0.3,10.4,14.5
+712088,2025-05-04T11:30Z,1. FC Nürnberg,SV Elversberg,1,3,Nürnberg,Germany,300.0,0,8.9,14.6
+712092,2025-05-04T11:30Z,Hertha Berlin,SpVgg Greuther Fürth,1,0,Berlin,Germany,74.0,0,22.6,14.0
+712093,2025-05-04T11:30Z,Karlsruher SC,Kaiserslautern,2,2,Karlsruhe,Germany,118.0,0,8.7,13.3
+712101,2025-05-09T16:30Z,1. FC Nürnberg,FC Cologne,1,2,Nürnberg,Germany,300.0,0,15.3,16.6
+712097,2025-05-09T16:30Z,Preußen Münster,Hertha Berlin,2,0,Münster,Germany,64.0,0,9.0,19.6
+712102,2025-05-10T11:00Z,Fortuna Düsseldorf,Schalke 04,2,0,Düsseldorf,Germany,42.0,0,8.6,21.2
+712096,2025-05-10T11:00Z,SC Paderborn 07,1. FC Magdeburg,2,1,Paderborn,Germany,118.0,0,2.3,19.5
+712099,2025-05-10T11:00Z,SV Elversberg,TSV Eintracht Braunschweig,3,0,Spiesen-Elversberg,Germany,353.0,0,13.4,17.7
+712103,2025-05-10T18:30Z,Hamburg SV,SSV Ulm 1846,6,1,Hamburg Norderstedt,Germany,,,,
+712100,2025-05-11T11:30Z,Hannover 96,SpVgg Greuther Fürth,1,1,Hannover,Germany,57.0,0,12.5,20.4
+712095,2025-05-11T11:30Z,Kaiserslautern,SV Darmstadt 98,2,1,Kaiserslautern,Germany,240.0,0,14.7,20.6
+712098,2025-05-11T11:30Z,SSV Jahn Regensburg,Karlsruher SC,2,2,Regensburg,Germany,341.0,0,12.3,19.1
+712109,2025-05-18T13:30Z,1. FC Magdeburg,Fortuna Düsseldorf,4,2,Magdeburg,Germany,47.0,0.1,21.5,15.9
+712110,2025-05-18T13:30Z,FC Cologne,Kaiserslautern,4,0,Cologne,Germany,58.0,0.1,8.9,15.9
+712112,2025-05-18T13:30Z,Hertha Berlin,Hannover 96,1,1,Berlin,Germany,74.0,0.1,16.3,13.0
+712111,2025-05-18T13:30Z,Karlsruher SC,SC Paderborn 07,3,0,Karlsruhe,Germany,118.0,0,14.3,21.2
+712106,2025-05-18T13:30Z,Schalke 04,SV Elversberg,1,2,Gelsenkirchen,Germany,48.0,0,6.0,16.7
+712105,2025-05-18T13:30Z,SpVgg Greuther Fürth,Hamburg SV,3,2,Fürth,Germany,302.0,0.1,20.2,17.2
+712104,2025-05-18T13:30Z,SSV Ulm 1846,Preußen Münster,2,2,Ulm,Germany,480.0,0.2,14.9,17.0
+712108,2025-05-18T13:30Z,SV Darmstadt 98,SSV Jahn Regensburg,3,1,Darmstadt,Germany,148.0,0,12.6,16.7
+712107,2025-05-18T13:30Z,TSV Eintracht Braunschweig,1. FC Nürnberg,1,4,Braunschweig,Germany,72.0,0.2,13.5,14.7

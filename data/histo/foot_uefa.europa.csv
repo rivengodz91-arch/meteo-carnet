@@ -316,3 +316,16 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 733635,2025-03-13T20:00Z,Manchester United,Real Sociedad,4,1,Manchester,England,51.0,0,2.1,4.5
 733629,2025-03-13T20:00Z,Rangers,Fenerbahce,0,2,Glasgow,Scotland,40.0,0,4.9,2.2
 733632,2025-03-13T20:00Z,Tottenham Hotspur,AZ Alkmaar,3,1,London,England,25.0,0,8.0,3.6
+733638,2025-04-10T16:45Z,Bodo/Glimt,Lazio,2,0,Bodø/Glimt,Norway,,,,
+734500,2025-04-10T19:00Z,Lyon,Manchester United,2,2,Lyon,France,173.0,0,7.7,13.7
+733639,2025-04-10T19:00Z,Rangers,Athletic Club,0,0,Glasgow,Scotland,40.0,0,9.8,12.5
+733637,2025-04-10T19:00Z,Tottenham Hotspur,Eintracht Frankfurt,1,1,London,England,25.0,0,3.5,14.8
+733643,2025-04-17T19:00Z,Athletic Club,Rangers,2,0,Bilbao,Spain,20.0,0,4.1,12.5
+733641,2025-04-17T19:00Z,Eintracht Frankfurt,Tottenham Hotspur,0,1,Frankfurt,Germany,113.0,4.3,7.9,10.6
+733642,2025-04-17T19:00Z,Lazio,Bodo/Glimt,3,1,Roma,Italy,576.0,0,13.4,15.6
+734499,2025-04-17T19:00Z,Manchester United,Lyon,5,4,Manchester,England,51.0,0,8.5,13.3
+733646,2025-05-01T19:00Z,Athletic Club,Manchester United,0,3,Bilbao,Spain,20.0,0.1,4.7,17.6
+733645,2025-05-01T19:00Z,Tottenham Hotspur,Bodo/Glimt,3,1,London,England,25.0,0,9.4,25.7
+733647,2025-05-08T19:00Z,Bodo/Glimt,Tottenham Hotspur,0,2,Bodø/Glimt,Norway,,,,
+733648,2025-05-08T19:00Z,Manchester United,Athletic Club,4,1,Manchester,England,51.0,0,10.1,14.0
+733649,2025-05-21T19:00Z,Tottenham Hotspur,Manchester United,1,0,Bilbao,Spain,20.0,0.1,13.6,15.2

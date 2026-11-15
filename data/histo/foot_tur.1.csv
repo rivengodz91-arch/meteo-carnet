@@ -631,3 +631,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 714143,2025-03-16T13:00Z,Goztepe,Eyupspor,1,1,Izmir,Türkiye,122.0,0,19.3,27.6
 714142,2025-03-16T13:00Z,Hatayspor,Sivasspor,3,2,Mersin,Türkiye,10.0,0,14.2,29.2
 714146,2025-03-16T17:30Z,Fenerbahce,Samsunspor,0,0,Istanbul,Türkiye,39.0,0,14.8,22.0
+714149,2025-03-28T13:00Z,Antalyaspor,Alanyaspor,2,1,Antalya,Türkiye,61.0,0,19.0,25.9
+714148,2025-03-28T13:00Z,Kayserispor,Hatayspor,5,0,Kayseri,Türkiye,1054.0,0.1,9.3,23.3
+714147,2025-03-28T17:30Z,Bodrum FK,Fenerbahce,2,4,Mugla,,672.0,0,3.9,10.8
+714153,2025-03-28T17:30Z,Konyaspor,Gaziantep FK,1,0,Konya,Türkiye,1030.0,0,9.5,18.5
+714154,2025-03-29T10:30Z,Sivasspor,Adana Demirspor,5,1,Sivas,Türkiye,1287.0,1.0,31.3,18.4
+714151,2025-03-29T13:00Z,Samsunspor,Kasimpasa,0,2,Samsun,Türkiye,64.0,0,5.4,14.3
+714152,2025-03-29T13:00Z,Trabzonspor,Goztepe,1,1,Trabzon,Türkiye,39.0,0,12.5,28.0
+714150,2025-03-29T17:30Z,Besiktas,Galatasaray,2,1,Istanbul,Türkiye,39.0,0.9,8.3,14.6
+714155,2025-03-31T17:00Z,Eyupspor,Istanbul Basaksehir,1,3,Istanbul,Türkiye,39.0,0,12.4,14.2
+714164,2025-04-04T17:00Z,Adana Demirspor,Kayserispor,0,2,Adana,Türkiye,30.0,0,3.3,15.3
+714163,2025-04-05T10:30Z,Caykur Rizespor,Sivasspor,1,1,Rize,Türkiye,63.0,0.6,5.2,12.7
+714161,2025-04-05T13:00Z,Istanbul Basaksehir,Konyaspor,1,0,Istanbul,Türkiye,39.0,0,10.8,14.0
+714162,2025-04-05T16:00Z,Antalyaspor,Samsunspor,2,1,Antalya,Türkiye,61.0,3.7,15.8,11.8
+714156,2025-04-06T10:30Z,Alanyaspor,Bodrum FK,0,1,Antalya,Türkiye,61.0,0.3,9.9,16.9
+714158,2025-04-06T13:00Z,Hatayspor,Eyupspor,0,1,Mersin,Türkiye,10.0,0,2.4,21.1
+714160,2025-04-06T16:00Z,Fenerbahce,Trabzonspor,4,1,Istanbul,Türkiye,39.0,1.6,21.2,8.9
+714159,2025-04-07T17:00Z,Goztepe,Gaziantep FK,1,1,Izmir,Türkiye,122.0,0,3.8,11.6
+714157,2025-04-07T17:00Z,Kasimpasa,Besiktas,1,1,Istanbul,Türkiye,39.0,0.1,19.4,5.2
+714172,2025-04-11T17:00Z,Samsunspor,Galatasaray,0,2,Samsun,Türkiye,64.0,0.6,4.8,1.4
+714171,2025-04-12T13:00Z,Konyaspor,Goztepe,1,0,Konya,Türkiye,1030.0,0,5.1,9.0
+714169,2025-04-12T16:00Z,Besiktas,Istanbul Basaksehir,0,2,Istanbul,Türkiye,39.0,0,12.1,7.5
+714173,2025-04-12T16:00Z,Bodrum FK,Antalyaspor,0,0,Mugla,,672.0,0.4,2.8,7.4
+714167,2025-04-13T13:00Z,Gaziantep FK,Hatayspor,2,1,Gaziantep,Türkiye,842.0,0,8.6,13.1
+714170,2025-04-13T13:00Z,Kayserispor,Kasimpasa,1,0,Kayseri,Türkiye,1054.0,0.1,10.7,7.9
+714166,2025-04-13T16:00Z,Sivasspor,Fenerbahce,1,3,Sivas,Türkiye,1287.0,0,1.5,-2.5
+714168,2025-04-13T16:00Z,Trabzonspor,Caykur Rizespor,2,0,Trabzon,Türkiye,39.0,0.7,1.5,6.7
+714165,2025-04-14T17:00Z,Eyupspor,Adana Demirspor,6,0,Istanbul,Türkiye,39.0,0,16.8,9.4
+714177,2025-04-18T17:00Z,Galatasaray,Bodrum FK,2,0,Istanbul,Türkiye,39.0,0,14.7,10.3
+714179,2025-04-18T17:00Z,Hatayspor,Konyaspor,2,3,Mersin,Türkiye,10.0,0,2.1,22.2
+714176,2025-04-19T10:30Z,Kasimpasa,Sivasspor,3,1,Istanbul,Türkiye,39.0,0,4.3,17.8
+714175,2025-04-19T13:00Z,Adana Demirspor,Trabzonspor,0,1,Adana,Türkiye,30.0,0,14.8,27.5
+714180,2025-04-19T16:00Z,Goztepe,Besiktas,1,1,Izmir,Türkiye,122.0,0,10.3,19.9
+714182,2025-04-20T10:30Z,Istanbul Basaksehir,Gaziantep FK,2,1,Istanbul,Türkiye,39.0,0,10.2,15.3
+714178,2025-04-20T13:00Z,Caykur Rizespor,Eyupspor,1,0,Rize,Türkiye,63.0,0,14.8,11.4
+714174,2025-04-20T16:00Z,Fenerbahce,Kayserispor,3,3,Istanbul,Türkiye,39.0,0,2.8,16.8
+714181,2025-04-21T17:00Z,Alanyaspor,Samsunspor,1,0,Antalya,Türkiye,61.0,0,2.3,16.4
+714186,2025-04-25T17:00Z,Besiktas,Hatayspor,5,1,Istanbul,Türkiye,39.0,0,4.9,13.6
+714190,2025-04-26T13:00Z,Sivasspor,Antalyaspor,2,0,Sivas,Türkiye,1287.0,0.7,10.5,11.0
+714187,2025-04-26T16:00Z,Bodrum FK,Samsunspor,1,2,Mugla,,672.0,0,6.3,14.6
+714184,2025-04-26T16:00Z,Gaziantep FK,Fenerbahce,1,3,Gaziantep,Türkiye,842.0,0,14.4,14.8
+714188,2025-04-27T13:00Z,Konyaspor,Adana Demirspor,3,1,Konya,Türkiye,1030.0,0.1,7.4,16.5
+714185,2025-04-27T13:00Z,Trabzonspor,Alanyaspor,4,3,Trabzon,Türkiye,39.0,0.9,7.0,13.2
+714191,2025-04-27T16:00Z,Eyupspor,Galatasaray,1,5,Istanbul,Türkiye,39.0,0,25.6,11.7
+714189,2025-04-27T16:00Z,Kayserispor,Caykur Rizespor,1,0,Kayseri,Türkiye,1054.0,0,4.0,14.1
+714183,2025-04-28T17:00Z,Goztepe,Istanbul Basaksehir,4,1,Izmir,Türkiye,122.0,0.3,20.1,16.4
+714193,2025-05-02T17:00Z,Antalyaspor,Konyaspor,1,0,Antalya,Türkiye,61.0,0,1.0,16.5
+714192,2025-05-03T13:00Z,Alanyaspor,Kayserispor,1,1,Antalya,Türkiye,61.0,0.3,14.3,19.9
+714194,2025-05-03T13:00Z,Caykur Rizespor,Gaziantep FK,2,0,Rize,Türkiye,63.0,0.3,14.2,12.3
+714198,2025-05-03T16:00Z,Galatasaray,Sivasspor,4,1,Istanbul,Türkiye,39.0,0,9.6,15.9
+714197,2025-05-03T16:00Z,Hatayspor,Istanbul Basaksehir,2,4,Mersin,Türkiye,10.0,0,8.8,19.8
+714200,2025-05-04T13:00Z,Samsunspor,Eyupspor,3,0,Samsun,Türkiye,64.0,0,5.9,14.1
+714195,2025-05-04T16:00Z,Adana Demirspor,Goztepe,1,2,Adana,Türkiye,30.0,0,11.6,21.6
+714199,2025-05-04T16:00Z,Fenerbahce,Besiktas,0,1,Istanbul,Türkiye,39.0,0,7.2,20.8
+714196,2025-05-05T17:00Z,Kasimpasa,Trabzonspor,1,1,Istanbul,Türkiye,39.0,0,6.8,22.1
+714209,2025-05-09T17:00Z,Gaziantep FK,Alanyaspor,0,1,Gaziantep,Türkiye,842.0,0,12.6,24.6
+714207,2025-05-09T17:00Z,Istanbul Basaksehir,Fenerbahce,1,4,Istanbul,Türkiye,39.0,0.1,17.1,17.9
+714204,2025-05-10T13:00Z,Eyupspor,Kasimpasa,0,3,Istanbul,Türkiye,39.0,0,22.8,14.5
+714201,2025-05-10T13:00Z,Konyaspor,Caykur Rizespor,2,1,Konya,Türkiye,1030.0,0,24.4,28.7
+714202,2025-05-10T16:00Z,Trabzonspor,Galatasaray,0,2,Trabzon,Türkiye,39.0,0,12.6,19.3
+714205,2025-05-11T13:00Z,Sivasspor,Bodrum FK,0,0,Sivas,Türkiye,1287.0,0.7,25.3,14.9
+714203,2025-05-11T16:00Z,Besiktas,Adana Demirspor,4,1,Istanbul,Türkiye,39.0,0,10.0,14.6
+714206,2025-05-11T16:00Z,Goztepe,Hatayspor,1,1,Izmir,Türkiye,122.0,0,14.7,21.0
+714208,2025-05-12T17:00Z,Kayserispor,Antalyaspor,3,1,Kayseri,Türkiye,1054.0,0.2,4.1,14.6
+714217,2025-05-17T16:00Z,Adana Demirspor,Hatayspor,0,5,Adana,Türkiye,30.0,0,7.2,27.0
+714216,2025-05-18T16:00Z,Alanyaspor,Besiktas,1,1,Antalya,Türkiye,61.0,0,1.1,23.1
+714210,2025-05-18T16:00Z,Antalyaspor,Gaziantep FK,0,0,Antalya,Türkiye,61.0,0,1.1,23.1
+714218,2025-05-18T16:00Z,Bodrum FK,Trabzonspor,1,1,Mugla,,672.0,0,15.9,18.0
+714211,2025-05-18T16:00Z,Caykur Rizespor,Goztepe,6,3,Rize,Türkiye,63.0,0,7.7,15.4
+714212,2025-05-18T16:00Z,Fenerbahce,Eyupspor,2,1,Istanbul,Türkiye,39.0,0,8.8,16.0
+714213,2025-05-18T16:00Z,Galatasaray,Kayserispor,3,0,Istanbul,Türkiye,39.0,0,8.8,16.0
+714214,2025-05-18T16:00Z,Kasimpasa,Istanbul Basaksehir,2,3,Istanbul,Türkiye,39.0,0,8.8,16.0
+714215,2025-05-18T16:00Z,Samsunspor,Sivasspor,1,0,Samsun,Türkiye,64.0,7.3,9.1,13.9
+714227,2025-05-24T13:00Z,Eyupspor,Antalyaspor,2,1,Istanbul,Türkiye,39.0,0,4.6,28.1
+714222,2025-05-24T16:00Z,Gaziantep FK,Kasimpasa,2,2,Gaziantep,Türkiye,842.0,0,17.1,28.6
+714221,2025-05-24T16:00Z,Goztepe,Galatasaray,0,2,Izmir,Türkiye,122.0,0,18.5,31.5
+714223,2025-05-25T16:00Z,Besiktas,Caykur Rizespor,1,2,Istanbul,Türkiye,39.0,0,10.2,18.1
+714219,2025-05-25T16:00Z,Istanbul Basaksehir,Adana Demirspor,2,3,Istanbul,Türkiye,39.0,0,10.2,18.1
+714225,2025-05-25T16:00Z,Kayserispor,Bodrum FK,1,1,Kayseri,Türkiye,1054.0,0,9.2,27.9
+714226,2025-05-25T16:00Z,Konyaspor,Alanyaspor,1,2,Konya,Türkiye,1030.0,0,4.5,29.4
+714220,2025-05-25T16:00Z,Trabzonspor,Samsunspor,2,2,Trabzon,Türkiye,39.0,0,4.0,24.2
+714224,2025-05-26T17:00Z,Hatayspor,Fenerbahce,4,2,Mersin,Türkiye,10.0,0.2,16.0,29.5
+714230,2025-05-30T17:00Z,Antalyaspor,Trabzonspor,0,2,Antalya,Türkiye,61.0,0.1,2.4,19.0
+714233,2025-05-30T17:00Z,Galatasaray,Istanbul Basaksehir,2,0,Istanbul,Türkiye,39.0,0,17.0,18.5
+714234,2025-05-30T17:00Z,Kasimpasa,Goztepe,1,2,Istanbul,Türkiye,39.0,0,17.0,18.5
+714235,2025-05-31T13:00Z,Caykur Rizespor,Hatayspor,5,2,Rize,Türkiye,63.0,0,7.6,19.4
+714236,2025-05-31T13:00Z,Fenerbahce,Konyaspor,2,1,Istanbul,Türkiye,39.0,0,20.8,20.9
+714228,2025-05-31T16:00Z,Adana Demirspor,Gaziantep FK,2,2,Adana,Türkiye,30.0,0,7.2,27.7
+714229,2025-05-31T16:00Z,Alanyaspor,Sivasspor,2,0,Antalya,Türkiye,61.0,2.5,6.8,17.3
+714232,2025-06-01T16:00Z,Bodrum FK,Besiktas,0,4,Mugla,,672.0,0.1,2.2,18.7
+714231,2025-06-01T16:00Z,Samsunspor,Kayserispor,2,1,Samsun,Türkiye,64.0,0,2.2,17.1

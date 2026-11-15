@@ -324,3 +324,64 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 703499,2025-03-16T16:00Z,Sønderjyske Fodbold,AaB,0,3,Haderslev,Denmark,13.0,0,6.6,7.7
 703500,2025-03-16T16:00Z,Vejle Boldklub,AGF,3,2,Vejle,Denmark,5.0,0,23.5,6.8
 703501,2025-03-16T16:00Z,Viborg FF,F.C. København,3,2,Viborg,Denmark,50.0,0,22.0,6.3
+734878,2025-03-28T18:00Z,AaB,Viborg FF,0,4,Aalborg,Denmark,10.0,0,14.8,9.6
+734879,2025-03-30T12:00Z,Lyngby Boldklub,Vejle Boldklub,1,2,Lyngby,Denmark,19.0,0.6,26.0,8.6
+734880,2025-03-30T12:00Z,Sønderjyske Fodbold,Silkeborg IF,2,1,Haderslev,Denmark,13.0,0.3,20.5,9.3
+734881,2025-03-30T14:00Z,AGF,FC Nordsjælland,2,0,Risskov,Denmark,3.0,0.1,22.8,9.7
+734882,2025-03-30T16:00Z,FC Midtjylland,Brøndby IF,0,2,Herning,Denmark,60.0,0,24.0,8.5
+734883,2025-03-31T17:00Z,F.C. København,Randers FC,1,0,Copenhagen,Denmark,14.0,0,14.2,7.5
+734884,2025-04-04T17:00Z,Randers FC,FC Midtjylland,2,1,Randers,Denmark,12.0,0,12.2,7.0
+734885,2025-04-06T12:00Z,Silkeborg IF,Lyngby Boldklub,2,1,Silkeborg,Denmark,19.0,0,6.8,9.9
+734886,2025-04-06T12:00Z,Viborg FF,Sønderjyske Fodbold,2,1,Viborg,Denmark,50.0,0,8.9,9.7
+734887,2025-04-06T14:00Z,Vejle Boldklub,AaB,1,1,Vejle,Denmark,5.0,0,5.0,10.4
+734888,2025-04-06T16:00Z,FC Nordsjælland,F.C. København,0,1,Farum,Denmark,33.0,0,15.4,7.6
+734889,2025-04-07T17:00Z,Brøndby IF,AGF,2,1,Brøndby,Denmark,11.0,0,9.4,9.7
+734890,2025-04-11T17:00Z,AaB,Lyngby Boldklub,2,2,Aalborg,Denmark,10.0,0,22.1,10.2
+734891,2025-04-13T12:00Z,F.C. København,Brøndby IF,1,2,Copenhagen,Denmark,14.0,0,20.4,12.3
+734892,2025-04-13T12:00Z,Viborg FF,Silkeborg IF,2,1,Viborg,Denmark,50.0,0.9,18.7,14.1
+734893,2025-04-13T14:00Z,AGF,FC Midtjylland,1,1,Risskov,Denmark,3.0,0.5,16.9,13.3
+734894,2025-04-13T16:00Z,FC Nordsjælland,Randers FC,5,2,Farum,Denmark,33.0,0.3,14.7,14.5
+734895,2025-04-14T17:00Z,Sønderjyske Fodbold,Vejle Boldklub,1,0,Haderslev,Denmark,13.0,0,2.7,12.3
+734896,2025-04-16T17:00Z,Silkeborg IF,AaB,4,0,Silkeborg,Denmark,19.0,0,5.0,19.1
+734897,2025-04-17T12:00Z,Lyngby Boldklub,Sønderjyske Fodbold,0,2,Lyngby,Denmark,19.0,0.2,13.1,9.4
+734898,2025-04-17T12:00Z,Vejle Boldklub,Viborg FF,3,3,Vejle,Denmark,5.0,0.4,10.3,15.0
+734899,2025-04-17T14:00Z,Randers FC,AGF,3,1,Randers,Denmark,12.0,0.1,11.0,13.6
+734900,2025-04-17T16:00Z,FC Midtjylland,F.C. København,4,2,Herning,Denmark,60.0,2.5,17.8,9.0
+734901,2025-04-18T17:00Z,Brøndby IF,FC Nordsjælland,0,0,Brøndby,Denmark,11.0,0,17.0,10.4
+734902,2025-04-20T15:00Z,AaB,Sønderjyske Fodbold,2,3,Aalborg,Denmark,10.0,0,12.5,9.7
+734903,2025-04-21T12:00Z,Vejle Boldklub,Silkeborg IF,0,4,Vejle,Denmark,5.0,0.3,10.7,11.3
+734904,2025-04-21T12:00Z,Viborg FF,Lyngby Boldklub,1,1,Viborg,Denmark,50.0,0,11.7,11.2
+734905,2025-04-21T14:00Z,Brøndby IF,Randers FC,4,3,Brøndby,Denmark,11.0,0,6.1,11.6
+734906,2025-04-21T16:00Z,F.C. København,AGF,3,1,Copenhagen,Denmark,14.0,0,6.5,9.8
+734907,2025-04-22T17:00Z,FC Nordsjælland,FC Midtjylland,3,2,Farum,Denmark,33.0,0,7.8,11.6
+734908,2025-04-25T17:00Z,Randers FC,Brøndby IF,0,0,Randers,Denmark,12.0,0,14.9,9.6
+734910,2025-04-27T12:00Z,Lyngby Boldklub,Silkeborg IF,2,0,Lyngby,Denmark,19.0,0,21.3,12.7
+734909,2025-04-27T12:00Z,Sønderjyske Fodbold,Viborg FF,2,2,Haderslev,Denmark,13.0,0,15.6,12.3
+734911,2025-04-27T14:00Z,AGF,F.C. København,1,3,Risskov,Denmark,3.0,0,13.7,12.8
+734912,2025-04-27T16:00Z,FC Midtjylland,FC Nordsjælland,5,0,Herning,Denmark,60.0,0,13.2,15.1
+734913,2025-04-28T17:00Z,AaB,Vejle Boldklub,0,1,Aalborg,Denmark,10.0,0,20.6,13.9
+734914,2025-05-02T17:00Z,Randers FC,FC Nordsjælland,3,2,Randers,Denmark,12.0,0,24.0,10.9
+734915,2025-05-04T12:00Z,Lyngby Boldklub,Viborg FF,0,0,Lyngby,Denmark,19.0,0,25.6,9.1
+734916,2025-05-04T12:00Z,Silkeborg IF,Vejle Boldklub,1,1,Silkeborg,Denmark,19.0,0,18.3,11.8
+734917,2025-05-04T14:00Z,Brøndby IF,F.C. København,0,3,Brøndby,Denmark,11.0,0.1,18.3,11.5
+734918,2025-05-04T16:00Z,FC Midtjylland,AGF,3,1,Herning,Denmark,60.0,0,19.9,9.0
+734919,2025-05-05T17:00Z,Sønderjyske Fodbold,AaB,2,2,Haderslev,Denmark,13.0,0,15.4,11.4
+734920,2025-05-11T12:00Z,FC Nordsjælland,Brøndby IF,2,2,Farum,Denmark,33.0,0,9.9,13.8
+734921,2025-05-11T12:00Z,Silkeborg IF,Sønderjyske Fodbold,1,0,Silkeborg,Denmark,19.0,0.1,10.1,16.1
+734922,2025-05-11T14:00Z,AGF,Randers FC,1,3,Risskov,Denmark,3.0,0,12.8,13.8
+734923,2025-05-11T16:00Z,Viborg FF,AaB,3,1,Viborg,Denmark,50.0,0,13.0,15.9
+734924,2025-05-11T18:00Z,F.C. København,FC Midtjylland,1,1,Copenhagen,Denmark,14.0,0,10.7,9.0
+734925,2025-05-12T17:00Z,Vejle Boldklub,Lyngby Boldklub,2,0,Vejle,Denmark,5.0,0,10.1,14.0
+734926,2025-05-16T17:00Z,FC Nordsjælland,AGF,2,0,Farum,Denmark,33.0,0,14.1,15.9
+734928,2025-05-18T12:00Z,AaB,Silkeborg IF,2,3,Aalborg,Denmark,10.0,0,20.9,16.3
+734927,2025-05-18T12:00Z,Viborg FF,Vejle Boldklub,0,1,Viborg,Denmark,50.0,0,21.2,16.9
+734929,2025-05-18T14:00Z,Sønderjyske Fodbold,Lyngby Boldklub,5,1,Haderslev,Denmark,13.0,0,20.0,15.6
+734930,2025-05-18T16:00Z,Randers FC,F.C. København,0,4,Randers,Denmark,12.0,0,18.8,15.2
+734931,2025-05-19T17:00Z,Brøndby IF,FC Midtjylland,1,2,Brøndby,Denmark,11.0,0,13.6,19.0
+734933,2025-05-24T13:00Z,Lyngby Boldklub,AaB,3,1,Lyngby,Denmark,19.0,0,21.3,12.2
+734934,2025-05-24T13:00Z,Silkeborg IF,Viborg FF,1,2,Silkeborg,Denmark,19.0,0,17.1,15.3
+734932,2025-05-24T13:00Z,Vejle Boldklub,Sønderjyske Fodbold,2,3,Vejle,Denmark,5.0,0,18.5,15.5
+734936,2025-05-25T15:00Z,AGF,Brøndby IF,2,3,Risskov,Denmark,3.0,0.7,20.2,14.2
+734937,2025-05-25T15:00Z,F.C. København,FC Nordsjælland,3,0,Copenhagen,Denmark,14.0,2.1,23.2,13.0
+734935,2025-05-25T15:00Z,FC Midtjylland,Randers FC,3,2,Herning,Denmark,60.0,0.8,21.3,13.8
+735896,2025-06-01T16:30Z,Randers FC,Silkeborg IF,1,3,Risskov,Denmark,3.0,1.0,14.7,17.2

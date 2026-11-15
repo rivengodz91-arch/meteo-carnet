@@ -657,3 +657,105 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 704935,2025-03-16T17:30Z,Osasuna,Getafe,1,2,Pamplona,Spain,460.0,0,15.1,5.0
 704936,2025-03-16T17:30Z,Rayo Vallecano,Real Sociedad,2,2,Madrid,Spain,665.0,0,10.8,9.8
 704930,2025-03-16T20:00Z,Atlético Madrid,Barcelona,2,4,Madrid,Spain,665.0,0,9.2,5.4
+704922,2025-03-27T20:00Z,Barcelona,Osasuna,3,0,Barcelona,Spain,15.0,0,5.7,12.0
+704947,2025-03-29T13:00Z,Real Sociedad,Real Valladolid,2,1,San Sebastian,Spain,74.0,0,8.1,13.4
+704948,2025-03-29T15:15Z,Espanyol,Atlético Madrid,1,1,Barcelona,Spain,15.0,0,18.6,16.6
+704940,2025-03-29T17:30Z,Alavés,Rayo Vallecano,0,2,Vitoria-Gasteiz,Spain,547.0,0,19.8,7.6
+704946,2025-03-29T20:00Z,Real Madrid,Leganés,3,2,Madrid,Spain,665.0,0,16.2,10.2
+704949,2025-03-30T12:00Z,Getafe,Villarreal,1,2,Getafe,Spain,623.0,0,8.6,13.7
+704942,2025-03-30T14:15Z,Barcelona,Girona,4,1,Barcelona,Spain,15.0,0,13.4,17.8
+704941,2025-03-30T16:30Z,Athletic Club,Osasuna,0,0,Bilbao,Spain,20.0,0,8.5,13.8
+704945,2025-03-30T16:30Z,Valencia,Mallorca,1,0,Manises,Spain,55.0,0,6.9,19.9
+704944,2025-03-30T19:00Z,Real Betis,Sevilla,2,1,Sevilla,Spain,16.0,0,13.7,16.4
+704943,2025-03-31T19:00Z,Celta Vigo,Las Palmas,1,1,Vigo,Spain,86.0,0,4.4,16.2
+704952,2025-04-04T19:00Z,Rayo Vallecano,Espanyol,0,4,Madrid,Spain,665.0,0.3,7.1,10.5
+704957,2025-04-05T12:00Z,Girona,Alavés,0,1,Girona,Spain,81.0,0,10.3,18.2
+704953,2025-04-05T14:15Z,Real Madrid,Valencia,1,2,Madrid,Spain,665.0,0,8.7,15.3
+704954,2025-04-05T16:30Z,Mallorca,Celta Vigo,1,2,Palma de Mallorca,Spain,4.0,0,12.9,19.3
+704958,2025-04-05T19:00Z,Barcelona,Real Betis,1,1,Barcelona,Spain,15.0,0,1.5,13.1
+704956,2025-04-06T12:00Z,Las Palmas,Real Sociedad,1,3,Las Palmas de Gran Canaria,Spain,122.0,0,7.9,21.0
+704955,2025-04-06T14:15Z,Sevilla,Atlético Madrid,1,2,Sevilla,Spain,16.0,0.1,8.1,20.5
+704959,2025-04-06T16:30Z,Real Valladolid,Getafe,0,4,Valladolid,Spain,702.0,0,3.0,16.5
+704951,2025-04-06T19:00Z,Villarreal,Athletic Club,0,0,Villarreal,Spain,42.0,0,6.9,13.8
+704950,2025-04-07T19:00Z,Leganés,Osasuna,1,1,"Leganés, Madrid",Spain,672.0,0,3.7,15.8
+704967,2025-04-11T19:00Z,Valencia,Sevilla,1,0,Manises,Spain,55.0,0,5.2,15.2
+704965,2025-04-12T12:00Z,Real Sociedad,Mallorca,0,2,San Sebastian,Spain,74.0,0.4,5.1,17.2
+704961,2025-04-12T14:15Z,Getafe,Las Palmas,1,3,Getafe,Spain,623.0,5.5,9.3,14.4
+704960,2025-04-12T16:30Z,Celta Vigo,Espanyol,0,2,Vigo,Spain,86.0,0.2,7.5,16.0
+704962,2025-04-12T19:00Z,Leganés,Barcelona,0,1,"Leganés, Madrid",Spain,672.0,0,6.2,13.8
+704963,2025-04-13T12:00Z,Osasuna,Girona,2,1,Pamplona,Spain,460.0,0.2,14.1,15.2
+704966,2025-04-13T14:15Z,Alavés,Real Madrid,0,1,Vitoria-Gasteiz,Spain,547.0,0.1,14.3,12.1
+704964,2025-04-13T16:30Z,Real Betis,Villarreal,1,2,Sevilla,Spain,16.0,0,10.4,21.3
+704968,2025-04-13T19:00Z,Athletic Club,Rayo Vallecano,3,1,Bilbao,Spain,20.0,0,4.9,13.0
+704969,2025-04-14T19:00Z,Atlético Madrid,Real Valladolid,4,2,Madrid,Spain,665.0,0.2,12.2,12.1
+704977,2025-04-18T19:00Z,Espanyol,Getafe,1,0,Barcelona,Spain,15.0,0,6.9,14.9
+704973,2025-04-19T12:00Z,Rayo Vallecano,Valencia,1,1,Madrid,Spain,665.0,0.4,18.6,12.3
+704970,2025-04-19T14:15Z,Barcelona,Celta Vigo,4,3,Barcelona,Spain,15.0,0.1,24.0,18.1
+704972,2025-04-19T16:30Z,Mallorca,Leganés,0,0,Palma de Mallorca,Spain,4.0,0,20.3,19.1
+704971,2025-04-19T19:00Z,Las Palmas,Atlético Madrid,1,0,Las Palmas de Gran Canaria,Spain,122.0,0,16.8,18.3
+704975,2025-04-20T12:00Z,Real Valladolid,Osasuna,2,3,Valladolid,Spain,702.0,0.1,12.8,11.5
+704978,2025-04-20T14:15Z,Villarreal,Real Sociedad,2,2,Villarreal,Spain,42.0,0.2,21.4,16.7
+704976,2025-04-20T16:30Z,Sevilla,Alavés,1,1,Sevilla,Spain,16.0,0,15.9,19.5
+704974,2025-04-20T19:00Z,Real Madrid,Athletic Club,1,0,Madrid,Spain,665.0,0,4.7,11.3
+704979,2025-04-21T19:00Z,Girona,Real Betis,1,3,Girona,Spain,81.0,0,9.7,14.1
+704982,2025-04-22T17:00Z,Valencia,Espanyol,1,1,Manises,Spain,55.0,3.8,8.9,16.6
+704988,2025-04-22T19:30Z,Barcelona,Mallorca,1,0,Barcelona,Spain,15.0,0,4.3,15.9
+704984,2025-04-23T17:00Z,Athletic Club,Las Palmas,1,0,Bilbao,Spain,20.0,0,15.4,15.9
+704987,2025-04-23T17:00Z,Celta Vigo,Villarreal,3,0,Vigo,Spain,86.0,0,12.8,19.6
+704986,2025-04-23T19:30Z,Alavés,Real Sociedad,1,0,Vitoria-Gasteiz,Spain,547.0,0,8.7,12.2
+704981,2025-04-23T19:30Z,Getafe,Real Madrid,0,1,Getafe,Spain,623.0,0,5.2,16.5
+704983,2025-04-24T17:00Z,Leganés,Girona,1,1,"Leganés, Madrid",Spain,672.0,0,5.4,22.9
+704989,2025-04-24T17:00Z,Osasuna,Sevilla,1,0,Pamplona,Spain,460.0,0,13.0,15.8
+704980,2025-04-24T19:30Z,Atlético Madrid,Rayo Vallecano,3,0,Madrid,Spain,665.0,0,1.3,20.2
+704985,2025-04-24T19:30Z,Real Betis,Real Valladolid,5,1,Sevilla,Spain,16.0,0,4.7,26.1
+704919,2025-04-27T14:15Z,Villarreal,Espanyol,1,0,Villarreal,Spain,42.0,0,15.0,23.8
+704998,2025-05-02T19:00Z,Rayo Vallecano,Getafe,1,0,Madrid,Spain,665.0,0,6.9,15.1
+704993,2025-05-03T12:00Z,Alavés,Atlético Madrid,0,0,Vitoria-Gasteiz,Spain,547.0,0,8.1,18.2
+704991,2025-05-03T14:15Z,Villarreal,Osasuna,4,2,Villarreal,Spain,42.0,2.9,23.1,18.5
+704999,2025-05-03T16:30Z,Las Palmas,Valencia,2,3,Las Palmas de Gran Canaria,Spain,122.0,0,15.6,21.4
+704996,2025-05-03T19:00Z,Real Valladolid,Barcelona,1,2,Valladolid,Spain,702.0,0.2,9.0,15.3
+704994,2025-05-04T12:00Z,Real Madrid,Celta Vigo,3,2,Madrid,Spain,665.0,0.2,15.2,15.9
+704997,2025-05-04T14:15Z,Sevilla,Leganés,2,2,Sevilla,Spain,16.0,0.2,18.0,18.6
+704990,2025-05-04T16:30Z,Espanyol,Real Betis,1,2,Barcelona,Spain,15.0,0,14.0,20.7
+704995,2025-05-04T19:00Z,Real Sociedad,Athletic Club,0,0,San Sebastian,Spain,74.0,0,8.5,14.0
+704992,2025-05-05T19:00Z,Girona,Mallorca,1,0,Girona,Spain,81.0,1.4,0.5,13.4
+705004,2025-05-09T19:00Z,Las Palmas,Rayo Vallecano,0,1,Las Palmas de Gran Canaria,Spain,122.0,0,8.5,20.3
+705005,2025-05-10T12:00Z,Valencia,Getafe,3,0,Manises,Spain,55.0,0.2,12.8,20.0
+705003,2025-05-10T14:15Z,Celta Vigo,Sevilla,3,2,Vigo,Spain,86.0,4.4,16.6,12.0
+705009,2025-05-10T16:30Z,Girona,Villarreal,0,1,Girona,Spain,81.0,0.4,17.3,18.1
+705007,2025-05-10T16:30Z,Mallorca,Real Valladolid,2,1,Palma de Mallorca,Spain,4.0,0,14.6,21.5
+705001,2025-05-10T19:00Z,Atlético Madrid,Real Sociedad,4,0,Madrid,Spain,665.0,0,13.3,13.4
+705006,2025-05-11T12:00Z,Leganés,Espanyol,3,2,"Leganés, Madrid",Spain,672.0,0,12.4,15.8
+705002,2025-05-11T14:15Z,Barcelona,Real Madrid,4,3,Barcelona,Spain,15.0,0.4,12.2,17.4
+705000,2025-05-11T16:30Z,Athletic Club,Alavés,1,0,Bilbao,Spain,20.0,0.6,12.6,15.3
+705008,2025-05-11T19:00Z,Real Betis,Osasuna,1,1,Sevilla,Spain,16.0,0,16.1,20.2
+705016,2025-05-13T17:00Z,Real Valladolid,Girona,0,1,Valladolid,Spain,702.0,0,7.2,16.5
+705015,2025-05-13T18:00Z,Real Sociedad,Celta Vigo,0,1,San Sebastian,Spain,74.0,0.1,6.7,13.9
+705017,2025-05-13T19:30Z,Sevilla,Las Palmas,1,0,Sevilla,Spain,16.0,0,19.7,19.9
+705010,2025-05-14T17:00Z,Alavés,Valencia,1,0,Vitoria-Gasteiz,Spain,547.0,0.2,13.2,13.8
+705019,2025-05-14T17:00Z,Villarreal,Leganés,3,0,Villarreal,Spain,42.0,0,18.4,19.9
+705014,2025-05-14T19:30Z,Real Madrid,Mallorca,2,1,Madrid,Spain,665.0,1.2,8.7,13.1
+705012,2025-05-15T17:00Z,Osasuna,Atlético Madrid,2,0,Pamplona,Spain,460.0,0,23.0,14.2
+705013,2025-05-15T17:00Z,Rayo Vallecano,Real Betis,2,2,Madrid,Spain,665.0,0.1,5.5,16.1
+705018,2025-05-15T19:30Z,Espanyol,Barcelona,0,2,Barcelona,Spain,15.0,0,5.4,18.3
+705011,2025-05-15T19:30Z,Getafe,Athletic Club,0,2,Getafe,Spain,623.0,0,4.0,15.7
+705020,2025-05-18T17:00Z,Atlético Madrid,Real Betis,4,1,Madrid,Spain,665.0,0,16.6,27.0
+705021,2025-05-18T17:00Z,Barcelona,Villarreal,2,3,Barcelona,Spain,15.0,0,13.1,22.2
+705022,2025-05-18T17:00Z,Celta Vigo,Rayo Vallecano,1,2,Vigo,Spain,86.0,0,14.2,16.7
+705023,2025-05-18T17:00Z,Las Palmas,Leganés,0,1,Las Palmas de Gran Canaria,Spain,122.0,0,16.8,21.8
+705024,2025-05-18T17:00Z,Mallorca,Getafe,1,2,Palma de Mallorca,Spain,4.0,0,10.8,24.1
+705025,2025-05-18T17:00Z,Osasuna,Espanyol,2,0,Pamplona,Spain,460.0,0,5.2,24.1
+705026,2025-05-18T17:00Z,Real Sociedad,Girona,3,2,San Sebastian,Spain,74.0,0.7,12.4,17.6
+705027,2025-05-18T17:00Z,Real Valladolid,Alavés,0,1,Valladolid,Spain,702.0,0,16.7,24.2
+705028,2025-05-18T17:00Z,Sevilla,Real Madrid,0,2,Sevilla,Spain,16.0,0,18.7,25.2
+705029,2025-05-18T17:00Z,Valencia,Athletic Club,0,1,Manises,Spain,55.0,0,10.7,24.2
+705036,2025-05-23T19:00Z,Real Betis,Valencia,1,1,Sevilla,Spain,16.0,0,11.7,26.0
+705034,2025-05-24T14:15Z,Real Madrid,Real Sociedad,2,0,Madrid,Spain,665.0,0,3.3,26.1
+705032,2025-05-24T16:30Z,Espanyol,Las Palmas,2,0,Barcelona,Spain,15.0,0,13.4,20.4
+705038,2025-05-24T16:30Z,Leganés,Real Valladolid,3,0,"Leganés, Madrid",Spain,672.0,0,7.6,26.4
+705030,2025-05-24T19:00Z,Alavés,Osasuna,1,1,Vitoria-Gasteiz,Spain,547.0,0,6.0,15.4
+705039,2025-05-24T19:00Z,Getafe,Celta Vigo,1,2,Getafe,Spain,623.0,0,2.9,24.2
+705037,2025-05-24T19:00Z,Rayo Vallecano,Mallorca,0,0,Madrid,Spain,665.0,0,7.0,24.9
+705033,2025-05-25T12:00Z,Girona,Atlético Madrid,0,4,Girona,Spain,81.0,0,1.5,25.1
+705031,2025-05-25T14:15Z,Villarreal,Sevilla,4,2,Villarreal,Spain,42.0,0,10.3,29.7
+705035,2025-05-25T19:00Z,Athletic Club,Barcelona,0,3,Bilbao,Spain,20.0,0,5.4,17.0

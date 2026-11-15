@@ -326,3 +326,66 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 710651,2025-03-16T16:00Z,SK Austria Klagenfurt,SC Rheindorf Altach,2,2,Klagenfurt,Austria,450.0,0,4.6,8.7
 710652,2025-03-16T16:00Z,SK Sturm Graz,LASK Linz,4,2,Graz,Austria,362.0,0.1,4.1,4.9
 710654,2025-03-16T16:00Z,WSG Swarovski Tirol,Austria Vienna,0,2,Innsbruck,Austria,570.0,0,3.5,5.9
+734613,2025-03-28T18:30Z,SC Rheindorf Altach,LASK Linz,0,2,Altach,Austria,413.0,0,1.3,7.4
+734614,2025-03-29T16:00Z,Grazer AK,WSG Swarovski Tirol,0,0,Graz,Austria,362.0,3.7,14.7,6.6
+734615,2025-03-29T16:00Z,TSV Hartberg,SK Austria Klagenfurt,2,3,Hartberg,Austria,396.0,3.4,11.0,7.7
+734616,2025-03-30T12:30Z,FC Blau-Weiß Linz,Austria Vienna,0,2,Linz,Austria,266.0,0,23.5,12.6
+734617,2025-03-30T12:30Z,Wolfsberger,SK Sturm Graz,1,1,Wolfsberg,Austria,461.0,0,3.7,13.4
+734618,2025-03-30T15:00Z,Rapid Vienna,RB Salzburg,0,2,Wien,Austria,876.0,0,25.0,8.5
+734619,2025-04-04T17:30Z,SK Sturm Graz,Rapid Vienna,2,0,Graz,Austria,362.0,0,8.1,12.7
+734620,2025-04-05T15:00Z,LASK Linz,Grazer AK,1,0,Linz,Austria,266.0,0,12.5,16.9
+734621,2025-04-05T15:00Z,SK Austria Klagenfurt,SC Rheindorf Altach,2,3,Klagenfurt,Austria,450.0,0,6.1,19.9
+734622,2025-04-05T15:00Z,WSG Swarovski Tirol,TSV Hartberg,1,3,Innsbruck,Austria,570.0,0,8.4,18.0
+734623,2025-04-06T12:30Z,RB Salzburg,FC Blau-Weiß Linz,2,1,Salzburg,Austria,424.0,0,11.0,6.0
+734624,2025-04-06T15:00Z,Austria Vienna,Wolfsberger,0,0,Wien,Austria,876.0,0,22.5,0.3
+734625,2025-04-11T17:30Z,FC Blau-Weiß Linz,Wolfsberger,1,2,Linz,Austria,266.0,0,17.0,14.5
+734626,2025-04-12T15:00Z,Grazer AK,SC Rheindorf Altach,1,0,Graz,Austria,362.0,0,13.6,16.7
+734627,2025-04-12T15:00Z,TSV Hartberg,LASK Linz,0,1,Hartberg,Austria,396.0,0,9.9,16.9
+734628,2025-04-12T15:00Z,WSG Swarovski Tirol,SK Austria Klagenfurt,5,3,Innsbruck,Austria,570.0,0,8.1,21.4
+734629,2025-04-13T12:30Z,RB Salzburg,SK Sturm Graz,1,2,Salzburg,Austria,424.0,0.1,6.2,17.2
+734630,2025-04-13T15:00Z,Rapid Vienna,Austria Vienna,2,0,Wien,Austria,876.0,0,8.9,13.9
+734631,2025-04-18T17:30Z,LASK Linz,WSG Swarovski Tirol,2,0,Linz,Austria,266.0,1.3,9.1,9.8
+734632,2025-04-19T15:00Z,SC Rheindorf Altach,TSV Hartberg,1,1,Altach,Austria,413.0,0,8.6,19.1
+734633,2025-04-19T15:00Z,SK Austria Klagenfurt,Grazer AK,0,0,Klagenfurt,Austria,450.0,0,10.7,16.8
+734635,2025-04-20T12:30Z,SK Sturm Graz,FC Blau-Weiß Linz,2,0,Graz,Austria,362.0,0,15.4,20.7
+734634,2025-04-20T12:30Z,Wolfsberger,Rapid Vienna,5,1,Wolfsberg,Austria,461.0,0,17.5,19.7
+734636,2025-04-20T15:00Z,Austria Vienna,RB Salzburg,1,3,Wien,Austria,876.0,0,3.4,18.3
+734637,2025-04-22T16:30Z,Grazer AK,TSV Hartberg,0,3,Graz,Austria,362.0,0,2.5,18.5
+734638,2025-04-22T16:30Z,WSG Swarovski Tirol,SC Rheindorf Altach,1,0,Innsbruck,Austria,570.0,0,4.8,17.9
+734639,2025-04-22T18:30Z,SK Austria Klagenfurt,LASK Linz,1,4,Klagenfurt,Austria,450.0,0,1.3,14.9
+734640,2025-04-23T16:30Z,FC Blau-Weiß Linz,Rapid Vienna,2,1,Linz,Austria,266.0,0,10.6,19.4
+734641,2025-04-23T16:30Z,RB Salzburg,Wolfsberger,1,1,Salzburg,Austria,424.0,0,2.7,17.9
+734642,2025-04-23T18:30Z,Austria Vienna,SK Sturm Graz,2,1,Wien,Austria,876.0,0,11.8,11.9
+734643,2025-04-25T17:30Z,TSV Hartberg,Grazer AK,1,1,Hartberg,Austria,396.0,0.8,1.5,11.5
+734645,2025-04-26T15:00Z,LASK Linz,SK Austria Klagenfurt,6,0,Linz,Austria,266.0,0,12.1,17.5
+734644,2025-04-26T15:00Z,SC Rheindorf Altach,WSG Swarovski Tirol,3,0,Altach,Austria,413.0,0,7.2,16.1
+734647,2025-04-27T12:30Z,Rapid Vienna,FC Blau-Weiß Linz,0,0,Wien,Austria,876.0,0,15.9,13.1
+734646,2025-04-27T12:30Z,Wolfsberger,RB Salzburg,2,1,Wolfsberg,Austria,461.0,0,9.3,17.5
+734648,2025-04-27T15:00Z,SK Sturm Graz,Austria Vienna,0,1,Graz,Austria,362.0,0,8.4,16.2
+734649,2025-05-02T17:30Z,Grazer AK,SK Austria Klagenfurt,1,1,Graz,Austria,362.0,0,3.1,21.6
+734651,2025-05-03T15:00Z,WSG Swarovski Tirol,LASK Linz,1,3,Innsbruck,Austria,570.0,1.8,4.4,20.2
+734652,2025-05-04T12:30Z,FC Blau-Weiß Linz,SK Sturm Graz,0,1,Linz,Austria,266.0,0.2,12.2,19.5
+734653,2025-05-04T12:30Z,Rapid Vienna,Wolfsberger,0,1,Wien,Austria,876.0,0,11.1,12.6
+734650,2025-05-04T12:30Z,TSV Hartberg,SC Rheindorf Altach,2,0,Hartberg,Austria,396.0,1.2,9.4,18.6
+734654,2025-05-04T15:00Z,RB Salzburg,Austria Vienna,2,0,Salzburg,Austria,424.0,0,9.6,14.4
+734655,2025-05-09T17:30Z,SK Sturm Graz,RB Salzburg,4,2,Graz,Austria,362.0,0,8.1,10.4
+734657,2025-05-10T15:00Z,LASK Linz,TSV Hartberg,0,0,Linz,Austria,266.0,0,8.5,18.0
+734656,2025-05-10T15:00Z,SC Rheindorf Altach,Grazer AK,2,2,Altach,Austria,413.0,0,4.3,17.7
+734658,2025-05-10T15:00Z,SK Austria Klagenfurt,WSG Swarovski Tirol,1,4,Klagenfurt,Austria,450.0,0,7.0,16.2
+734659,2025-05-11T12:30Z,Wolfsberger,FC Blau-Weiß Linz,2,0,Wolfsberg,Austria,461.0,0,5.2,18.2
+734660,2025-05-11T15:00Z,Austria Vienna,Rapid Vienna,1,2,Wien,Austria,876.0,0,10.1,13.5
+734662,2025-05-17T15:00Z,Grazer AK,LASK Linz,1,0,Graz,Austria,362.0,0.1,6.3,16.0
+734661,2025-05-17T15:00Z,SC Rheindorf Altach,SK Austria Klagenfurt,0,0,Altach,Austria,413.0,0,3.7,18.0
+734663,2025-05-17T15:00Z,TSV Hartberg,WSG Swarovski Tirol,3,2,Hartberg,Austria,396.0,0,6.1,14.5
+734665,2025-05-18T15:00Z,FC Blau-Weiß Linz,RB Salzburg,1,2,Linz,Austria,266.0,0,12.6,15.3
+734666,2025-05-18T15:00Z,Rapid Vienna,SK Sturm Graz,3,1,Wien,Austria,876.0,2.0,14.6,7.1
+734664,2025-05-18T15:00Z,Wolfsberger,Austria Vienna,1,2,Wolfsberg,Austria,461.0,0,7.9,18.3
+734667,2025-05-23T17:30Z,LASK Linz,SC Rheindorf Altach,0,0,Linz,Austria,266.0,0,17.1,14.4
+734668,2025-05-23T17:30Z,SK Austria Klagenfurt,TSV Hartberg,0,1,Klagenfurt,Austria,450.0,0,8.4,10.8
+734669,2025-05-23T17:30Z,WSG Swarovski Tirol,Grazer AK,1,1,Innsbruck,Austria,570.0,0,6.7,12.4
+734671,2025-05-24T15:00Z,Austria Vienna,FC Blau-Weiß Linz,2,2,Wien,Austria,876.0,0,8.6,10.5
+734670,2025-05-24T15:00Z,RB Salzburg,Rapid Vienna,4,2,Salzburg,Austria,424.0,0,1.9,14.0
+734672,2025-05-24T15:00Z,SK Sturm Graz,Wolfsberger,1,1,Graz,Austria,362.0,0,8.2,15.5
+735691,2025-05-26T17:00Z,LASK Linz,TSV Hartberg,2,0,Linz,Austria,266.0,0,15.8,17.3
+735832,2025-05-29T15:00Z,LASK Linz,Rapid Vienna,3,1,Linz,Austria,266.0,0,20.8,17.8
+735833,2025-06-01T15:00Z,Rapid Vienna,LASK Linz,3,0,Wien,Austria,876.0,0.8,10.5,19.3

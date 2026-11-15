@@ -300,3 +300,16 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 733607,2025-03-12T20:00Z,Arsenal,PSV Eindhoven,2,2,London,England,25.0,2.5,5.3,2.7
 733146,2025-03-12T20:00Z,Aston Villa,Club Brugge,3,0,Birmingham,England,149.0,0,12.6,2.8
 733606,2025-03-12T20:00Z,Atlético Madrid,Real Madrid,1,0,Madrid,Spain,665.0,0,15.4,8.6
+733608,2025-04-08T19:00Z,Arsenal,Real Madrid,3,0,London,England,25.0,0,10.3,11.9
+733611,2025-04-08T19:00Z,Bayern Munich,Internazionale,1,2,München,Germany,524.0,0,7.3,6.7
+733610,2025-04-09T19:00Z,Barcelona,Borussia Dortmund,4,0,Barcelona,Spain,15.0,0,4.3,14.4
+733609,2025-04-09T19:00Z,Paris Saint-Germain,Aston Villa,3,1,Paris,France,42.0,0,12.3,13.9
+733613,2025-04-15T19:00Z,Aston Villa,Paris Saint-Germain,3,2,Birmingham,England,149.0,1.2,14.6,11.4
+733614,2025-04-15T19:00Z,Borussia Dortmund,Barcelona,3,1,Aue,Germany,399.0,0,9.5,14.6
+733615,2025-04-16T19:00Z,Internazionale,Bayern Munich,2,2,Milano,Italy,635.0,0,3.4,13.5
+733612,2025-04-16T19:00Z,Real Madrid,Arsenal,1,2,Madrid,Spain,665.0,0.8,12.7,9.0
+733616,2025-04-29T19:00Z,Arsenal,Paris Saint-Germain,0,1,London,England,25.0,0,11.5,18.5
+733617,2025-04-30T19:00Z,Barcelona,Internazionale,3,3,Barcelona,Spain,15.0,0,12.3,17.1
+733619,2025-05-06T19:00Z,Internazionale,Barcelona,4,3,Milano,Italy,635.0,0,4.5,11.0
+733618,2025-05-07T19:00Z,Paris Saint-Germain,Arsenal,2,1,Paris,France,42.0,0,13.0,13.2
+733620,2025-05-31T19:00Z,Paris Saint-Germain,Internazionale,5,0,München,Germany,524.0,0,5.1,22.3

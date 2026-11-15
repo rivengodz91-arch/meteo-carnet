@@ -280,3 +280,16 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 733658,2025-03-13T20:00Z,Fiorentina,Panathinaikos,3,1,Firenze,Italy,58.0,0,12.7,11.4
 733661,2025-03-13T20:00Z,Legia Warsaw,Molde,2,0,Warsaw,Poland,113.0,0.9,17.4,6.5
 733662,2025-03-13T20:00Z,Vitória de Guimaraes,Real Betis,0,4,Guimarães,Portugal,189.0,0.2,4.5,9.6
+733668,2025-04-10T16:45Z,Legia Warsaw,Chelsea,0,3,Warsaw,Poland,113.0,0,19.5,4.8
+734501,2025-04-10T19:00Z,Djurgården,Rapid Vienna,0,1,Stockholm,Sweden,17.0,0,17.4,6.1
+733666,2025-04-10T19:00Z,NK Celje,Fiorentina,1,2,Celje,Slovenia,240.0,0,3.8,7.2
+733667,2025-04-10T19:00Z,Real Betis,Jagiellonia Bialystok,2,0,Sevilla,Spain,16.0,0,10.0,21.1
+733670,2025-04-17T16:45Z,Fiorentina,NK Celje,2,2,Firenze,Italy,58.0,2.6,5.1,15.0
+733669,2025-04-17T16:45Z,Jagiellonia Bialystok,Real Betis,1,1,Bialystok,Poland,135.0,0,6.9,23.5
+733671,2025-04-17T19:00Z,Chelsea,Legia Warsaw,1,2,London,England,25.0,0,10.7,14.5
+734502,2025-04-17T19:00Z,Rapid Vienna,Djurgården,1,4,Wien,Austria,876.0,0,25.8,13.6
+733673,2025-05-01T19:00Z,Djurgården,Chelsea,1,4,Stockholm,Sweden,17.0,0,11.5,10.0
+733672,2025-05-01T19:00Z,Real Betis,Fiorentina,2,1,Sevilla,Spain,16.0,0,4.1,21.4
+733675,2025-05-08T19:00Z,Chelsea,Djurgården,1,0,London,England,25.0,0,15.1,13.2
+733674,2025-05-08T19:00Z,Fiorentina,Real Betis,2,2,Firenze,Italy,58.0,0,5.4,14.1
+733676,2025-05-28T19:00Z,Real Betis,Chelsea,1,4,Wroclaw,Poland,115.0,0,15.5,14.6

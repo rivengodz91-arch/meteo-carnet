@@ -564,3 +564,70 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 734253,2025-03-16T16:00Z,UTA Arad,Otelul Galati,2,0,Arad,Romania,109.0,0.3,11.5,6.7
 734223,2025-03-16T19:00Z,FCSB,Rapid Bucuresti,3,3,Bucuresti,Romania,92.0,0,9.9,10.0
 734255,2025-03-17T18:00Z,Sepsi Sfantu Gheorghe,Gloria Buzau,1,2,Sfantu Gheorghe,Romania,552.0,0.7,4.9,0.4
+734394,2025-03-28T15:30Z,Unirea Slobozia,Petrolul Ploiesti,0,0,Clinceni,Romania,84.0,0.4,22.9,12.6
+734356,2025-03-28T18:30Z,Sepsi Sfantu Gheorghe,Hermannstadt,0,2,Sfantu Gheorghe,Romania,552.0,0.1,29.0,7.5
+734393,2025-03-29T12:30Z,FC Botosani,FC Farul Constanta,4,3,Botosani,Romania,159.0,0.2,15.3,16.2
+734225,2025-03-29T18:00Z,Rapid Bucuresti,CSU Craiova,1,2,Bucuresti,Romania,92.0,0,12.0,9.6
+734355,2025-03-30T12:00Z,Politehnica Iasi,UTA Arad,4,0,Iasi,Romania,66.0,0.1,4.7,11.9
+734224,2025-03-30T17:30Z,Dinamo Bucuresti,FCSB,1,2,Bucuresti,Romania,92.0,0,3.2,13.1
+734392,2025-03-31T14:30Z,Gloria Buzau,Otelul Galati,0,2,Buzau,Romania,93.0,0,5.4,17.3
+734226,2025-03-31T17:30Z,Universitatea Cluj,CFR Cluj-Napoca,1,0,Cluj,Romania,352.0,0,9.8,8.8
+734361,2025-04-04T14:30Z,Otelul Galati,Politehnica Iasi,1,0,Galati,Romania,24.0,0,9.9,14.1
+734359,2025-04-04T17:30Z,Petrolul Ploiesti,Sepsi Sfantu Gheorghe,2,1,Ploiesti,Romania,161.0,0,5.1,10.4
+734360,2025-04-05T13:45Z,UTA Arad,FC Botosani,1,0,Arad,Romania,109.0,0,18.5,18.5
+734228,2025-04-05T18:15Z,FCSB,Universitatea Cluj,1,0,Bucuresti,Romania,92.0,0,11.7,12.5
+734357,2025-04-06T10:30Z,Hermannstadt,Gloria Buzau,0,2,Sibiu,Romania,410.0,0.2,18.5,4.0
+734229,2025-04-06T18:00Z,Rapid Bucuresti,Dinamo Bucuresti,1,0,Bucuresti,Romania,92.0,0,5.9,3.6
+734358,2025-04-07T14:30Z,FC Farul Constanta,Unirea Slobozia,1,1,Ovidiu,Romania,22.0,0,16.0,5.8
+734227,2025-04-07T17:30Z,CFR Cluj-Napoca,CSU Craiova,2,0,Cluj,Romania,352.0,0,11.1,0.3
+734363,2025-04-11T14:30Z,Gloria Buzau,Politehnica Iasi,0,1,Buzau,Romania,93.0,0,14.9,7.5
+734362,2025-04-11T17:30Z,Hermannstadt,Petrolul Ploiesti,1,1,Sibiu,Romania,410.0,0.1,0.6,4.8
+734366,2025-04-12T14:00Z,Sepsi Sfantu Gheorghe,FC Farul Constanta,1,4,Sfantu Gheorghe,Romania,552.0,0,16.1,6.7
+734231,2025-04-12T17:00Z,Universitatea Cluj,Dinamo Bucuresti,2,4,Cluj,Romania,352.0,0,4.9,8.6
+734364,2025-04-13T15:15Z,Unirea Slobozia,UTA Arad,2,1,Clinceni,Romania,84.0,0,2.3,18.3
+734232,2025-04-13T18:00Z,CSU Craiova,FCSB,0,0,Craiova,Romania,105.0,0,11.5,14.3
+734365,2025-04-14T14:30Z,FC Botosani,Otelul Galati,0,1,Botosani,Romania,159.0,0,20.9,17.2
+734230,2025-04-14T17:30Z,CFR Cluj-Napoca,Rapid Bucuresti,1,1,Cluj,Romania,352.0,0,5.2,12.4
+734368,2025-04-18T14:00Z,Otelul Galati,Unirea Slobozia,2,0,Galati,Romania,24.0,0,17.7,18.0
+734371,2025-04-18T17:00Z,UTA Arad,Sepsi Sfantu Gheorghe,1,1,Arad,Romania,109.0,0,1.0,16.5
+734367,2025-04-19T12:00Z,FC Farul Constanta,Hermannstadt,1,1,Ovidiu,Romania,22.0,0,10.9,14.1
+734235,2025-04-19T17:00Z,Rapid Bucuresti,Universitatea Cluj,0,2,Bucuresti,Romania,92.0,0,1.9,14.1
+734370,2025-04-20T14:00Z,Politehnica Iasi,FC Botosani,3,0,Iasi,Romania,66.0,0,1.1,23.4
+734233,2025-04-20T17:00Z,FCSB,CFR Cluj-Napoca,3,2,Bucuresti,Romania,92.0,0,7.1,19.0
+734369,2025-04-21T15:00Z,Petrolul Ploiesti,Gloria Buzau,4,0,Ploiesti,Romania,161.0,0,6.8,23.1
+734234,2025-04-21T18:00Z,Dinamo Bucuresti,CSU Craiova,0,2,Bucuresti,Romania,92.0,0,7.8,19.4
+734375,2025-04-25T15:45Z,Unirea Slobozia,Politehnica Iasi,1,1,Clinceni,Romania,84.0,0,6.5,25.4
+734374,2025-04-25T18:00Z,Sepsi Sfantu Gheorghe,Otelul Galati,0,3,Sfantu Gheorghe,Romania,552.0,0,0.8,14.9
+734372,2025-04-26T14:00Z,Hermannstadt,UTA Arad,3,0,Sibiu,Romania,410.0,0,1.6,16.6
+734238,2025-04-26T17:00Z,Universitatea Cluj,CSU Craiova,2,1,Cluj,Romania,352.0,0,1.9,13.8
+734376,2025-04-27T11:30Z,Gloria Buzau,FC Botosani,0,2,Buzau,Romania,93.0,0,14.3,15.2
+734237,2025-04-27T18:00Z,Rapid Bucuresti,FCSB,1,2,Bucuresti,Romania,92.0,0,5.3,12.4
+734373,2025-04-28T15:00Z,Petrolul Ploiesti,FC Farul Constanta,0,1,Ploiesti,Romania,161.0,0,8.0,17.3
+734236,2025-04-28T18:00Z,Dinamo Bucuresti,CFR Cluj-Napoca,1,1,Bucuresti,Romania,92.0,0,6.8,13.6
+734378,2025-05-02T14:30Z,Politehnica Iasi,Sepsi Sfantu Gheorghe,0,0,Iasi,Romania,66.0,0,0.0,20.8
+734241,2025-05-02T17:30Z,CSU Craiova,Rapid Bucuresti,1,2,Craiova,Romania,105.0,0,8.5,22.0
+734381,2025-05-03T10:45Z,FC Botosani,Unirea Slobozia,1,1,Botosani,Romania,159.0,0,4.1,25.1
+734380,2025-05-03T15:15Z,FC Farul Constanta,Gloria Buzau,1,0,Ovidiu,Romania,22.0,0,17.6,16.9
+734240,2025-05-03T18:00Z,CFR Cluj-Napoca,Universitatea Cluj,1,0,Cluj,Romania,352.0,0,4.4,17.9
+734379,2025-05-04T17:45Z,Otelul Galati,Hermannstadt,1,2,Galati,Romania,24.0,0,16.5,24.5
+734377,2025-05-05T14:30Z,UTA Arad,Petrolul Ploiesti,2,0,Arad,Romania,109.0,2.9,14.2,20.4
+734239,2025-05-05T17:30Z,FCSB,Dinamo Bucuresti,3,1,Bucuresti,Romania,92.0,0,1.3,24.1
+734383,2025-05-09T15:00Z,Gloria Buzau,Unirea Slobozia,0,3,Buzau,Romania,93.0,0,13.0,13.6
+734384,2025-05-09T18:00Z,Sepsi Sfantu Gheorghe,FC Botosani,2,0,Sfantu Gheorghe,Romania,552.0,0,7.9,8.9
+734382,2025-05-10T12:00Z,FC Farul Constanta,UTA Arad,1,2,Ovidiu,Romania,22.0,0,6.5,13.1
+734386,2025-05-10T14:30Z,Hermannstadt,Politehnica Iasi,1,0,Sibiu,Romania,410.0,0,6.8,15.9
+734244,2025-05-10T17:30Z,CSU Craiova,CFR Cluj-Napoca,2,2,Craiova,Romania,105.0,0,7.3,12.9
+734243,2025-05-11T17:30Z,Universitatea Cluj,FCSB,0,2,Cluj,Romania,352.0,0,8.1,9.3
+734385,2025-05-12T15:00Z,Petrolul Ploiesti,Otelul Galati,1,3,Ploiesti,Romania,161.0,0,11.2,10.9
+734242,2025-05-12T18:00Z,Dinamo Bucuresti,Rapid Bucuresti,0,0,Bucuresti,Romania,92.0,0,9.0,11.3
+734390,2025-05-16T15:00Z,Otelul Galati,FC Farul Constanta,0,0,Galati,Romania,24.0,0.7,11.7,15.2
+734245,2025-05-16T18:00Z,Dinamo Bucuresti,Universitatea Cluj,1,3,Bucuresti,Romania,92.0,3.1,14.3,11.6
+734389,2025-05-17T11:00Z,UTA Arad,Gloria Buzau,0,0,Arad,Romania,109.0,0.2,12.7,16.3
+734246,2025-05-17T17:00Z,FCSB,CSU Craiova,1,0,Bucuresti,Romania,92.0,0,1.9,12.5
+734387,2025-05-18T13:00Z,FC Botosani,Hermannstadt,2,1,Botosani,Romania,159.0,0,11.7,18.1
+734391,2025-05-18T13:00Z,Politehnica Iasi,Petrolul Ploiesti,0,2,Iasi,Romania,66.0,0.2,14.0,16.4
+734388,2025-05-18T13:00Z,Unirea Slobozia,Sepsi Sfantu Gheorghe,2,1,Clinceni,Romania,84.0,0,19.9,20.3
+734247,2025-05-19T17:30Z,Rapid Bucuresti,CFR Cluj-Napoca,1,4,Bucuresti,Romania,92.0,0,15.2,16.3
+734248,2025-05-23T17:30Z,CFR Cluj-Napoca,FCSB,1,1,Cluj,Romania,352.0,0,0.0,15.9
+734249,2025-05-24T15:00Z,Universitatea Cluj,Rapid Bucuresti,2,2,Cluj,Romania,352.0,0.3,12.8,12.6
+734250,2025-05-24T18:00Z,CSU Craiova,Dinamo Bucuresti,2,1,Craiova,Romania,105.0,0,8.9,13.8

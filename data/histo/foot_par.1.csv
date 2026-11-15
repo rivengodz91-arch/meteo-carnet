@@ -450,3 +450,80 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 728908,2025-03-16T23:30Z,Deportivo Recoleta,Sportivo Luqueño,0,1,Itagua,Paraguay,31.0,3.8,8.9,24.2
 728906,2025-03-17T23:30Z,Nacional Asunción,Sportivo Trinidense,1,1,Asunción,Paraguay,113.0,1.0,10.8,21.5
 728914,2025-03-21T22:30Z,Sportivo Trinidense,Deportivo Recoleta,1,1,Asunción,Paraguay,113.0,0,7.7,30.2
+728911,2025-03-22T21:15Z,General Caballero JLM,Libertad,0,5,Doctor Juan León Mallorquín,Paraguay,247.0,0,1.3,22.7
+728912,2025-03-22T23:30Z,Club Olimpia,Nacional Asunción,0,1,Asunción,Paraguay,113.0,0,7.2,22.7
+728909,2025-03-23T19:00Z,2 de Mayo,Cerro Porteño,1,1,Pedro Juan Caballero,Paraguay,649.0,0.1,12.7,26.2
+728913,2025-03-23T22:30Z,Sportivo Luqueño,Guaraní,0,1,Itagua,Paraguay,31.0,0,7.3,26.6
+728910,2025-03-24T22:30Z,Club Atlético Tembetary,Sportivo Ameliano,1,0,Asunción,Paraguay,113.0,0,6.1,28.4
+728916,2025-03-27T22:30Z,Guaraní,Sportivo Trinidense,1,3,Asunción,Paraguay,113.0,0,5.7,26.0
+728918,2025-03-28T21:15Z,Libertad,2 de Mayo,1,1,Asunción,Paraguay,113.0,0.8,2.5,26.1
+728915,2025-03-28T23:30Z,Cerro Porteño,Club Atlético Tembetary,1,0,Asunción,Paraguay,113.0,0.6,4.0,25.3
+728920,2025-03-29T21:15Z,Sportivo Ameliano,Sportivo Luqueño,2,2,Asunción,Paraguay,113.0,0,4.1,29.3
+728919,2025-03-29T23:30Z,Deportivo Recoleta,Club Olimpia,1,1,Itagua,Paraguay,31.0,0,10.3,25.1
+728917,2025-03-30T21:30Z,Nacional Asunción,General Caballero JLM,1,0,Asunción,Paraguay,113.0,0,7.1,30.6
+728923,2025-04-04T21:15Z,Deportivo Recoleta,General Caballero JLM,3,1,Asunción,Paraguay,113.0,0,17.1,20.0
+728926,2025-04-04T23:30Z,Sportivo Ameliano,Sportivo Trinidense,0,1,Villeta,Paraguay,78.0,0,16.5,17.4
+728921,2025-04-05T21:00Z,Club Atlético Tembetary,Sportivo Luqueño,1,1,Asunción,Paraguay,113.0,0,5.2,21.3
+728924,2025-04-05T23:30Z,Libertad,Cerro Porteño,1,0,Asunción,Paraguay,113.0,0,8.3,19.6
+728922,2025-04-06T21:15Z,Guaraní,Club Olimpia,2,1,Asunción,Paraguay,113.0,0,7.5,27.0
+728925,2025-04-06T23:30Z,Nacional Asunción,2 de Mayo,1,0,Asunción,Paraguay,113.0,0,11.8,25.0
+728927,2025-04-10T21:00Z,2 de Mayo,Deportivo Recoleta,0,4,Pedro Juan Caballero,Paraguay,649.0,0,6.1,23.1
+728932,2025-04-10T23:15Z,Sportivo Trinidense,Club Atlético Tembetary,1,1,Asunción,Paraguay,113.0,0,10.6,21.4
+728930,2025-04-11T21:30Z,Libertad,Nacional Asunción,1,0,Asunción,Paraguay,113.0,0,5.9,25.7
+728928,2025-04-12T21:30Z,Cerro Porteño,Sportivo Luqueño,0,0,Asunción,Paraguay,113.0,0.3,13.8,21.9
+728931,2025-04-13T21:00Z,Club Olimpia,Sportivo Ameliano,0,0,Asunción,Paraguay,113.0,0,12.2,24.5
+728929,2025-04-13T23:15Z,General Caballero JLM,Guaraní,0,0,Doctor Juan León Mallorquín,Paraguay,247.0,0,13.2,22.0
+728935,2025-04-14T21:30Z,Deportivo Recoleta,Libertad,1,1,Asunción,Paraguay,113.0,0,5.0,26.0
+728938,2025-04-15T21:00Z,Sportivo Luqueño,Sportivo Trinidense,1,0,Itagua,Paraguay,31.0,0.1,7.3,22.4
+728934,2025-04-15T23:15Z,Nacional Asunción,Cerro Porteño,1,3,Asunción,Paraguay,113.0,0,4.0,24.2
+728933,2025-04-16T19:00Z,Sportivo Ameliano,General Caballero JLM,0,1,Villeta,Paraguay,78.0,0.1,6.3,28.8
+728936,2025-04-16T21:15Z,Guaraní,2 de Mayo,0,1,Carapeguá,,116.0,0,9.0,26.3
+728937,2025-04-16T23:30Z,Club Atlético Tembetary,Club Olimpia,0,1,Asunción,Paraguay,113.0,0,7.8,24.3
+728942,2025-04-19T21:00Z,Libertad,Guaraní,1,3,Asunción,Paraguay,113.0,0,12.9,26.7
+728944,2025-04-19T23:15Z,Club Olimpia,Sportivo Luqueño,3,1,Asunción,Paraguay,113.0,0,14.3,24.6
+728941,2025-04-20T21:00Z,General Caballero JLM,Club Atlético Tembetary,0,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,7.1,25.1
+728940,2025-04-20T23:15Z,Cerro Porteño,Sportivo Trinidense,1,0,Asunción,Paraguay,113.0,0,12.3,23.5
+728939,2025-04-21T21:00Z,2 de Mayo,Sportivo Ameliano,1,4,Pedro Juan Caballero,Paraguay,649.0,0,9.6,24.2
+728943,2025-04-21T23:15Z,Nacional Asunción,Deportivo Recoleta,1,1,Asunción,Paraguay,113.0,0,11.6,23.0
+728945,2025-04-25T22:00Z,Club Atlético Tembetary,2 de Mayo,1,1,Asunción,Paraguay,113.0,0,5.8,23.0
+728946,2025-04-26T22:00Z,Guaraní,Nacional Asunción,2,1,Asunción,Paraguay,113.0,0.1,5.9,23.4
+728949,2025-04-27T21:00Z,Sportivo Luqueño,General Caballero JLM,0,0,Itagua,Paraguay,31.0,0,10.2,24.0
+728948,2025-04-27T23:15Z,Sportivo Ameliano,Libertad,0,0,Villeta,Paraguay,78.0,0,16.7,23.0
+728950,2025-04-28T21:00Z,Sportivo Trinidense,Club Olimpia,1,1,Asunción,Paraguay,113.0,0,10.3,20.4
+728947,2025-04-28T23:15Z,Deportivo Recoleta,Cerro Porteño,1,3,Asunción,Paraguay,113.0,0,9.3,17.8
+728955,2025-05-02T21:00Z,2 de Mayo,Sportivo Luqueño,1,1,Pedro Juan Caballero,Paraguay,649.0,0,7.4,23.0
+728953,2025-05-02T23:15Z,Deportivo Recoleta,Guaraní,0,3,Asunción,Paraguay,113.0,0,11.7,21.7
+728954,2025-05-03T20:30Z,Cerro Porteño,Club Olimpia,1,2,Asunción,Paraguay,113.0,0,4.6,27.6
+728956,2025-05-04T21:00Z,Nacional Asunción,Sportivo Ameliano,0,1,Asunción,Paraguay,113.0,0.5,5.2,25.9
+728951,2025-05-04T23:15Z,Libertad,Club Atlético Tembetary,0,0,Asunción,Paraguay,113.0,0,10.5,24.2
+728952,2025-05-05T22:00Z,General Caballero JLM,Sportivo Trinidense,1,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,12.3,24.7
+728962,2025-05-09T20:00Z,Sportivo Trinidense,2 de Mayo,2,1,Asunción,Paraguay,113.0,0,16.0,24.1
+728958,2025-05-09T22:30Z,Club Atlético Tembetary,Nacional Asunción,1,2,Asunción,Paraguay,113.0,0,14.7,22.8
+728957,2025-05-10T20:00Z,Guaraní,Cerro Porteño,0,2,Asunción,Paraguay,113.0,0,9.5,24.5
+728960,2025-05-10T22:30Z,Sportivo Ameliano,Deportivo Recoleta,1,2,Villeta,Paraguay,78.0,0,8.0,21.1
+728959,2025-05-11T20:00Z,Club Olimpia,General Caballero JLM,0,3,Asunción,Paraguay,113.0,0,8.5,23.7
+728961,2025-05-11T22:30Z,Sportivo Luqueño,Libertad,1,0,Itagua,Paraguay,31.0,0,6.3,21.1
+728966,2025-05-16T20:00Z,Deportivo Recoleta,Club Atlético Tembetary,1,1,Asunción,Paraguay,113.0,0,9.6,27.7
+728964,2025-05-16T22:30Z,Cerro Porteño,General Caballero JLM,2,1,Asunción,Paraguay,113.0,0,8.1,24.7
+728968,2025-05-17T20:00Z,Nacional Asunción,Sportivo Luqueño,4,0,Asunción,Paraguay,113.0,0,14.2,28.5
+728967,2025-05-17T22:30Z,Libertad,Sportivo Trinidense,1,1,Asunción,Paraguay,113.0,0,16.3,26.4
+728963,2025-05-18T20:00Z,2 de Mayo,Club Olimpia,0,0,Pedro Juan Caballero,Paraguay,649.0,0,13.9,26.0
+728965,2025-05-18T22:30Z,Guaraní,Sportivo Ameliano,1,3,Itagua,Paraguay,31.0,0,6.4,24.1
+728973,2025-05-20T19:30Z,Sportivo Luqueño,Deportivo Recoleta,0,0,Itagua,Paraguay,31.0,0,0.6,29.5
+728972,2025-05-20T22:00Z,Sportivo Trinidense,Nacional Asunción,2,0,Asunción,Paraguay,113.0,0,5.4,22.8
+728969,2025-05-21T12:30Z,General Caballero JLM,2 de Mayo,1,1,Doctor Juan León Mallorquín,Paraguay,247.0,0,5.3,19.8
+728970,2025-05-21T22:30Z,Club Atlético Tembetary,Guaraní,1,2,Asunción,Paraguay,113.0,0.3,10.3,22.7
+728971,2025-05-21T22:30Z,Club Olimpia,Libertad,1,1,Asunción,Paraguay,113.0,0.3,10.3,22.7
+728974,2025-05-21T22:30Z,Sportivo Ameliano,Cerro Porteño,0,0,Itagua,Paraguay,31.0,0,1.4,21.2
+728975,2025-05-24T22:00Z,Cerro Porteño,2 de Mayo,1,1,Asunción,Paraguay,113.0,0,6.5,24.3
+728976,2025-05-24T22:00Z,Guaraní,Sportivo Luqueño,2,1,Itagua,Paraguay,31.0,0,3.4,18.7
+728978,2025-05-24T22:00Z,Libertad,General Caballero JLM,1,0,Asunción,Paraguay,113.0,0,6.5,24.3
+728979,2025-05-25T19:30Z,Nacional Asunción,Club Olimpia,1,1,Asunción,Paraguay,113.0,0,10.7,28.6
+728980,2025-05-26T19:30Z,Sportivo Ameliano,Club Atlético Tembetary,2,0,Villeta,Paraguay,78.0,0,16.2,28.2
+728977,2025-05-26T22:00Z,Deportivo Recoleta,Sportivo Trinidense,1,2,Itagua,Paraguay,31.0,0,4.9,21.7
+728985,2025-05-30T20:00Z,General Caballero JLM,Nacional Asunción,2,4,Doctor Juan León Mallorquín,Paraguay,247.0,0,3.6,14.3
+728982,2025-05-31T22:00Z,Club Atlético Tembetary,Cerro Porteño,1,6,Itagua,Paraguay,31.0,0,6.0,19.1
+728984,2025-06-01T13:00Z,Club Olimpia,Deportivo Recoleta,0,0,Asunción,Paraguay,113.0,0,3.4,13.1
+728981,2025-06-01T19:00Z,2 de Mayo,Libertad,0,1,Pedro Juan Caballero,Paraguay,649.0,0.9,8.0,16.2
+728986,2025-06-01T19:00Z,Sportivo Trinidense,Guaraní,2,1,Asunción,Paraguay,113.0,0,2.8,18.7
+728983,2025-06-02T20:00Z,Sportivo Luqueño,Sportivo Ameliano,0,0,Itagua,Paraguay,31.0,0,6.1,23.5

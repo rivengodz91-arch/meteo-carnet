@@ -668,3 +668,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712399,2025-03-16T15:00Z,AS Roma,Cagliari,1,0,Roma,Italy,576.0,11.4,13.2,9.8
 712395,2025-03-16T17:00Z,Fiorentina,Juventus,3,0,Firenze,Italy,58.0,0,12.9,10.3
 712393,2025-03-16T19:45Z,Atalanta,Internazionale,0,2,Bergamo,Italy,249.0,0,0.7,8.0
+712404,2025-03-29T14:00Z,Como,Empoli,1,1,Como,Italy,201.0,0.5,4.7,15.6
+712408,2025-03-29T14:00Z,Venezia,Bologna,0,1,Venezia,Italy,160.0,4.9,19.4,11.5
+712407,2025-03-29T17:00Z,Juventus,Genoa,1,0,Torino,Italy,239.0,0,3.2,15.2
+712410,2025-03-29T19:45Z,Lecce,AS Roma,0,1,Lecce,Italy,49.0,0.2,5.2,11.7
+712403,2025-03-30T10:30Z,Cagliari,Monza,3,0,Cagliari,Italy,6.0,0.2,14.8,16.3
+712405,2025-03-30T13:00Z,Fiorentina,Atalanta,1,0,Firenze,Italy,58.0,0,17.4,18.6
+712412,2025-03-30T16:00Z,Internazionale,Udinese,2,1,Milano,Italy,635.0,0,16.2,13.3
+712411,2025-03-30T18:45Z,Napoli,AC Milan,2,1,Napoli,Italy,58.0,0,7.1,14.0
+712406,2025-03-31T16:30Z,Hellas Verona,Parma,0,0,Verona,Italy,59.0,0.4,7.1,14.6
+712409,2025-03-31T18:45Z,Lazio,Torino,1,1,Roma,Italy,576.0,0,4.8,7.1
+712415,2025-04-04T18:45Z,Genoa,Udinese,1,0,Genova,Italy,3.0,0,6.1,13.8
+712418,2025-04-05T13:00Z,Monza,Como,1,3,Monza,Italy,162.0,0,7.9,21.6
+712420,2025-04-05T16:00Z,Parma,Internazionale,2,2,Parma,Italy,57.0,0,5.8,20.3
+712422,2025-04-05T18:45Z,AC Milan,Fiorentina,2,2,Milano,Italy,635.0,0,4.0,10.4
+712416,2025-04-06T10:30Z,Lecce,Venezia,1,1,Lecce,Italy,49.0,0.1,15.1,19.0
+712414,2025-04-06T13:00Z,Empoli,Cagliari,0,0,Empoli,Italy,28.0,0,8.3,19.4
+712419,2025-04-06T13:00Z,Torino,Hellas Verona,1,1,Torino,Italy,239.0,0,5.1,24.0
+712417,2025-04-06T16:00Z,Atalanta,Lazio,0,1,Bergamo,Italy,249.0,0,17.7,13.8
+712421,2025-04-06T18:45Z,AS Roma,Juventus,1,1,Roma,Italy,576.0,0,16.0,-0.1
+712413,2025-04-07T18:45Z,Bologna,Napoli,1,1,Bologna,Italy,54.0,0,11.6,8.4
+712431,2025-04-11T18:45Z,Udinese,AC Milan,0,4,Udine,Italy,113.0,0,0.6,13.5
+712429,2025-04-12T13:00Z,Venezia,Monza,1,0,Venezia,Italy,160.0,0,9.0,19.4
+712425,2025-04-12T16:00Z,Internazionale,Cagliari,3,1,Milano,Italy,635.0,0,8.4,16.0
+712424,2025-04-12T18:45Z,Juventus,Lecce,2,1,Torino,Italy,239.0,0,6.6,17.1
+712430,2025-04-13T10:30Z,Atalanta,Bologna,2,0,Bergamo,Italy,249.0,0,3.5,12.8
+712427,2025-04-13T13:00Z,Fiorentina,Parma,0,0,Firenze,Italy,58.0,4.5,5.0,14.1
+712426,2025-04-13T13:00Z,Hellas Verona,Genoa,0,0,Verona,Italy,59.0,0.1,6.5,14.1
+712428,2025-04-13T16:00Z,Como,Torino,1,0,Como,Italy,201.0,0,3.7,15.9
+712423,2025-04-13T18:45Z,Lazio,AS Roma,1,1,Roma,Italy,576.0,0,5.8,7.9
+712432,2025-04-14T18:45Z,Napoli,Empoli,3,0,Napoli,Italy,58.0,0.6,9.7,17.1
+712438,2025-04-19T13:00Z,Lecce,Como,0,3,Lecce,Italy,49.0,0,9.9,20.1
+712436,2025-04-19T16:00Z,Monza,Napoli,0,1,Monza,Italy,162.0,0,4.6,16.1
+712433,2025-04-19T18:45Z,AS Roma,Hellas Verona,1,0,Roma,Italy,576.0,0.1,12.5,12.4
+712440,2025-04-20T13:00Z,Empoli,Venezia,2,2,Empoli,Italy,28.0,0.1,12.4,18.5
+712434,2025-04-20T16:00Z,Bologna,Internazionale,1,0,Bologna,Italy,54.0,0.1,9.3,18.8
+712437,2025-04-20T18:45Z,AC Milan,Atalanta,0,1,Milano,Italy,635.0,0,3.0,12.9
+712441,2025-04-23T16:30Z,Cagliari,Fiorentina,1,2,Cagliari,Italy,6.0,0,24.0,17.9
+712439,2025-04-23T16:30Z,Genoa,Lazio,0,2,Genova,Italy,3.0,0,5.5,18.5
+712435,2025-04-23T16:30Z,Parma,Juventus,1,0,Parma,Italy,57.0,0,5.6,18.9
+712442,2025-04-23T16:30Z,Torino,Udinese,2,0,Torino,Italy,239.0,0.2,7.2,19.4
+712444,2025-04-27T10:30Z,Como,Genoa,1,0,Como,Italy,201.0,0,3.8,17.9
+712451,2025-04-27T10:30Z,Venezia,AC Milan,0,2,Venezia,Italy,160.0,0.2,9.2,17.9
+712445,2025-04-27T13:00Z,Fiorentina,Empoli,2,1,Firenze,Italy,58.0,1.1,12.2,20.7
+712452,2025-04-27T13:00Z,Internazionale,AS Roma,0,1,Milano,Italy,635.0,5.5,5.0,18.7
+712447,2025-04-27T16:00Z,Juventus,Monza,2,0,Torino,Italy,239.0,0.2,5.4,17.2
+712448,2025-04-27T18:45Z,Atalanta,Lecce,1,1,Bergamo,Italy,249.0,0,0.4,16.4
+712450,2025-04-27T18:45Z,Napoli,Torino,2,0,Napoli,Italy,58.0,0,1.3,15.8
+712443,2025-04-28T16:30Z,Udinese,Bologna,0,0,Udine,Italy,113.0,0,3.2,22.4
+712446,2025-04-28T18:45Z,Hellas Verona,Cagliari,0,2,Verona,Italy,59.0,0,3.4,18.2
+712449,2025-04-28T18:45Z,Lazio,Parma,2,2,Roma,Italy,576.0,0,3.8,11.1
+712460,2025-05-02T18:45Z,Torino,Venezia,1,1,Torino,Italy,239.0,0,3.1,23.3
+712462,2025-05-03T13:00Z,Cagliari,Udinese,1,2,Cagliari,Italy,6.0,0,18.2,21.8
+712458,2025-05-03T13:00Z,Parma,Como,0,1,Parma,Italy,57.0,0,13.5,25.3
+712456,2025-05-03T16:00Z,Lecce,Napoli,0,1,Lecce,Italy,49.0,0,12.9,27.0
+712455,2025-05-03T18:45Z,Internazionale,Hellas Verona,1,0,Milano,Italy,635.0,0,3.7,16.1
+712453,2025-05-04T10:30Z,Empoli,Lazio,0,1,Empoli,Italy,28.0,0,7.6,21.3
+712457,2025-05-04T13:00Z,Monza,Atalanta,0,4,Monza,Italy,162.0,7.2,11.1,23.2
+712459,2025-05-04T16:00Z,AS Roma,Fiorentina,1,0,Roma,Italy,576.0,0,9.5,19.8
+712461,2025-05-04T18:45Z,Bologna,Juventus,1,1,Bologna,Italy,54.0,0,13.4,20.5
+712454,2025-05-05T18:45Z,Genoa,AC Milan,1,2,Genova,Italy,3.0,0,13.8,14.9
+712467,2025-05-09T18:45Z,AC Milan,Bologna,3,1,Milano,Italy,635.0,0,1.3,13.7
+712463,2025-05-10T13:00Z,Como,Cagliari,3,1,Como,Italy,201.0,0.1,4.0,18.2
+712468,2025-05-10T16:00Z,Lazio,Juventus,1,1,Roma,Italy,576.0,0,11.6,11.5
+712470,2025-05-10T18:45Z,Empoli,Parma,2,1,Empoli,Italy,28.0,0,2.5,18.2
+712464,2025-05-11T10:30Z,Udinese,Monza,1,2,Udine,Italy,113.0,0,4.7,20.2
+712469,2025-05-11T13:00Z,Hellas Verona,Lecce,1,1,Verona,Italy,59.0,0,4.4,21.8
+712465,2025-05-11T16:00Z,Torino,Internazionale,0,2,Torino,Italy,239.0,6.4,11.5,18.0
+712466,2025-05-11T18:45Z,Napoli,Genoa,2,2,Napoli,Italy,58.0,0,0.4,15.8
+712472,2025-05-12T16:30Z,Venezia,Fiorentina,2,1,Venezia,Italy,160.0,5.9,6.8,21.4
+712471,2025-05-12T18:45Z,Atalanta,AS Roma,2,1,Bergamo,Italy,249.0,0,4.2,17.7
+712474,2025-05-17T18:45Z,Genoa,Atalanta,2,3,Genova,Italy,3.0,0,7.7,16.7
+712475,2025-05-18T18:45Z,AS Roma,AC Milan,3,1,Roma,Italy,576.0,0,13.9,8.6
+712473,2025-05-18T18:45Z,Cagliari,Venezia,3,0,Cagliari,Italy,6.0,0,8.1,19.3
+712476,2025-05-18T18:45Z,Fiorentina,Bologna,3,2,Firenze,Italy,58.0,0,9.3,17.7
+712482,2025-05-18T18:45Z,Hellas Verona,Como,1,1,Verona,Italy,59.0,0,7.8,19.4
+712481,2025-05-18T18:45Z,Internazionale,Lazio,2,2,Milano,Italy,635.0,0.2,10.0,15.0
+712480,2025-05-18T18:45Z,Juventus,Udinese,2,0,Torino,Italy,239.0,0,9.7,19.3
+712479,2025-05-18T18:45Z,Lecce,Torino,1,0,Lecce,Italy,49.0,0,11.9,18.0
+712478,2025-05-18T18:45Z,Monza,Empoli,1,3,Monza,Italy,162.0,0,12.9,20.4
+712477,2025-05-18T18:45Z,Parma,Napoli,0,0,Parma,Italy,57.0,0,12.1,18.6
+712484,2025-05-23T18:45Z,Como,Internazionale,0,2,Como,Italy,201.0,0.1,10.2,16.1
+712488,2025-05-23T18:45Z,Napoli,Cagliari,2,0,Napoli,Italy,58.0,0,2.8,18.3
+712485,2025-05-24T16:00Z,Bologna,Genoa,1,3,Bologna,Italy,54.0,0,9.8,19.8
+712492,2025-05-24T18:45Z,AC Milan,Monza,2,0,Milano,Italy,635.0,0,10.4,12.9
+712483,2025-05-25T18:45Z,Atalanta,Parma,2,3,Bergamo,Italy,249.0,0,1.5,18.6
+712487,2025-05-25T18:45Z,Empoli,Hellas Verona,1,2,Empoli,Italy,28.0,0,9.2,18.3
+712486,2025-05-25T18:45Z,Lazio,Lecce,0,1,Roma,Italy,576.0,1.5,8.0,9.7
+712489,2025-05-25T18:45Z,Torino,AS Roma,0,2,Torino,Italy,239.0,0,3.1,21.6
+712490,2025-05-25T18:45Z,Udinese,Fiorentina,2,3,Udine,Italy,113.0,0,0.2,17.6
+712491,2025-05-25T18:45Z,Venezia,Juventus,2,3,Venezia,Italy,160.0,0,5.6,21.4
