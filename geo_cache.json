@@ -7,13 +7,29 @@
 36.838,
 -2.46
 ],
+"Ambato|Ecuador": [
+-1.249,
+-78.617
+],
+"Ankara|Türkiye": [
+39.92,
+32.854
+],
 "Annecy|France": [
 45.909,
 6.126
 ],
+"Ascoli Piceno|Italy": [
+42.854,
+13.574
+],
 "Asunción|Paraguay": [
 -25.286,
 -57.647
+],
+"Athens|Greece": [
+37.984,
+23.728
 ],
 "Auckland|New Zealand": [
 -36.849,
@@ -27,6 +43,10 @@
 -1.456,
 -48.504
 ],
+"Berlin|Germany": [
+52.524,
+13.411
+],
 "Bielefeld|Germany": [
 52.033,
 8.533
@@ -35,9 +55,25 @@
 43.263,
 -2.925
 ],
+"Birmingham|England": [
+52.481,
+-1.9
+],
 "Bogota|Colombia": [
 4.61,
 -74.082
+],
+"Bolton|England": [
+53.583,
+-2.433
+],
+"Bolzano|Italy": [
+46.491,
+11.34
+],
+"Bournemouth|England": [
+50.72,
+-1.879
 ],
 "Bucaramanga|Colombia": [
 7.125,
@@ -51,6 +87,18 @@
 3.431,
 -76.52
 ],
+"Carrara|Italy": [
+44.079,
+10.098
+],
+"Castellón|Spain": [
+39.986,
+-0.049
+],
+"Catanzaro|Italy": [
+38.882,
+16.601
+],
 "Chapecó|Brazil": [
 -27.096,
 -52.618
@@ -58,6 +106,22 @@
 "Ciudad Juárez|Mexico": [
 31.72,
 -106.461
+],
+"Como|Italy": [
+45.808,
+9.083
+],
+"Concepción|Chile": [
+-36.827,
+-73.05
+],
+"Coquimbo|Chile": [
+-29.953,
+-71.339
+],
+"Coventry|England": [
+52.407,
+-1.512
 ],
 "Curitiba|Brazil": [
 -25.428,
@@ -71,6 +135,18 @@
 49.872,
 8.65
 ],
+"Diyarbakir|Türkiye": [
+37.914,
+40.217
+],
+"Dundee|Scotland": [
+56.469,
+-2.975
+],
+"Edinburgh|Scotland": [
+55.952,
+-3.196
+],
 "Eibar|Spain": [
 43.185,
 -2.472
@@ -83,17 +159,78 @@
 38.478,
 -0.792
 ],
+"Empoli|Italy": [
+43.718,
+10.948
+],
 "Encamp|Andorra": [
 42.535,
 1.58
+],
+"Falkirk|Scotland": [
+56.002,
+-3.785
+],
+"Foxborough, Massachusetts|USA": [
+42.065,
+-71.248
+],
+"Frankfurt|Germany": [
+50.116,
+8.684
+],
+"Gelsenkirchen|Germany": [
+51.505,
+7.097
+],
+"Genova|Italy": [
+45.216,
+11.872
+],
+"Glasgow|Scotland": [
+55.865,
+-4.258
 ],
 "Granada|Spain": [
 37.188,
 -3.607
 ],
+"Graz|Austria": [
+47.067,
+15.442
+],
+"Groningen|Netherlands": [
+53.219,
+6.567
+],
 "Guingamp|France": [
 48.563,
 -3.153
+],
+"Göteborg|Sweden": [
+57.683,
+11.951
+],
+"Hamar|Norway": [
+60.794,
+11.068
+],
+"Hamburg Norderstedt|Germany": null,
+"Hannover|Germany": [
+52.371,
+9.733
+],
+"Hiroshima|Japan": [
+34.4,
+132.45
+],
+"Innsbruck|Austria": [
+47.263,
+11.395
+],
+"Istanbul|Türkiye": [
+41.014,
+28.95
 ],
 "Kashima|Japan": [
 33.106,
@@ -103,9 +240,61 @@
 35.862,
 139.977
 ],
+"Kawasaki|Japan": [
+35.521,
+139.717
+],
+"Kilmarnock|Scotland": [
+55.612,
+-4.496
+],
 "Kobe|Japan": [
 34.691,
 135.183
+],
+"Kocaeli|Türkiye": [
+39.625,
+27.511
+],
+"Kyoto|Japan": [
+35.021,
+135.754
+],
+"Laval|France": [
+48.072,
+-0.77
+],
+"Lens|France": [
+50.433,
+2.828
+],
+"Leverkusen|Germany": [
+51.03,
+6.984
+],
+"Lille|France": [
+50.634,
+3.055
+],
+"Lincoln|England": [
+40.8,
+-96.667
+],
+"Linz|Austria": [
+48.306,
+14.286
+],
+"London|England": [
+51.509,
+-0.126
+],
+"Madrid|Spain": [
+40.416,
+-3.703
+],
+"Manchester|England": [
+53.481,
+-2.237
 ],
 "Medellin|Colombia": [
 6.245,
@@ -115,13 +304,41 @@
 49.119,
 6.173
 ],
+"Mexico City|Mexico": [
+19.428,
+-99.128
+],
+"Miami, Florida|USA": [
+25.774,
+-80.194
+],
+"Middlesbrough|England": [
+54.576,
+-1.235
+],
 "Mirassol|Brazil": [
 -20.819,
 -49.521
 ],
+"Modena|Italy": [
+44.648,
+10.925
+],
 "Molde|Norway": [
 62.738,
 7.159
+],
+"Monaco|France": [
+43.737,
+7.421
+],
+"Motherwell|Scotland": [
+-33.794,
+25.586
+],
+"Mönchengladbach|Germany": [
+51.185,
+6.442
 ],
 "München|Germany": [
 48.137,
@@ -131,13 +348,57 @@
 48.684,
 6.185
 ],
+"Nantes|France": [
+47.217,
+-1.553
+],
+"Napoli|Italy": [
+40.876,
+14.52
+],
+"New South Wales|Australia": [
+25.24,
+55.2
+],
+"Newcastle-upon-Tyne|England": [
+54.973,
+-1.614
+],
+"Nice|France": [
+43.703,
+7.266
+],
+"Nijmegen|Netherlands": [
+51.843,
+5.853
+],
+"Norwich|England": [
+52.628,
+1.298
+],
+"Nürnberg|Germany": [
+49.454,
+11.078
+],
 "Orlando, Florida|USA": [
 28.538,
 -81.379
 ],
+"Osaka|Japan": [
+34.694,
+135.501
+],
+"Oslo|Norway": [
+59.913,
+10.746
+],
 "Oviedo|Spain": [
 43.36,
 -5.845
+],
+"Pachuca|Mexico": [
+20.117,
+-98.733
 ],
 "Palma de Mallorca|Spain": [
 39.55,
@@ -147,6 +408,10 @@
 48.853,
 2.349
 ],
+"Parma|Italy": [
+44.799,
+10.326
+],
 "Porto Alegre|Brazil": [
 -30.033,
 -51.23
@@ -155,9 +420,21 @@
 19.048,
 -98.207
 ],
+"Queensland|Australia": [
+-21.483,
+149.933
+],
 "Quito|Ecuador": [
 -0.23,
 -78.525
+],
+"Rancagua|Chile": [
+-34.169,
+-70.741
+],
+"Reims|France": [
+49.265,
+4.029
 ],
 "Rio de Janeiro|Brazil": [
 -22.906,
@@ -167,6 +444,18 @@
 56.197,
 10.248
 ],
+"Roma|Italy": [
+46.0,
+25.0
+],
+"Rotterdam|Netherlands": [
+51.922,
+4.479
+],
+"Sabadell|Spain": [
+41.543,
+2.109
+],
 "Saint-Ouen, Paris|France": [
 48.907,
 2.333
@@ -174,6 +463,10 @@
 "Salvador|Brazil": [
 -12.976,
 -38.491
+],
+"San Nicolás de los Garza|Mexico": [
+25.742,
+-100.302
 ],
 "San Sebastian|Spain": [
 43.567,
@@ -199,17 +492,74 @@
 47.606,
 -122.332
 ],
+"Sevilla|Spain": [
+37.383,
+-5.973
+],
+"Sheffield|England": [
+53.383,
+-1.466
+],
+"Southampton|England": [
+50.904,
+-1.404
+],
+"Spiesen-Elversberg|Germany": [
+49.317,
+7.133
+],
+"Stockholm|Sweden": [
+59.329,
+18.069
+],
+"Stoke-on-Trent|England": [
+53.004,
+-2.185
+],
+"Strasbourg|France": [
+48.584,
+7.746
+],
+"Swansea|Wales": [
+51.621,
+-3.943
+],
 "Sydney|Australia": [
 -33.868,
 151.207
+],
+"Sölvesborg|Sweden": [
+56.052,
+14.575
 ],
 "Tijuana|Mexico": [
 32.503,
 -117.004
 ],
+"Tokyo|Japan": [
+35.69,
+139.692
+],
+"Torreón|Mexico": [
+25.544,
+-103.419
+],
+"Toyota Stadium|USA": null,
+"Tromsø|Norway": [
+69.649,
+18.955
+],
+"Utrecht|Netherlands": [
+52.091,
+5.122
+],
 "Valladolid|Spain": [
 41.655,
 -4.724
+],
+"Velsen-Zuid|Netherlands": [
+52.46,
+4.65
 ],
 "Verona|Italy": [
 45.439,
@@ -218,6 +568,22 @@
 "Villeta|Paraguay": [
 -25.507,
 -57.566
+],
+"Vitoria-Gasteiz|Spain": [
+42.85,
+-2.673
+],
+"Wellington|New Zealand": [
+-41.287,
+174.776
+],
+"Wolfsburg|Germany": [
+52.424,
+10.776
+],
+"Wolverhampton|England": [
+52.585,
+-2.123
 ],
 "Yopal|Colombia": [
 5.336,
