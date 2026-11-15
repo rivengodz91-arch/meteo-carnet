@@ -865,3 +865,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 750056,2025-12-14T17:00Z,Samsunspor,Istanbul Basaksehir,0,2,Samsun,Türkiye,64.0,0,2.8,8.3
 750057,2025-12-14T17:00Z,Trabzonspor,Besiktas,3,3,Trabzon,Türkiye,39.0,0,4.4,7.7
 750058,2025-12-15T17:00Z,Fenerbahce,Konyaspor,4,0,Istanbul,Türkiye,39.0,0,8.6,8.1
+750065,2025-12-19T17:00Z,Kocaelispor,Antalyaspor,2,1,Kocaeli,Türkiye,310.0,0,7.6,3.6
+750070,2025-12-20T11:30Z,Konyaspor,Kayserispor,1,1,Konya,Türkiye,1030.0,0,2.1,7.9
+750066,2025-12-20T14:00Z,Eyupspor,Fenerbahce,0,3,Istanbul,Türkiye,39.0,0,13.0,12.0
+750067,2025-12-20T17:00Z,Besiktas,Caykur Rizespor,1,0,Istanbul,Türkiye,39.0,0,11.0,10.6
+750064,2025-12-21T11:30Z,Alanyaspor,Fatih Karagümrük,2,0,Antalya,Türkiye,61.0,0.3,5.6,14.6
+750069,2025-12-21T17:00Z,Galatasaray,Kasimpasa,3,0,Istanbul,Türkiye,39.0,0.2,9.8,10.8
+750063,2025-12-21T17:00Z,Goztepe,Samsunspor,2,0,Izmir,Türkiye,122.0,0,4.2,10.5
+750068,2025-12-22T14:00Z,Istanbul Basaksehir,Gaziantep FK,5,1,Istanbul,Türkiye,39.0,0,16.3,11.2
+750062,2025-12-22T17:00Z,Genclerbirligi,Trabzonspor,4,3,Ankara,Türkiye,850.0,0.3,5.6,4.9
+750072,2026-01-17T14:00Z,Istanbul Basaksehir,Fatih Karagümrük,2,1,Istanbul,Türkiye,39.0,0.3,17.9,3.5
+750079,2026-01-17T17:00Z,Galatasaray,Gaziantep FK,1,1,Istanbul,Türkiye,39.0,0,20.2,2.5
+750071,2026-01-18T11:30Z,Kasimpasa,Antalyaspor,0,0,Istanbul,Türkiye,39.0,1.0,23.0,3.1
+750074,2026-01-18T14:00Z,Genclerbirligi,Samsunspor,1,1,Ankara,Türkiye,850.0,0,11.2,-1.3
+750078,2026-01-18T14:00Z,Kocaelispor,Trabzonspor,1,2,Kocaeli,Türkiye,310.0,0,24.0,-0.5
+750077,2026-01-18T17:00Z,Alanyaspor,Fenerbahce,2,3,Antalya,Türkiye,61.0,0,18.3,6.7
+750075,2026-01-19T14:00Z,Konyaspor,Eyupspor,1,1,Konya,Türkiye,1030.0,0,12.1,-1.5
+750076,2026-01-19T17:00Z,Besiktas,Kayserispor,1,0,Istanbul,Türkiye,39.0,0.7,23.4,2.1
+750073,2026-01-19T17:00Z,Goztepe,Caykur Rizespor,3,1,Izmir,Türkiye,122.0,0,14.7,2.7
+750080,2026-01-23T17:00Z,Trabzonspor,Kasimpasa,2,1,Trabzon,Türkiye,39.0,0,13.6,7.0
+750082,2026-01-24T11:30Z,Kayserispor,Istanbul Basaksehir,0,3,Kayseri,Türkiye,1054.0,0,5.4,2.6
+750081,2026-01-24T14:00Z,Samsunspor,Kocaelispor,0,0,Samsun,Türkiye,64.0,0,8.0,13.1
+750085,2026-01-24T17:00Z,Fatih Karagümrük,Galatasaray,1,3,Istanbul,Türkiye,39.0,0,8.6,8.0
+750083,2026-01-25T11:30Z,Gaziantep FK,Konyaspor,1,1,Gaziantep,Türkiye,842.0,0,3.9,2.8
+750084,2026-01-25T14:00Z,Antalyaspor,Genclerbirligi,2,1,Antalya,Türkiye,61.0,0.2,8.8,13.5
+750087,2026-01-25T14:00Z,Caykur Rizespor,Alanyaspor,1,1,Rize,Türkiye,63.0,0,3.6,8.9
+750088,2026-01-25T17:00Z,Fenerbahce,Goztepe,1,1,Istanbul,Türkiye,39.0,0,9.0,11.8
+750086,2026-01-26T17:00Z,Eyupspor,Besiktas,2,2,Istanbul,Türkiye,39.0,0.2,13.0,13.4
+750095,2026-01-30T17:00Z,Antalyaspor,Trabzonspor,1,1,Antalya,Türkiye,61.0,0,13.4,13.3
+750089,2026-01-30T17:00Z,Kasimpasa,Samsunspor,0,1,Istanbul,Türkiye,39.0,0.6,7.7,7.8
+750096,2026-01-31T11:30Z,Alanyaspor,Eyupspor,1,3,Antalya,Türkiye,61.0,0,6.8,15.5
+750090,2026-01-31T14:00Z,Istanbul Basaksehir,Caykur Rizespor,2,2,Istanbul,Türkiye,39.0,3.4,22.1,7.4
+750094,2026-01-31T17:00Z,Besiktas,Konyaspor,2,1,Istanbul,Türkiye,39.0,4.4,21.8,6.4
+750091,2026-01-31T17:00Z,Goztepe,Fatih Karagümrük,2,1,Izmir,Türkiye,122.0,0,2.0,10.0
+750092,2026-02-01T14:00Z,Genclerbirligi,Gaziantep FK,2,1,Ankara,Türkiye,850.0,0,7.4,12.6
+750097,2026-02-01T17:00Z,Galatasaray,Kayserispor,4,0,Istanbul,Türkiye,39.0,8.8,32.4,6.3
+750093,2026-02-02T17:00Z,Kocaelispor,Fenerbahce,0,2,Kocaeli,Türkiye,310.0,0.5,13.2,2.2
+750105,2026-02-07T11:30Z,Fatih Karagümrük,Antalyaspor,1,0,Istanbul,Türkiye,39.0,0.1,12.0,13.6
+750101,2026-02-07T17:00Z,Samsunspor,Trabzonspor,0,3,Samsun,Türkiye,64.0,0.3,7.1,11.2
+750104,2026-02-08T11:30Z,Eyupspor,Istanbul Basaksehir,1,2,Istanbul,Türkiye,39.0,1.4,4.9,11.3
+750103,2026-02-08T14:00Z,Caykur Rizespor,Galatasaray,0,3,Rize,Türkiye,63.0,1.0,4.8,10.2
+750098,2026-02-08T14:00Z,Konyaspor,Goztepe,0,0,Konya,Türkiye,1030.0,0,15.4,11.3
+750102,2026-02-08T17:00Z,Besiktas,Alanyaspor,2,2,Istanbul,Türkiye,39.0,0.1,7.5,8.8
+750099,2026-02-09T14:00Z,Kayserispor,Kocaelispor,1,2,Kayseri,Türkiye,1054.0,0,10.6,9.1
+750106,2026-02-09T17:00Z,Fenerbahce,Genclerbirligi,3,1,Istanbul,Türkiye,39.0,0.2,23.3,7.3
+750100,2026-02-09T17:00Z,Gaziantep FK,Kasimpasa,2,1,Gaziantep,Türkiye,842.0,0,7.7,9.2
+750115,2026-02-13T17:00Z,Antalyaspor,Samsunspor,3,1,Antalya,Türkiye,61.0,0,7.0,11.3
+750108,2026-02-13T17:00Z,Galatasaray,Eyupspor,5,1,Istanbul,Türkiye,39.0,3.0,12.0,12.1
+750107,2026-02-14T11:30Z,Genclerbirligi,Caykur Rizespor,2,2,Ankara,Türkiye,850.0,0.1,13.0,9.1
+750114,2026-02-14T14:00Z,Alanyaspor,Konyaspor,2,1,Antalya,Türkiye,61.0,0,7.9,16.4
+750112,2026-02-14T17:00Z,Trabzonspor,Fenerbahce,2,3,Trabzon,Türkiye,39.0,1.1,8.4,11.9
+750111,2026-02-15T11:30Z,Kocaelispor,Gaziantep FK,3,0,Kocaeli,Türkiye,310.0,0,28.7,18.6
+750113,2026-02-15T14:00Z,Goztepe,Kayserispor,0,0,Izmir,Türkiye,122.0,0,34.2,19.1
+750109,2026-02-15T17:00Z,Istanbul Basaksehir,Besiktas,2,3,Istanbul,Türkiye,39.0,0.4,16.1,16.6
+750110,2026-02-16T17:00Z,Kasimpasa,Fatih Karagümrük,3,2,Istanbul,Türkiye,39.0,0,15.7,14.0
+750122,2026-02-20T17:00Z,Caykur Rizespor,Kocaelispor,2,0,Rize,Türkiye,63.0,0,4.4,6.9
+750121,2026-02-21T10:30Z,Eyupspor,Genclerbirligi,1,0,Istanbul,Türkiye,39.0,0,8.9,14.0
+750116,2026-02-21T13:00Z,Alanyaspor,Istanbul Basaksehir,1,2,Antalya,Türkiye,61.0,1.4,7.2,13.7
+750124,2026-02-21T17:00Z,Konyaspor,Galatasaray,2,0,Konya,Türkiye,1030.0,0.1,2.2,7.4
+750120,2026-02-22T10:30Z,Kayserispor,Antalyaspor,1,0,Kayseri,Türkiye,1054.0,0.1,12.0,10.2
+750119,2026-02-22T13:00Z,Gaziantep FK,Trabzonspor,1,2,Gaziantep,Türkiye,842.0,0,16.6,12.9
+750123,2026-02-22T17:00Z,Besiktas,Goztepe,4,0,Istanbul,Türkiye,39.0,0,7.9,4.6
+750117,2026-02-22T17:00Z,Fatih Karagümrük,Samsunspor,0,0,Istanbul,Türkiye,39.0,0,7.9,4.6
+750118,2026-02-23T17:00Z,Fenerbahce,Kasimpasa,1,1,Istanbul,Türkiye,39.0,0,6.3,6.6
+750133,2026-02-27T17:00Z,Istanbul Basaksehir,Konyaspor,2,0,Istanbul,Türkiye,39.0,0,11.7,3.8
+750128,2026-02-27T17:00Z,Trabzonspor,Fatih Karagümrük,3,1,Trabzon,Türkiye,39.0,0.8,3.8,5.2
+750130,2026-02-28T10:30Z,Kasimpasa,Caykur Rizespor,0,3,Istanbul,Türkiye,39.0,0,17.7,6.9
+750131,2026-02-28T13:00Z,Kocaelispor,Besiktas,0,1,Kocaeli,Türkiye,310.0,0,23.2,5.5
+750126,2026-02-28T17:00Z,Galatasaray,Alanyaspor,3,1,Istanbul,Türkiye,39.0,0,14.4,5.2
+750129,2026-02-28T17:00Z,Goztepe,Eyupspor,0,0,Izmir,Türkiye,122.0,0,11.5,7.5
+750127,2026-03-01T13:00Z,Genclerbirligi,Kayserispor,0,0,Ankara,Türkiye,850.0,0,10.2,8.2
+750125,2026-03-01T17:00Z,Antalyaspor,Fenerbahce,2,2,Antalya,Türkiye,61.0,0,2.8,11.0
+750132,2026-03-01T17:00Z,Samsunspor,Gaziantep FK,0,0,Samsun,Türkiye,64.0,0,7.1,5.9
+750140,2026-03-07T13:00Z,Istanbul Basaksehir,Goztepe,2,1,Istanbul,Türkiye,39.0,0,14.2,10.0
+750135,2026-03-07T17:00Z,Besiktas,Galatasaray,0,1,Istanbul,Türkiye,39.0,0,12.1,6.7
+750136,2026-03-08T10:30Z,Caykur Rizespor,Antalyaspor,1,0,Rize,Türkiye,63.0,0,6.0,5.3
+750139,2026-03-08T10:30Z,Gaziantep FK,Fatih Karagümrük,1,1,Gaziantep,Türkiye,842.0,0,9.4,10.8
+750142,2026-03-08T13:00Z,Konyaspor,Kasimpasa,1,1,Konya,Türkiye,1030.0,0,12.2,7.2
+750138,2026-03-08T17:00Z,Fenerbahce,Samsunspor,3,2,Istanbul,Türkiye,39.0,0,18.0,6.9
+750137,2026-03-09T13:00Z,Eyupspor,Kocaelispor,0,1,Istanbul,Türkiye,39.0,0,24.2,9.2
+750134,2026-03-09T17:00Z,Alanyaspor,Genclerbirligi,0,0,Antalya,Türkiye,61.0,0,15.2,15.3
+750141,2026-03-09T17:00Z,Kayserispor,Trabzonspor,1,3,Kayseri,Türkiye,1054.0,0,9.7,-0.6
+750143,2026-03-13T17:00Z,Antalyaspor,Gaziantep FK,1,4,Antalya,Türkiye,61.0,0,3.8,14.5
+750144,2026-03-13T17:00Z,Fatih Karagümrük,Fenerbahce,2,0,Istanbul,Türkiye,39.0,0,15.3,6.9
+750149,2026-03-14T10:30Z,Kocaelispor,Konyaspor,1,2,Kocaeli,Türkiye,310.0,0,17.0,8.1
+750145,2026-03-14T17:00Z,Galatasaray,Istanbul Basaksehir,3,0,Istanbul,Türkiye,39.0,0,18.1,8.1
+750147,2026-03-14T17:00Z,Goztepe,Alanyaspor,2,2,Izmir,Türkiye,122.0,0,6.0,11.5
+750151,2026-03-14T17:00Z,Trabzonspor,Caykur Rizespor,1,0,Trabzon,Türkiye,39.0,0,4.9,8.3
+750148,2026-03-15T13:00Z,Kasimpasa,Eyupspor,1,0,Istanbul,Türkiye,39.0,0.1,17.5,9.9
+750146,2026-03-15T17:00Z,Genclerbirligi,Besiktas,0,2,Ankara,Türkiye,850.0,0,3.9,10.5
+750150,2026-03-15T17:00Z,Samsunspor,Kayserispor,2,1,Samsun,Türkiye,64.0,0,4.6,9.2

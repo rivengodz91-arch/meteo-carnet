@@ -968,3 +968,148 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 762356,2025-12-07T22:00Z,Boca Juniors,Racing Club,0,1,Buenos Aires,Argentina,31.0,0,17.5,23.2
 762357,2025-12-08T20:00Z,Gimnasia La Plata,Estudiantes de La Plata,0,1,La Plata,Argentina,27.0,0,18.6,22.7
 762487,2025-12-14T00:00Z,Racing Club,Estudiantes de La Plata,1,1,Santiago del Estero,Argentina,176.0,0,12.6,30.4
+762774,2026-01-22T20:00Z,Aldosivi,Defensa y Justicia,0,0,Buenos Aires,Argentina,31.0,0,14.0,28.9
+762776,2026-01-22T23:00Z,Banfield,Huracán,1,1,Buenos Aires,Argentina,31.0,0,14.3,25.9
+762788,2026-01-22T23:00Z,Unión (Santa Fe),Platense,0,0,"Rosario, Santa Fe",Argentina,38.0,0,9.3,29.4
+762779,2026-01-23T01:15Z,Central Córdoba (Santiago del Estero),Gimnasia (Mendoza),0,1,Santiago del Estero,Argentina,176.0,0,11.7,29.4
+762783,2026-01-23T01:15Z,Instituto (Córdoba),Vélez Sarsfield,0,1,Córdoba,Argentina,378.0,0,11.3,24.5
+762785,2026-01-23T22:00Z,San Lorenzo,Lanús,2,3,Buenos Aires,Argentina,31.0,0,17.0,28.3
+762781,2026-01-23T23:00Z,Independiente,Estudiantes de La Plata,1,1,Avellaneda,Argentina,13.0,0,14.0,27.6
+762782,2026-01-24T01:15Z,Independiente Rivadavia,Atlético Tucumán,2,1,Mendoza,Argentina,853.0,0,9.5,27.4
+762786,2026-01-24T01:15Z,Talleres (Córdoba),Newell's Old Boys,2,1,Córdoba,Argentina,378.0,0,13.5,27.5
+762777,2026-01-24T20:00Z,Barracas Central,River Plate,0,1,Buenos Aires,Argentina,31.0,0,5.2,30.6
+762780,2026-01-24T22:30Z,Gimnasia La Plata,Racing Club,2,1,La Plata,Argentina,27.0,0,12.8,27.6
+762784,2026-01-25T01:00Z,Rosario Central,Belgrano (Córdoba),1,2,Rosario,Argentina,38.0,0,4.5,29.7
+762778,2026-01-25T21:30Z,Boca Juniors,Deportivo Riestra,1,0,Buenos Aires,Argentina,31.0,0,13.2,31.2
+762775,2026-01-26T00:00Z,Argentinos Juniors,Sarmiento (Junín),1,0,Buenos Aires,Argentina,31.0,0,12.0,26.2
+762787,2026-01-26T00:00Z,Tigre,Estudiantes de Río Cuarto,2,0,Buenos Aires,Argentina,31.0,0,12.0,26.2
+762799,2026-01-26T20:00Z,Platense,Instituto (Córdoba),2,1,Buenos Aires,Argentina,31.0,0.2,9.1,34.1
+762802,2026-01-27T20:45Z,Vélez Sarsfield,Talleres (Córdoba),2,1,Buenos Aires,Argentina,31.0,0,9.3,28.9
+762795,2026-01-27T23:00Z,Gimnasia (Mendoza),San Lorenzo,0,1,Mendoza,Argentina,853.0,1.0,8.1,24.1
+762796,2026-01-27T23:00Z,Huracán,Independiente Rivadavia,1,2,Buenos Aires,Argentina,31.0,0,11.1,25.0
+762803,2026-01-28T01:15Z,Atlético Tucumán,Central Córdoba (Santiago del Estero),0,0,Tucuman,Argentina,735.0,0,26.2,27.4
+762798,2026-01-28T01:15Z,Newell's Old Boys,Independiente,1,1,Rosario,Argentina,38.0,0,10.8,28.0
+762789,2026-01-28T20:00Z,Aldosivi,Barracas Central,0,0,Buenos Aires,Argentina,31.0,0,15.1,26.9
+762800,2026-01-28T22:00Z,Racing Club,Rosario Central,1,2,Buenos Aires,Argentina,31.0,0,14.5,25.4
+762801,2026-01-28T23:00Z,River Plate,Gimnasia La Plata,2,0,Buenos Aires,Argentina,31.0,0,13.9,24.8
+762794,2026-01-29T01:15Z,Estudiantes de La Plata,Boca Juniors,2,1,La Plata,Argentina,27.0,0,11.7,21.9
+762792,2026-01-29T20:00Z,Deportivo Riestra,Defensa y Justicia,0,1,Buenos Aires,Argentina,31.0,0,17.8,27.1
+762791,2026-01-29T22:15Z,Belgrano (Córdoba),Tigre,1,1,Córdoba,Argentina,378.0,0,10.4,32.1
+762797,2026-01-29T22:15Z,Lanús,Unión (Santa Fe),2,1,Buenos Aires,Argentina,31.0,0,19.5,25.9
+762793,2026-01-30T00:30Z,Estudiantes de Río Cuarto,Argentinos Juniors,0,0,Rio Cuarto,Argentina,429.0,0,13.4,27.3
+762790,2026-01-30T00:30Z,Sarmiento (Junín),Banfield,1,0,Junin,Argentina,73.0,0,9.9,24.6
+762815,2026-01-31T20:30Z,San Lorenzo,Central Córdoba (Santiago del Estero),1,0,Buenos Aires,Argentina,31.0,0,14.6,26.8
+762811,2026-01-31T22:45Z,Independiente,Vélez Sarsfield,1,1,Avellaneda,Argentina,13.0,0,16.6,25.1
+762818,2026-02-01T01:00Z,Atlético Tucumán,Huracán,1,1,Tucuman,Argentina,735.0,0,28.8,30.7
+762805,2026-02-01T01:00Z,Talleres (Córdoba),Platense,1,2,Córdoba,Argentina,378.0,0,11.9,23.4
+762807,2026-02-01T20:00Z,Barracas Central,Deportivo Riestra,1,1,Buenos Aires,Argentina,31.0,0,13.0,27.5
+762808,2026-02-01T22:15Z,Boca Juniors,Newell's Old Boys,2,0,Buenos Aires,Argentina,31.0,0,8.9,27.4
+762814,2026-02-02T00:30Z,Rosario Central,River Plate,0,0,Rosario,Argentina,38.0,0,7.7,29.1
+762810,2026-02-02T20:30Z,Gimnasia La Plata,Aldosivi,3,1,La Plata,Argentina,27.0,0,11.3,32.8
+762809,2026-02-02T22:45Z,Defensa y Justicia,Estudiantes de La Plata,0,0,Buenos Aires,Argentina,31.0,0,9.9,30.6
+762817,2026-02-02T22:45Z,Tigre,Racing Club,3,1,Buenos Aires,Argentina,31.0,0,9.9,30.6
+762804,2026-02-03T01:00Z,Argentinos Juniors,Belgrano (Córdoba),0,0,Buenos Aires,Argentina,31.0,0,6.9,29.2
+762816,2026-02-03T01:00Z,Unión (Santa Fe),Gimnasia (Mendoza),4,0,"Rosario, Santa Fe",Argentina,38.0,0,9.4,29.9
+762806,2026-02-03T22:00Z,Banfield,Estudiantes de Río Cuarto,2,1,Buenos Aires,Argentina,31.0,0,7.6,31.6
+762812,2026-02-04T00:15Z,Independiente Rivadavia,Sarmiento (Junín),2,1,Mendoza,Argentina,853.0,0,2.6,28.5
+762813,2026-02-04T00:15Z,Instituto (Córdoba),Lanús,2,2,Córdoba,Argentina,378.0,0,7.0,29.5
+762822,2026-02-07T00:00Z,Central Córdoba (Santiago del Estero),Unión (Santa Fe),1,0,Santiago del Estero,Argentina,176.0,0,4.6,24.2
+762819,2026-02-07T20:00Z,Aldosivi,Rosario Central,1,1,Buenos Aires,Argentina,31.0,0,7.9,31.5
+762830,2026-02-07T21:00Z,Racing Club,Argentinos Juniors,2,1,Buenos Aires,Argentina,31.0,0,8.6,30.9
+762831,2026-02-07T23:00Z,River Plate,Tigre,1,4,Buenos Aires,Argentina,31.0,0,7.6,29.5
+762821,2026-02-08T01:15Z,Belgrano (Córdoba),Banfield,1,0,Córdoba,Argentina,378.0,0,5.7,22.0
+762828,2026-02-08T01:15Z,Newell's Old Boys,Defensa y Justicia,2,3,Rosario,Argentina,38.0,0,8.1,23.0
+762829,2026-02-08T20:00Z,Platense,Independiente,0,1,Buenos Aires,Argentina,31.0,0,13.7,29.5
+762832,2026-02-08T20:00Z,Sarmiento (Junín),Atlético Tucumán,2,1,Junin,Argentina,73.0,0,11.5,28.5
+762826,2026-02-08T22:15Z,Huracán,San Lorenzo,1,0,Buenos Aires,Argentina,31.0,0,14.8,27.4
+762825,2026-02-09T01:15Z,Gimnasia (Mendoza),Instituto (Córdoba),1,0,Mendoza,Argentina,853.0,0,6.5,29.5
+762833,2026-02-09T01:15Z,Vélez Sarsfield,Boca Juniors,2,1,Buenos Aires,Argentina,31.0,0,16.8,25.4
+762820,2026-02-09T20:00Z,Barracas Central,Gimnasia La Plata,2,0,Buenos Aires,Argentina,31.0,0,11.2,32.3
+762824,2026-02-09T22:15Z,Estudiantes de La Plata,Deportivo Riestra,1,0,La Plata,Argentina,27.0,0,12.5,29.9
+762827,2026-02-09T22:15Z,Lanús,Talleres (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,10.4,30.4
+762823,2026-02-10T00:30Z,Estudiantes de Río Cuarto,Independiente Rivadavia,0,1,Rio Cuarto,Argentina,429.0,0,6.9,21.8
+762847,2026-02-12T22:00Z,Tigre,Aldosivi,1,0,Buenos Aires,Argentina,31.0,0,9.5,24.5
+762834,2026-02-13T00:15Z,Argentinos Juniors,River Plate,1,0,Buenos Aires,Argentina,31.0,0,1.4,24.0
+762842,2026-02-13T23:00Z,Independiente,Lanús,2,0,Avellaneda,Argentina,13.0,0,13.5,22.9
+762838,2026-02-14T01:15Z,Defensa y Justicia,Vélez Sarsfield,1,1,Buenos Aires,Argentina,31.0,0,15.9,22.4
+762848,2026-02-14T01:15Z,Unión (Santa Fe),San Lorenzo,0,0,"Rosario, Santa Fe",Argentina,38.0,0,17.9,23.6
+762836,2026-02-14T20:30Z,Banfield,Racing Club,0,2,Buenos Aires,Argentina,31.0,0,19.1,26.3
+762841,2026-02-14T22:45Z,Huracán,Sarmiento (Junín),1,0,Buenos Aires,Argentina,31.0,0,19.2,25.1
+762846,2026-02-14T22:45Z,Talleres (Córdoba),Gimnasia (Mendoza),2,1,Córdoba,Argentina,378.0,0,13.8,27.4
+762835,2026-02-15T01:00Z,Atlético Tucumán,Estudiantes de Río Cuarto,4,0,Tucuman,Argentina,735.0,0,14.4,25.8
+762843,2026-02-15T01:00Z,Independiente Rivadavia,Belgrano (Córdoba),0,1,Mendoza,Argentina,853.0,0,9.0,25.7
+762840,2026-02-15T20:00Z,Gimnasia La Plata,Estudiantes de La Plata,0,0,La Plata,Argentina,27.0,0,13.7,27.0
+762837,2026-02-15T22:30Z,Boca Juniors,Platense,0,0,Buenos Aires,Argentina,31.0,0,8.1,28.3
+762844,2026-02-16T01:00Z,Instituto (Córdoba),Central Córdoba (Santiago del Estero),2,0,Córdoba,Argentina,378.0,0,2.6,19.6
+762845,2026-02-16T01:00Z,Rosario Central,Barracas Central,2,0,Rosario,Argentina,38.0,0,4.0,20.0
+762839,2026-02-16T22:00Z,Deportivo Riestra,Newell's Old Boys,1,1,Buenos Aires,Argentina,31.0,0,15.5,24.8
+762853,2026-02-20T20:15Z,Defensa y Justicia,Belgrano (Córdoba),1,1,Buenos Aires,Argentina,31.0,0,13.9,26.4
+762855,2026-02-20T20:45Z,Estudiantes de La Plata,Sarmiento (Junín),1,0,La Plata,Argentina,27.0,0,13.0,25.2
+762851,2026-02-20T23:00Z,Boca Juniors,Racing Club,0,0,Buenos Aires,Argentina,31.0,0,16.7,23.6
+762858,2026-02-20T23:00Z,Instituto (Córdoba),Atlético Tucumán,2,1,Córdoba,Argentina,378.0,0,4.9,24.8
+762856,2026-02-21T01:15Z,Gimnasia (Mendoza),Gimnasia La Plata,0,1,Mendoza,Argentina,853.0,0,6.2,21.1
+762860,2026-02-21T01:15Z,Rosario Central,Talleres (Córdoba),0,1,Rosario,Argentina,38.0,0,11.4,23.1
+762857,2026-02-21T20:00Z,Independiente Rivadavia,Independiente,3,2,Mendoza,Argentina,853.0,0,5.2,25.1
+762859,2026-02-21T20:00Z,Platense,Barracas Central,1,0,Buenos Aires,Argentina,31.0,0,17.2,27.4
+762863,2026-02-21T22:15Z,Banfield,Newell's Old Boys,3,0,Buenos Aires,Argentina,31.0,0,17.5,24.8
+762854,2026-02-21T22:15Z,Deportivo Riestra,Huracán,0,0,Buenos Aires,Argentina,31.0,0,17.5,24.8
+762852,2026-02-22T00:30Z,Central Córdoba (Santiago del Estero),Tigre,0,0,Santiago del Estero,Argentina,176.0,0,3.8,25.8
+762861,2026-02-22T20:00Z,San Lorenzo,Estudiantes de Río Cuarto,2,0,Buenos Aires,Argentina,31.0,0,16.4,27.8
+762862,2026-02-22T22:15Z,Vélez Sarsfield,River Plate,1,0,Buenos Aires,Argentina,31.0,0,18.6,25.6
+762850,2026-02-23T00:30Z,Unión (Santa Fe),Aldosivi,1,0,"Rosario, Santa Fe",Argentina,38.0,0,8.6,24.9
+762865,2026-02-24T20:00Z,Platense,Defensa y Justicia,0,0,Buenos Aires,Argentina,31.0,0.6,14.9,29.8
+762868,2026-02-24T22:15Z,San Lorenzo,Instituto (Córdoba),1,1,Buenos Aires,Argentina,31.0,0.5,17.0,28.7
+762874,2026-02-24T22:45Z,Central Córdoba (Santiago del Estero),Talleres (Córdoba),2,0,Santiago del Estero,Argentina,176.0,0,4.5,31.5
+762873,2026-02-25T00:30Z,Belgrano (Córdoba),Atlético Tucumán,3,1,Córdoba,Argentina,378.0,0,7.6,24.4
+762877,2026-02-25T01:00Z,Gimnasia (Mendoza),Independiente,1,1,Mendoza,Argentina,853.0,0,5.2,23.5
+762872,2026-02-25T20:00Z,Barracas Central,Tigre,2,1,Buenos Aires,Argentina,31.0,0,10.2,25.5
+762876,2026-02-25T20:00Z,Gimnasia La Plata,Rosario Central,1,2,La Plata,Argentina,27.0,0,12.1,24.8
+762864,2026-02-25T22:30Z,Newell's Old Boys,Estudiantes de La Plata,0,2,Rosario,Argentina,38.0,0,8.3,21.9
+762870,2026-02-25T22:30Z,Vélez Sarsfield,Deportivo Riestra,0,0,Buenos Aires,Argentina,31.0,0,10.6,24.2
+762866,2026-02-26T20:15Z,Racing Club,Independiente Rivadavia,1,1,Buenos Aires,Argentina,31.0,0,13.9,24.2
+762869,2026-02-26T20:15Z,Sarmiento (Junín),Unión (Santa Fe),1,3,Junin,Argentina,73.0,0,4.0,24.9
+762875,2026-02-26T22:30Z,Estudiantes de Río Cuarto,Huracán,2,0,Rio Cuarto,Argentina,429.0,0.2,11.5,19.3
+762867,2026-02-26T22:30Z,River Plate,Banfield,3,1,Buenos Aires,Argentina,31.0,0,7.5,23.5
+762882,2026-02-28T20:45Z,Boca Juniors,Gimnasia (Mendoza),1,1,Buenos Aires,Argentina,31.0,0,10.5,28.7
+762887,2026-02-28T23:00Z,Independiente,Central Córdoba (Santiago del Estero),2,0,Avellaneda,Argentina,13.0,0,9.4,25.3
+762892,2026-03-01T01:15Z,Talleres (Córdoba),San Lorenzo,0,0,Córdoba,Argentina,378.0,0,9.3,23.3
+762890,2026-03-01T20:00Z,Newell's Old Boys,Rosario Central,0,2,Rosario,Argentina,38.0,0,13.2,29.4
+762879,2026-03-01T22:15Z,Argentinos Juniors,Barracas Central,1,1,Buenos Aires,Argentina,31.0,0,17.7,26.8
+762889,2026-03-01T22:15Z,Instituto (Córdoba),Unión (Santa Fe),1,2,Córdoba,Argentina,378.0,0,19.0,27.9
+762883,2026-03-02T00:30Z,Defensa y Justicia,Lanús,1,1,Buenos Aires,Argentina,31.0,0,15.4,24.8
+762893,2026-03-02T00:30Z,Tigre,Gimnasia La Plata,2,2,Buenos Aires,Argentina,31.0,0,15.4,24.8
+762884,2026-03-02T22:15Z,Deportivo Riestra,Platense,0,0,Buenos Aires,Argentina,31.0,0,11.6,27.9
+762885,2026-03-02T22:15Z,Estudiantes de La Plata,Vélez Sarsfield,0,1,La Plata,Argentina,27.0,0,16.3,25.5
+762881,2026-03-03T00:30Z,Banfield,Aldosivi,2,0,Buenos Aires,Argentina,31.0,0,15.6,27.4
+762888,2026-03-03T00:30Z,Independiente Rivadavia,River Plate,1,1,Mendoza,Argentina,853.0,0,15.5,24.1
+762891,2026-03-03T22:00Z,Sarmiento (Junín),Estudiantes de Río Cuarto,1,0,Junin,Argentina,73.0,0,6.7,23.7
+762886,2026-03-03T22:15Z,Huracán,Belgrano (Córdoba),3,1,Buenos Aires,Argentina,31.0,0,6.7,25.3
+762880,2026-03-04T00:15Z,Atlético Tucumán,Racing Club,0,3,Tucuman,Argentina,735.0,0,12.3,24.6
+762878,2026-03-05T00:00Z,Lanús,Boca Juniors,0,3,Buenos Aires,Argentina,31.0,0,12.2,24.6
+762918,2026-03-10T22:45Z,Independiente,Unión (Santa Fe),4,4,Avellaneda,Argentina,13.0,0,13.3,23.4
+762914,2026-03-10T22:45Z,Tigre,Vélez Sarsfield,1,1,Buenos Aires,Argentina,31.0,0,14.8,22.9
+762920,2026-03-11T01:00Z,Newell's Old Boys,Platense,1,1,Rosario,Argentina,38.0,0,8.2,21.2
+762921,2026-03-11T01:00Z,Sarmiento (Junín),Racing Club,0,0,Junin,Argentina,73.0,0,8.3,19.9
+762909,2026-03-11T20:30Z,Argentinos Juniors,Rosario Central,0,0,Buenos Aires,Argentina,31.0,0,18.2,23.6
+762911,2026-03-11T20:30Z,Banfield,Gimnasia La Plata,1,2,Buenos Aires,Argentina,31.0,0,18.2,23.6
+762912,2026-03-11T22:45Z,Boca Juniors,San Lorenzo,1,1,Buenos Aires,Argentina,31.0,0,17.7,22.1
+762923,2026-03-12T01:00Z,Atlético Tucumán,Aldosivi,1,1,Tucuman,Argentina,735.0,0,18.0,22.8
+762919,2026-03-12T01:00Z,Independiente Rivadavia,Barracas Central,1,2,Mendoza,Argentina,853.0,0,2.8,20.6
+762913,2026-03-12T20:00Z,Defensa y Justicia,Central Córdoba (Santiago del Estero),1,1,Buenos Aires,Argentina,31.0,0,16.6,24.1
+762910,2026-03-12T20:00Z,Deportivo Riestra,Gimnasia (Mendoza),0,0,Buenos Aires,Argentina,31.0,0,16.6,24.1
+762915,2026-03-12T22:15Z,Estudiantes de Río Cuarto,Belgrano (Córdoba),0,1,Rio Cuarto,Argentina,429.0,0,14.7,22.8
+762922,2026-03-12T22:15Z,Talleres (Córdoba),Instituto (Córdoba),2,0,Córdoba,Argentina,378.0,0,5.8,23.7
+762917,2026-03-13T00:30Z,Huracán,River Plate,1,2,Buenos Aires,Argentina,31.0,0,15.7,21.7
+762916,2026-03-13T23:00Z,Estudiantes de La Plata,Lanús,0,1,La Plata,Argentina,27.0,0,10.3,20.8
+762932,2026-03-14T22:00Z,Platense,Vélez Sarsfield,0,2,Buenos Aires,Argentina,31.0,0,9.1,24.0
+762935,2026-03-15T00:00Z,Rosario Central,Banfield,2,1,Rosario,Argentina,38.0,0,5.7,21.9
+762928,2026-03-15T18:15Z,Gimnasia La Plata,Independiente Rivadavia,2,3,La Plata,Argentina,27.0,0,12.9,29.7
+762926,2026-03-15T20:30Z,Belgrano (Córdoba),Talleres (Córdoba),0,0,Córdoba,Argentina,378.0,0,17.6,27.2
+762934,2026-03-15T22:45Z,River Plate,Sarmiento (Junín),2,0,Buenos Aires,Argentina,31.0,0,13.6,28.8
+762937,2026-03-16T01:00Z,Tigre,Argentinos Juniors,1,1,Buenos Aires,Argentina,31.0,0,12.4,25.1
+762938,2026-03-16T01:00Z,Unión (Santa Fe),Boca Juniors,1,1,"Rosario, Santa Fe",Argentina,38.0,0,11.8,25.7
+762924,2026-03-16T18:30Z,Aldosivi,Huracán,0,0,Buenos Aires,Argentina,31.0,0,13.0,31.7
+762925,2026-03-16T18:30Z,Barracas Central,Atlético Tucumán,2,1,Buenos Aires,Argentina,31.0,0,13.0,31.7
+762936,2026-03-16T21:30Z,San Lorenzo,Defensa y Justicia,2,5,Buenos Aires,Argentina,31.0,0,10.6,31.5
+762933,2026-03-16T23:00Z,Racing Club,Estudiantes de Río Cuarto,2,0,Buenos Aires,Argentina,31.0,0,11.9,27.5
+762930,2026-03-17T01:15Z,Instituto (Córdoba),Independiente,2,1,Córdoba,Argentina,378.0,1.5,4.4,22.6

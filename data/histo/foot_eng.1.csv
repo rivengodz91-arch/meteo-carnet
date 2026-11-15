@@ -919,3 +919,144 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 740748,2025-12-14T14:00Z,West Ham United,Aston Villa,2,3,London,England,25.0,0,16.6,10.2
 740753,2025-12-14T16:30Z,Brentford,Leeds United,1,1,Brentford,England,396.0,0,18.2,-18.2
 740751,2025-12-15T20:00Z,Manchester United,AFC Bournemouth,4,4,Manchester,England,51.0,0.1,2.3,7.7
+740763,2025-12-20T12:30Z,Newcastle United,Chelsea,2,2,Newcastle-upon-Tyne,England,54.0,0,12.2,4.6
+740764,2025-12-20T15:00Z,AFC Bournemouth,Burnley,1,1,Bournemouth,England,19.0,0,21.2,10.0
+740756,2025-12-20T15:00Z,Brighton & Hove Albion,Sunderland,0,0,Falmer,England,97.0,0.1,16.2,8.7
+740760,2025-12-20T15:00Z,Manchester City,West Ham United,3,0,Manchester,England,51.0,0,11.4,7.3
+740761,2025-12-20T15:00Z,Wolverhampton Wanderers,Brentford,0,2,Wolverhampton,England,160.0,0,15.7,7.0
+740762,2025-12-20T17:30Z,Tottenham Hotspur,Liverpool,1,2,London,England,25.0,0,11.1,7.3
+740757,2025-12-20T20:00Z,Everton,Arsenal,0,1,Liverpool,England,30.0,0,18.5,5.7
+740759,2025-12-20T20:00Z,Leeds United,Crystal Palace,4,1,Leeds,England,50.0,0,11.2,5.7
+740765,2025-12-21T16:30Z,Aston Villa,Manchester United,2,1,Birmingham,England,149.0,0,11.2,8.5
+740758,2025-12-22T20:00Z,Fulham,Nottingham Forest,1,0,London,England,25.0,0,9.5,7.7
+740769,2025-12-26T20:00Z,Manchester United,Newcastle United,1,0,Manchester,England,51.0,0,15.0,4.7
+740770,2025-12-27T12:30Z,Nottingham Forest,Manchester City,1,2,Nottingham,England,46.0,0,16.4,6.4
+740772,2025-12-27T15:00Z,Arsenal,Brighton & Hove Albion,2,1,London,England,25.0,0,16.9,7.3
+740774,2025-12-27T15:00Z,Brentford,AFC Bournemouth,4,1,London,England,25.0,0,16.9,7.3
+740773,2025-12-27T15:00Z,Burnley,Everton,0,0,Burnley,England,140.0,0,23.2,5.1
+740775,2025-12-27T15:00Z,Liverpool,Wolverhampton Wanderers,2,1,Liverpool,England,30.0,0,9.8,6.1
+740768,2025-12-27T15:00Z,West Ham United,Fulham,0,1,London,England,25.0,0,16.9,7.3
+740766,2025-12-27T17:30Z,Chelsea,Aston Villa,1,2,London,England,25.0,0,15.6,7.0
+740767,2025-12-28T14:00Z,Sunderland,Leeds United,1,1,Sunderland,England,36.0,0.1,9.1,6.3
+740771,2025-12-28T16:30Z,Crystal Palace,Tottenham Hotspur,0,1,London,England,25.0,0,11.8,6.8
+740778,2025-12-30T19:30Z,Burnley,Newcastle United,1,3,Burnley,England,140.0,0,3.8,0.5
+740779,2025-12-30T19:30Z,Chelsea,AFC Bournemouth,2,2,London,England,25.0,0,8.8,2.9
+740783,2025-12-30T19:30Z,Nottingham Forest,Everton,0,2,Nottingham,England,46.0,0,9.9,2.9
+740785,2025-12-30T19:30Z,West Ham United,Brighton & Hove Albion,2,2,London,England,25.0,0,8.8,2.9
+740776,2025-12-30T20:15Z,Arsenal,Aston Villa,4,1,London,England,25.0,0,8.7,2.6
+740782,2025-12-30T20:15Z,Manchester United,Wolverhampton Wanderers,1,1,Manchester,England,51.0,0,4.5,2.2
+740780,2026-01-01T17:30Z,Crystal Palace,Fulham,1,1,London,England,25.0,0,13.6,4.5
+740781,2026-01-01T17:30Z,Liverpool,Leeds United,0,0,Liverpool,England,30.0,0,26.2,5.2
+740777,2026-01-01T20:00Z,Brentford,Tottenham Hotspur,0,0,Brentford,England,396.0,0,5.8,-6.0
+740784,2026-01-01T20:00Z,Sunderland,Manchester City,0,0,Sunderland,England,36.0,0,23.3,1.5
+740789,2026-01-03T12:30Z,Aston Villa,Nottingham Forest,3,1,Birmingham,England,149.0,0,13.2,1.0
+740795,2026-01-03T15:00Z,Brighton & Hove Albion,Burnley,2,0,Falmer,England,97.0,0,20.5,1.9
+740787,2026-01-03T15:00Z,Wolverhampton Wanderers,West Ham United,3,0,Wolverhampton,England,160.0,0,15.3,1.0
+740788,2026-01-03T17:30Z,AFC Bournemouth,Arsenal,2,3,Bournemouth,England,19.0,0,14.1,1.4
+740791,2026-01-04T12:30Z,Leeds United,Manchester United,1,1,Leeds,England,50.0,0,12.3,0.8
+740794,2026-01-04T15:00Z,Everton,Brentford,2,4,Liverpool,England,30.0,0.6,11.3,2.6
+740793,2026-01-04T15:00Z,Newcastle United,Crystal Palace,2,0,Newcastle-upon-Tyne,England,54.0,0,15.9,-0.6
+740786,2026-01-04T15:00Z,Tottenham Hotspur,Sunderland,1,1,London,England,25.0,0,8.8,1.4
+740790,2026-01-04T15:15Z,Fulham,Liverpool,2,2,London,England,25.0,0,8.8,1.4
+740792,2026-01-04T17:30Z,Manchester City,Chelsea,1,1,Manchester,England,51.0,0,7.1,-0.4
+740801,2026-01-06T20:00Z,West Ham United,Nottingham Forest,1,2,London,England,25.0,0.3,16.5,3.3
+740797,2026-01-07T19:30Z,AFC Bournemouth,Tottenham Hotspur,3,2,Bournemouth,England,19.0,0,5.5,6.0
+740798,2026-01-07T19:30Z,Brentford,Sunderland,3,0,Brentford,England,396.0,0,9.4,5.4
+740805,2026-01-07T19:30Z,Crystal Palace,Aston Villa,0,0,London,England,25.0,0,11.9,2.6
+740800,2026-01-07T19:30Z,Everton,Wolverhampton Wanderers,1,1,Liverpool,England,30.0,0,13.9,5.2
+740802,2026-01-07T19:30Z,Fulham,Chelsea,2,1,London,England,25.0,0,11.9,2.6
+740803,2026-01-07T19:30Z,Manchester City,Brighton & Hove Albion,1,1,Manchester,England,51.0,0,3.5,1.6
+740799,2026-01-07T20:15Z,Burnley,Manchester United,2,2,Burnley,England,140.0,0,9.4,0.0
+740804,2026-01-07T20:15Z,Newcastle United,Leeds United,4,3,Newcastle-upon-Tyne,England,54.0,0.1,11.1,1.8
+740796,2026-01-08T20:00Z,Arsenal,Liverpool,0,0,London,England,25.0,1.5,21.2,5.1
+740811,2026-01-17T12:30Z,Manchester United,Manchester City,2,0,Manchester,England,51.0,0,11.9,8.1
+740808,2026-01-17T15:00Z,Chelsea,Brentford,2,0,London,England,25.0,0,6.1,9.8
+740809,2026-01-17T15:00Z,Leeds United,Fulham,1,0,Leeds,England,50.0,0,6.7,7.5
+740810,2026-01-17T15:00Z,Liverpool,Burnley,1,1,Liverpool,England,30.0,0,10.0,8.4
+740813,2026-01-17T15:00Z,Sunderland,Crystal Palace,2,1,Sunderland,England,36.0,0,7.3,7.2
+740814,2026-01-17T15:00Z,Tottenham Hotspur,West Ham United,1,2,London,England,25.0,0,6.1,9.8
+740812,2026-01-17T17:30Z,Nottingham Forest,Arsenal,0,0,Nottingham,England,46.0,0,6.1,5.9
+740815,2026-01-18T14:00Z,Wolverhampton Wanderers,Newcastle United,0,0,Wolverhampton,England,160.0,1.0,6.0,6.4
+740806,2026-01-18T16:30Z,Aston Villa,Everton,0,1,Birmingham,England,149.0,0.3,7.5,6.4
+740807,2026-01-19T20:00Z,Brighton & Hove Albion,AFC Bournemouth,1,1,Falmer,England,97.0,0.2,22.7,9.4
+740825,2026-01-24T12:30Z,West Ham United,Sunderland,3,1,London,England,25.0,0,13.8,8.9
+740819,2026-01-24T15:00Z,Burnley,Tottenham Hotspur,2,2,Burnley,England,140.0,0,26.3,5.9
+740822,2026-01-24T15:00Z,Fulham,Brighton & Hove Albion,2,1,London,England,25.0,0,15.9,8.4
+740823,2026-01-24T15:00Z,Manchester City,Wolverhampton Wanderers,2,0,Manchester,England,51.0,0,21.0,8.4
+740817,2026-01-24T17:30Z,AFC Bournemouth,Liverpool,3,2,Bournemouth,England,19.0,1.6,32.6,7.3
+740818,2026-01-25T14:00Z,Brentford,Nottingham Forest,0,2,Brentford,England,396.0,0,18.4,-18.8
+740820,2026-01-25T14:00Z,Crystal Palace,Chelsea,1,3,London,England,25.0,0,11.9,7.6
+740824,2026-01-25T14:00Z,Newcastle United,Aston Villa,0,2,Newcastle-upon-Tyne,England,54.0,0.2,18.6,5.4
+740816,2026-01-25T16:30Z,Arsenal,Manchester United,2,3,London,England,25.0,0,10.4,6.9
+740821,2026-01-26T20:00Z,Everton,Leeds United,1,1,Liverpool,England,30.0,0.2,22.0,3.8
+740831,2026-01-31T15:00Z,Brighton & Hove Albion,Everton,1,1,Falmer,England,97.0,0,12.9,8.6
+740829,2026-01-31T15:00Z,Leeds United,Arsenal,0,4,Leeds,England,50.0,0,13.1,8.7
+740827,2026-01-31T15:00Z,Wolverhampton Wanderers,AFC Bournemouth,0,2,Wolverhampton,England,160.0,0.1,14.7,7.4
+740835,2026-01-31T17:30Z,Chelsea,West Ham United,3,2,London,England,25.0,0.1,10.5,8.1
+740834,2026-01-31T20:00Z,Liverpool,Newcastle United,4,1,Liverpool,England,30.0,0.1,10.2,5.2
+740826,2026-02-01T14:00Z,Aston Villa,Brentford,0,1,Birmingham,England,149.0,0.5,5.0,7.9
+740833,2026-02-01T14:00Z,Manchester United,Fulham,3,2,Manchester,England,51.0,0.1,4.2,8.9
+740832,2026-02-01T14:00Z,Nottingham Forest,Crystal Palace,1,1,Nottingham,England,46.0,0.2,4.2,8.8
+740828,2026-02-01T16:30Z,Tottenham Hotspur,Manchester City,2,2,London,England,25.0,0.6,4.5,8.1
+740830,2026-02-02T20:00Z,Sunderland,Burnley,3,0,Sunderland,England,36.0,0.8,24.3,4.6
+740841,2026-02-06T20:00Z,Leeds United,Nottingham Forest,3,1,Leeds,England,50.0,0,11.8,4.1
+740843,2026-02-07T12:30Z,Manchester United,Tottenham Hotspur,2,0,Manchester,England,51.0,2.0,14.0,9.0
+740837,2026-02-07T15:00Z,AFC Bournemouth,Aston Villa,1,1,Bournemouth,England,19.0,0,25.2,10.9
+740836,2026-02-07T15:00Z,Arsenal,Sunderland,3,0,London,England,25.0,0,12.8,10.7
+740839,2026-02-07T15:00Z,Burnley,West Ham United,0,2,Burnley,England,140.0,0.3,20.2,6.1
+740842,2026-02-07T15:00Z,Fulham,Everton,1,2,London,England,25.0,0,12.8,10.7
+740840,2026-02-07T15:00Z,Wolverhampton Wanderers,Chelsea,1,3,Wolverhampton,England,160.0,1.8,17.0,9.6
+740844,2026-02-07T17:30Z,Newcastle United,Brentford,2,3,Newcastle-upon-Tyne,England,54.0,0,9.9,6.6
+740838,2026-02-08T14:00Z,Brighton & Hove Albion,Crystal Palace,0,1,Falmer,England,97.0,0,14.4,9.3
+740845,2026-02-08T16:30Z,Liverpool,Manchester City,1,2,Liverpool,England,30.0,0.3,11.3,9.4
+740848,2026-02-10T19:30Z,Chelsea,Leeds United,2,2,London,England,25.0,0.1,6.9,8.9
+740852,2026-02-10T19:30Z,Everton,AFC Bournemouth,1,2,Liverpool,England,30.0,2.2,15.1,7.5
+740854,2026-02-10T19:30Z,Tottenham Hotspur,Newcastle United,1,2,London,England,25.0,0.1,6.9,8.9
+740855,2026-02-10T20:15Z,West Ham United,Manchester United,1,1,London,England,25.0,0,6.9,9.2
+740846,2026-02-11T19:30Z,Aston Villa,Brighton & Hove Albion,1,0,Birmingham,England,149.0,0,9.2,7.4
+740849,2026-02-11T19:30Z,Manchester City,Fulham,3,0,Manchester,England,51.0,0.4,7.4,8.1
+740850,2026-02-11T19:30Z,Nottingham Forest,Wolverhampton Wanderers,0,0,Nottingham,England,46.0,0.4,8.9,7.5
+740851,2026-02-11T19:40Z,Crystal Palace,Burnley,2,3,London,England,25.0,0.3,9.9,9.4
+740853,2026-02-11T20:15Z,Sunderland,Liverpool,0,1,Sunderland,England,36.0,2.8,25.8,5.9
+740847,2026-02-12T20:00Z,Brentford,Arsenal,1,1,Brentford,England,396.0,0,4.7,9.9
+740901,2026-02-18T20:00Z,Wolverhampton Wanderers,Arsenal,2,2,Wolverhampton,England,160.0,1.5,20.6,2.1
+740862,2026-02-21T15:00Z,Aston Villa,Leeds United,1,1,Birmingham,England,149.0,0.3,20.3,12.8
+740858,2026-02-21T15:00Z,Brentford,Brighton & Hove Albion,0,2,Brentford,England,396.0,0,9.4,-14.7
+740864,2026-02-21T15:00Z,Chelsea,Burnley,1,1,London,England,25.0,0.1,19.9,12.9
+740861,2026-02-21T17:30Z,West Ham United,AFC Bournemouth,0,0,London,England,25.0,1.5,15.2,13.2
+740857,2026-02-21T20:00Z,Manchester City,Newcastle United,2,1,Manchester,England,51.0,0.2,19.1,11.2
+740860,2026-02-22T14:00Z,Crystal Palace,Wolverhampton Wanderers,1,0,London,England,25.0,0,16.5,13.0
+740863,2026-02-22T14:00Z,Nottingham Forest,Liverpool,0,1,Nottingham,England,46.0,0,24.3,12.8
+740859,2026-02-22T14:00Z,Sunderland,Fulham,1,3,Sunderland,England,36.0,0,21.6,11.5
+740865,2026-02-22T16:30Z,Tottenham Hotspur,Arsenal,1,4,London,England,25.0,0,14.7,13.1
+740856,2026-02-23T20:00Z,Everton,Manchester United,0,1,Liverpool,England,30.0,0.4,7.3,9.7
+740868,2026-02-27T20:00Z,Wolverhampton Wanderers,Aston Villa,2,0,Wolverhampton,England,160.0,2.4,14.9,7.9
+740873,2026-02-28T12:30Z,AFC Bournemouth,Sunderland,1,1,Bournemouth,England,19.0,0.2,16.9,10.1
+740867,2026-02-28T15:00Z,Burnley,Brentford,3,4,Burnley,England,140.0,0,15.2,5.5
+740872,2026-02-28T15:00Z,Liverpool,West Ham United,5,2,Liverpool,England,30.0,0,10.2,7.6
+740874,2026-02-28T15:00Z,Newcastle United,Everton,2,3,Newcastle-upon-Tyne,England,54.0,0.7,3.9,8.1
+740869,2026-02-28T17:30Z,Leeds United,Manchester City,0,1,Leeds,England,50.0,0,11.8,6.2
+740866,2026-03-01T14:00Z,Brighton & Hove Albion,Nottingham Forest,2,1,Falmer,England,97.0,0.2,30.6,10.0
+740870,2026-03-01T14:00Z,Fulham,Tottenham Hotspur,2,1,London,England,25.0,0.2,16.8,11.5
+740875,2026-03-01T14:00Z,Manchester United,Crystal Palace,2,1,Manchester,England,51.0,0,18.0,12.2
+740871,2026-03-01T16:30Z,Arsenal,Chelsea,2,1,London,England,25.0,0,16.3,12.1
+740877,2026-03-03T19:30Z,AFC Bournemouth,Brentford,0,0,Bournemouth,England,19.0,0,12.5,10.6
+740879,2026-03-03T19:30Z,Everton,Burnley,2,0,Liverpool,England,30.0,0,10.6,8.5
+740881,2026-03-03T19:30Z,Leeds United,Sunderland,0,1,Leeds,England,50.0,0,9.4,6.3
+740885,2026-03-03T20:15Z,Wolverhampton Wanderers,Liverpool,2,1,Wolverhampton,England,160.0,0,9.7,9.0
+740876,2026-03-04T19:30Z,Aston Villa,Chelsea,1,4,Birmingham,England,149.0,0,12.5,9.5
+740878,2026-03-04T19:30Z,Brighton & Hove Albion,Arsenal,0,1,Falmer,England,97.0,0,16.7,10.0
+740880,2026-03-04T19:30Z,Fulham,West Ham United,0,1,London,England,25.0,0,10.6,9.3
+740882,2026-03-04T19:30Z,Manchester City,Nottingham Forest,2,2,Manchester,England,51.0,0,12.9,10.4
+740883,2026-03-04T20:15Z,Newcastle United,Manchester United,2,1,Newcastle-upon-Tyne,England,54.0,0,13.1,8.0
+740884,2026-03-05T20:00Z,Tottenham Hotspur,Crystal Palace,1,3,London,England,25.0,0,5.0,12.3
+740888,2026-03-14T15:00Z,Burnley,AFC Bournemouth,0,0,Burnley,England,140.0,0,16.7,6.4
+740894,2026-03-14T15:00Z,Sunderland,Brighton & Hove Albion,0,1,Sunderland,England,36.0,0.2,15.9,9.2
+740886,2026-03-14T17:30Z,Arsenal,Everton,2,0,London,England,25.0,0,9.2,9.6
+740889,2026-03-14T17:30Z,Chelsea,Newcastle United,0,1,London,England,25.0,0,9.2,9.6
+740895,2026-03-14T20:00Z,West Ham United,Manchester City,1,1,London,England,25.0,0,2.8,7.2
+740890,2026-03-15T14:00Z,Crystal Palace,Leeds United,0,0,London,England,25.0,0,25.4,11.1
+740892,2026-03-15T14:00Z,Manchester United,Aston Villa,3,1,Manchester,England,51.0,2.3,21.4,8.5
+740893,2026-03-15T14:00Z,Nottingham Forest,Fulham,0,0,Nottingham,England,46.0,0.7,27.2,9.9
+740891,2026-03-15T16:30Z,Liverpool,Tottenham Hotspur,1,1,Liverpool,England,30.0,0.5,21.1,8.4
+740887,2026-03-16T20:00Z,Brentford,Wolverhampton Wanderers,2,2,Brentford,England,396.0,0,8.9,-9.6

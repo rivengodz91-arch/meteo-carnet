@@ -737,3 +737,111 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 746842,2025-12-14T14:30Z,SC Freiburg,Borussia Dortmund,1,1,Freiburg im Breisgau,Germany,278.0,0,2.7,4.7
 746840,2025-12-14T16:30Z,Bayern Munich,Mainz,2,2,München,Germany,524.0,0,4.5,1.8
 746843,2025-12-14T18:30Z,Werder Bremen,VfB Stuttgart,0,4,Bremen,Germany,17.0,0,15.3,6.9
+746848,2025-12-19T19:30Z,Borussia Dortmund,Borussia Mönchengladbach,2,0,Aue,Germany,399.0,0,12.8,8.2
+746851,2025-12-20T14:30Z,FC Augsburg,Werder Bremen,0,0,Augsburg,Germany,489.0,0,5.2,6.6
+746847,2025-12-20T14:30Z,FC Cologne,1. FC Union Berlin,0,1,Cologne,Germany,58.0,0,8.3,8.3
+746852,2025-12-20T14:30Z,Hamburg SV,Eintracht Frankfurt,1,1,Hamburg Norderstedt,Germany,,,,
+746844,2025-12-20T14:30Z,VfB Stuttgart,TSG Hoffenheim,0,0,Stuttgart,Germany,252.0,0,7.8,9.5
+746850,2025-12-20T14:30Z,VfL Wolfsburg,SC Freiburg,3,4,Wolfsburg,Germany,65.0,0,7.2,7.1
+746845,2025-12-20T17:30Z,RB Leipzig,Bayer Leverkusen,1,3,Leipzig,Germany,116.0,0,8.7,6.9
+746849,2025-12-21T14:30Z,Mainz,St. Pauli,0,0,Mainz,Germany,125.0,0,14.0,9.0
+746846,2025-12-21T16:30Z,1. FC Heidenheim 1846,Bayern Munich,0,4,Heidenheim,Germany,494.0,0,14.0,-0.9
+746859,2026-01-09T19:30Z,Eintracht Frankfurt,Borussia Dortmund,3,3,Frankfurt,Germany,113.0,0.6,21.9,3.1
+746853,2026-01-10T14:30Z,1. FC Heidenheim 1846,FC Cologne,2,2,Heidenheim,Germany,494.0,0.3,14.0,-0.4
+746856,2026-01-10T14:30Z,1. FC Union Berlin,Mainz,2,2,Berlin,Germany,74.0,0,8.2,-3.3
+746854,2026-01-10T14:30Z,SC Freiburg,Hamburg SV,2,1,Freiburg im Breisgau,Germany,278.0,0.1,18.1,1.2
+746861,2026-01-10T17:30Z,Bayer Leverkusen,VfB Stuttgart,1,4,Leverkusen,Germany,52.0,0,9.8,-1.6
+746860,2026-01-11T14:30Z,Borussia Mönchengladbach,FC Augsburg,4,0,Mönchengladbach,Germany,57.0,0,9.1,-1.1
+746858,2026-01-11T16:30Z,Bayern Munich,VfL Wolfsburg,8,1,München,Germany,524.0,0,1.8,-5.0
+746863,2026-01-13T17:30Z,VfB Stuttgart,Eintracht Frankfurt,3,2,Stuttgart,Germany,252.0,0,11.7,6.1
+746868,2026-01-13T19:30Z,Borussia Dortmund,Werder Bremen,3,0,Aue,Germany,399.0,0,13.6,4.4
+746869,2026-01-13T19:30Z,Mainz,1. FC Heidenheim 1846,2,1,Mainz,Germany,125.0,0,2.2,4.4
+746870,2026-01-14T17:30Z,VfL Wolfsburg,St. Pauli,2,1,Wolfsburg,Germany,65.0,0,4.5,1.6
+746864,2026-01-14T19:30Z,FC Cologne,Bayern Munich,1,3,Cologne,Germany,58.0,0,8.1,8.0
+746865,2026-01-14T19:30Z,RB Leipzig,SC Freiburg,2,0,Leipzig,Germany,116.0,0,3.5,3.8
+746862,2026-01-14T19:30Z,TSG Hoffenheim,Borussia Mönchengladbach,5,1,Sinsheim,Germany,162.0,0,7.4,6.8
+746867,2026-01-15T19:30Z,FC Augsburg,1. FC Union Berlin,1,1,Augsburg,Germany,489.0,0,14.3,2.8
+746872,2026-01-16T19:30Z,Werder Bremen,Eintracht Frankfurt,3,3,Bremen,Germany,17.0,0.5,7.9,7.9
+746878,2026-01-17T14:30Z,Borussia Dortmund,St. Pauli,3,2,Aue,Germany,399.0,0,8.9,3.5
+746879,2026-01-17T14:30Z,FC Cologne,Mainz,2,1,Cologne,Germany,58.0,0,9.3,10.2
+746876,2026-01-17T14:30Z,Hamburg SV,Borussia Mönchengladbach,0,0,Hamburg Norderstedt,Germany,,,,
+746873,2026-01-17T14:30Z,TSG Hoffenheim,Bayer Leverkusen,1,0,Sinsheim,Germany,162.0,0,13.2,3.5
+746871,2026-01-17T14:30Z,VfL Wolfsburg,1. FC Heidenheim 1846,1,1,Wolfsburg,Germany,65.0,0,14.4,3.6
+746875,2026-01-17T17:30Z,RB Leipzig,Bayern Munich,1,5,Leipzig,Germany,116.0,0,12.8,1.7
+746874,2026-01-18T14:30Z,VfB Stuttgart,1. FC Union Berlin,1,1,Stuttgart,Germany,252.0,0,7.3,3.3
+746877,2026-01-18T16:30Z,FC Augsburg,SC Freiburg,2,2,Augsburg,Germany,489.0,0,6.9,0.5
+746884,2026-01-23T19:30Z,St. Pauli,Hamburg SV,0,0,Hamburg Norderstedt,Germany,,,,
+746885,2026-01-24T14:30Z,1. FC Heidenheim 1846,RB Leipzig,0,3,Heidenheim,Germany,494.0,0,8.3,0.2
+746883,2026-01-24T14:30Z,Bayer Leverkusen,Werder Bremen,1,0,Leverkusen,Germany,52.0,0,9.4,5.7
+746880,2026-01-24T14:30Z,Bayern Munich,FC Augsburg,1,2,München,Germany,524.0,0,6.8,0.7
+746881,2026-01-24T14:30Z,Eintracht Frankfurt,TSG Hoffenheim,1,3,Frankfurt,Germany,113.0,0,3.9,2.6
+746888,2026-01-24T14:30Z,Mainz,VfL Wolfsburg,3,1,Mainz,Germany,125.0,0,7.9,2.6
+746886,2026-01-24T17:30Z,1. FC Union Berlin,Borussia Dortmund,0,3,Berlin,Germany,74.0,0,10.8,-2.4
+746882,2026-01-25T14:30Z,Borussia Mönchengladbach,VfB Stuttgart,0,3,Mönchengladbach,Germany,57.0,0,7.5,1.1
+746887,2026-01-25T16:30Z,SC Freiburg,FC Cologne,2,1,Freiburg im Breisgau,Germany,278.0,0,3.4,2.4
+746857,2026-01-27T19:30Z,St. Pauli,RB Leipzig,1,1,Hamburg Norderstedt,Germany,,,,
+746855,2026-01-27T19:30Z,Werder Bremen,TSG Hoffenheim,0,2,Bremen,Germany,17.0,0,20.3,-1.0
+746894,2026-01-30T19:30Z,FC Cologne,VfL Wolfsburg,1,0,Cologne,Germany,58.0,0,16.3,2.9
+746890,2026-01-31T14:30Z,Eintracht Frankfurt,Bayer Leverkusen,1,3,Frankfurt,Germany,113.0,0,8.3,3.7
+746891,2026-01-31T14:30Z,FC Augsburg,St. Pauli,2,1,Augsburg,Germany,489.0,0,5.8,2.3
+746893,2026-01-31T14:30Z,RB Leipzig,Mainz,1,2,Leipzig,Germany,116.0,0,13.4,-0.8
+746897,2026-01-31T14:30Z,TSG Hoffenheim,1. FC Union Berlin,3,1,Sinsheim,Germany,162.0,0,11.0,4.9
+746896,2026-01-31T14:30Z,Werder Bremen,Borussia Mönchengladbach,1,1,Bremen,Germany,17.0,0,15.8,-0.3
+746895,2026-01-31T17:30Z,Hamburg SV,Bayern Munich,2,2,Hamburg Norderstedt,Germany,,,,
+746892,2026-02-01T14:30Z,VfB Stuttgart,SC Freiburg,1,0,Stuttgart,Germany,252.0,0,5.7,6.7
+746889,2026-02-01T16:30Z,Borussia Dortmund,1. FC Heidenheim 1846,3,2,Aue,Germany,399.0,0,0.5,0.8
+746900,2026-02-06T19:30Z,1. FC Union Berlin,Eintracht Frankfurt,1,1,Berlin,Germany,74.0,0.2,6.3,0.6
+746898,2026-02-07T14:30Z,1. FC Heidenheim 1846,Hamburg SV,0,2,Heidenheim,Germany,494.0,0,3.2,4.9
+746902,2026-02-07T14:30Z,Mainz,FC Augsburg,2,0,Mainz,Germany,125.0,0,3.6,10.5
+746905,2026-02-07T14:30Z,SC Freiburg,Werder Bremen,1,0,Freiburg im Breisgau,Germany,278.0,0,5.6,11.8
+746904,2026-02-07T14:30Z,St. Pauli,VfB Stuttgart,2,1,Hamburg Norderstedt,Germany,,,,
+746901,2026-02-07T14:30Z,VfL Wolfsburg,Borussia Dortmund,1,2,Wolfsburg,Germany,65.0,0.4,8.3,1.5
+746906,2026-02-07T17:30Z,Borussia Mönchengladbach,Bayer Leverkusen,1,1,Mönchengladbach,Germany,57.0,0,10.0,8.7
+746899,2026-02-08T14:30Z,FC Cologne,RB Leipzig,1,2,Cologne,Germany,58.0,0,12.0,7.4
+746903,2026-02-08T16:30Z,Bayern Munich,TSG Hoffenheim,5,1,München,Germany,524.0,0,8.5,5.5
+746908,2026-02-13T19:30Z,Borussia Dortmund,Mainz,4,0,Aue,Germany,399.0,0.1,4.8,3.4
+746907,2026-02-14T14:30Z,Bayer Leverkusen,St. Pauli,4,0,Leverkusen,Germany,52.0,0,14.4,1.6
+746909,2026-02-14T14:30Z,Eintracht Frankfurt,Borussia Mönchengladbach,3,0,Frankfurt,Germany,113.0,0,18.6,3.6
+746911,2026-02-14T14:30Z,Hamburg SV,1. FC Union Berlin,3,2,Hamburg Norderstedt,Germany,,,,
+746914,2026-02-14T14:30Z,TSG Hoffenheim,SC Freiburg,3,0,Sinsheim,Germany,162.0,0.6,14.1,3.7
+746913,2026-02-14T14:30Z,Werder Bremen,Bayern Munich,0,3,Bremen,Germany,17.0,0,10.9,-0.5
+746915,2026-02-14T17:30Z,VfB Stuttgart,FC Cologne,3,1,Stuttgart,Germany,252.0,0.6,13.3,1.7
+746910,2026-02-15T14:30Z,FC Augsburg,1. FC Heidenheim 1846,1,0,Augsburg,Germany,489.0,0,3.4,0.5
+746912,2026-02-15T16:30Z,RB Leipzig,VfL Wolfsburg,2,2,Leipzig,Germany,116.0,0,9.1,-1.6
+746919,2026-02-20T19:40Z,Mainz,Hamburg SV,1,1,Mainz,Germany,125.0,0.1,11.2,4.5
+746918,2026-02-21T14:30Z,1. FC Union Berlin,Bayer Leverkusen,1,0,Berlin,Germany,74.0,0.1,15.7,8.4
+746920,2026-02-21T14:30Z,Bayern Munich,Eintracht Frankfurt,3,2,München,Germany,524.0,1.7,18.2,4.3
+746917,2026-02-21T14:30Z,FC Cologne,TSG Hoffenheim,2,2,Cologne,Germany,58.0,0.7,11.9,9.5
+746924,2026-02-21T14:30Z,VfL Wolfsburg,FC Augsburg,2,3,Wolfsburg,Germany,65.0,0.2,23.6,9.9
+746922,2026-02-21T17:30Z,RB Leipzig,Borussia Dortmund,2,2,Leipzig,Germany,116.0,0,13.8,7.4
+746923,2026-02-22T14:30Z,SC Freiburg,Borussia Mönchengladbach,2,1,Freiburg im Breisgau,Germany,278.0,0.1,18.2,11.3
+746921,2026-02-22T16:30Z,St. Pauli,Werder Bremen,2,1,Hamburg Norderstedt,Germany,,,,
+746916,2026-02-22T18:30Z,1. FC Heidenheim 1846,VfB Stuttgart,3,3,Heidenheim,Germany,494.0,0.3,18.9,8.2
+746929,2026-02-27T19:30Z,FC Augsburg,FC Cologne,2,0,Augsburg,Germany,489.0,0,11.5,10.5
+746925,2026-02-28T14:30Z,Bayer Leverkusen,Mainz,1,1,Leverkusen,Germany,52.0,0.1,23.3,12.9
+746927,2026-02-28T14:30Z,Borussia Mönchengladbach,1. FC Union Berlin,1,0,Mönchengladbach,Germany,57.0,0.1,29.0,11.9
+746932,2026-02-28T14:30Z,TSG Hoffenheim,St. Pauli,0,1,Sinsheim,Germany,162.0,0,20.3,13.5
+746931,2026-02-28T14:30Z,Werder Bremen,1. FC Heidenheim 1846,2,0,Bremen,Germany,17.0,0.1,22.4,13.8
+746926,2026-02-28T17:30Z,Borussia Dortmund,Bayern Munich,2,3,Aue,Germany,399.0,0,9.3,11.3
+746933,2026-03-01T14:30Z,VfB Stuttgart,VfL Wolfsburg,4,0,Stuttgart,Germany,252.0,0,2.9,12.2
+746928,2026-03-01T16:30Z,Eintracht Frankfurt,SC Freiburg,2,0,Frankfurt,Germany,113.0,0,7.0,11.8
+746930,2026-03-01T18:30Z,Hamburg SV,RB Leipzig,1,2,Hamburg Norderstedt,Germany,,,,
+746866,2026-03-04T19:30Z,Hamburg SV,Bayer Leverkusen,0,1,Hamburg Norderstedt,Germany,,,,
+746935,2026-03-06T19:30Z,Bayern Munich,Borussia Mönchengladbach,4,1,München,Germany,524.0,0,5.8,8.7
+746939,2026-03-07T14:30Z,1. FC Heidenheim 1846,TSG Hoffenheim,2,4,Heidenheim,Germany,494.0,0,5.9,14.9
+746936,2026-03-07T14:30Z,Mainz,VfB Stuttgart,2,2,Mainz,Germany,125.0,0,6.3,16.9
+746942,2026-03-07T14:30Z,RB Leipzig,FC Augsburg,2,1,Leipzig,Germany,116.0,0,6.1,16.4
+746934,2026-03-07T14:30Z,SC Freiburg,Bayer Leverkusen,3,3,Freiburg im Breisgau,Germany,278.0,0,2.4,15.0
+746940,2026-03-07T14:30Z,VfL Wolfsburg,Hamburg SV,1,2,Wolfsburg,Germany,65.0,0,5.0,16.2
+746938,2026-03-07T17:30Z,FC Cologne,Borussia Dortmund,1,2,Cologne,Germany,58.0,0,7.2,14.3
+746941,2026-03-08T14:30Z,St. Pauli,Eintracht Frankfurt,0,0,Hamburg Norderstedt,Germany,,,,
+746937,2026-03-08T16:30Z,1. FC Union Berlin,Werder Bremen,1,4,Berlin,Germany,74.0,0,9.7,12.4
+746944,2026-03-13T19:30Z,Borussia Mönchengladbach,St. Pauli,2,0,Mönchengladbach,Germany,57.0,0.9,5.6,5.1
+746950,2026-03-14T14:30Z,Bayer Leverkusen,Bayern Munich,1,1,Leverkusen,Germany,52.0,0.2,11.1,4.3
+746951,2026-03-14T14:30Z,Borussia Dortmund,FC Augsburg,2,0,Aue,Germany,399.0,0.3,14.9,10.1
+746943,2026-03-14T14:30Z,Eintracht Frankfurt,1. FC Heidenheim 1846,1,0,Frankfurt,Germany,113.0,0,17.3,7.5
+746947,2026-03-14T14:30Z,TSG Hoffenheim,VfL Wolfsburg,1,1,Sinsheim,Germany,162.0,0.1,19.4,6.5
+746949,2026-03-14T17:30Z,Hamburg SV,FC Cologne,1,1,Hamburg Norderstedt,Germany,,,,
+746946,2026-03-15T14:30Z,Werder Bremen,Mainz,0,2,Bremen,Germany,17.0,0,12.1,9.0
+746945,2026-03-15T16:30Z,SC Freiburg,1. FC Union Berlin,0,1,Freiburg im Breisgau,Germany,278.0,0,7.4,7.9
+746948,2026-03-15T18:30Z,VfB Stuttgart,RB Leipzig,1,0,Stuttgart,Germany,252.0,0,2.9,5.8

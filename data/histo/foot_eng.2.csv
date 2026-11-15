@@ -1362,3 +1362,206 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 744847,2025-12-13T15:00Z,Portsmouth,Blackburn Rovers,2,1,Portsmouth,England,6.0,0,6.6,8.0
 744845,2025-12-13T15:00Z,Wrexham,Watford,2,2,Wrexham,Wales,87.0,0,22.1,9.0
 744848,2025-12-15T20:00Z,Sheffield Wednesday,Derby County,0,3,Sheffield,England,75.0,0.8,6.7,8.9
+744859,2025-12-19T20:00Z,Swansea City,Wrexham,2,1,Swansea,Wales,18.0,0.3,13.0,8.2
+744856,2025-12-20T12:30Z,Blackburn Rovers,Millwall,2,0,Blackburn,England,121.0,0,17.1,6.4
+744863,2025-12-20T12:30Z,Preston North End,Norwich City,1,1,Preston,England,34.0,0,16.2,7.4
+744860,2025-12-20T12:30Z,Southampton,Coventry City,1,1,Southampton,England,19.0,0,15.4,9.7
+744855,2025-12-20T15:00Z,Bristol City,Middlesbrough,2,0,Bristol,England,21.0,0,18.2,8.1
+744854,2025-12-20T15:00Z,Charlton Athletic,Oxford United,1,0,London,England,25.0,0,10.2,8.6
+744853,2025-12-20T15:00Z,Derby County,Portsmouth,1,1,Derby,England,55.0,0,11.8,7.0
+744852,2025-12-20T15:00Z,Hull City,West Bromwich Albion,1,0,Hull,England,8.0,0,9.7,6.3
+744857,2025-12-20T15:00Z,Ipswich Town,Sheffield Wednesday,3,1,Ipswich,England,18.0,0,13.6,8.0
+744862,2025-12-20T15:00Z,Queens Park Rangers,Leicester City,4,1,London,England,25.0,0,10.2,8.6
+744861,2025-12-20T15:00Z,Sheffield United,Birmingham City,3,0,Sheffield,England,75.0,0,10.8,6.8
+744858,2025-12-20T15:00Z,Watford,Stoke City,1,0,Watford,England,77.0,0,11.4,7.7
+744864,2025-12-26T12:30Z,Birmingham City,Derby County,1,1,Birmingham,England,149.0,0,11.7,3.6
+744873,2025-12-26T13:00Z,Millwall,Ipswich Town,0,0,London,England,25.0,0,16.5,5.8
+744865,2025-12-26T15:00Z,Coventry City,Swansea City,1,0,Coventry,England,89.0,0,15.6,5.2
+744875,2025-12-26T15:00Z,Leicester City,Watford,1,2,Leicester,England,65.0,0,16.9,5.4
+744874,2025-12-26T15:00Z,Middlesbrough,Blackburn Rovers,0,0,Middlesbrough,England,15.0,0,13.4,6.3
+744872,2025-12-26T15:00Z,Norwich City,Charlton Athletic,1,0,Norwich,England,19.0,0,15.3,4.9
+744871,2025-12-26T15:00Z,Oxford United,Southampton,2,1,Oxford,England,72.0,0,15.9,5.1
+744870,2025-12-26T15:00Z,Portsmouth,Queens Park Rangers,1,1,Portsmouth,England,6.0,0,18.6,6.0
+744869,2025-12-26T15:00Z,Sheffield Wednesday,Hull City,2,2,Sheffield,England,75.0,0,14.2,5.6
+744868,2025-12-26T15:00Z,Stoke City,Preston North End,0,0,Stoke-on-Trent,England,114.0,0,17.5,4.9
+744867,2025-12-26T15:00Z,West Bromwich Albion,Bristol City,1,2,West Bromwich,England,165.0,0,16.3,4.5
+744866,2025-12-26T17:30Z,Wrexham,Sheffield United,5,3,Wrexham,Wales,87.0,0,6.7,1.7
+744886,2025-12-29T18:00Z,Coventry City,Ipswich Town,0,2,Coventry,England,89.0,0,11.1,4.7
+744885,2025-12-29T19:45Z,Leicester City,Derby County,2,1,Leicester,England,65.0,0,11.4,4.8
+744884,2025-12-29T19:45Z,Middlesbrough,Hull City,0,1,Middlesbrough,England,15.0,0.1,15.2,6.6
+744883,2025-12-29T19:45Z,Millwall,Bristol City,2,1,London,England,25.0,0,7.2,5.7
+744877,2025-12-29T19:45Z,Norwich City,Watford,0,1,Norwich,England,19.0,0,14.8,6.9
+744878,2025-12-29T19:45Z,Oxford United,Swansea City,0,1,Oxford,England,72.0,0,9.4,5.1
+744879,2025-12-29T19:45Z,Portsmouth,Charlton Athletic,2,1,Portsmouth,England,6.0,0,14.3,5.4
+744880,2025-12-29T19:45Z,Sheffield Wednesday,Blackburn Rovers,0,0,Sheffield,England,75.0,0,11.9,4.9
+744887,2025-12-29T19:45Z,Stoke City,Sheffield United,1,2,Stoke-on-Trent,England,114.0,0,6.5,3.7
+744882,2025-12-29T19:45Z,West Bromwich Albion,Queens Park Rangers,2,1,West Bromwich,England,165.0,0,8.4,4.1
+744881,2025-12-29T19:45Z,Wrexham,Preston North End,2,1,Wrexham,Wales,87.0,0,5.8,2.2
+744876,2025-12-29T20:15Z,Birmingham City,Southampton,1,1,Birmingham,England,149.0,0,8.9,4.1
+744898,2026-01-01T12:30Z,Blackburn Rovers,Wrexham,0,2,Blackburn,England,121.0,0,21.8,4.3
+744897,2026-01-01T15:00Z,Bristol City,Portsmouth,5,0,Bristol,England,21.0,0,15.2,5.9
+744896,2026-01-01T15:00Z,Charlton Athletic,Coventry City,1,1,London,England,25.0,0,14.5,5.6
+744895,2026-01-01T15:00Z,Derby County,Middlesbrough,1,0,Derby,England,55.0,0,22.0,4.8
+744894,2026-01-01T15:00Z,Hull City,Stoke City,0,1,Hull,England,8.0,0,24.1,4.2
+744899,2026-01-01T15:00Z,Ipswich Town,Oxford United,2,1,Ipswich,England,18.0,0,24.4,5.0
+744892,2026-01-01T15:00Z,Preston North End,Sheffield Wednesday,3,0,Preston,England,34.0,0,26.0,5.5
+744891,2026-01-01T15:00Z,Queens Park Rangers,Norwich City,1,2,London,England,25.0,0,14.5,5.6
+744889,2026-01-01T15:00Z,Southampton,Millwall,0,0,Southampton,England,19.0,0,15.0,5.9
+744888,2026-01-01T15:00Z,Swansea City,West Bromwich Albion,1,0,Swansea,Wales,18.0,0,19.5,6.1
+744893,2026-01-01T15:00Z,Watford,Birmingham City,3,0,Watford,England,77.0,0,16.4,5.1
+744890,2026-01-01T17:30Z,Sheffield United,Leicester City,3,1,Sheffield,England,75.0,0,20.9,3.8
+744910,2026-01-04T12:00Z,Birmingham City,Coventry City,3,2,Birmingham,England,149.0,0,9.5,1.0
+744900,2026-01-04T12:00Z,Queens Park Rangers,Sheffield Wednesday,3,0,London,England,25.0,0,7.9,0.9
+744909,2026-01-04T15:00Z,Blackburn Rovers,Charlton Athletic,2,2,Blackburn,England,121.0,0,12.8,0.8
+744908,2026-01-04T15:00Z,Bristol City,Preston North End,0,2,Bristol,England,21.0,0,11.2,2.6
+744907,2026-01-04T15:00Z,Derby County,Wrexham,1,2,Derby,England,55.0,0,14.1,1.2
+744904,2026-01-04T15:00Z,Middlesbrough,Southampton,4,0,Middlesbrough,England,15.0,0,14.0,0.1
+744903,2026-01-04T15:00Z,Millwall,Swansea City,2,1,London,England,25.0,0,8.8,1.4
+744902,2026-01-04T15:00Z,Norwich City,Stoke City,0,2,Norwich,England,19.0,0,19.5,0.2
+744905,2026-01-05T20:00Z,Leicester City,West Bromwich Albion,2,1,Leicester,England,65.0,0,9.5,-3.3
+744915,2026-01-16T20:00Z,West Bromwich Albion,Middlesbrough,2,3,West Bromwich,England,165.0,0,14.5,5.2
+744913,2026-01-17T12:30Z,Coventry City,Leicester City,2,1,Coventry,England,89.0,0,11.0,8.0
+744923,2026-01-17T12:30Z,Ipswich Town,Blackburn Rovers,3,0,Ipswich,England,18.0,0,9.5,9.3
+744916,2026-01-17T12:30Z,Watford,Millwall,0,2,Watford,England,77.0,0.5,10.0,8.6
+744912,2026-01-17T15:00Z,Charlton Athletic,Sheffield United,1,0,London,England,25.0,0,6.1,9.8
+744922,2026-01-17T15:00Z,Oxford United,Bristol City,0,0,Oxford,England,72.0,0,7.5,9.0
+744921,2026-01-17T15:00Z,Preston North End,Derby County,0,1,Preston,England,34.0,0,9.3,8.4
+744920,2026-01-17T15:00Z,Sheffield Wednesday,Portsmouth,0,1,Sheffield,England,75.0,0,5.4,7.8
+744919,2026-01-17T15:00Z,Southampton,Hull City,1,2,Southampton,England,19.0,0,8.0,9.4
+744918,2026-01-17T15:00Z,Stoke City,Queens Park Rangers,0,0,Stoke-on-Trent,England,114.0,0,9.9,7.6
+744914,2026-01-17T15:00Z,Wrexham,Norwich City,1,2,Wrexham,Wales,87.0,0,10.9,6.9
+744917,2026-01-17T17:30Z,Swansea City,Birmingham City,1,1,Swansea,Wales,18.0,0,14.0,7.4
+744933,2026-01-20T19:45Z,Charlton Athletic,Derby County,1,2,London,England,25.0,0,18.4,8.2
+744924,2026-01-20T19:45Z,Coventry City,Millwall,2,1,Coventry,England,89.0,0.1,26.8,7.8
+744926,2026-01-20T19:45Z,Ipswich Town,Bristol City,2,0,Ipswich,England,18.0,0,23.8,6.4
+744927,2026-01-20T19:45Z,Oxford United,Queens Park Rangers,0,0,Oxford,England,72.0,1.0,27.5,8.1
+744928,2026-01-20T19:45Z,Preston North End,Hull City,0,3,Preston,England,34.0,0,29.0,8.2
+744931,2026-01-20T19:45Z,Sheffield Wednesday,Birmingham City,0,2,Sheffield,England,75.0,0,19.5,7.0
+744930,2026-01-20T19:45Z,Swansea City,Blackburn Rovers,3,1,Swansea,Wales,18.0,0.4,14.5,5.9
+744925,2026-01-20T19:45Z,West Bromwich Albion,Norwich City,0,5,West Bromwich,England,165.0,0.6,25.0,7.5
+744929,2026-01-20T20:00Z,Wrexham,Leicester City,1,1,Wrexham,Wales,87.0,1.9,27.6,6.3
+744934,2026-01-21T19:45Z,Southampton,Sheffield United,1,0,Southampton,England,19.0,1.0,25.7,9.6
+744932,2026-01-21T19:45Z,Watford,Portsmouth,1,1,Watford,England,77.0,0.3,23.1,8.7
+744935,2026-01-21T20:00Z,Stoke City,Middlesbrough,1,2,Stoke-on-Trent,England,114.0,0,29.8,8.0
+744943,2026-01-23T20:00Z,Derby County,West Bromwich Albion,1,1,Derby,England,55.0,0,19.3,5.8
+744946,2026-01-24T12:30Z,Middlesbrough,Preston North End,4,0,Middlesbrough,England,15.0,0,18.5,7.7
+744947,2026-01-24T12:30Z,Millwall,Charlton Athletic,4,0,London,England,25.0,0,13.8,8.9
+744940,2026-01-24T15:00Z,Birmingham City,Stoke City,1,1,Birmingham,England,149.0,0,24.2,7.7
+744941,2026-01-24T15:00Z,Blackburn Rovers,Watford,1,1,Blackburn,England,121.0,0,26.6,6.3
+744942,2026-01-24T15:00Z,Bristol City,Sheffield Wednesday,2,0,Bristol,England,21.0,0,30.0,7.2
+744944,2026-01-24T15:00Z,Hull City,Swansea City,2,1,Hull,England,8.0,0,16.5,6.9
+744945,2026-01-24T15:00Z,Leicester City,Oxford United,1,2,Leicester,England,65.0,0,23.2,7.9
+744938,2026-01-24T15:00Z,Queens Park Rangers,Wrexham,2,3,London,England,25.0,0,15.9,8.4
+744939,2026-01-24T15:00Z,Sheffield United,Ipswich Town,3,1,Sheffield,England,75.0,0,17.0,7.7
+744937,2026-01-25T12:00Z,Portsmouth,Southampton,1,1,Portsmouth,England,6.0,0.3,21.3,7.3
+744936,2026-01-26T20:00Z,Norwich City,Coventry City,2,1,Norwich,England,19.0,0,14.7,4.1
+744949,2026-01-30T20:00Z,Bristol City,Derby County,0,5,Bristol,England,21.0,0,25.5,7.0
+744951,2026-01-31T12:30Z,Leicester City,Charlton Athletic,0,2,Leicester,England,65.0,0.1,19.1,8.7
+744957,2026-01-31T12:30Z,Sheffield Wednesday,Wrexham,0,1,Sheffield,England,75.0,0,19.3,8.4
+744958,2026-01-31T12:30Z,Stoke City,Southampton,0,2,Stoke-on-Trent,England,114.0,0.1,22.9,7.8
+744948,2026-01-31T15:00Z,Blackburn Rovers,Hull City,0,1,Blackburn,England,121.0,0.7,17.4,7.2
+744950,2026-01-31T15:00Z,Ipswich Town,Preston North End,1,1,Ipswich,England,18.0,0.4,14.1,8.7
+744952,2026-01-31T15:00Z,Middlesbrough,Norwich City,1,0,Middlesbrough,England,15.0,0,10.9,9.1
+744959,2026-01-31T15:00Z,Millwall,Sheffield United,1,1,London,England,25.0,0,9.8,9.4
+744954,2026-01-31T15:00Z,Oxford United,Birmingham City,0,2,Oxford,England,72.0,1.0,14.8,9.2
+744955,2026-01-31T15:00Z,Portsmouth,West Bromwich Albion,3,0,Portsmouth,England,6.0,0.3,17.7,9.1
+744956,2026-01-31T15:00Z,Queens Park Rangers,Coventry City,2,1,London,England,25.0,0,9.8,9.4
+744953,2026-01-31T15:00Z,Watford,Swansea City,0,2,Watford,England,77.0,0,13.6,8.5
+744816,2026-02-03T19:45Z,Blackburn Rovers,Sheffield Wednesday,1,0,Blackburn,England,121.0,0,18.3,0.8
+744906,2026-02-03T19:45Z,Hull City,Watford,0,0,Hull,England,8.0,0.1,11.3,2.5
+744911,2026-02-03T19:45Z,Sheffield United,Oxford United,3,1,Sheffield,England,75.0,0.2,9.3,1.3
+744971,2026-02-06T20:01Z,Charlton Athletic,Queens Park Rangers,0,0,London,England,25.0,0,14.4,9.0
+744963,2026-02-07T12:31Z,Derby County,Ipswich Town,1,2,Derby,England,55.0,0.5,20.3,7.8
+744961,2026-02-07T12:31Z,Norwich City,Blackburn Rovers,2,0,Norwich,England,19.0,0,27.1,9.6
+744970,2026-02-07T12:31Z,Southampton,Watford,1,0,Southampton,England,19.0,1.6,21.4,11.1
+744966,2026-02-07T15:01Z,Birmingham City,Leicester City,2,1,Birmingham,England,149.0,0.2,17.4,9.6
+744964,2026-02-07T15:01Z,Coventry City,Oxford United,0,0,Coventry,England,89.0,0.7,17.6,10.4
+744962,2026-02-07T15:01Z,Hull City,Bristol City,2,3,Hull,England,8.0,0.1,15.2,8.3
+744960,2026-02-07T15:01Z,Preston North End,Portsmouth,1,0,Preston,England,34.0,0,17.3,8.5
+744968,2026-02-07T15:01Z,West Bromwich Albion,Stoke City,0,0,West Bromwich,England,165.0,2.7,16.4,9.6
+744967,2026-02-07T15:01Z,Wrexham,Millwall,0,2,Wrexham,Wales,87.0,2.2,15.5,8.1
+744969,2026-02-08T12:01Z,Swansea City,Sheffield Wednesday,4,0,Swansea,Wales,18.0,1.4,11.9,9.4
+744965,2026-02-09T20:01Z,Sheffield United,Middlesbrough,1,2,Sheffield,England,75.0,0,14.0,6.7
+744977,2026-02-10T19:45Z,Leicester City,Southampton,3,4,Leicester,England,65.0,0.2,9.1,7.9
+744972,2026-02-10T19:45Z,Oxford United,Norwich City,0,3,Oxford,England,72.0,0.2,9.5,8.9
+744983,2026-02-10T20:00Z,Birmingham City,West Bromwich Albion,0,0,Birmingham,England,149.0,0.2,10.0,8.0
+744981,2026-02-11T19:45Z,Charlton Athletic,Stoke City,1,0,London,England,25.0,0.3,9.9,9.4
+744979,2026-02-14T15:00Z,Derby County,Swansea City,2,0,Derby,England,55.0,0,9.4,5.4
+744976,2026-02-14T15:00Z,Portsmouth,Sheffield United,0,1,Portsmouth,England,6.0,0,7.0,6.2
+744975,2026-02-14T15:00Z,Preston North End,Watford,2,2,Preston,England,34.0,0,11.5,5.3
+744974,2026-02-14T15:00Z,Queens Park Rangers,Blackburn Rovers,1,3,London,England,25.0,0,4.7,5.8
+744973,2026-02-14T15:00Z,Sheffield Wednesday,Millwall,1,2,Sheffield,England,75.0,0,6.5,5.0
+744980,2026-02-16T20:00Z,Coventry City,Middlesbrough,3,1,Coventry,England,89.0,0,17.9,5.6
+744982,2026-02-17T19:45Z,Bristol City,Wrexham,2,2,Bristol,England,21.0,0,14.6,3.8
+744818,2026-02-17T19:45Z,Charlton Athletic,Portsmouth,1,3,London,England,25.0,0,7.5,3.4
+744995,2026-02-20T20:00Z,Blackburn Rovers,Preston North End,1,0,Blackburn,England,121.0,0,26.0,6.6
+744988,2026-02-21T12:30Z,Hull City,Queens Park Rangers,1,3,Hull,England,8.0,0,21.6,12.1
+744989,2026-02-21T12:30Z,Stoke City,Leicester City,2,2,Stoke-on-Trent,England,114.0,0.2,20.1,11.8
+744990,2026-02-21T12:30Z,Swansea City,Bristol City,1,0,Swansea,Wales,18.0,0.4,18.2,11.4
+744985,2026-02-21T12:30Z,West Bromwich Albion,Coventry City,0,2,West Bromwich,England,165.0,0,12.6,10.2
+744987,2026-02-21T15:00Z,Middlesbrough,Oxford United,0,0,Middlesbrough,England,15.0,2.2,17.0,11.1
+744991,2026-02-21T15:00Z,Millwall,Portsmouth,1,3,London,England,25.0,0.1,19.9,12.9
+744992,2026-02-21T15:00Z,Norwich City,Birmingham City,1,2,Norwich,England,19.0,0,16.8,12.9
+744994,2026-02-21T15:00Z,Southampton,Charlton Athletic,1,1,Southampton,England,19.0,0.1,16.6,13.0
+744984,2026-02-21T15:00Z,Watford,Derby County,2,0,Watford,England,77.0,0,20.3,12.5
+744986,2026-02-21T15:00Z,Wrexham,Ipswich Town,5,3,Wrexham,Wales,87.0,2.7,18.0,11.3
+744993,2026-02-22T12:00Z,Sheffield United,Sheffield Wednesday,2,1,Sheffield,England,75.0,0,22.8,12.4
+745007,2026-02-24T19:45Z,Blackburn Rovers,Bristol City,1,2,Blackburn,England,121.0,0,15.4,9.7
+744996,2026-02-24T19:45Z,Hull City,Derby County,4,2,Hull,England,8.0,0,14.4,11.1
+744997,2026-02-24T19:45Z,Middlesbrough,Leicester City,1,1,Middlesbrough,England,15.0,0,15.7,10.7
+745003,2026-02-24T19:45Z,Swansea City,Preston North End,1,1,Swansea,Wales,18.0,0,15.4,10.2
+745001,2026-02-24T19:45Z,Watford,Ipswich Town,0,2,Watford,England,77.0,0,10.5,10.7
+745000,2026-02-24T19:45Z,West Bromwich Albion,Charlton Athletic,1,1,West Bromwich,England,165.0,0,13.0,10.8
+744999,2026-02-24T19:45Z,Wrexham,Portsmouth,2,1,Wrexham,Wales,87.0,0,13.0,9.3
+744998,2026-02-24T20:00Z,Southampton,Queens Park Rangers,5,0,Southampton,England,19.0,0,11.1,9.8
+745006,2026-02-25T19:45Z,Millwall,Birmingham City,3,0,London,England,25.0,0,9.8,13.0
+745005,2026-02-25T19:45Z,Norwich City,Sheffield Wednesday,2,0,Norwich,England,19.0,0,14.4,12.1
+745004,2026-02-25T19:45Z,Sheffield United,Coventry City,1,2,Sheffield,England,75.0,0,17.3,12.0
+745002,2026-02-25T20:00Z,Stoke City,Oxford United,2,1,Stoke-on-Trent,England,114.0,0.2,20.8,11.4
+745013,2026-02-27T20:00Z,Bristol City,Watford,1,2,Bristol,England,21.0,3.7,5.1,8.5
+745010,2026-02-28T12:30Z,Derby County,Blackburn Rovers,3,1,Derby,England,55.0,2.0,11.7,7.1
+745008,2026-02-28T12:30Z,Leicester City,Norwich City,0,2,Leicester,England,65.0,1.1,9.7,7.5
+745018,2026-02-28T12:30Z,Portsmouth,Hull City,0,1,Portsmouth,England,6.0,0,21.6,10.5
+745012,2026-02-28T15:00Z,Charlton Athletic,Wrexham,0,1,London,England,25.0,0.3,13.7,9.7
+745011,2026-02-28T15:00Z,Coventry City,Stoke City,2,1,Coventry,England,89.0,0.3,13.2,8.3
+745009,2026-02-28T15:00Z,Ipswich Town,Swansea City,3,0,Ipswich,England,18.0,0,17.5,8.7
+745017,2026-02-28T15:00Z,Oxford United,West Bromwich Albion,2,1,Oxford,England,72.0,0.2,18.9,9.5
+745019,2026-02-28T15:00Z,Preston North End,Millwall,0,2,Preston,England,34.0,0,13.4,7.6
+745016,2026-02-28T15:00Z,Queens Park Rangers,Sheffield United,0,2,London,England,25.0,0.3,13.7,9.7
+745015,2026-02-28T15:00Z,Sheffield Wednesday,Southampton,1,3,Sheffield,England,75.0,0.1,10.5,7.9
+745014,2026-03-02T20:00Z,Birmingham City,Middlesbrough,1,3,Birmingham,England,149.0,0,4.7,10.0
+744978,2026-03-03T19:45Z,Ipswich Town,Hull City,1,0,Ipswich,England,18.0,0,10.6,6.4
+745026,2026-03-06T20:00Z,Preston North End,Oxford United,1,3,Preston,England,34.0,0,4.6,5.2
+745020,2026-03-07T12:30Z,Blackburn Rovers,Portsmouth,1,1,Blackburn,England,121.0,0,10.6,6.2
+745024,2026-03-07T12:30Z,Hull City,Millwall,1,3,Hull,England,8.0,0,5.4,7.7
+745021,2026-03-07T15:00Z,Bristol City,Coventry City,0,2,Bristol,England,21.0,0,8.3,9.0
+745022,2026-03-07T15:00Z,Charlton Athletic,Birmingham City,1,0,London,England,25.0,0,8.1,9.8
+745023,2026-03-07T15:00Z,Derby County,Sheffield Wednesday,2,1,Derby,England,55.0,0,9.3,8.3
+745031,2026-03-07T15:00Z,Ipswich Town,Leicester City,1,1,Ipswich,England,18.0,0,10.0,9.1
+745028,2026-03-07T15:00Z,Sheffield United,West Bromwich Albion,1,1,Sheffield,England,75.0,0,7.9,8.5
+745030,2026-03-07T15:00Z,Swansea City,Stoke City,2,0,Swansea,Wales,18.0,0,10.2,9.9
+745027,2026-03-08T16:30Z,Queens Park Rangers,Middlesbrough,0,4,London,England,25.0,0,4.5,12.6
+745033,2026-03-10T19:45Z,Leicester City,Bristol City,2,0,Leicester,England,65.0,0,23.6,9.2
+745034,2026-03-10T19:45Z,Millwall,Derby County,1,0,London,England,25.0,0,16.5,9.6
+745036,2026-03-10T19:45Z,Portsmouth,Swansea City,1,2,Portsmouth,England,6.0,0.2,23.1,9.8
+745037,2026-03-10T19:45Z,Sheffield Wednesday,Watford,1,1,Sheffield,England,75.0,0,22.2,9.6
+745039,2026-03-10T19:45Z,Wrexham,Hull City,1,2,Wrexham,Wales,87.0,1.5,30.8,9.0
+745038,2026-03-10T20:00Z,Stoke City,Ipswich Town,3,3,Stoke-on-Trent,England,114.0,0.3,27.2,8.9
+745032,2026-03-11T19:45Z,Birmingham City,Queens Park Rangers,1,0,Birmingham,England,149.0,0,10.6,7.2
+745043,2026-03-11T19:45Z,Middlesbrough,Charlton Athletic,0,1,Middlesbrough,England,15.0,0,22.0,7.9
+745035,2026-03-11T19:45Z,Norwich City,Sheffield United,2,1,Norwich,England,19.0,0,12.0,7.9
+745042,2026-03-11T19:45Z,Oxford United,Blackburn Rovers,1,0,Oxford,England,72.0,0,20.7,8.0
+745041,2026-03-11T19:45Z,West Bromwich Albion,Southampton,1,1,West Bromwich,England,165.0,0,10.9,7.0
+745040,2026-03-11T20:00Z,Coventry City,Preston North End,3,0,Coventry,England,89.0,0,12.6,6.3
+745054,2026-03-13T20:00Z,Wrexham,Swansea City,2,0,Wrexham,Wales,87.0,0.8,13.3,2.3
+745051,2026-03-14T12:30Z,Coventry City,Southampton,1,2,Coventry,England,89.0,0.1,13.3,8.5
+745049,2026-03-14T12:30Z,Middlesbrough,Bristol City,1,1,Middlesbrough,England,15.0,0,14.6,9.6
+745046,2026-03-14T12:30Z,Oxford United,Charlton Athletic,1,1,Oxford,England,72.0,0,14.3,9.6
+745052,2026-03-14T15:00Z,Birmingham City,Sheffield United,1,1,Birmingham,England,149.0,0,9.4,9.3
+745050,2026-03-14T15:00Z,Leicester City,Queens Park Rangers,1,3,Leicester,England,65.0,0.1,12.5,9.4
+745044,2026-03-14T15:00Z,Millwall,Blackburn Rovers,1,2,London,England,25.0,0,11.9,10.4
+745045,2026-03-14T15:00Z,Norwich City,Preston North End,2,0,Norwich,England,19.0,0.1,10.8,7.5
+745048,2026-03-14T15:00Z,Sheffield Wednesday,Ipswich Town,0,2,Sheffield,England,75.0,0.1,12.6,9.2
+745053,2026-03-14T15:00Z,Stoke City,Watford,3,1,Stoke-on-Trent,England,114.0,0.1,12.1,8.6
+745055,2026-03-14T15:00Z,West Bromwich Albion,Hull City,3,0,West Bromwich,England,165.0,0,9.2,9.2
+745047,2026-03-16T20:00Z,Portsmouth,Derby County,0,1,Portsmouth,England,6.0,0,22.7,10.3

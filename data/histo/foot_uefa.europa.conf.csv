@@ -383,3 +383,45 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 758051,2025-12-11T20:00Z,Rapid Vienna,Omonia Nicosia,0,1,Wien,Austria,876.0,0,3.9,1.9
 758048,2025-12-11T20:00Z,Rijeka,NK Celje,3,0,Rijeka,Croatia,12.0,0,12.6,9.0
 758049,2025-12-11T20:00Z,Shelbourne,Crystal Palace,0,3,Dublin,,17.0,1.1,13.0,7.4
+758056,2025-12-18T20:00Z,AEK Athens,CSU Craiova,3,2,Athens,Greece,70.0,0,3.1,10.4
+758057,2025-12-18T20:00Z,AEK Larnaca,KF Shkëndija,1,0,Larnaca,Cyprus,24.0,0,7.9,11.2
+758058,2025-12-18T20:00Z,AZ Alkmaar,Jagiellonia Bialystok,0,0,Alkmaar,Netherlands,5.0,0,32.9,13.0
+758060,2025-12-18T20:00Z,Crystal Palace,KuPS Kuopio,2,2,London,England,25.0,0,20.0,12.1
+758061,2025-12-18T20:00Z,Dynamo Kyiv,FC Noah,2,0,Lublin,Poland,184.0,0,6.4,3.2
+758062,2025-12-18T20:00Z,Lausanne Sports,Fiorentina,1,0,Lausanne,Switzerland,453.0,0,3.6,1.6
+758063,2025-12-18T20:00Z,Legia Warsaw,Lincoln Red Imps,4,1,Warsaw,Poland,113.0,0,7.8,3.6
+758055,2025-12-18T20:00Z,Mainz,Samsunspor,2,0,Mainz,Germany,125.0,0,12.1,6.2
+758059,2025-12-18T20:00Z,NK Celje,Shelbourne,0,0,Celje,Slovenia,240.0,0,8.1,4.9
+758064,2025-12-18T20:00Z,Omonia Nicosia,Raków Czestochowa,0,1,Nicosia,Cyprus,155.0,0,9.2,11.3
+758065,2025-12-18T20:00Z,Rayo Vallecano,Drita Gjilan,3,0,Madrid,Spain,665.0,0,3.8,8.9
+758067,2025-12-18T20:00Z,Shakhtar Donetsk,Rijeka,0,0,Krakow,Poland,219.0,0,1.3,0.5
+758071,2025-12-18T20:00Z,Shamrock Rovers,Hamrun Spartans,3,1,Dublin,,17.0,0,20.3,5.8
+758070,2025-12-18T20:00Z,Sigma Olomouc,Lech Poznan,1,2,Olomouc,Czechia,223.0,0,2.5,1.6
+758066,2025-12-18T20:00Z,Slovan Bratislava,BK Häcken,1,0,Bratislava,Slovakia,157.0,0,9.0,3.5
+758069,2025-12-18T20:00Z,Sparta Prague,Aberdeen,3,0,Prague,Czechia,202.0,0,1.7,0.1
+758068,2025-12-18T20:00Z,Strasbourg,Breidablik,3,1,Strasbourg,France,147.0,0,14.8,5.4
+758072,2025-12-18T20:00Z,Zrinjski Mostar,Rapid Vienna,1,1,Mostar,Bosnia and Herzegovina,66.0,0,3.4,7.9
+401854526,2026-02-19T17:45Z,FC Noah,AZ Alkmaar,1,0,Yerevan,Armenia,1002.0,0,5.5,5.8
+401854525,2026-02-19T17:45Z,KuPS Kuopio,Lech Poznan,0,2,Tampere,Finland,114.0,0,8.9,-12.8
+401854529,2026-02-19T17:45Z,Sigma Olomouc,Lausanne Sports,1,1,Olomouc,Czechia,223.0,0,16.6,-0.8
+401854522,2026-02-19T17:45Z,Zrinjski Mostar,Crystal Palace,1,1,Mostar,Bosnia and Herzegovina,66.0,0.9,7.9,10.6
+401854523,2026-02-19T20:00Z,Drita Gjilan,NK Celje,2,3,Prishtina,Kosovo,,,,
+401854524,2026-02-19T20:00Z,Jagiellonia Bialystok,Fiorentina,0,3,Bialystok,Poland,135.0,0,11.1,-5.9
+401854528,2026-02-19T20:00Z,KF Shkëndija,Samsunspor,0,1,Skopje,North Macedonia,247.0,0,5.0,3.5
+401854527,2026-02-19T20:00Z,Omonia Nicosia,Rijeka,0,1,Nicosia,Cyprus,155.0,0,2.1,10.3
+401854534,2026-02-26T17:45Z,Fiorentina,Jagiellonia Bialystok,2,4,Firenze,Italy,58.0,0,3.5,14.2
+401854532,2026-02-26T17:45Z,NK Celje,Drita Gjilan,3,2,Celje,Slovenia,240.0,0,4.0,7.3
+401854530,2026-02-26T17:45Z,Rijeka,Omonia Nicosia,3,1,Rijeka,Croatia,12.0,0,2.3,12.1
+401854535,2026-02-26T17:45Z,Samsunspor,KF Shkëndija,4,0,Samsun,Türkiye,64.0,0.4,16.3,4.7
+401854531,2026-02-26T20:00Z,AZ Alkmaar,FC Noah,4,0,Alkmaar,Netherlands,5.0,0,32.7,9.3
+401854533,2026-02-26T20:00Z,Crystal Palace,Zrinjski Mostar,2,0,London,England,25.0,0,21.8,11.4
+401854537,2026-02-26T20:00Z,Lausanne Sports,Sigma Olomouc,1,2,Lausanne,Switzerland,453.0,0,2.3,9.6
+401854536,2026-02-26T20:00Z,Lech Poznan,KuPS Kuopio,1,0,Poznan,Poland,69.0,0,13.5,5.0
+401862855,2026-03-12T17:45Z,AZ Alkmaar,Sparta Prague,2,1,Alkmaar,Netherlands,5.0,0,32.0,11.1
+401862853,2026-03-12T17:45Z,Lech Poznan,Shakhtar Donetsk,1,3,Poznan,Poland,69.0,0,5.6,8.8
+401862848,2026-03-12T17:45Z,Rijeka,Strasbourg,1,2,Rijeka,Croatia,12.0,0,0.0,11.3
+401862847,2026-03-12T17:45Z,Samsunspor,Rayo Vallecano,1,3,Samsun,Türkiye,64.0,0,3.1,6.0
+401862854,2026-03-12T20:00Z,Crystal Palace,AEK Larnaca,0,0,London,England,25.0,0.1,28.6,11.4
+401862846,2026-03-12T20:00Z,Fiorentina,Raków Czestochowa,2,1,Firenze,Italy,58.0,0,3.5,9.4
+401862845,2026-03-12T20:00Z,NK Celje,AEK Athens,0,4,Celje,Slovenia,240.0,0,2.4,6.5
+401862856,2026-03-12T20:00Z,Sigma Olomouc,Mainz,0,0,Olomouc,Czechia,223.0,0,3.8,6.8

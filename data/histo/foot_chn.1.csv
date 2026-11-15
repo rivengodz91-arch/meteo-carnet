@@ -615,3 +615,19 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 731948,2025-11-22T07:30Z,Tianjin Jinmen Tiger,Shanghai Shenhua FC,1,3,Tianjin,China PR,11.0,0,4.7,13.0
 731947,2025-11-22T07:30Z,Wuhan Three Towns,Shandong Taishan,1,5,Wuhan,China PR,20.0,0,1.5,17.0
 731944,2025-11-22T07:30Z,Zhejiang Professional FC,Qingdao Hainiu,2,2,Hangzhou,China PR,12.0,0,4.9,16.8
+401861313,2026-03-06T11:35Z,Chengdu Rongcheng,Shenzhen Xinpengcheng,5,1,Chengdu,China PR,499.0,0,4.2,16.2
+401861497,2026-03-07T07:30Z,Shandong Taishan,Liaoning Tieren,3,0,Jinan,China PR,32.0,0,6.1,9.4
+401861496,2026-03-07T07:30Z,Tianjin Jinmen Tiger,Chongqing Tonglianglong,0,0,Tianjin,China PR,11.0,0,9.6,7.5
+401861314,2026-03-07T09:00Z,Shanghai Shenhua FC,Dalian Yingbo,5,3,Shanghai,China PR,12.0,0,11.9,7.4
+401861315,2026-03-07T11:35Z,Shanghai Port FC,Henan,1,2,Shanghai,China PR,12.0,0,11.4,5.4
+401861316,2026-03-07T11:35Z,Yunnan Yukun,Qingdao Hainiu,3,1,Yuxi,China PR,1638.0,0,15.7,20.5
+401861317,2026-03-08T08:30Z,Zhejiang Professional FC,Qingdao West Coast,2,0,Hangzhou,China PR,12.0,0,6.7,13.9
+401861318,2026-03-08T11:00Z,Wuhan Three Towns,Beijing Guoan,0,2,Wuhan,China PR,20.0,0,3.9,11.5
+401861319,2026-03-13T11:35Z,Wuhan Three Towns,Dalian Yingbo,4,1,Wuhan,China PR,20.0,0,10.6,14.9
+401861320,2026-03-14T07:30Z,Shandong Taishan,Beijing Guoan,2,1,Jinan,China PR,32.0,1.0,14.7,5.9
+401861321,2026-03-14T07:30Z,Zhejiang Professional FC,Shanghai Shenhua FC,1,1,Hangzhou,China PR,12.0,0,6.2,23.4
+401861518,2026-03-14T11:35Z,Chongqing Tonglianglong,Liaoning Tieren,1,0,Chongqing,China PR,289.0,2.3,9.0,10.0
+401861322,2026-03-14T12:00Z,Shenzhen Xinpengcheng,Tianjin Jinmen Tiger,1,0,Shenzhen,China PR,4.0,0,10.2,17.5
+401861323,2026-03-15T07:30Z,Henan,Yunnan Yukun,2,1,Zhengzhou,China PR,104.0,0,6.8,11.0
+401861324,2026-03-15T11:00Z,Shanghai Port FC,Qingdao West Coast,4,1,Shanghai,China PR,12.0,0,9.7,12.2
+401861325,2026-03-15T11:35Z,Chengdu Rongcheng,Qingdao Hainiu,1,0,Chengdu,China PR,499.0,0,8.1,11.1

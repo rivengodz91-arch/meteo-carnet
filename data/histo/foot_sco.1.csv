@@ -377,3 +377,85 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 742453,2025-12-13T20:00Z,Falkirk,Heart of Midlothian,0,2,Falkirk,Scotland,25.0,0.8,38.5,9.8
 742432,2025-12-14T15:00Z,Aberdeen,Kilmarnock,2,1,Aberdeen,Scotland,13.0,0.2,36.1,11.2
 742437,2025-12-15T19:45Z,Rangers,Hibernian,1,0,Glasgow,Scotland,40.0,0,4.3,3.2
+742396,2025-12-17T20:00Z,Dundee United,Celtic,2,1,Dundee,Scotland,77.0,0,12.3,8.7
+742439,2025-12-20T15:00Z,Dundee United,Hibernian,1,1,Dundee,Scotland,77.0,0,9.5,5.4
+742441,2025-12-20T15:00Z,Kilmarnock,Falkirk,0,1,Kilmarnock,Scotland,39.0,0,24.8,7.4
+742442,2025-12-20T15:00Z,Motherwell,Dundee,1,0,Motherwell,Scotland,87.0,0,28.8,22.6
+742443,2025-12-20T15:00Z,St Mirren,Livingston,1,0,Paisley,Scotland,50.0,0,14.7,6.4
+742440,2025-12-21T13:30Z,Heart of Midlothian,Rangers,2,1,Edinburgh,Scotland,66.0,0.1,13.0,8.7
+742438,2025-12-21T15:00Z,Celtic,Aberdeen,3,1,Glasgow,Scotland,40.0,0,15.3,8.3
+742444,2025-12-27T12:30Z,Hibernian,Heart of Midlothian,3,2,Edinburgh,Scotland,66.0,0,12.9,5.6
+742448,2025-12-27T15:00Z,Dundee,Falkirk,1,0,Dundee,Scotland,77.0,0,16.9,5.9
+742449,2025-12-27T15:00Z,Livingston,Celtic,2,4,Livingston,Scotland,969.0,0,13.6,28.5
+742446,2025-12-27T15:00Z,Rangers,Motherwell,1,0,Glasgow,Scotland,40.0,0,11.0,5.4
+742445,2025-12-27T15:00Z,St Mirren,Kilmarnock,0,0,Paisley,Scotland,50.0,0,10.5,4.9
+742447,2025-12-27T17:45Z,Aberdeen,Dundee United,1,1,Aberdeen,Scotland,13.0,0,15.3,5.7
+742455,2025-12-30T19:45Z,Dundee,Kilmarnock,2,1,Dundee,Scotland,77.0,0,7.3,-2.0
+742454,2025-12-30T19:45Z,Hibernian,Aberdeen,2,0,Edinburgh,Scotland,66.0,0,9.8,-1.0
+742451,2025-12-30T19:45Z,Livingston,Dundee United,1,3,Livingston,Scotland,969.0,0,8.5,22.5
+742452,2025-12-30T19:45Z,Rangers,St Mirren,2,1,Glasgow,Scotland,40.0,0,1.8,-3.5
+742450,2025-12-30T20:00Z,Motherwell,Celtic,2,0,Motherwell,Scotland,87.0,0,6.3,20.3
+742456,2026-01-03T12:30Z,Celtic,Rangers,1,3,Glasgow,Scotland,40.0,0,12.4,0.5
+742457,2026-01-03T15:00Z,Dundee United,Dundee,0,1,Dundee,Scotland,77.0,0,16.2,-1.3
+742458,2026-01-03T15:00Z,Falkirk,Aberdeen,1,0,Falkirk,Scotland,25.0,0,12.9,-0.8
+742459,2026-01-03T15:00Z,Heart of Midlothian,Livingston,1,0,Edinburgh,Scotland,66.0,0,15.5,-0.5
+742460,2026-01-03T15:00Z,Kilmarnock,Hibernian,1,3,Kilmarnock,Scotland,39.0,0,14.0,0.7
+742461,2026-01-03T15:00Z,Motherwell,St Mirren,2,0,Motherwell,Scotland,87.0,0,13.8,24.7
+742401,2026-01-06T20:00Z,Rangers,Aberdeen,2,0,Glasgow,Scotland,40.0,0,16.9,1.7
+742463,2026-01-10T15:00Z,Celtic,Dundee United,4,0,Glasgow,Scotland,40.0,0.4,5.7,0.8
+742465,2026-01-10T15:00Z,Hibernian,Motherwell,1,1,Edinburgh,Scotland,66.0,0,17.5,3.0
+742466,2026-01-10T15:00Z,Livingston,Kilmarnock,1,1,Livingston,Scotland,969.0,0,3.6,30.2
+742467,2026-01-10T15:00Z,St Mirren,Falkirk,0,2,Paisley,Scotland,50.0,0,11.3,2.2
+742464,2026-01-11T14:00Z,Dundee,Heart of Midlothian,0,1,Dundee,Scotland,77.0,0.3,11.5,3.9
+742462,2026-01-11T16:30Z,Aberdeen,Rangers,0,2,Aberdeen,Scotland,13.0,0.3,45.2,6.2
+742434,2026-01-14T19:45Z,Falkirk,Celtic,0,1,Falkirk,Scotland,25.0,0.7,22.0,5.3
+742435,2026-01-14T19:45Z,Heart of Midlothian,St Mirren,2,0,Edinburgh,Scotland,66.0,0.2,24.8,5.4
+742399,2026-01-20T19:45Z,Livingston,St Mirren,1,1,Livingston,Scotland,969.0,1.4,9.0,21.4
+742468,2026-01-24T15:00Z,Aberdeen,Livingston,6,2,Aberdeen,Scotland,13.0,1.1,34.1,4.7
+742470,2026-01-24T15:00Z,Falkirk,Hibernian,4,1,Falkirk,Scotland,25.0,0.1,24.3,5.9
+742472,2026-01-24T15:00Z,Motherwell,Kilmarnock,4,0,Motherwell,Scotland,87.0,0,17.9,23.6
+742471,2026-01-25T15:00Z,Heart of Midlothian,Celtic,2,2,Edinburgh,Scotland,66.0,0,20.7,5.6
+742473,2026-01-25T15:00Z,Rangers,Dundee,3,0,Glasgow,Scotland,40.0,0,20.7,6.5
+742477,2026-01-31T15:00Z,Kilmarnock,Aberdeen,3,0,Kilmarnock,Scotland,39.0,0.2,15.4,7.8
+742478,2026-01-31T15:00Z,Livingston,Motherwell,0,2,Livingston,Scotland,969.0,0,11.3,27.7
+742479,2026-01-31T15:00Z,St Mirren,Dundee,0,0,Paisley,Scotland,50.0,0,14.1,6.8
+742475,2026-01-31T20:00Z,Dundee United,Heart of Midlothian,0,3,Dundee,Scotland,77.0,0,15.5,5.6
+742476,2026-02-01T14:00Z,Hibernian,Rangers,0,0,Edinburgh,Scotland,66.0,0.2,0.6,7.9
+742474,2026-02-01T15:00Z,Celtic,Falkirk,2,0,Glasgow,Scotland,40.0,0,4.7,7.9
+742485,2026-02-03T20:00Z,St Mirren,Heart of Midlothian,1,0,Paisley,Scotland,50.0,0,19.5,2.4
+742482,2026-02-04T19:45Z,Hibernian,Dundee United,3,2,Edinburgh,Scotland,66.0,0.1,9.4,4.1
+742483,2026-02-04T19:45Z,Livingston,Falkirk,1,2,Livingston,Scotland,969.0,0,12.9,23.3
+742484,2026-02-04T19:45Z,Rangers,Kilmarnock,5,1,Glasgow,Scotland,40.0,0,14.7,3.6
+742489,2026-02-10T20:00Z,Heart of Midlothian,Hibernian,1,0,Edinburgh,Scotland,66.0,0.3,20.4,5.5
+742486,2026-02-11T19:45Z,Celtic,Livingston,2,1,Glasgow,Scotland,40.0,0.5,23.3,3.9
+742488,2026-02-11T19:45Z,Falkirk,Dundee,1,0,Falkirk,Scotland,25.0,1.4,25.8,3.4
+742490,2026-02-11T19:45Z,Kilmarnock,St Mirren,4,3,Kilmarnock,Scotland,39.0,0,28.4,4.3
+742491,2026-02-11T20:00Z,Motherwell,Rangers,1,1,Motherwell,Scotland,87.0,0,14.4,23.4
+742492,2026-02-14T15:00Z,Dundee,Livingston,2,2,Dundee,Scotland,77.0,0,11.9,3.2
+742493,2026-02-14T15:00Z,Falkirk,Dundee United,2,3,Falkirk,Scotland,25.0,0,14.6,4.2
+742494,2026-02-14T15:00Z,Hibernian,St Mirren,2,0,Edinburgh,Scotland,66.0,0,7.8,2.9
+742495,2026-02-15T14:00Z,Kilmarnock,Celtic,2,3,Kilmarnock,Scotland,39.0,2.5,8.7,4.8
+742496,2026-02-15T14:30Z,Motherwell,Aberdeen,2,0,Motherwell,Scotland,87.0,0,27.1,22.7
+742497,2026-02-15T16:30Z,Rangers,Heart of Midlothian,4,2,Glasgow,Scotland,40.0,0.5,4.5,4.2
+742498,2026-02-21T15:00Z,Aberdeen,Dundee,2,3,Aberdeen,Scotland,13.0,0.3,9.9,6.4
+742500,2026-02-21T15:00Z,Dundee United,Kilmarnock,1,1,Dundee,Scotland,77.0,0.8,8.5,8.8
+742501,2026-02-21T15:00Z,Heart of Midlothian,Falkirk,1,0,Edinburgh,Scotland,66.0,0.6,13.3,10.1
+742503,2026-02-21T19:30Z,St Mirren,Motherwell,0,5,Paisley,Scotland,50.0,3.7,14.8,9.5
+742499,2026-02-22T15:00Z,Celtic,Hibernian,1,2,Glasgow,Scotland,40.0,1.1,22.4,9.4
+742502,2026-02-22T15:00Z,Livingston,Rangers,2,2,Livingston,Scotland,969.0,0.1,7.5,23.8
+742487,2026-02-24T19:45Z,Dundee United,Aberdeen,0,0,Dundee,Scotland,77.0,0.1,16.3,9.2
+742504,2026-02-28T15:00Z,Dundee,Hibernian,3,3,Dundee,Scotland,77.0,0.1,7.1,5.2
+742505,2026-02-28T15:00Z,Falkirk,Kilmarnock,5,1,Falkirk,Scotland,25.0,0,8.9,4.8
+742506,2026-02-28T15:00Z,Heart of Midlothian,Aberdeen,1,0,Edinburgh,Scotland,66.0,0.2,1.0,5.6
+742507,2026-02-28T15:00Z,Livingston,St Mirren,1,1,Livingston,Scotland,969.0,0,13.2,25.2
+742508,2026-02-28T15:00Z,Motherwell,Dundee United,2,0,Motherwell,Scotland,87.0,0,22.5,22.7
+742509,2026-03-01T12:00Z,Rangers,Celtic,2,2,Glasgow,Scotland,40.0,1.5,17.7,9.1
+742469,2026-03-03T19:45Z,Dundee United,St Mirren,2,1,Dundee,Scotland,77.0,0,8.6,5.7
+742480,2026-03-04T20:00Z,Aberdeen,Celtic,1,2,Aberdeen,Scotland,13.0,0,23.1,7.3
+742481,2026-03-07T15:00Z,Dundee,Motherwell,2,1,Dundee,Scotland,77.0,0,14.9,9.7
+742510,2026-03-14T15:00Z,Aberdeen,Falkirk,1,1,Aberdeen,Scotland,13.0,0,13.0,8.9
+742511,2026-03-14T15:00Z,Celtic,Motherwell,3,1,Glasgow,Scotland,40.0,0.3,17.9,7.7
+742513,2026-03-14T15:00Z,Hibernian,Livingston,0,0,Edinburgh,Scotland,66.0,0,19.2,7.8
+742514,2026-03-14T20:00Z,Kilmarnock,Heart of Midlothian,1,0,Kilmarnock,Scotland,39.0,0.1,9.8,4.6
+742515,2026-03-15T12:00Z,St Mirren,Rangers,0,1,Paisley,Scotland,50.0,0.6,26.0,7.1
+742512,2026-03-15T14:00Z,Dundee,Dundee United,2,2,Dundee,Scotland,77.0,0,30.1,7.8

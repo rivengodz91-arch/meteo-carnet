@@ -630,3 +630,10 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 727865,2025-11-30T16:00Z,Sarpsborg FK,Molde,1,0,Sarpsborg,Norway,54.0,0.5,12.3,4.8
 727868,2025-11-30T16:00Z,SK Brann,Hamarkameratene,3,1,Bergen,Norway,20.0,0.2,6.6,1.2
 727863,2025-11-30T16:00Z,Viking FK,Vålerenga,5,1,Stavanger,Norway,15.0,0.2,12.9,5.5
+401843275,2026-03-14T15:00Z,Hamarkameratene,Viking FK,2,1,Hamar,Norway,137.0,0,11.0,5.8
+401843276,2026-03-14T17:00Z,Molde,Rosenborg,2,0,Molde,Norway,3.0,0.1,10.4,5.7
+401843277,2026-03-15T13:30Z,Kristiansund BK,SK Brann,3,2,Kristiansund,Norway,1.0,0,17.2,9.1
+401843280,2026-03-15T16:00Z,Aalesund,Lillestrom,1,3,Aalesunds,Norway,,,,
+401843279,2026-03-15T16:00Z,KFUM Oslo,IK Start,2,0,Oslo,Norway,26.0,0,21.6,3.0
+401843281,2026-03-15T16:00Z,Vålerenga,Sandefjord,1,0,Oslo,Norway,26.0,0,21.6,3.0
+401843282,2026-03-15T18:15Z,Tromso,Fredrikstad,4,0,Tromsø,Norway,-9999.0,0,6.3,3.6

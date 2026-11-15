@@ -1133,3 +1133,135 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 748714,2025-12-14T17:30Z,Almería,Burgos,1,2,Almería,Spain,21.0,0,9.3,15.1
 748716,2025-12-14T20:00Z,Ceuta,Las Palmas,1,1,Ceuta,Spain,22.0,0,17.7,14.1
 748715,2025-12-15T19:30Z,Castellón,Mirandés,3,1,Castellón,Spain,30.0,0,1.7,11.7
+748729,2025-12-19T19:30Z,Eibar,Real Valladolid,3,0,Eibar,Spain,133.0,0.2,5.4,9.9
+748730,2025-12-20T13:00Z,FC Andorra,Deportivo,1,0,Encamp,Andorra,1257.0,1.4,3.4,4.8
+748722,2025-12-20T15:15Z,Huesca,Racing Santander,1,1,Huesca,Spain,476.0,0,4.9,11.1
+748725,2025-12-20T17:30Z,Leganés,Sporting Gijón,0,1,"Leganés, Madrid",Spain,672.0,0,12.2,7.9
+748724,2025-12-20T20:00Z,Las Palmas,Cultural Leonesa,4,0,Las Palmas de Gran Canaria,Spain,122.0,0.2,12.1,17.0
+748732,2025-12-21T13:00Z,Málaga,Almería,2,1,Malaga,Spain,22.0,2.7,4.1,12.8
+748726,2025-12-21T15:15Z,Mirandés,Córdoba,1,2,Vitoria-Gasteiz,Spain,547.0,0,17.6,6.6
+748723,2025-12-21T15:15Z,Real Sociedad II,Ceuta,1,3,San Sebastian,Spain,74.0,0,18.7,8.8
+748727,2025-12-21T17:30Z,Burgos,Real Zaragoza,1,1,Burgos,Spain,863.0,0,15.7,1.4
+748731,2025-12-21T17:30Z,Granada,Albacete,1,1,Granada,Spain,689.0,2.6,8.5,3.6
+748728,2025-12-21T20:00Z,Cádiz,Castellón,2,0,La Línea de la Concepción,Spain,4.0,0,10.3,9.6
+748735,2026-01-02T19:30Z,Eibar,Mirandés,2,1,Eibar,Spain,133.0,0.1,2.5,7.4
+748743,2026-01-03T13:00Z,Cultural Leonesa,Real Sociedad II,1,1,León,Spain,844.0,0.1,5.8,8.8
+748741,2026-01-03T15:15Z,Almería,Granada,3,2,Almería,Spain,21.0,0,4.2,16.5
+748740,2026-01-03T15:15Z,Castellón,Huesca,4,1,Castellón,Spain,30.0,0,18.1,13.9
+748734,2026-01-03T17:30Z,Real Valladolid,Racing Santander,1,1,Valladolid,Spain,702.0,0,12.9,9.5
+748738,2026-01-03T20:00Z,Córdoba,Burgos,2,0,Córdoba,Spain,117.0,0,8.6,11.6
+748737,2026-01-04T13:00Z,Sporting Gijón,Málaga,1,3,Gijón,Spain,22.0,0.1,26.2,7.9
+748739,2026-01-04T15:15Z,Ceuta,FC Andorra,2,1,Ceuta,Spain,22.0,1.7,19.3,14.9
+748742,2026-01-04T17:30Z,Albacete,Leganés,1,3,Albacete,Spain,695.0,0.7,14.5,7.1
+748733,2026-01-04T17:30Z,Real Zaragoza,Las Palmas,1,2,Zaragoza,Spain,214.0,0,23.1,4.5
+748736,2026-01-04T20:00Z,Deportivo,Cádiz,2,2,La Coruña,Spain,1102.0,0,11.4,26.4
+748752,2026-01-09T19:30Z,Cádiz,Sporting Gijón,3,2,La Línea de la Concepción,Spain,4.0,0,18.5,14.4
+748746,2026-01-10T13:00Z,Mirandés,Almería,2,2,Miranda de Ebro,Spain,466.0,0,18.5,8.6
+748754,2026-01-10T15:15Z,Real Sociedad II,Albacete,0,0,San Sebastian,Spain,74.0,0,13.7,11.7
+748753,2026-01-10T17:30Z,Burgos,Eibar,1,0,Burgos,Spain,863.0,0,10.5,3.8
+748751,2026-01-10T17:30Z,FC Andorra,Cultural Leonesa,1,1,Encamp,Andorra,1257.0,1.1,16.9,-0.3
+748748,2026-01-10T17:30Z,Las Palmas,Deportivo,1,1,Las Palmas de Gran Canaria,Spain,122.0,0,14.1,17.0
+748744,2026-01-10T20:00Z,Racing Santander,Real Zaragoza,2,3,Santander,Spain,1.0,0,5.4,7.5
+748747,2026-01-11T13:00Z,Leganés,Real Valladolid,3,0,"Leganés, Madrid",Spain,672.0,0,4.7,8.9
+748750,2026-01-11T15:15Z,Granada,Castellón,0,0,Granada,Spain,689.0,0,6.7,12.9
+748745,2026-01-11T15:15Z,Málaga,Ceuta,2,1,Malaga,Spain,22.0,0,8.8,15.4
+748749,2026-01-12T19:30Z,Huesca,Córdoba,1,2,Huesca,Spain,476.0,0,4.7,6.5
+748758,2026-01-16T19:30Z,Castellón,Leganés,2,0,Castellón,Spain,30.0,2.5,7.7,10.5
+748759,2026-01-17T13:00Z,Ceuta,Real Valladolid,0,3,Ceuta,Spain,22.0,0.5,21.9,11.7
+748760,2026-01-17T15:15Z,Cultural Leonesa,Sporting Gijón,2,4,León,Spain,844.0,0.1,2.2,5.9
+748765,2026-01-17T17:30Z,Real Zaragoza,Real Sociedad II,1,1,Zaragoza,Spain,214.0,0.6,7.8,7.6
+748756,2026-01-17T20:00Z,Almería,Deportivo,1,2,Almería,Spain,21.0,0,2.1,8.9
+748763,2026-01-18T13:00Z,Mirandés,FC Andorra,1,2,Miranda de Ebro,Spain,466.0,0,3.6,7.1
+748764,2026-01-18T15:15Z,Racing Santander,Las Palmas,4,1,Santander,Spain,1.0,0.1,16.9,10.1
+748755,2026-01-18T17:30Z,Albacete,Cádiz,1,0,Albacete,Spain,695.0,0,3.5,5.8
+748757,2026-01-18T17:30Z,Burgos,Huesca,1,0,Burgos,Spain,863.0,0.1,9.8,4.2
+748761,2026-01-18T20:00Z,Córdoba,Málaga,0,1,Córdoba,Spain,117.0,0,10.6,7.2
+748762,2026-01-19T19:30Z,Granada,Eibar,0,0,Granada,Spain,689.0,0,7.9,4.5
+748773,2026-01-23T19:30Z,Málaga,Burgos,3,0,Malaga,Spain,22.0,2.7,9.9,11.5
+748774,2026-01-24T13:00Z,Real Valladolid,Albacete,0,1,Valladolid,Spain,702.0,0,21.2,4.5
+748772,2026-01-24T15:15Z,Leganés,Real Sociedad II,2,0,"Leganés, Madrid",Spain,672.0,0,22.0,6.0
+748771,2026-01-24T17:30Z,Las Palmas,Córdoba,1,2,Las Palmas de Gran Canaria,Spain,122.0,0,16.5,18.0
+748776,2026-01-24T17:30Z,Sporting Gijón,Mirandés,3,0,Gijón,Spain,22.0,0.2,21.2,9.0
+748767,2026-01-24T20:00Z,Cádiz,Granada,1,2,La Línea de la Concepción,Spain,4.0,0,18.3,10.7
+748770,2026-01-25T13:00Z,FC Andorra,Huesca,1,1,Encamp,Andorra,1257.0,0.3,10.1,2.2
+748769,2026-01-25T15:15Z,Eibar,Almería,1,0,Eibar,Spain,133.0,1.8,9.7,7.8
+748775,2026-01-25T17:30Z,Real Zaragoza,Castellón,0,0,Zaragoza,Spain,214.0,0.8,13.7,7.5
+748768,2026-01-25T20:00Z,Deportivo,Racing Santander,0,1,La Coruña,Spain,1102.0,0,3.0,19.7
+748766,2026-01-26T19:30Z,Ceuta,Cultural Leonesa,3,1,Ceuta,Spain,22.0,0.2,25.7,15.3
+748784,2026-01-30T19:30Z,Real Sociedad II,Las Palmas,1,1,San Sebastian,Spain,74.0,2.0,20.8,7.3
+748782,2026-01-31T15:15Z,Albacete,Real Zaragoza,2,0,Albacete,Spain,695.0,0,29.6,10.2
+748780,2026-01-31T15:15Z,Burgos,Leganés,2,1,Burgos,Spain,863.0,0,27.4,8.1
+748783,2026-01-31T17:30Z,Cultural Leonesa,Deportivo,0,1,León,Spain,844.0,0,17.8,6.3
+748777,2026-01-31T20:00Z,Córdoba,Real Valladolid,3,1,Córdoba,Spain,117.0,0,3.7,7.7
+748781,2026-02-01T13:00Z,Almería,Ceuta,4,2,Almería,Spain,21.0,0,6.5,17.0
+748778,2026-02-01T15:15Z,Eibar,Sporting Gijón,1,0,Eibar,Spain,133.0,0,9.7,14.7
+748779,2026-02-01T17:30Z,Castellón,FC Andorra,2,0,Castellón,Spain,30.0,0,7.8,12.7
+748786,2026-02-01T17:30Z,Huesca,Cádiz,1,0,Huesca,Spain,476.0,0,6.7,8.5
+748785,2026-02-01T20:00Z,Granada,Racing Santander,1,0,Granada,Spain,689.0,0,3.1,10.4
+748787,2026-02-02T19:30Z,Mirandés,Málaga,2,1,Miranda de Ebro,Spain,466.0,0,14.9,6.5
+748788,2026-02-06T19:30Z,Leganés,Granada,1,0,"Leganés, Madrid",Spain,672.0,0,18.3,6.5
+748790,2026-02-07T13:00Z,FC Andorra,Real Sociedad II,1,2,Encamp,Andorra,1257.0,0.4,5.3,4.2
+748795,2026-02-07T15:15Z,Las Palmas,Burgos,0,0,Las Palmas de Gran Canaria,Spain,122.0,0,11.8,19.6
+748789,2026-02-07T17:30Z,Real Zaragoza,Eibar,1,1,Zaragoza,Spain,214.0,0.5,5.1,11.1
+748796,2026-02-08T13:00Z,Real Valladolid,Castellón,0,4,Valladolid,Spain,702.0,0.1,17.1,8.9
+748792,2026-02-08T15:15Z,Cádiz,Almería,1,2,La Línea de la Concepción,Spain,4.0,0,19.3,14.5
+748791,2026-02-08T15:15Z,Deportivo,Albacete,2,1,La Coruña,Spain,1102.0,0,7.9,14.8
+748794,2026-02-08T17:30Z,Sporting Gijón,Huesca,2,1,Gijón,Spain,22.0,0,5.8,11.9
+748798,2026-02-08T20:00Z,Málaga,Cultural Leonesa,2,1,Malaga,Spain,22.0,0,12.7,11.6
+748797,2026-02-09T19:30Z,Racing Santander,Mirandés,1,0,Santander,Spain,1.0,5.6,12.0,11.8
+748807,2026-02-13T19:30Z,Almería,FC Andorra,3,2,Almería,Spain,21.0,0,11.0,12.1
+748802,2026-02-14T13:00Z,Córdoba,Leganés,2,1,Córdoba,Spain,117.0,0,22.1,13.4
+748805,2026-02-14T15:15Z,Burgos,Cádiz,1,1,Burgos,Spain,863.0,0,30.6,4.4
+748803,2026-02-14T17:30Z,Cultural Leonesa,Real Zaragoza,0,0,León,Spain,844.0,0,15.7,4.8
+748806,2026-02-14T20:00Z,Granada,Real Valladolid,5,1,Granada,Spain,689.0,0,8.1,4.7
+748809,2026-02-15T13:00Z,Mirandés,Las Palmas,1,1,Miranda de Ebro,Spain,466.0,0,19.3,9.6
+748801,2026-02-15T15:15Z,Eibar,Racing Santander,2,1,Eibar,Spain,133.0,0,11.2,13.9
+748799,2026-02-15T15:15Z,Huesca,Ceuta,2,0,Huesca,Spain,476.0,0,30.2,12.5
+748800,2026-02-15T17:30Z,Albacete,Sporting Gijón,1,1,Albacete,Spain,695.0,0,21.1,11.6
+748804,2026-02-15T20:00Z,Castellón,Deportivo,2,0,Castellón,Spain,30.0,0,12.0,14.0
+748808,2026-02-16T19:30Z,Real Sociedad II,Málaga,2,1,San Sebastian,Spain,74.0,1.1,22.5,12.0
+748820,2026-02-20T19:30Z,Ceuta,Granada,2,1,Ceuta,Spain,22.0,0,11.7,13.2
+748817,2026-02-21T13:00Z,Leganés,Cultural Leonesa,1,1,"Leganés, Madrid",Spain,672.0,0,2.1,14.9
+748813,2026-02-21T15:15Z,Deportivo,Eibar,1,0,La Coruña,Spain,1102.0,0,13.6,17.6
+748816,2026-02-21T15:15Z,Huesca,Mirandés,1,2,Huesca,Spain,476.0,0,4.7,12.2
+748815,2026-02-21T17:30Z,Almería,Córdoba,2,1,Almería,Spain,21.0,0,5.3,16.6
+748810,2026-02-21T20:00Z,Las Palmas,Castellón,1,1,Las Palmas de Gran Canaria,Spain,122.0,0,1.9,17.9
+748811,2026-02-22T13:00Z,Sporting Gijón,Real Valladolid,2,2,Gijón,Spain,22.0,0,7.4,13.5
+748812,2026-02-22T15:15Z,FC Andorra,Real Zaragoza,2,1,Encamp,Andorra,1257.0,0,3.4,14.0
+748819,2026-02-22T17:30Z,Racing Santander,Burgos,1,0,Santander,Spain,1.0,0,6.6,12.3
+748818,2026-02-22T20:00Z,Málaga,Albacete,1,0,Malaga,Spain,22.0,0,2.5,13.3
+748814,2026-02-23T19:30Z,Cádiz,Real Sociedad II,0,2,La Línea de la Concepción,Spain,4.0,0,0.9,12.2
+748793,2026-02-25T18:00Z,Ceuta,Córdoba,3,2,Ceuta,Spain,22.0,0,16.0,14.1
+748825,2026-02-27T19:30Z,Albacete,Almería,1,1,Albacete,Spain,695.0,0,12.1,13.7
+748822,2026-02-28T15:15Z,Real Zaragoza,Burgos,0,1,Zaragoza,Spain,214.0,0,11.1,15.6
+748826,2026-02-28T17:30Z,Granada,Málaga,0,1,Granada,Spain,689.0,0,7.1,14.9
+748821,2026-02-28T17:30Z,Real Valladolid,Huesca,1,0,Valladolid,Spain,702.0,0,8.4,11.4
+748824,2026-02-28T20:00Z,Castellón,Racing Santander,1,3,Castellón,Spain,30.0,0,3.0,12.4
+748830,2026-03-01T13:00Z,Real Sociedad II,Deportivo,2,3,Donostia-San Sebastian,Spain,17.0,0,7.7,18.1
+748827,2026-03-01T15:15Z,Mirandés,Ceuta,0,1,Miranda de Ebro,Spain,466.0,0,12.6,13.6
+748823,2026-03-01T17:30Z,Cultural Leonesa,Las Palmas,0,3,León,Spain,844.0,0,11.4,11.6
+748829,2026-03-01T20:00Z,Eibar,Cádiz,3,1,Eibar,Spain,133.0,0,16.5,12.2
+748831,2026-03-02T19:00Z,Sporting Gijón,Leganés,0,0,Gijón,Spain,22.0,0,10.4,13.6
+748828,2026-03-02T19:30Z,Córdoba,FC Andorra,1,4,Córdoba,Spain,117.0,0,3.1,14.3
+748837,2026-03-06T19:30Z,Cádiz,Real Zaragoza,0,1,La Línea de la Concepción,Spain,4.0,0,16.3,10.2
+748840,2026-03-07T15:15Z,Huesca,Albacete,0,0,Huesca,Spain,476.0,1.1,16.1,11.1
+748833,2026-03-07T15:15Z,Real Sociedad II,Castellón,4,2,Donostia-San Sebastian,Spain,17.0,0.2,14.7,12.1
+748839,2026-03-07T17:30Z,Burgos,Mirandés,2,0,Burgos,Spain,863.0,0,17.4,8.8
+748836,2026-03-07T20:00Z,Málaga,Real Valladolid,3,3,Malaga,Spain,22.0,0,2.9,12.9
+748834,2026-03-08T13:00Z,Las Palmas,Ceuta,4,0,Las Palmas de Gran Canaria,Spain,122.0,0.3,20.7,17.1
+748832,2026-03-08T15:15Z,FC Andorra,Sporting Gijón,1,0,Encamp,Andorra,1257.0,0.2,6.5,6.1
+748835,2026-03-08T17:30Z,Leganés,Eibar,0,1,"Leganés, Madrid",Spain,672.0,2.2,6.9,11.1
+748842,2026-03-08T17:30Z,Racing Santander,Córdoba,4,3,Santander,Spain,1.0,0.3,6.0,12.3
+748841,2026-03-08T20:00Z,Deportivo,Granada,0,2,La Coruña,Spain,1102.0,0,4.4,26.7
+748838,2026-03-09T19:30Z,Almería,Cultural Leonesa,3,0,Almería,Spain,21.0,0,0.6,13.3
+748849,2026-03-13T19:30Z,Mirandés,Cádiz,0,2,Miranda de Ebro,Spain,466.0,0.9,7.8,12.9
+748847,2026-03-14T15:15Z,Cultural Leonesa,Racing Santander,1,2,León,Spain,844.0,0,19.5,10.4
+748851,2026-03-14T17:30Z,Real Valladolid,Leganés,3,2,Valladolid,Spain,702.0,0.6,11.7,9.5
+748852,2026-03-14T17:30Z,Real Zaragoza,Almería,2,0,Zaragoza,Spain,214.0,0,22.1,8.6
+748844,2026-03-14T20:00Z,Ceuta,Deportivo,1,2,Ceuta,Spain,22.0,0,29.7,15.1
+748845,2026-03-15T13:00Z,Córdoba,Real Sociedad II,0,2,Córdoba,Spain,117.0,0,8.9,19.1
+748848,2026-03-15T15:15Z,Granada,FC Andorra,1,1,Granada,Spain,689.0,0,18.2,15.3
+748846,2026-03-15T17:30Z,Eibar,Burgos,0,0,Eibar,Spain,133.0,0.3,16.0,9.9
+748850,2026-03-15T17:30Z,Málaga,Huesca,5,3,Malaga,Spain,22.0,0,16.6,20.0
+748853,2026-03-15T20:00Z,Sporting Gijón,Castellón,4,1,Gijón,Spain,22.0,0,4.5,11.8
+748843,2026-03-16T19:30Z,Albacete,Las Palmas,2,1,Albacete,Spain,695.0,0,3.3,10.1

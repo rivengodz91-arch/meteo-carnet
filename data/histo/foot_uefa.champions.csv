@@ -421,3 +421,63 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 757757,2025-12-10T20:00Z,Club Brugge,Arsenal,0,3,Brugge,Belgium,13.0,0,12.7,9.2
 757756,2025-12-10T20:00Z,Juventus,Pafos,2,0,Torino,Italy,239.0,0,2.5,2.8
 757760,2025-12-10T20:00Z,Real Madrid,Manchester City,1,2,Madrid,Spain,665.0,0.3,4.3,9.1
+757761,2026-01-20T15:30Z,Kairat Almaty,Club Brugge,1,4,Astana,Kazakhstan,358.0,0,12.9,-15.0
+757762,2026-01-20T17:45Z,Bodo/Glimt,Manchester City,3,1,Bodø/Glimt,Norway,,,,
+757767,2026-01-20T20:00Z,F.C. København,Napoli,1,1,Copenhagen,Denmark,14.0,0,9.6,-0.2
+757763,2026-01-20T20:00Z,Internazionale,Arsenal,1,3,Milano,Italy,635.0,0,4.4,0.8
+757765,2026-01-20T20:00Z,Olympiacos,Bayer Leverkusen,2,0,Piraeus,Greece,29.0,0,7.7,8.8
+757764,2026-01-20T20:00Z,Real Madrid,AS Monaco,6,1,Madrid,Spain,665.0,0,11.2,5.5
+757768,2026-01-20T20:00Z,Sporting CP,Paris Saint-Germain,2,1,Lisbon,Portugal,68.0,0,15.6,13.2
+757769,2026-01-20T20:00Z,Tottenham Hotspur,Borussia Dortmund,2,0,London,England,25.0,0.2,19.5,8.4
+757766,2026-01-20T20:00Z,Villarreal,Ajax Amsterdam,1,2,Villarreal,Spain,42.0,0,7.9,9.0
+757770,2026-01-21T17:45Z,FK Qarabag,Eintracht Frankfurt,3,2,Baku,Azerbaijan,-23.0,0,5.4,0.3
+757771,2026-01-21T17:45Z,Galatasaray,Atlético Madrid,1,1,Istanbul,Türkiye,39.0,0,7.7,6.6
+757772,2026-01-21T20:00Z,Atalanta,Athletic Club,2,3,Bergamo,Italy,249.0,0,2.3,-0.5
+757774,2026-01-21T20:00Z,Bayern Munich,Union St.-Gilloise,2,0,München,Germany,524.0,0,6.8,-3.1
+757773,2026-01-21T20:00Z,Chelsea,Pafos,1,0,London,England,25.0,0,18.6,9.8
+757775,2026-01-21T20:00Z,Juventus,Benfica,2,0,Torino,Italy,239.0,0,0.4,1.3
+757776,2026-01-21T20:00Z,Marseille,Liverpool,0,3,Marseille,France,28.0,0,25.2,9.7
+757777,2026-01-21T20:00Z,Newcastle United,PSV Eindhoven,3,0,Newcastle-upon-Tyne,England,54.0,0.2,20.9,7.7
+757778,2026-01-21T20:00Z,Slavia Prague,Barcelona,2,4,Prague,Czechia,202.0,0,6.9,-5.3
+757779,2026-01-28T20:00Z,Ajax Amsterdam,Olympiacos,1,2,Amsterdam,Netherlands,13.0,0,11.8,0.2
+757780,2026-01-28T20:00Z,Arsenal,Kairat Almaty,3,2,London,England,25.0,0,2.5,4.1
+757791,2026-01-28T20:00Z,AS Monaco,Juventus,0,0,Monaco,France,-9999.0,0,3.2,7.3
+757781,2026-01-28T20:00Z,Athletic Club,Sporting CP,2,3,Bilbao,Spain,20.0,0,10.2,7.9
+757782,2026-01-28T20:00Z,Atlético Madrid,Bodo/Glimt,1,2,Madrid,Spain,665.0,0,12.6,6.2
+757783,2026-01-28T20:00Z,Barcelona,F.C. København,4,1,Barcelona,Spain,15.0,0,7.3,7.3
+757784,2026-01-28T20:00Z,Bayer Leverkusen,Villarreal,3,0,Leverkusen,Germany,52.0,0.6,7.6,1.2
+757785,2026-01-28T20:00Z,Benfica,Real Madrid,4,2,Lisbon,Portugal,68.0,1.7,22.2,14.5
+757786,2026-01-28T20:00Z,Borussia Dortmund,Internazionale,0,2,Aue,Germany,399.0,0,12.1,0.5
+757787,2026-01-28T20:00Z,Club Brugge,Marseille,3,0,Brugge,Belgium,13.0,0,6.3,5.0
+757788,2026-01-28T20:00Z,Eintracht Frankfurt,Tottenham Hotspur,0,2,Frankfurt,Germany,113.0,1.1,10.1,0.8
+757789,2026-01-28T20:00Z,Liverpool,FK Qarabag,6,0,Liverpool,England,30.0,0,9.1,4.1
+757790,2026-01-28T20:00Z,Manchester City,Galatasaray,2,0,Manchester,England,51.0,0,7.9,4.6
+757792,2026-01-28T20:00Z,Napoli,Chelsea,2,3,Napoli,Italy,58.0,0,11.9,12.2
+757794,2026-01-28T20:00Z,Pafos,Slavia Prague,4,1,Kolossi,Cyprus,54.0,0,13.8,12.7
+757795,2026-01-28T20:00Z,Paris Saint-Germain,Newcastle United,1,1,Paris,France,42.0,0,4.3,4.3
+757793,2026-01-28T20:00Z,PSV Eindhoven,Bayern Munich,1,2,Eindhoven,Netherlands,22.0,0,12.0,1.1
+757796,2026-01-28T20:00Z,Union St.-Gilloise,Atalanta,1,0,Brussels,Belgium,28.0,0,8.2,4.8
+401858759,2026-02-17T17:45Z,Galatasaray,Juventus,5,2,Istanbul,Türkiye,39.0,0.6,8.7,13.4
+401858758,2026-02-17T20:00Z,AS Monaco,Paris Saint-Germain,2,3,Monaco,France,-9999.0,0,16.6,8.9
+401858735,2026-02-17T20:00Z,Benfica,Real Madrid,0,1,Lisbon,Portugal,68.0,0,8.3,12.4
+401858761,2026-02-17T20:15Z,Borussia Dortmund,Atalanta,2,0,Aue,Germany,399.0,0.8,16.1,0.1
+401858736,2026-02-18T17:45Z,FK Qarabag,Newcastle United,1,6,Baku,Azerbaijan,-23.0,0,5.9,7.1
+401858734,2026-02-18T20:00Z,Bodo/Glimt,Internazionale,3,1,Bodø/Glimt,Norway,,,,
+401858760,2026-02-18T20:00Z,Club Brugge,Atlético Madrid,3,3,Brugge,Belgium,13.0,1.7,25.9,4.8
+401858737,2026-02-18T20:00Z,Olympiacos,Bayer Leverkusen,0,2,Piraeus,Greece,29.0,0,4.1,9.6
+401858768,2026-02-24T17:45Z,Atlético Madrid,Club Brugge,4,1,Madrid,Spain,665.0,0,4.5,17.3
+401858767,2026-02-24T20:00Z,Bayer Leverkusen,Olympiacos,0,0,Leverkusen,Germany,52.0,0,8.2,10.4
+401858766,2026-02-24T20:00Z,Internazionale,Bodo/Glimt,1,2,Milano,Italy,635.0,0,2.6,6.7
+401858764,2026-02-24T20:00Z,Newcastle United,FK Qarabag,3,2,Newcastle-upon-Tyne,England,54.0,0,9.6,9.7
+401858762,2026-02-25T17:45Z,Atalanta,Borussia Dortmund,4,1,Bergamo,Italy,249.0,0,3.3,10.8
+401858765,2026-02-25T20:00Z,Juventus,Galatasaray,3,2,Torino,Italy,239.0,0,3.2,8.6
+401858763,2026-02-25T20:00Z,Paris Saint-Germain,AS Monaco,2,2,Paris,France,42.0,0,7.9,13.8
+401858769,2026-02-25T20:00Z,Real Madrid,Benfica,2,1,Madrid,Spain,665.0,0,5.5,13.4
+401862667,2026-03-10T17:45Z,Galatasaray,Liverpool,1,0,Istanbul,Türkiye,39.0,0,20.1,8.2
+401862641,2026-03-10T20:00Z,Atalanta,Bayern Munich,1,6,Bergamo,Italy,249.0,0.1,3.7,9.2
+401862579,2026-03-10T20:00Z,Atlético Madrid,Tottenham Hotspur,5,2,Madrid,Spain,665.0,0,3.2,8.4
+401862577,2026-03-10T20:00Z,Newcastle United,Barcelona,1,1,Newcastle-upon-Tyne,England,54.0,0,27.2,9.8
+401862578,2026-03-11T17:45Z,Bayer Leverkusen,Arsenal,1,1,Leverkusen,Germany,52.0,0.2,11.7,9.8
+401862583,2026-03-11T20:00Z,Bodo/Glimt,Sporting CP,3,0,Bodø/Glimt,Norway,,,,
+401862646,2026-03-11T20:00Z,Paris Saint-Germain,Chelsea,5,2,Paris,France,42.0,0,10.3,8.3
+401862645,2026-03-11T20:00Z,Real Madrid,Manchester City,3,0,Madrid,Spain,665.0,0,8.3,11.0
