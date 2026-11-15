@@ -150,3 +150,95 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 659077,2023-12-03T16:00Z,Stromsgodset,SK Brann,3,0,Drammen,Norway,11.0,0,5.6,-14.6
 659079,2023-12-03T16:00Z,Vålerenga,Tromso,1,1,Oslo,Norway,26.0,0,5.4,-11.0
 659078,2023-12-03T16:00Z,Viking FK,Rosenborg,1,5,Stavanger,Norway,15.0,0,13.2,-0.5
+693097,2024-03-31T16:00Z,Odds BK,Haugesund,1,2,Skien,Norway,27.0,0,2.3,11.8
+693098,2024-04-01T12:30Z,Fredrikstad,Bodo/Glimt,0,2,Fredrikstad,Norway,6.0,0,13.8,12.2
+693101,2024-04-01T15:00Z,Lillestrom,Kristiansund BK,2,3,Lillestrøm,Norway,116.0,0,13.5,10.7
+693102,2024-04-01T15:00Z,Molde,Stromsgodset,4,0,Molde,Norway,3.0,0,18.8,5.1
+693100,2024-04-01T15:00Z,Rosenborg,Sandefjord,2,0,Trondheim,Norway,18.0,0.1,10.9,4.3
+693099,2024-04-01T15:00Z,Tromso,SK Brann,2,4,Tromsø,Norway,-9999.0,0,17.1,-5.5
+693103,2024-04-01T17:15Z,Viking FK,Sarpsborg FK,1,0,Stavanger,Norway,15.0,0,7.2,8.8
+693104,2024-04-02T17:00Z,KFUM Oslo,Hamarkameratene,1,1,Oslo,Norway,26.0,0,11.0,3.5
+693105,2024-04-06T16:00Z,Bodo/Glimt,Viking FK,1,0,Bodø/Glimt,Norway,,,,
+693106,2024-04-07T12:30Z,Kristiansund BK,KFUM Oslo,1,1,Kristiansund,Norway,1.0,0.4,6.0,8.1
+693109,2024-04-07T15:00Z,Hamarkameratene,Molde,0,1,Hamar,Norway,137.0,0,19.2,12.4
+693110,2024-04-07T15:00Z,Haugesund,Lillestrom,0,2,Haugesund,Norway,17.0,0.1,23.1,8.0
+693111,2024-04-07T15:00Z,Sarpsborg FK,Odds BK,0,1,Sarpsborg,Norway,54.0,0,24.5,9.6
+693108,2024-04-07T15:00Z,Stromsgodset,Rosenborg,1,0,Drammen,Norway,11.0,0,16.1,11.6
+693112,2024-04-07T17:15Z,SK Brann,Fredrikstad,0,2,Bergen,Norway,20.0,0,22.0,7.1
+693113,2024-04-13T16:00Z,Fredrikstad,Sarpsborg FK,2,2,Fredrikstad,Norway,6.0,0,20.2,10.3
+693114,2024-04-14T12:30Z,Viking FK,SK Brann,1,1,Stavanger,Norway,15.0,1.4,23.4,7.4
+693116,2024-04-14T15:00Z,Molde,Kristiansund BK,2,0,Molde,Norway,3.0,0.4,15.4,4.5
+693115,2024-04-14T15:00Z,Odds BK,Sandefjord,2,2,Skien,Norway,27.0,0,18.7,11.4
+693117,2024-04-14T15:00Z,Rosenborg,Hamarkameratene,1,0,Trondheim,Norway,18.0,0.3,18.1,3.4
+693118,2024-04-14T15:00Z,Tromso,Haugesund,0,1,Tromsø,Norway,-9999.0,0.2,10.9,2.5
+693119,2024-04-14T17:15Z,Lillestrom,Bodo/Glimt,0,5,Lillestrøm,Norway,116.0,0,11.9,8.4
+693120,2024-04-16T17:00Z,KFUM Oslo,Stromsgodset,1,3,Oslo,Norway,26.0,0,5.4,8.3
+693229,2024-04-17T16:00Z,Molde,Odds BK,1,2,Molde,Norway,3.0,0,11.3,6.0
+693223,2024-04-17T16:00Z,SK Brann,Hamarkameratene,1,0,Bergen,Norway,20.0,0,4.5,10.2
+693121,2024-04-21T12:30Z,Hamarkameratene,Stromsgodset,0,1,Hamar,Norway,137.0,0,6.0,6.1
+693124,2024-04-21T15:00Z,Haugesund,Rosenborg,1,3,Haugesund,Norway,17.0,0,11.5,8.0
+693125,2024-04-21T15:00Z,Kristiansund BK,Tromso,1,0,Kristiansund,Norway,1.0,0,16.4,6.6
+693126,2024-04-21T15:00Z,Sandefjord,Lillestrom,0,1,Sandefjord,Norway,11.0,0,14.3,8.6
+693122,2024-04-21T15:00Z,Sarpsborg FK,KFUM Oslo,0,2,Sarpsborg,Norway,54.0,0,13.0,9.0
+693127,2024-04-21T15:00Z,SK Brann,Odds BK,2,0,Bergen,Norway,20.0,0,11.2,8.5
+693123,2024-04-21T15:00Z,Viking FK,Fredrikstad,1,1,Stavanger,Norway,15.0,0,14.9,8.0
+693128,2024-04-21T17:15Z,Bodo/Glimt,Molde,1,1,Bodø/Glimt,Norway,,,,
+693129,2024-04-27T16:00Z,Rosenborg,Bodo/Glimt,1,3,Trondheim,Norway,18.0,0.2,4.7,6.2
+693130,2024-04-28T15:00Z,Fredrikstad,Sandefjord,1,0,Fredrikstad,Norway,6.0,0,16.0,12.1
+693134,2024-04-28T15:00Z,KFUM Oslo,SK Brann,0,0,Oslo,Norway,26.0,0,15.3,6.7
+693131,2024-04-28T15:00Z,Lillestrom,Hamarkameratene,1,1,Lillestrøm,Norway,116.0,0.1,13.9,6.0
+693132,2024-04-28T15:00Z,Molde,Haugesund,2,1,Molde,Norway,3.0,0,9.9,13.3
+693135,2024-04-28T15:00Z,Stromsgodset,Kristiansund BK,2,2,Drammen,Norway,11.0,0.2,9.7,6.5
+693133,2024-04-28T15:00Z,Tromso,Sarpsborg FK,0,3,Tromsø,Norway,-9999.0,0,6.5,4.6
+693136,2024-04-28T17:15Z,Odds BK,Viking FK,3,3,Skien,Norway,27.0,0,15.1,8.0
+693137,2024-05-04T16:00Z,SK Brann,Rosenborg,3,0,Bergen,Norway,20.0,0,9.3,15.6
+693143,2024-05-05T15:00Z,Bodo/Glimt,Stromsgodset,1,0,Bodø/Glimt,Norway,,,,
+693138,2024-05-05T15:00Z,Haugesund,KFUM Oslo,0,1,Haugesund,Norway,17.0,0,8.4,12.9
+693141,2024-05-05T15:00Z,Kristiansund BK,Hamarkameratene,1,1,Kristiansund,Norway,1.0,0,14.2,14.3
+693140,2024-05-05T15:00Z,Odds BK,Fredrikstad,0,2,Skien,Norway,27.0,0,8.4,14.0
+693142,2024-05-05T15:00Z,Sandefjord,Molde,3,1,Sandefjord,Norway,11.0,0,4.7,14.1
+693139,2024-05-05T15:00Z,Sarpsborg FK,Lillestrom,1,0,Sarpsborg,Norway,54.0,0,0.4,16.1
+693144,2024-05-05T17:15Z,Viking FK,Tromso,2,1,Stavanger,Norway,15.0,0,9.5,9.6
+693145,2024-05-11T16:00Z,Molde,Rosenborg,2,2,Molde,Norway,3.0,0,1.3,13.4
+693146,2024-05-12T12:30Z,Kristiansund BK,Bodo/Glimt,2,4,Kristiansund,Norway,1.0,0,11.2,16.2
+693151,2024-05-12T15:00Z,Hamarkameratene,Haugesund,2,2,Hamar,Norway,137.0,0,3.2,20.8
+693147,2024-05-12T15:00Z,KFUM Oslo,Fredrikstad,1,4,Oslo,Norway,26.0,0,15.0,18.6
+693150,2024-05-12T15:00Z,Sandefjord,Sarpsborg FK,4,1,Sandefjord,Norway,11.0,0,11.9,14.5
+693149,2024-05-12T15:00Z,Stromsgodset,Viking FK,0,1,Drammen,Norway,11.0,0,12.8,20.8
+693148,2024-05-12T15:00Z,Tromso,Odds BK,4,0,Tromsø,Norway,-9999.0,0.4,8.8,6.3
+693152,2024-05-12T17:15Z,Lillestrom,SK Brann,0,2,Lillestrøm,Norway,116.0,0,12.2,17.1
+693157,2024-05-16T16:00Z,Bodo/Glimt,Tromso,4,0,Bodø/Glimt,Norway,,,,
+693160,2024-05-16T16:00Z,Fredrikstad,Stromsgodset,4,1,Fredrikstad,Norway,6.0,0,9.7,22.8
+693158,2024-05-16T16:00Z,Haugesund,Kristiansund BK,1,0,Haugesund,Norway,17.0,0,16.2,23.3
+693154,2024-05-16T16:00Z,Odds BK,Molde,0,4,Skien,Norway,27.0,0,12.6,22.1
+693153,2024-05-16T16:00Z,Rosenborg,KFUM Oslo,1,3,Trondheim,Norway,18.0,0,2.6,22.2
+693159,2024-05-16T16:00Z,Sarpsborg FK,Hamarkameratene,1,7,Sarpsborg,Norway,54.0,0,17.7,22.4
+693156,2024-05-16T16:00Z,SK Brann,Sandefjord,2,1,Bergen,Norway,20.0,0,7.9,23.4
+693155,2024-05-16T16:00Z,Viking FK,Lillestrom,1,4,Stavanger,Norway,15.0,0,18.8,22.4
+693165,2024-05-20T15:00Z,Hamarkameratene,Bodo/Glimt,1,0,Hamar,Norway,137.0,0,3.4,18.0
+693163,2024-05-20T15:00Z,KFUM Oslo,Odds BK,0,0,Oslo,Norway,26.0,0,5.4,20.9
+693166,2024-05-20T15:00Z,Kristiansund BK,SK Brann,2,2,Kristiansund,Norway,1.0,0,9.4,12.5
+693167,2024-05-20T15:00Z,Lillestrom,Fredrikstad,0,3,Lillestrøm,Norway,116.0,0,8.1,20.2
+693164,2024-05-20T15:00Z,Molde,Sarpsborg FK,2,4,Molde,Norway,3.0,0,9.4,16.2
+693161,2024-05-20T15:00Z,Sandefjord,Viking FK,0,3,Sandefjord,Norway,11.0,0,9.7,20.5
+693162,2024-05-20T15:00Z,Stromsgodset,Haugesund,2,0,Drammen,Norway,11.0,0,8.6,20.8
+693168,2024-05-20T17:15Z,Tromso,Rosenborg,3,2,Tromsø,Norway,-9999.0,0.3,15.7,1.0
+693169,2024-05-24T17:00Z,Bodo/Glimt,KFUM Oslo,2,2,Bodø/Glimt,Norway,,,,
+693170,2024-05-25T16:00Z,Fredrikstad,Tromso,0,0,Fredrikstad,Norway,6.0,0,9.0,25.4
+693171,2024-05-26T15:00Z,Haugesund,Sandefjord,2,1,Haugesund,Norway,17.0,0.2,1.3,19.2
+693175,2024-05-26T15:00Z,Odds BK,Lillestrom,2,1,Skien,Norway,27.0,0.3,18.0,23.2
+693174,2024-05-26T15:00Z,Rosenborg,Kristiansund BK,2,1,Trondheim,Norway,18.0,0.2,15.3,25.2
+693173,2024-05-26T15:00Z,Sarpsborg FK,Stromsgodset,1,3,Sarpsborg,Norway,54.0,0.8,19.8,24.6
+693172,2024-05-26T15:00Z,Viking FK,Hamarkameratene,3,0,Stavanger,Norway,15.0,1.7,5.1,18.5
+693176,2024-05-26T17:15Z,SK Brann,Molde,1,3,Bergen,Norway,20.0,0,2.8,20.9
+693247,2024-05-29T17:00Z,Bodo/Glimt,Sandefjord,1,1,Bodø/Glimt,Norway,,,,
+693234,2024-05-29T17:00Z,SK Brann,Kristiansund BK,2,1,Bergen,Norway,20.0,0,6.8,14.9
+693238,2024-05-29T17:00Z,Tromso,Fredrikstad,3,0,Tromsø,Norway,-9999.0,0,6.9,18.8
+693177,2024-06-01T16:00Z,Hamarkameratene,SK Brann,1,2,Hamar,Norway,137.0,0,4.0,23.5
+693178,2024-06-02T12:30Z,Molde,Viking FK,2,2,Molde,Norway,3.0,0,13.1,13.3
+693181,2024-06-02T15:00Z,Haugesund,Bodo/Glimt,0,1,Haugesund,Norway,17.0,0,19.4,13.5
+693183,2024-06-02T15:00Z,KFUM Oslo,Sandefjord,3,3,Oslo,Norway,26.0,0,4.5,23.8
+693182,2024-06-02T15:00Z,Kristiansund BK,Sarpsborg FK,3,1,Kristiansund,Norway,1.0,0,11.7,14.3
+693180,2024-06-02T15:00Z,Stromsgodset,Odds BK,1,1,Drammen,Norway,11.0,0.1,3.9,24.1
+693179,2024-06-02T15:00Z,Tromso,Lillestrom,1,2,Tromsø,Norway,-9999.0,0,12.5,13.3
+693184,2024-06-02T17:15Z,Rosenborg,Fredrikstad,1,1,Trondheim,Norway,18.0,0,15.6,13.5

@@ -15,3 +15,39 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 678337,2024-02-17T15:00Z,Aberdeen,Hibernian,2,2,Aberdeen,Scotland,13.0,0,22.0,7.3
 678339,2024-02-17T15:00Z,Dundee,Ross County,2,0,Dundee,Scotland,77.0,0.8,10.6,9.5
 678341,2024-02-17T15:00Z,Livingston,St Mirren,1,0,Livingston,Scotland,969.0,0,10.0,37.1
+678380,2024-04-13T14:00Z,Celtic,St Mirren,3,0,Glasgow,Scotland,40.0,0,37.0,9.6
+678381,2024-04-13T14:00Z,Heart of Midlothian,Livingston,4,2,Edinburgh,Scotland,66.0,1.2,33.5,10.6
+678382,2024-04-13T14:00Z,Motherwell,Hibernian,1,1,Motherwell,Scotland,87.0,0,14.3,18.0
+678384,2024-04-13T14:00Z,St Johnstone,Kilmarnock,0,2,Perth,Scotland,34.0,0,14.9,18.3
+678383,2024-04-14T11:00Z,Ross County,Rangers,3,2,Dingwell,Scotland,23.0,0,17.6,6.8
+678362,2024-04-17T19:00Z,Dundee,Rangers,0,0,Dundee,Scotland,77.0,0,5.2,4.6
+701934,2024-04-27T14:00Z,Aberdeen,Motherwell,1,0,Aberdeen,Scotland,13.0,0.1,17.0,7.8
+701935,2024-04-27T14:00Z,Kilmarnock,Heart of Midlothian,0,0,Kilmarnock,Scotland,39.0,0,5.6,10.4
+701936,2024-04-27T14:00Z,Livingston,Ross County,2,0,Livingston,Scotland,969.0,0,19.5,27.4
+701937,2024-04-27T14:00Z,St Johnstone,Hibernian,1,3,Perth,Scotland,34.0,0,5.6,18.3
+701938,2024-04-28T11:30Z,St Mirren,Rangers,1,2,Paisley,Scotland,50.0,0,9.3,8.9
+701939,2024-04-28T14:00Z,Dundee,Celtic,1,2,Dundee,Scotland,77.0,0.5,15.0,7.6
+701940,2024-05-04T14:00Z,Aberdeen,St Johnstone,1,0,Aberdeen,Scotland,13.0,0,5.4,10.5
+701941,2024-05-04T14:00Z,Celtic,Heart of Midlothian,3,0,Glasgow,Scotland,40.0,0,1.8,14.1
+701944,2024-05-04T14:00Z,Dundee,St Mirren,1,3,Dundee,Scotland,77.0,0,5.6,11.0
+701943,2024-05-04T14:00Z,Motherwell,Livingston,4,1,Motherwell,Scotland,87.0,0,24.7,21.9
+701942,2024-05-04T14:00Z,Ross County,Hibernian,2,1,Dingwell,Scotland,23.0,0,13.0,8.4
+701945,2024-05-05T12:00Z,Rangers,Kilmarnock,4,1,Glasgow,Scotland,40.0,0.3,11.2,14.7
+701946,2024-05-11T11:30Z,Celtic,Rangers,2,1,Glasgow,Scotland,40.0,0.2,11.6,21.6
+701948,2024-05-11T14:00Z,Heart of Midlothian,Dundee,3,0,Edinburgh,Scotland,66.0,1.2,6.0,20.3
+701947,2024-05-11T14:00Z,Livingston,St Johnstone,2,1,Livingston,Scotland,969.0,0,15.3,31.5
+701949,2024-05-11T14:00Z,Ross County,Motherwell,1,5,Dingwell,Scotland,23.0,0.3,9.9,10.5
+701950,2024-05-11T14:00Z,St Mirren,Kilmarnock,0,1,Paisley,Scotland,50.0,0,14.8,22.2
+701951,2024-05-12T14:00Z,Hibernian,Aberdeen,0,4,Edinburgh,Scotland,66.0,1.8,19.4,19.7
+701952,2024-05-14T18:30Z,Rangers,Dundee,5,2,Glasgow,Scotland,40.0,1.8,15.7,14.4
+701953,2024-05-15T18:30Z,Kilmarnock,Celtic,0,5,Kilmarnock,Scotland,39.0,0.1,6.5,15.5
+701954,2024-05-15T18:45Z,Aberdeen,Livingston,5,1,Aberdeen,Scotland,13.0,0,10.4,12.0
+701955,2024-05-15T18:45Z,Hibernian,Motherwell,3,0,Edinburgh,Scotland,66.0,0,14.5,13.8
+701957,2024-05-15T18:45Z,St Johnstone,Ross County,1,1,Perth,Scotland,34.0,0,16.6,17.3
+701956,2024-05-15T18:45Z,St Mirren,Heart of Midlothian,2,2,Paisley,Scotland,50.0,0.2,13.0,15.8
+701958,2024-05-18T11:30Z,Celtic,St Mirren,3,2,Glasgow,Scotland,40.0,0,5.9,19.5
+701959,2024-05-18T11:30Z,Dundee,Kilmarnock,1,1,Dundee,Scotland,77.0,0,7.8,17.7
+701960,2024-05-18T11:30Z,Heart of Midlothian,Rangers,3,3,Edinburgh,Scotland,66.0,0,8.5,15.4
+701962,2024-05-19T14:00Z,Livingston,Hibernian,1,1,Livingston,Scotland,969.0,0,17.8,27.7
+701961,2024-05-19T14:00Z,Motherwell,St Johnstone,1,2,Motherwell,Scotland,87.0,0,16.6,19.8
+701963,2024-05-19T14:00Z,Ross County,Aberdeen,2,2,Dingwell,Scotland,23.0,0,12.0,11.2

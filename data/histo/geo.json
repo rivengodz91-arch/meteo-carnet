@@ -482,6 +482,11 @@ null
 16.601,
 320.0
 ],
+"Caxias do Sul|Brazil": [
+-29.168,
+-51.179,
+787.0
+],
 "Cesena|Italy": [
 44.139,
 12.243,
@@ -572,6 +577,11 @@ null
 9.083,
 201.0
 ],
+"Concepción|Chile": [
+-36.827,
+-73.05,
+36.0
+],
 "Copenhagen|Denmark": [
 55.676,
 12.566,
@@ -606,6 +616,11 @@ null
 45.133,
 10.021,
 45.0
+],
+"Criciúma|Brazil": [
+-28.677,
+-49.37,
+50.0
 ],
 "Cuenca|Ecuador": [
 -2.895,
@@ -792,6 +807,11 @@ null
 11.234,
 58.0
 ],
+"Florianópolis|Brazil": [
+-27.597,
+-48.549,
+26.0
+],
 "Fort Lauderdale, Florida|USA": [
 26.122,
 -80.143,
@@ -812,6 +832,11 @@ null
 8.684,
 113.0
 ],
+"Fredrikstad|Norway": [
+59.218,
+10.93,
+6.0
+],
 "Freiburg im Breisgau|Germany": [
 47.996,
 7.852,
@@ -822,6 +847,7 @@ null
 13.341,
 291.0
 ],
+"Fukuroi City|Japan": null,
 "Furiani|France": [
 42.658,
 9.414,
@@ -1125,6 +1151,11 @@ null
 -94.579,
 274.0
 ],
+"Kansas City, Missouri|USA": [
+39.1,
+-94.579,
+274.0
+],
 "Karlsruhe|Germany": [
 49.009,
 8.404,
@@ -1155,6 +1186,11 @@ null
 10.135,
 7.0
 ],
+"Kilmarnock|Scotland": [
+55.612,
+-4.496,
+39.0
+],
 "Klagenfurt|Austria": [
 46.625,
 14.305,
@@ -1174,6 +1210,11 @@ null
 37.871,
 32.485,
 1030.0
+],
+"Kristiansund|Norway": [
+63.11,
+7.728,
+1.0
 ],
 "Kyoto|Japan": [
 35.021,
@@ -2018,6 +2059,11 @@ null
 -111.884,
 1361.0
 ],
+"Santa Clara, California|USA": [
+22.407,
+-79.966,
+132.0
+],
 "Santa Cruz de Tenerife|Spain": [
 28.468,
 -16.255,
@@ -2463,6 +2509,11 @@ null
 57.186,
 14.04,
 156.0
+],
+"Västeras|Sweden": [
+59.616,
+16.553,
+16.0
 ],
 "Waalwijk|Netherlands": [
 51.682,

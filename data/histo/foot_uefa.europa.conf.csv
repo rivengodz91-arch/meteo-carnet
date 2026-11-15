@@ -127,3 +127,16 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 699166,2024-03-14T20:00Z,Club Brugge,Molde,3,0,Brugge,Belgium,13.0,0,16.7,12.2
 699169,2024-03-14T20:00Z,Lille,SK Sturm Graz,1,1,Lille,France,20.0,0,17.9,12.8
 699170,2024-03-14T20:00Z,Maccabi Tel-Aviv,Olympiacos,1,6,Backa Topola,Serbia,94.0,0,5.8,7.1
+700733,2024-04-11T16:45Z,Olympiacos,Fenerbahce,3,2,Piraeus,Greece,29.0,0,21.3,21.8
+700734,2024-04-11T16:45Z,Viktoria Plzen,Fiorentina,0,0,Plzen,Czechia,354.0,0,4.3,15.9
+700736,2024-04-11T19:00Z,Aston Villa,Lille,2,1,Birmingham,England,149.0,0,18.0,14.3
+700735,2024-04-11T19:00Z,Club Brugge,PAOK,1,0,Brugge,Belgium,13.0,0,12.9,14.1
+700739,2024-04-18T16:45Z,Fiorentina,Viktoria Plzen,2,0,Firenze,Italy,58.0,0.4,20.3,11.4
+700738,2024-04-18T16:45Z,Lille,Aston Villa,2,1,Lille,France,20.0,0,13.5,11.7
+700740,2024-04-18T19:00Z,Fenerbahce,Olympiacos,1,0,Istanbul,Türkiye,39.0,0,12.4,12.5
+700737,2024-04-18T19:00Z,PAOK,Club Brugge,0,2,Thessaloniki,Greece,-9999.0,0,7.6,13.5
+702132,2024-05-02T19:00Z,Aston Villa,Olympiacos,2,4,Birmingham,England,149.0,0.3,3.6,15.1
+702131,2024-05-02T19:00Z,Fiorentina,Club Brugge,3,2,Firenze,Italy,58.0,0.9,0.5,10.4
+702134,2024-05-08T16:45Z,Club Brugge,Fiorentina,1,1,Brugge,Belgium,13.0,0.1,16.3,12.2
+702133,2024-05-09T19:00Z,Olympiacos,Aston Villa,2,0,Piraeus,Greece,29.0,0,6.6,19.1
+702408,2024-05-29T19:00Z,Olympiacos,Fiorentina,1,0,Athens,Greece,70.0,0,4.8,20.9

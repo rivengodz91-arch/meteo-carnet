@@ -188,3 +188,54 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 699785,2024-03-16T15:30Z,Kifisia,OFI Crete,0,0,Athens,Greece,70.0,0.1,10.8,14.8
 699784,2024-03-16T17:30Z,Atromitos,Pas Giannina,3,2,Athens,Greece,70.0,0,2.5,13.0
 699786,2024-03-16T18:00Z,Panetolikos,Panserraikos FC,3,0,Agrinio,Greece,66.0,0,5.1,11.1
+700495,2024-03-30T13:00Z,Panserraikos FC,Asteras Tripoli,2,0,Panserraikos,Greece,,,,
+700496,2024-03-30T15:30Z,Volos NFC,Kifisia,4,1,Volos,Greece,52.0,0,9.0,19.6
+700494,2024-03-30T17:30Z,Pas Giannina,Panetolikos,1,1,Ioannina,Greece,468.0,0,6.3,17.4
+700493,2024-03-30T18:00Z,OFI Crete,Atromitos,0,0,Iraklio,Greece,169.0,0,4.3,17.3
+699872,2024-03-31T15:00Z,Panathinaikos,PAOK,2,3,Athens,Greece,70.0,0,9.0,21.0
+699873,2024-03-31T17:30Z,AEK Athens,Olympiacos,1,0,Athens,Greece,70.0,0,5.7,18.6
+699874,2024-03-31T17:30Z,Aris,Lamia,3,1,Thessaloniki,Greece,-9999.0,0,3.3,15.3
+699875,2024-04-03T16:00Z,Olympiacos,Aris,3,0,Piraeus,Greece,29.0,0,12.6,20.6
+699876,2024-04-03T16:30Z,PAOK,Lamia,3,1,Thessaloniki,Greece,-9999.0,0,10.1,18.9
+699877,2024-04-03T18:00Z,Panathinaikos,AEK Athens,2,1,Athens,Greece,70.0,0,2.3,18.5
+700498,2024-04-06T14:00Z,Atromitos,Panserraikos FC,1,1,Athens,Greece,70.0,0,17.1,23.8
+700499,2024-04-06T16:30Z,Asteras Tripoli,Kifisia,1,2,Tripoli,Greece,660.0,0,2.7,19.1
+700500,2024-04-06T16:30Z,Panetolikos,Volos NFC,0,1,Agrinio,Greece,66.0,0,3.6,21.7
+700497,2024-04-06T17:00Z,OFI Crete,Pas Giannina,4,0,Iraklio,Greece,169.0,0,6.9,16.9
+699878,2024-04-07T14:00Z,Lamia,Olympiacos,1,5,Lamia,Greece,88.0,0,14.5,21.8
+699879,2024-04-07T16:30Z,Aris,Panathinaikos,0,2,Thessaloniki,Greece,-9999.0,0,9.0,19.1
+699880,2024-04-07T17:30Z,AEK Athens,PAOK,2,2,Athens,Greece,70.0,0,17.2,18.5
+700503,2024-04-13T12:00Z,Panserraikos FC,OFI Crete,2,2,Panserraikos,Greece,,,,
+700504,2024-04-13T14:30Z,Volos NFC,Atromitos,2,2,Volos,Greece,52.0,0,10.7,23.7
+700502,2024-04-13T16:30Z,Pas Giannina,Asteras Tripoli,0,1,Ioannina,Greece,468.0,0,2.9,21.9
+700501,2024-04-13T17:00Z,Kifisia,Panetolikos,0,1,Athens,Greece,70.0,0,4.7,23.1
+699881,2024-04-14T14:00Z,Panathinaikos,Lamia,3,1,Athens,Greece,70.0,0,12.7,26.1
+699883,2024-04-14T17:30Z,AEK Athens,Aris,2,0,Athens,Greece,70.0,0,4.6,22.4
+700507,2024-04-20T15:30Z,OFI Crete,Volos NFC,2,1,Iraklio,Greece,169.0,0,11.8,19.2
+700505,2024-04-20T16:30Z,Asteras Tripoli,Panetolikos,0,2,Tripoli,Greece,660.0,0,16.2,12.8
+700506,2024-04-20T16:30Z,Atromitos,Kifisia,1,2,Athens,Greece,70.0,0,17.1,17.8
+700508,2024-04-21T12:00Z,Panserraikos FC,Pas Giannina,2,1,Panserraikos,Greece,,,,
+699884,2024-04-21T14:00Z,Lamia,Panathinaikos,0,5,Lamia,Greece,88.0,0,3.7,20.4
+699885,2024-04-21T16:30Z,Aris,AEK Athens,1,2,Thessaloniki,Greece,-9999.0,3.0,5.6,13.6
+699886,2024-04-21T17:30Z,Olympiacos,PAOK,2,1,Piraeus,Greece,29.0,0,8.4,18.7
+699887,2024-04-24T14:00Z,Lamia,PAOK,1,1,Lamia,Greece,88.0,0,15.0,23.6
+699888,2024-04-24T16:30Z,Aris,Olympiacos,1,1,Thessaloniki,Greece,-9999.0,0,5.1,20.7
+699889,2024-04-24T17:30Z,AEK Athens,Panathinaikos,3,0,Athens,Greece,70.0,0,9.2,19.4
+700509,2024-04-27T17:00Z,Asteras Tripoli,OFI Crete,1,1,Tripoli,Greece,660.0,0,10.6,14.9
+700510,2024-04-27T17:00Z,Kifisia,Pas Giannina,2,3,Athens,Greece,70.0,0,11.4,19.0
+700511,2024-04-27T17:00Z,Panetolikos,Atromitos,1,0,Agrinio,Greece,66.0,0,4.9,19.4
+700512,2024-04-27T17:00Z,Volos NFC,Panserraikos FC,1,0,Volos,Greece,52.0,0,2.1,18.6
+699890,2024-04-28T14:00Z,Olympiacos,Lamia,4,1,Piraeus,Greece,29.0,0,25.6,23.9
+699891,2024-04-28T16:30Z,PAOK,AEK Athens,3,2,Thessaloniki,Greece,-9999.0,0,7.6,20.9
+699892,2024-04-28T17:30Z,Panathinaikos,Aris,0,1,Athens,Greece,70.0,0,7.2,19.2
+700513,2024-05-11T17:00Z,Atromitos,Asteras Tripoli,0,1,Athens,Greece,70.0,0.1,8.7,18.1
+700514,2024-05-11T17:00Z,OFI Crete,Panetolikos,1,2,Iraklio,Greece,169.0,0.1,5.8,16.4
+700515,2024-05-11T17:00Z,Panserraikos FC,Kifisia,2,0,Panserraikos,Greece,,,,
+700516,2024-05-11T17:00Z,Pas Giannina,Volos NFC,1,1,Ioannina,Greece,468.0,0.3,5.2,13.1
+699882,2024-05-12T17:00Z,PAOK,Olympiacos,2,0,Thessaloniki,Greece,-9999.0,0,3.4,20.3
+699893,2024-05-15T15:00Z,Lamia,Aris,2,4,Lamia,Greece,88.0,0,14.0,19.1
+699894,2024-05-15T17:00Z,Olympiacos,AEK Athens,2,0,Piraeus,Greece,29.0,0,5.6,19.5
+699895,2024-05-15T17:00Z,PAOK,Panathinaikos,4,1,Thessaloniki,Greece,-9999.0,0,0.4,17.6
+699896,2024-05-19T17:00Z,AEK Athens,Lamia,3,0,Athens,Greece,70.0,0,6.3,23.5
+699897,2024-05-19T17:00Z,Aris,PAOK,1,2,Thessaloniki,Greece,-9999.0,0,9.0,22.2
+699898,2024-05-19T17:00Z,Panathinaikos,Olympiacos,2,2,Athens,Greece,70.0,0,6.3,23.5

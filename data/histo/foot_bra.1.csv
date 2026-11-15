@@ -259,3 +259,108 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 666195,2023-12-07T00:30Z,Santos,Fortaleza,1,2,Santos,Brazil,12.0,0,3.1,26.6
 666196,2023-12-07T00:30Z,São Paulo,Flamengo,1,0,Sao Paulo,Brazil,769.0,0,5.5,23.7
 666197,2023-12-07T00:30Z,Vasco da Gama,Red Bull Bragantino,2,1,Rio de Janeiro,Brazil,12.0,0,5.4,28.5
+699353,2024-04-13T21:30Z,Criciúma,Juventude,1,1,Criciúma,Brazil,50.0,1.1,13.4,21.9
+699356,2024-04-13T21:30Z,Internacional,Bahia,2,1,Porto Alegre,Brazil,46.0,1.3,25.0,21.7
+699355,2024-04-14T00:00Z,Fluminense,Red Bull Bragantino,2,2,Rio de Janeiro,Brazil,12.0,0,13.3,24.8
+699357,2024-04-14T00:00Z,São Paulo,Fortaleza,1,2,Sao Paulo,Brazil,769.0,0,8.6,20.0
+699350,2024-04-14T19:00Z,Athletico-PR,Cuiabá,4,0,Curitiba,Brazil,924.0,1.9,11.8,20.5
+699351,2024-04-14T19:00Z,Atlético Goianiense,Flamengo,1,2,Goiãnia,Brazil,766.0,0,4.7,28.5
+699352,2024-04-14T19:00Z,Corinthians,Atlético-MG,0,0,Sao Paulo,Brazil,769.0,0.2,4.0,24.8
+699358,2024-04-14T19:00Z,Vasco da Gama,Grêmio,2,1,Rio de Janeiro,Brazil,12.0,0,22.1,27.1
+699354,2024-04-14T20:00Z,Cruzeiro,Botafogo,3,2,Belo Horizonte,Brazil,888.0,0,9.5,26.0
+699359,2024-04-14T21:30Z,Vitória,Palmeiras,0,1,Salvador,Brazil,4.0,0,14.4,27.2
+699361,2024-04-17T00:30Z,Bahia,Fluminense,2,1,Salvador,Brazil,4.0,2.2,13.8,25.2
+699366,2024-04-17T22:00Z,Grêmio,Athletico-PR,2,0,Porto Alegre,Brazil,46.0,0,14.1,19.0
+699369,2024-04-17T22:00Z,Red Bull Bragantino,Vasco da Gama,2,1,Bragança Paulista,Brazil,831.0,0.1,6.5,23.3
+699360,2024-04-17T23:00Z,Atlético-MG,Criciúma,1,1,Belo Horizonte,Brazil,888.0,0,8.3,22.7
+699365,2024-04-17T23:00Z,Fortaleza,Cruzeiro,1,1,Fortaleza,Brazil,18.0,0.2,10.4,27.0
+699367,2024-04-17T23:00Z,Juventude,Corinthians,2,0,Caxias do Sul,Brazil,787.0,0,10.3,12.3
+699368,2024-04-17T23:00Z,Palmeiras,Internacional,0,1,Barueri,Brazil,729.0,1.3,5.1,20.9
+699364,2024-04-18T00:30Z,Flamengo,São Paulo,2,1,Rio de Janeiro,Brazil,12.0,0,3.3,27.0
+699362,2024-04-19T00:30Z,Botafogo,Atlético Goianiense,1,0,Rio de Janeiro,Brazil,12.0,0,9.4,22.6
+699375,2024-04-20T19:00Z,Fluminense,Vasco da Gama,2,1,Rio de Janeiro,Brazil,12.0,0,14.5,23.8
+699376,2024-04-20T21:30Z,Grêmio,Cuiabá,1,0,Porto Alegre,Brazil,46.0,0,10.5,21.8
+699378,2024-04-20T21:30Z,Red Bull Bragantino,Corinthians,1,0,Bragança Paulista,Brazil,831.0,0,11.3,20.7
+699372,2024-04-21T00:00Z,Atlético-MG,Cruzeiro,3,0,Belo Horizonte,Brazil,888.0,0,8.9,18.7
+699370,2024-04-21T19:00Z,Athletico-PR,Internacional,1,0,Curitiba,Brazil,924.0,0,5.4,23.8
+699377,2024-04-21T19:00Z,Palmeiras,Flamengo,0,0,Sao Paulo,Brazil,769.0,0,5.5,25.6
+699379,2024-04-21T19:00Z,Vitória,Bahia,2,2,Salvador,Brazil,4.0,0.1,11.4,27.3
+699371,2024-04-21T21:30Z,Atlético Goianiense,São Paulo,0,3,Goiãnia,Brazil,766.0,0,7.9,26.1
+699373,2024-04-21T21:30Z,Botafogo,Juventude,5,1,Rio de Janeiro,Brazil,12.0,0,12.0,23.5
+699385,2024-04-27T19:00Z,Vasco da Gama,Criciúma,0,4,Rio de Janeiro,Brazil,12.0,0,14.4,28.4
+699383,2024-04-27T21:30Z,Cuiabá,Atlético-MG,0,3,Cuiabá,Brazil,193.0,0,2.1,32.2
+699380,2024-04-28T00:00Z,Bahia,Grêmio,1,0,Salvador,Brazil,4.0,0,13.9,27.2
+699389,2024-04-28T14:00Z,Flamengo,Botafogo,0,2,Rio de Janeiro,Brazil,12.0,0,16.1,33.7
+699381,2024-04-28T19:00Z,Corinthians,Fluminense,3,0,Sao Paulo,Brazil,769.0,0,12.4,29.1
+699382,2024-04-28T19:00Z,Cruzeiro,Vitória,3,1,Belo Horizonte,Brazil,888.0,0,10.2,27.7
+699384,2024-04-28T21:30Z,Fortaleza,Red Bull Bragantino,1,1,Fortaleza,Brazil,18.0,0,7.4,27.7
+699387,2024-04-28T21:30Z,Juventude,Athletico-PR,1,1,Caxias do Sul,Brazil,787.0,1.3,15.1,16.0
+699386,2024-04-28T23:00Z,Internacional,Atlético Goianiense,1,1,Porto Alegre,Brazil,46.0,0,15.2,19.5
+699388,2024-04-29T23:00Z,São Paulo,Palmeiras,0,0,Sao Paulo,Brazil,769.0,0,9.3,23.5
+699395,2024-05-04T19:00Z,Fluminense,Atlético-MG,2,2,Espírito Santo,Brazil,37.0,0,20.6,28.7
+699398,2024-05-04T21:30Z,Red Bull Bragantino,Flamengo,1,1,Bragança Paulista,Brazil,831.0,0,5.8,24.8
+699392,2024-05-05T00:00Z,Corinthians,Fortaleza,0,0,Sao Paulo,Brazil,769.0,0,7.7,21.8
+699390,2024-05-05T19:00Z,Athletico-PR,Vasco da Gama,1,0,Curitiba,Brazil,924.0,0,10.8,26.8
+699399,2024-05-05T19:00Z,Vitória,São Paulo,1,3,Salvador,Brazil,4.0,1.2,20.9,26.4
+699391,2024-05-05T21:30Z,Botafogo,Bahia,1,2,Rio de Janeiro,Brazil,12.0,0,12.4,25.4
+699394,2024-05-05T21:30Z,Cuiabá,Palmeiras,0,2,Cuiabá,Brazil,193.0,0,5.2,31.3
+699404,2024-05-11T19:00Z,Flamengo,Corinthians,2,0,Rio de Janeiro,Brazil,12.0,0,11.3,29.2
+699400,2024-05-12T19:00Z,Atlético Goianiense,Cruzeiro,0,1,Goiãnia,Brazil,766.0,0,6.4,30.2
+699405,2024-05-12T19:00Z,Fortaleza,Botafogo,1,1,Fortaleza,Brazil,18.0,1.0,13.7,28.1
+699407,2024-05-12T19:00Z,Palmeiras,Athletico-PR,0,2,Barueri,Brazil,729.0,0,18.7,28.7
+699402,2024-05-12T21:30Z,Bahia,Red Bull Bragantino,1,0,Salvador,Brazil,4.0,0,11.5,27.2
+699409,2024-05-12T21:30Z,Vasco da Gama,Vitória,2,1,Rio de Janeiro,Brazil,12.0,0,10.5,27.1
+699408,2024-05-13T23:00Z,São Paulo,Fluminense,2,1,Sao Paulo,Brazil,769.0,0,10.0,23.5
+699416,2024-06-01T19:00Z,Grêmio,Red Bull Bragantino,0,2,Curitiba,Brazil,924.0,0,11.7,19.1
+699419,2024-06-01T19:00Z,Vitória,Atlético Goianiense,0,2,Salvador,Brazil,4.0,1.0,23.4,24.9
+699413,2024-06-01T21:30Z,Cuiabá,Internacional,0,1,Cuiabá,Brazil,193.0,0,6.2,28.3
+699414,2024-06-01T21:30Z,Fluminense,Juventude,1,1,Rio de Janeiro,Brazil,12.0,0,18.6,21.9
+699411,2024-06-02T00:00Z,Corinthians,Botafogo,0,1,Sao Paulo,Brazil,769.0,0,7.2,13.8
+699410,2024-06-02T19:00Z,Atlético-MG,Bahia,1,1,Belo Horizonte,Brazil,888.0,0,15.5,22.9
+699412,2024-06-02T19:00Z,Criciúma,Palmeiras,1,2,Criciúma,Brazil,50.0,0,7.1,25.3
+699418,2024-06-02T19:00Z,Vasco da Gama,Flamengo,1,6,Rio de Janeiro,Brazil,12.0,0,10.8,24.8
+699415,2024-06-02T21:30Z,Fortaleza,Athletico-PR,1,0,Fortaleza,Brazil,18.0,0,13.8,27.0
+699417,2024-06-02T21:30Z,São Paulo,Cruzeiro,2,0,Sao Paulo,Brazil,769.0,0,10.0,18.5
+699397,2024-06-05T22:00Z,Juventude,Atlético Goianiense,1,0,Caxias do Sul,Brazil,787.0,0,6.5,16.5
+699363,2024-06-05T23:00Z,Cuiabá,Vitória,0,0,Cuiabá,Brazil,193.0,0,4.8,27.2
+699403,2024-06-09T19:00Z,Criciúma,Cuiabá,2,5,Criciúma,Brazil,50.0,0,7.1,26.5
+699421,2024-06-11T22:00Z,Atlético Goianiense,Corinthians,2,2,Goiãnia,Brazil,766.0,0,9.4,25.1
+699427,2024-06-11T22:00Z,Juventude,Vitória,1,1,Caxias do Sul,Brazil,787.0,0,5.7,17.9
+699423,2024-06-11T23:00Z,Botafogo,Fluminense,1,0,Rio de Janeiro,Brazil,12.0,0,4.5,22.2
+699425,2024-06-12T00:30Z,Red Bull Bragantino,Atlético-MG,1,2,Bragança Paulista,Brazil,831.0,0,12.1,17.0
+699429,2024-06-13T22:00Z,Cruzeiro,Cuiabá,2,1,Belo Horizonte,Brazil,888.0,0,12.6,18.1
+699420,2024-06-13T23:00Z,Athletico-PR,Criciúma,3,1,Curitiba,Brazil,924.0,0,16.6,16.5
+699424,2024-06-13T23:00Z,Flamengo,Grêmio,2,1,Rio de Janeiro,Brazil,12.0,0,5.4,22.3
+699426,2024-06-13T23:00Z,Internacional,São Paulo,0,0,Criciúma,Brazil,50.0,0,11.4,20.1
+699422,2024-06-14T00:30Z,Bahia,Fortaleza,1,0,Salvador,Brazil,4.0,0.1,24.0,26.1
+699428,2024-06-14T00:30Z,Palmeiras,Vasco da Gama,2,0,Sao Paulo,Brazil,769.0,0,8.2,15.8
+699434,2024-06-15T21:30Z,Red Bull Bragantino,Juventude,2,1,Bragança Paulista,Brazil,831.0,0,5.8,20.0
+699430,2024-06-16T00:00Z,Fluminense,Atlético Goianiense,1,2,Rio de Janeiro,Brazil,12.0,0,4.9,21.6
+699436,2024-06-16T19:00Z,Athletico-PR,Flamengo,1,1,Curitiba,Brazil,924.0,0,13.6,22.4
+699438,2024-06-16T19:00Z,Corinthians,São Paulo,2,2,Sao Paulo,Brazil,769.0,0,11.6,26.2
+699435,2024-06-16T19:00Z,Vitória,Internacional,2,1,Salvador,Brazil,4.0,0,16.1,26.5
+699439,2024-06-16T21:30Z,Criciúma,Bahia,2,2,Criciúma,Brazil,50.0,1.0,1.6,19.4
+699431,2024-06-16T21:30Z,Cuiabá,Fortaleza,5,0,Cuiabá,Brazil,193.0,0,8.7,30.2
+699432,2024-06-16T21:30Z,Grêmio,Botafogo,1,2,Espírito Santo,Brazil,37.0,0,17.2,24.9
+699433,2024-06-16T21:30Z,Vasco da Gama,Cruzeiro,0,0,Rio de Janeiro,Brazil,12.0,0,8.8,23.7
+699437,2024-06-17T23:30Z,Atlético-MG,Palmeiras,0,4,Belo Horizonte,Brazil,888.0,0,7.9,18.3
+699440,2024-06-19T22:00Z,Atlético Goianiense,Criciúma,1,2,Goiãnia,Brazil,766.0,0,9.9,23.5
+699441,2024-06-19T22:00Z,Botafogo,Athletico-PR,1,1,Rio de Janeiro,Brazil,12.0,0,6.5,23.0
+699449,2024-06-19T23:00Z,Fortaleza,Grêmio,1,0,Fortaleza,Brazil,18.0,0,15.0,24.9
+699446,2024-06-19T23:00Z,Juventude,Vasco da Gama,2,0,Caxias do Sul,Brazil,787.0,0,10.8,16.8
+699448,2024-06-19T23:00Z,São Paulo,Cuiabá,0,1,Sao Paulo,Brazil,769.0,0,7.6,17.3
+699442,2024-06-20T00:30Z,Cruzeiro,Fluminense,2,0,Belo Horizonte,Brazil,888.0,0,8.4,18.1
+699444,2024-06-20T00:30Z,Internacional,Corinthians,1,0,Florianópolis,Brazil,26.0,0,5.2,19.0
+699445,2024-06-20T21:30Z,Vitória,Atlético-MG,4,2,Salvador,Brazil,4.0,0,14.0,24.9
+699443,2024-06-20T23:00Z,Flamengo,Bahia,2,1,Rio de Janeiro,Brazil,12.0,0,5.0,21.6
+699447,2024-06-21T00:30Z,Palmeiras,Red Bull Bragantino,2,1,Sao Paulo,Brazil,769.0,0,6.6,15.0
+699453,2024-06-22T19:00Z,Criciúma,Botafogo,2,1,Criciúma,Brazil,50.0,0,7.4,26.7
+699456,2024-06-22T20:30Z,Grêmio,Internacional,0,1,Curitiba,Brazil,924.0,0,10.7,21.1
+699454,2024-06-22T21:30Z,Cuiabá,Atlético Goianiense,0,0,Cuiabá,Brazil,193.0,0,12.8,31.8
+699459,2024-06-23T00:30Z,Vasco da Gama,São Paulo,4,1,Rio de Janeiro,Brazil,12.0,0,7.9,23.9
+699450,2024-06-23T19:00Z,Athletico-PR,Corinthians,1,1,Curitiba,Brazil,924.0,0,22.4,25.0
+699452,2024-06-23T19:00Z,Bahia,Cruzeiro,4,1,Salvador,Brazil,4.0,0.1,12.3,24.6
+699455,2024-06-23T19:00Z,Fluminense,Flamengo,0,1,Rio de Janeiro,Brazil,12.0,0,16.2,30.8
+699451,2024-06-23T21:30Z,Atlético-MG,Fortaleza,1,1,Belo Horizonte,Brazil,888.0,0,14.1,21.7
+699457,2024-06-23T21:30Z,Palmeiras,Juventude,3,1,Sao Paulo,Brazil,769.0,0,7.2,22.7
+699458,2024-06-23T21:30Z,Red Bull Bragantino,Vitória,2,1,Bragança Paulista,Brazil,831.0,0,7.6,20.6

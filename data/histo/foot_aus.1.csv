@@ -128,3 +128,43 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 686568,2024-03-16T04:30Z,Wellington Phoenix,Sydney FC,2,1,Auckland,New Zealand,43.0,0,23.3,17.3
 686569,2024-03-16T05:00Z,Brisbane Roar FC,Macarthur FC,1,2,Hertson,Australia,21.0,0,11.9,-7.3
 686571,2024-03-16T08:45Z,Perth Glory FC,Western Sydney Wanderers FC,1,2,Perth,Australia,34.0,0,22.7,29.0
+686574,2024-03-29T08:45Z,Adelaide United FC,Western United,4,1,Adelaide,Australia,59.0,0,8.8,27.7
+686575,2024-03-30T06:30Z,Melbourne City FC,Newcastle Jets,0,0,Melbourne,Australia,25.0,0,14.4,21.8
+686576,2024-03-30T08:45Z,Sydney FC,Central Coast Mariners FC,2,0,Sydney,Australia,58.0,0,10.8,21.1
+686573,2024-03-31T00:00Z,Wellington Phoenix,Brisbane Roar FC,1,0,Wellington,New Zealand,31.0,0,23.8,14.9
+686578,2024-03-31T04:00Z,Melbourne Victory,Perth Glory FC,2,1,Melbourne,Australia,25.0,0,10.9,21.0
+686577,2024-04-01T04:00Z,Macarthur FC,Western Sydney Wanderers FC,1,3,Sydney,Australia,58.0,0,21.9,26.5
+686572,2024-04-02T08:00Z,Central Coast Mariners FC,Melbourne City FC,2,1,New South Wales,Australia,-9999.0,0,21.0,26.9
+686514,2024-04-03T10:45Z,Perth Glory FC,Sydney FC,1,1,Perth,Australia,34.0,0,7.4,26.9
+686579,2024-04-05T08:45Z,Western Sydney Wanderers FC,Brisbane Roar FC,1,2,Sydney,Australia,58.0,3.7,30.6,20.0
+686582,2024-04-06T04:30Z,Western United,Macarthur FC,4,2,Melbourne,Australia,25.0,0,6.5,19.1
+686580,2024-04-06T06:30Z,Central Coast Mariners FC,Wellington Phoenix,2,1,New South Wales,Australia,-9999.0,0,16.7,26.6
+686581,2024-04-06T08:45Z,Melbourne Victory,Melbourne City FC,2,1,Melbourne,Australia,25.0,0,12.8,17.6
+686583,2024-04-07T05:00Z,Newcastle Jets,Sydney FC,3,1,"Newcastle, New South Wales",Australia,48.0,0,8.2,25.9
+686584,2024-04-07T07:00Z,Perth Glory FC,Adelaide United FC,2,4,Perth,Australia,34.0,0,16.2,35.8
+686585,2024-04-12T07:00Z,Wellington Phoenix,Melbourne Victory,1,0,Wellington,New Zealand,31.0,4.8,31.1,12.9
+686586,2024-04-12T09:45Z,Adelaide United FC,Macarthur FC,1,2,Adelaide,Australia,59.0,0,10.1,15.6
+686589,2024-04-13T05:30Z,Western United,Central Coast Mariners FC,0,2,Melbourne,Australia,25.0,0,9.0,17.7
+686587,2024-04-13T07:30Z,Brisbane Roar FC,Newcastle Jets,0,2,Brisbane,Australia,27.0,0,5.4,22.1
+686588,2024-04-13T09:45Z,Sydney FC,Western Sydney Wanderers FC,2,1,Sydney,Australia,58.0,0,6.6,17.8
+686590,2024-04-14T05:00Z,Melbourne City FC,Perth Glory FC,8,0,Melbourne,Australia,25.0,0,8.0,17.9
+686522,2024-04-16T09:00Z,Western United,Adelaide United FC,3,3,Melbourne,Australia,25.0,0,3.8,13.7
+686591,2024-04-19T09:45Z,Newcastle Jets,Wellington Phoenix,1,1,"Newcastle, New South Wales",Australia,48.0,0.3,16.9,17.7
+686594,2024-04-20T05:30Z,Western Sydney Wanderers FC,Melbourne City FC,1,2,Sydney,Australia,58.0,1.7,26.8,17.0
+686593,2024-04-20T07:30Z,Melbourne Victory,Brisbane Roar FC,0,0,Melbourne,Australia,25.0,0,12.7,14.5
+686595,2024-04-20T09:45Z,Macarthur FC,Sydney FC,1,0,Sydney,Australia,58.0,1.9,23.4,17.2
+686596,2024-04-21T07:00Z,Perth Glory FC,Western United,3,4,Perth,Australia,34.0,0,19.6,25.8
+686597,2024-04-26T09:45Z,Brisbane Roar FC,Adelaide United FC,3,4,Brisbane,Australia,27.0,0,7.4,18.7
+686599,2024-04-27T07:15Z,Newcastle Jets,Central Coast Mariners FC,1,3,"Newcastle, New South Wales",Australia,48.0,0,6.8,19.1
+686600,2024-04-27T07:15Z,Wellington Phoenix,Macarthur FC,3,0,Wellington,New Zealand,31.0,0,11.2,12.4
+686598,2024-04-27T09:45Z,Melbourne Victory,Western Sydney Wanderers FC,3,4,Melbourne,Australia,25.0,0,10.2,12.1
+686602,2024-04-28T05:00Z,Sydney FC,Perth Glory FC,7,1,Sydney,Australia,58.0,0,15.3,21.8
+686601,2024-04-28T07:00Z,Melbourne City FC,Western United,1,0,Melbourne,Australia,25.0,0,11.5,18.9
+686592,2024-05-01T09:00Z,Central Coast Mariners FC,Adelaide United FC,2,0,New South Wales,Australia,-9999.0,0,21.1,30.4
+702243,2024-05-04T09:45Z,Sydney FC,Macarthur FC,4,0,Sydney,Australia,58.0,0.8,5.0,14.9
+702244,2024-05-05T07:00Z,Melbourne Victory,Melbourne City FC,1,1,Melbourne,Australia,25.0,0,12.6,15.8
+702245,2024-05-10T09:45Z,Sydney FC,Central Coast Mariners FC,1,2,Sydney,Australia,58.0,0.7,5.9,15.4
+702246,2024-05-12T06:00Z,Melbourne Victory,Wellington Phoenix,0,0,Melbourne,Australia,25.0,0,6.1,16.3
+702247,2024-05-18T06:30Z,Wellington Phoenix,Melbourne Victory,1,2,Wellington,New Zealand,31.0,0,18.8,13.0
+702248,2024-05-18T09:45Z,Central Coast Mariners FC,Sydney FC,0,0,New South Wales,Australia,-9999.0,0,19.1,36.4
+702623,2024-05-25T09:55Z,Central Coast Mariners FC,Melbourne Victory,3,1,New South Wales,Australia,-9999.0,0,20.5,36.2

@@ -351,3 +351,119 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 676322,2024-03-24T17:30Z,Mirandés,Real Zaragoza,0,0,Miranda de Ebro,Spain,466.0,0,15.1,11.8
 676318,2024-03-24T20:00Z,Racing Santander,Eldense,2,1,Santander,Spain,1.0,0,15.1,9.7
 676327,2024-03-25T19:30Z,Albacete,Racing Ferrol,1,1,Albacete,Spain,695.0,5.0,10.7,11.1
+676336,2024-03-29T19:30Z,Burgos,Espanyol,0,0,Burgos,Spain,863.0,0.1,14.2,3.7
+676334,2024-03-30T13:00Z,Real Valladolid,Levante,0,0,Valladolid,Spain,702.0,0.1,19.9,10.0
+676337,2024-03-30T15:15Z,Eibar,Eldense,5,1,Eibar,Spain,133.0,1.6,16.0,16.0
+676338,2024-03-30T15:15Z,FC Andorra,Mirandés,1,0,Andorra la Vieja,Andorra,,,,
+676329,2024-03-30T15:15Z,Leganés,FC Cartagena,0,0,"Leganés, Madrid",Spain,672.0,1.3,14.8,9.4
+676330,2024-03-30T17:30Z,Albacete,Huesca,1,1,Albacete,Spain,695.0,0.2,8.6,10.3
+676331,2024-03-30T17:30Z,Sporting Gijón,Racing Santander,2,3,Gijón,Spain,22.0,2.4,11.5,11.1
+676335,2024-03-31T12:00Z,AD Alcorcón,Amorebieta,1,1,Madrid,Spain,665.0,0.3,24.5,8.1
+676333,2024-03-31T14:15Z,Racing Ferrol,Elche,1,0,Ferrol,Spain,24.0,0.4,32.9,12.5
+676332,2024-03-31T14:15Z,Real Zaragoza,Tenerife,3,1,Zaragoza,Spain,214.0,0.3,20.1,15.6
+676339,2024-03-31T16:30Z,Real Oviedo,Villarreal B,2,1,Oviedo,Spain,237.0,1.4,12.6,8.4
+676340,2024-04-05T18:30Z,Amorebieta,Racing Ferrol,3,1,Lezama,Spain,347.0,0,27.1,23.2
+676341,2024-04-05T18:30Z,Elche,Real Oviedo,0,2,Elche,Spain,96.0,0,6.5,19.7
+676342,2024-04-06T14:15Z,Eldense,FC Andorra,0,2,Elda,Spain,412.0,0,17.7,24.5
+676346,2024-04-06T16:30Z,Levante,Real Zaragoza,2,1,Manises,Spain,55.0,0,13.3,20.0
+676350,2024-04-07T12:00Z,Huesca,Leganés,0,0,Huesca,Spain,476.0,0,25.7,21.1
+676347,2024-04-07T14:15Z,Mirandés,Sporting Gijón,1,3,Miranda de Ebro,Spain,466.0,0,5.9,16.8
+676344,2024-04-07T14:15Z,Villarreal B,Burgos,2,1,Villarreal,Spain,42.0,0,7.3,21.7
+676343,2024-04-07T16:30Z,Espanyol,Albacete,2,1,Barcelona,Spain,15.0,0,8.7,17.9
+676349,2024-04-07T16:30Z,Tenerife,Eibar,2,1,Santa Cruz de Tenerife,Spain,10.0,0,20.9,20.4
+676345,2024-04-07T19:00Z,FC Cartagena,Real Valladolid,0,2,Cartagena,Spain,1.0,0,6.9,19.2
+676348,2024-04-08T18:30Z,Racing Santander,AD Alcorcón,0,1,Santander,Spain,1.0,0,23.5,10.5
+676355,2024-04-12T18:30Z,Leganés,Espanyol,0,0,"Leganés, Madrid",Spain,672.0,0,6.3,20.7
+676361,2024-04-13T14:15Z,Sporting Gijón,FC Cartagena,1,0,Gijón,Spain,22.0,0,8.7,20.8
+676359,2024-04-13T16:30Z,Real Valladolid,Eldense,1,0,Valladolid,Spain,702.0,0,3.1,25.4
+676356,2024-04-13T19:00Z,Levante,Amorebieta,1,2,Manises,Spain,55.0,0,8.0,17.5
+676358,2024-04-14T12:00Z,Real Oviedo,Mirandés,1,1,Oviedo,Spain,237.0,0,9.7,20.0
+676351,2024-04-14T14:15Z,Albacete,Tenerife,1,0,Albacete,Spain,695.0,0,5.4,26.2
+676354,2024-04-14T14:15Z,FC Andorra,Eibar,0,2,Andorra la Vieja,Andorra,,,,
+676353,2024-04-14T16:30Z,Burgos,Racing Santander,2,1,Burgos,Spain,863.0,0,9.9,24.5
+676360,2024-04-14T16:30Z,Real Zaragoza,Elche,1,1,Zaragoza,Spain,214.0,0,7.6,30.0
+676357,2024-04-14T19:00Z,Racing Ferrol,Huesca,2,1,Ferrol,Spain,24.0,0,11.5,14.5
+676352,2024-04-15T18:30Z,AD Alcorcón,Villarreal B,1,0,Madrid,Spain,665.0,0,14.2,26.0
+676371,2024-04-19T18:30Z,Tenerife,Leganés,0,0,Santa Cruz de Tenerife,Spain,10.0,0.2,15.9,21.4
+676362,2024-04-20T12:00Z,Amorebieta,Real Valladolid,0,3,Lezama,Spain,347.0,0,11.2,15.7
+676370,2024-04-20T14:15Z,Racing Santander,Levante,0,0,Santander,Spain,1.0,0,19.6,16.1
+676372,2024-04-20T14:15Z,Villarreal B,Racing Ferrol,1,0,Villarreal,Spain,42.0,1.4,8.9,22.5
+676364,2024-04-20T16:30Z,Elche,Sporting Gijón,2,1,Elche,Spain,96.0,0,13.7,17.3
+676368,2024-04-20T19:00Z,Huesca,Real Zaragoza,1,2,Huesca,Spain,476.0,0,1.1,18.6
+676366,2024-04-21T12:00Z,Espanyol,FC Andorra,1,1,Barcelona,Spain,15.0,0,19.1,15.2
+676363,2024-04-21T14:15Z,Eibar,AD Alcorcón,2,0,Eibar,Spain,133.0,0,13.5,12.2
+676365,2024-04-21T14:15Z,Eldense,Albacete,0,1,Elda,Spain,412.0,0,12.2,19.4
+676369,2024-04-21T16:30Z,Mirandés,Burgos,2,1,Miranda de Ebro,Spain,466.0,0,21.7,12.6
+676367,2024-04-22T18:30Z,FC Cartagena,Real Oviedo,2,0,Cartagena,Spain,1.0,0,12.3,16.4
+676377,2024-04-26T18:30Z,FC Andorra,Racing Santander,1,1,Andorra la Vieja,Andorra,,,,
+676375,2024-04-27T14:15Z,Burgos,Amorebieta,2,2,Burgos,Spain,863.0,1.0,30.5,7.2
+676378,2024-04-27T14:15Z,Leganés,Real Zaragoza,1,1,"Leganés, Madrid",Spain,672.0,0.1,26.1,14.3
+676376,2024-04-27T16:30Z,Elche,Espanyol,2,2,Elche,Spain,96.0,0,15.1,23.7
+676383,2024-04-28T12:00Z,Sporting Gijón,Villarreal B,0,3,Gijón,Spain,22.0,0,22.4,13.5
+676374,2024-04-28T14:15Z,AD Alcorcón,Eldense,0,0,Madrid,Spain,665.0,0,6.4,16.3
+676381,2024-04-28T14:15Z,Real Oviedo,Tenerife,0,1,Oviedo,Spain,237.0,0.1,14.1,11.6
+676379,2024-04-28T16:30Z,Levante,FC Cartagena,0,1,Manises,Spain,55.0,0,17.6,18.6
+676382,2024-04-28T16:30Z,Real Valladolid,Huesca,1,0,Valladolid,Spain,702.0,0,5.8,14.1
+676373,2024-04-28T19:00Z,Albacete,Eibar,2,1,Albacete,Spain,695.0,0,9.4,12.0
+676380,2024-04-29T18:30Z,Racing Ferrol,Mirandés,0,2,Ferrol,Spain,24.0,0,19.2,13.7
+676387,2024-05-03T18:30Z,Villarreal B,Levante,0,3,Villarreal,Spain,42.0,0,7.0,21.0
+676388,2024-05-04T12:00Z,Mirandés,Real Valladolid,0,1,Miranda de Ebro,Spain,466.0,0,21.7,20.3
+676389,2024-05-04T14:15Z,Huesca,Real Oviedo,0,2,Huesca,Spain,476.0,0,11.3,20.8
+676384,2024-05-04T16:30Z,Racing Santander,Elche,3,1,Santander,Spain,1.0,0,19.6,24.9
+676394,2024-05-04T19:00Z,FC Cartagena,AD Alcorcón,1,0,Cartagena,Spain,1.0,0,10.7,18.0
+676393,2024-05-05T12:00Z,Eibar,Amorebieta,5,0,Eibar,Spain,133.0,2.3,15.2,21.3
+676391,2024-05-05T14:15Z,Espanyol,Sporting Gijón,0,0,Barcelona,Spain,15.0,0,10.9,18.9
+676390,2024-05-05T14:15Z,FC Andorra,Albacete,0,1,Andorra la Vieja,Andorra,,,,
+676392,2024-05-05T16:30Z,Eldense,Leganés,1,2,Elda,Spain,412.0,0,16.7,25.4
+676385,2024-05-05T16:30Z,Real Zaragoza,Burgos,1,3,Zaragoza,Spain,214.0,0.3,22.7,26.9
+676386,2024-05-05T19:00Z,Tenerife,Racing Ferrol,2,0,Santa Cruz de Tenerife,Spain,10.0,0,10.8,19.1
+676396,2024-05-10T18:30Z,Burgos,Eldense,1,2,Burgos,Spain,863.0,0,8.4,23.1
+676401,2024-05-11T12:00Z,Racing Santander,Mirandés,1,0,Santander,Spain,1.0,0.9,10.2,17.5
+676398,2024-05-11T14:15Z,Racing Ferrol,AD Alcorcón,2,1,Ferrol,Spain,24.0,0,12.4,14.6
+676404,2024-05-11T14:15Z,Sporting Gijón,FC Andorra,5,2,Gijón,Spain,22.0,0,13.8,18.3
+676403,2024-05-11T16:30Z,Real Valladolid,Espanyol,0,0,Valladolid,Spain,702.0,1.0,1.9,24.5
+676399,2024-05-11T19:00Z,Levante,Eibar,2,2,Manises,Spain,55.0,0,9.1,18.3
+676395,2024-05-12T12:00Z,Amorebieta,Villarreal B,2,0,Lezama,Spain,347.0,0.2,5.8,15.2
+676402,2024-05-12T14:15Z,Real Oviedo,Real Zaragoza,1,0,Oviedo,Spain,237.0,0,8.1,17.2
+676405,2024-05-12T16:30Z,Albacete,Leganés,1,0,Albacete,Spain,695.0,0,8.0,28.2
+676400,2024-05-12T16:30Z,FC Cartagena,Tenerife,2,0,Cartagena,Spain,1.0,0,13.7,23.3
+676397,2024-05-12T19:00Z,Elche,Huesca,0,3,Elche,Spain,96.0,0,7.3,19.0
+676406,2024-05-17T18:30Z,Mirandés,Elche,1,1,Miranda de Ebro,Spain,466.0,1.1,15.8,12.5
+676410,2024-05-18T12:00Z,FC Andorra,Burgos,1,0,Andorra la Vieja,Andorra,,,,
+676409,2024-05-18T14:15Z,Huesca,Racing Santander,0,3,Huesca,Spain,476.0,0.1,5.1,19.6
+676413,2024-05-18T14:15Z,Leganés,Sporting Gijón,2,1,"Leganés, Madrid",Spain,672.0,0,14.2,21.5
+676412,2024-05-18T19:00Z,Eldense,Levante,0,0,Elda,Spain,412.0,0,12.0,17.7
+676416,2024-05-18T19:00Z,Tenerife,Amorebieta,0,1,Santa Cruz de Tenerife,Spain,10.0,0,9.7,19.8
+676408,2024-05-19T12:00Z,Eibar,FC Cartagena,1,0,Eibar,Spain,133.0,1.7,8.5,15.8
+676414,2024-05-19T14:15Z,AD Alcorcón,Real Valladolid,1,1,Madrid,Spain,665.0,1.6,15.9,20.2
+676407,2024-05-19T19:00Z,Real Zaragoza,Racing Ferrol,2,2,Zaragoza,Spain,214.0,0.3,8.0,16.0
+676411,2024-05-20T18:30Z,Espanyol,Real Oviedo,2,1,Barcelona,Spain,15.0,0,14.5,19.5
+676415,2024-05-20T18:30Z,Villarreal B,Albacete,2,2,Villarreal,Spain,42.0,0,16.6,20.8
+676419,2024-05-26T16:30Z,Albacete,Mirandés,2,2,Albacete,Spain,695.0,0,15.5,32.0
+676417,2024-05-26T16:30Z,Amorebieta,Espanyol,0,0,Lezama,Spain,347.0,0.7,12.1,13.7
+676426,2024-05-26T16:30Z,Burgos,Tenerife,1,1,Burgos,Spain,863.0,0.1,27.3,15.1
+676425,2024-05-26T16:30Z,Elche,Eldense,1,2,Elche,Spain,96.0,0,8.8,26.4
+676424,2024-05-26T16:30Z,FC Cartagena,Huesca,0,2,Cartagena,Spain,1.0,0,8.9,26.8
+676418,2024-05-26T16:30Z,Levante,AD Alcorcón,2,2,Manises,Spain,55.0,0,13.3,24.8
+676422,2024-05-26T16:30Z,Racing Ferrol,Leganés,2,2,Ferrol,Spain,24.0,0,13.7,15.9
+676420,2024-05-26T16:30Z,Racing Santander,Real Zaragoza,0,2,Santander,Spain,1.0,0,7.9,15.3
+676421,2024-05-26T16:30Z,Real Oviedo,FC Andorra,3,0,Oviedo,Spain,237.0,0.2,13.1,13.6
+676427,2024-05-26T16:30Z,Real Valladolid,Villarreal B,3,2,Valladolid,Spain,702.0,0,13.4,24.9
+676423,2024-05-26T16:30Z,Sporting Gijón,Eibar,1,0,Gijón,Spain,22.0,0,11.2,15.5
+676428,2024-06-02T14:15Z,AD Alcorcón,Burgos,1,1,Madrid,Spain,665.0,0,6.3,26.9
+676432,2024-06-02T14:15Z,FC Andorra,Racing Ferrol,1,0,Andorra la Vieja,Andorra,,,,
+676433,2024-06-02T14:15Z,Huesca,Levante,0,0,Huesca,Spain,476.0,0,8.0,24.4
+676429,2024-06-02T16:30Z,Eibar,Real Oviedo,4,3,Eibar,Spain,133.0,0.2,11.7,15.8
+676430,2024-06-02T16:30Z,Eldense,Sporting Gijón,0,1,Elda,Spain,412.0,0,15.2,21.0
+676431,2024-06-02T16:30Z,Espanyol,FC Cartagena,3,0,Barcelona,Spain,15.0,0,16.2,21.9
+676434,2024-06-02T16:30Z,Leganés,Elche,2,0,"Leganés, Madrid",Spain,672.0,0,3.3,27.2
+676435,2024-06-02T16:30Z,Mirandés,Amorebieta,1,0,Miranda de Ebro,Spain,466.0,0,18.6,17.8
+676437,2024-06-02T16:30Z,Tenerife,Real Valladolid,2,1,Santa Cruz de Tenerife,Spain,10.0,0,16.9,23.3
+676438,2024-06-02T16:30Z,Villarreal B,Racing Santander,1,0,Villarreal,Spain,42.0,0,10.5,33.2
+676436,2024-06-02T19:00Z,Real Zaragoza,Albacete,1,1,Zaragoza,Spain,214.0,0,21.5,22.2
+703029,2024-06-08T16:30Z,Real Oviedo,Eibar,0,0,Oviedo,Spain,237.0,0.5,8.4,14.9
+703030,2024-06-09T19:00Z,Sporting Gijón,Espanyol,0,1,Gijón,Spain,22.0,0,8.7,15.7
+703031,2024-06-12T19:00Z,Eibar,Real Oviedo,0,2,Eibar,Spain,133.0,0.3,8.4,14.3
+703032,2024-06-13T19:00Z,Espanyol,Sporting Gijón,0,0,Barcelona,Spain,15.0,0,13.0,19.6
+704224,2024-06-16T16:30Z,Real Oviedo,Espanyol,1,0,Oviedo,Spain,237.0,0.1,11.6,20.8
+704225,2024-06-23T16:30Z,Espanyol,Real Oviedo,2,0,Barcelona,Spain,15.0,0.1,14.2,21.4
