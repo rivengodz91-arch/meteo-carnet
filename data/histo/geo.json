@@ -80,6 +80,11 @@ null
 9.652,
 413.0
 ],
+"Alverca do Ribatejo|Portugal": [
+38.899,
+-9.039,
+18.0
+],
 "Amadora|Portugal": [
 38.754,
 -9.231,
@@ -196,6 +201,11 @@ null
 -58.367,
 13.0
 ],
+"Avellino|Italy": [
+40.915,
+14.791,
+348.0
+],
 "Azogues|Ecuador": [
 -2.74,
 -78.846,
@@ -306,6 +316,11 @@ null
 23.164,
 135.0
 ],
+"Bielefeld|Germany": [
+52.033,
+8.533,
+111.0
+],
 "Bilbao|Spain": [
 43.263,
 -2.925,
@@ -356,6 +371,11 @@ null
 47.75,
 26.667,
 159.0
+],
+"Boulogne|France": [
+46.793,
+-1.319,
+74.0
 ],
 "Bournemouth|England": [
 50.72,
@@ -472,6 +492,11 @@ null
 -58.377,
 31.0
 ],
+"Buenos Aires|Colombia": [
+-34.613,
+-58.377,
+31.0
+],
 "Burgos|Spain": [
 42.341,
 -3.702,
@@ -567,6 +592,11 @@ null
 12.243,
 44.0
 ],
+"Ceuta|Spain": [
+35.889,
+-5.32,
+22.0
+],
 "Changchun|China PR": [
 43.88,
 125.323,
@@ -596,6 +626,11 @@ null
 53.191,
 -2.892,
 34.0
+],
+"Chiavari|Italy": [
+44.318,
+9.322,
+5.0
 ],
 "Chicago, Illinois|USA": [
 41.85,
@@ -787,6 +822,11 @@ null
 6.164,
 12.0
 ],
+"Dijon|France": [
+47.313,
+5.014,
+240.0
+],
 "Dingwell|Scotland": [
 46.417,
 -62.665,
@@ -801,6 +841,11 @@ null
 59.744,
 10.204,
 11.0
+],
+"Dresden|Germany": [
+51.051,
+13.738,
+116.0
 ],
 "Drogheda|Republic of Ireland": [
 53.719,
@@ -872,6 +917,11 @@ null
 10.948,
 28.0
 ],
+"Encamp|Andorra": [
+42.535,
+1.58,
+1257.0
+],
 "Encarnación|Paraguay": [
 -27.332,
 -55.867,
@@ -897,6 +947,11 @@ null
 38.706,
 -9.398,
 24.0
+],
+"Falkirk|Scotland": [
+56.002,
+-3.785,
+25.0
 ],
 "Falmer|England": [
 50.865,
@@ -952,6 +1007,11 @@ null
 50.116,
 8.684,
 113.0
+],
+"Fredericia|Denmark": [
+55.566,
+9.753,
+16.0
 ],
 "Fredrikstad|Norway": [
 59.218,
@@ -1352,6 +1412,11 @@ null
 135.183,
 35.0
 ],
+"Kocaeli|Türkiye": [
+39.625,
+27.511,
+310.0
+],
 "Kolossi|Cyprus": [
 34.669,
 32.934,
@@ -1402,6 +1467,11 @@ null
 22.433,
 88.0
 ],
+"Larissa|Greece": [
+39.628,
+22.421,
+76.0
+],
 "Larnaca|Cyprus": [
 34.922,
 33.628,
@@ -1431,6 +1501,11 @@ null
 49.493,
 0.108,
 5.0
+],
+"Le Mans|France": [
+48.002,
+0.203,
+65.0
 ],
 "Lecce|Italy": [
 40.355,
@@ -1489,6 +1564,11 @@ null
 347.0
 ],
 "León de los Aldamas|Mexico": null,
+"León|Spain": [
+42.6,
+-5.57,
+844.0
+],
 "Lillestrøm|Norway": [
 59.956,
 11.049,
@@ -1619,6 +1699,11 @@ null
 13.001,
 10.0
 ],
+"Malvinas Argentinas|Argentina": [
+-31.382,
+-64.055,
+389.0
+],
 "Manchester|England": [
 53.481,
 -2.237,
@@ -1643,6 +1728,11 @@ null
 44.732,
 8.623,
 209.0
+],
+"Maria Enzersdorf|Austria": [
+48.1,
+16.283,
+223.0
 ],
 "Marseille|France": [
 43.297,
@@ -1699,10 +1789,20 @@ null
 -1.235,
 15.0
 ],
+"Miercurea Ciuc|Romania": [
+46.35,
+25.8,
+653.0
+],
 "Milano|Italy": [
 42.782,
 12.598,
 635.0
+],
+"Mioveni|Romania": [
+44.959,
+24.942,
+326.0
 ],
 "Miranda de Ebro|Spain": [
 42.687,
@@ -1788,6 +1888,11 @@ null
 51.962,
 7.626,
 64.0
+],
+"Nancy|France": [
+48.684,
+6.185,
+212.0
 ],
 "Nantes|France": [
 47.217,
@@ -1949,6 +2054,11 @@ null
 8.754,
 118.0
 ],
+"Padova|Italy": [
+44.382,
+11.143,
+329.0
+],
 "Paisley|Scotland": [
 55.832,
 -4.433,
@@ -2019,6 +2129,11 @@ null
 -31.952,
 115.861,
 34.0
+],
+"Pescara|Italy": [
+42.458,
+14.203,
+4.0
 ],
 "Piacenza|Italy": [
 45.052,
@@ -2160,6 +2275,11 @@ null
 64.135,
 -21.895,
 37.0
+],
+"Ried|Austria": [
+47.997,
+12.966,
+468.0
 ],
 "Riga|Latvia": [
 56.946,
@@ -2622,6 +2742,11 @@ null
 -99.653,
 2671.0
 ],
+"Tondela|Portugal": [
+40.517,
+-8.081,
+305.0
+],
 "Torino|Italy": [
 45.07,
 7.687,
@@ -2757,6 +2882,11 @@ null
 55.709,
 9.536,
 5.0
+],
+"Velsen-Zuid|Netherlands": [
+52.46,
+4.65,
+4.0
 ],
 "Venezia|Italy": [
 44.423,
@@ -2923,6 +3053,11 @@ null
 52.585,
 -2.123,
 160.0
+],
+"Wrexham|Wales": [
+53.047,
+-2.991,
+87.0
 ],
 "Wroclaw|Poland": [
 51.103,

@@ -758,3 +758,33 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712489,2025-05-25T18:45Z,Torino,AS Roma,0,2,Torino,Italy,239.0,0,3.1,21.6
 712490,2025-05-25T18:45Z,Udinese,Fiorentina,2,3,Udine,Italy,113.0,0,0.2,17.6
 712491,2025-05-25T18:45Z,Venezia,Juventus,2,3,Venezia,Italy,160.0,0,5.6,21.4
+736790,2025-08-23T16:30Z,Genoa,Lecce,0,0,Genova,Italy,3.0,0,2.0,24.3
+736784,2025-08-23T16:30Z,Sassuolo,Napoli,0,2,Reggio Emilia,Italy,58.0,0,9.3,25.3
+736793,2025-08-23T18:45Z,AC Milan,Cremonese,1,2,Milano,Italy,635.0,0,2.3,19.2
+736785,2025-08-23T18:45Z,AS Roma,Bologna,1,0,Roma,Italy,576.0,0.1,6.2,14.2
+736788,2025-08-24T16:30Z,Cagliari,Fiorentina,1,1,Cagliari,Italy,6.0,0,7.2,29.4
+736789,2025-08-24T16:30Z,Como,Lazio,2,0,Como,Italy,201.0,0,8.9,22.2
+736787,2025-08-24T18:45Z,Atalanta,Pisa,1,1,Bergamo,Italy,249.0,0,4.7,19.9
+736792,2025-08-24T18:45Z,Juventus,Parma,2,0,Torino,Italy,239.0,0,7.8,21.1
+736786,2025-08-25T16:30Z,Udinese,Hellas Verona,1,1,Udine,Italy,113.0,0,5.4,23.8
+736791,2025-08-25T18:45Z,Internazionale,Torino,5,0,Milano,Italy,635.0,0,2.2,20.7
+736802,2025-08-29T16:30Z,Cremonese,Sassuolo,3,2,Cremona,Italy,45.0,0,9.8,23.6
+736803,2025-08-29T18:45Z,Lecce,AC Milan,0,2,Lecce,Italy,49.0,0,11.4,27.1
+736794,2025-08-30T16:30Z,Bologna,Como,1,0,Bologna,Italy,54.0,0,9.7,24.3
+736796,2025-08-30T16:30Z,Parma,Atalanta,1,1,Parma,Italy,57.0,0,7.3,23.0
+736797,2025-08-30T18:45Z,Napoli,Cagliari,1,0,Napoli,Italy,58.0,0,3.8,21.3
+736795,2025-08-30T18:45Z,Pisa,AS Roma,0,1,Pisa,Italy,4.0,0,1.7,21.0
+736801,2025-08-31T16:30Z,Genoa,Juventus,0,1,Genova,Italy,3.0,0,2.9,26.6
+736798,2025-08-31T16:30Z,Torino,Fiorentina,0,0,Torino,Italy,239.0,0,7.9,25.2
+736800,2025-08-31T18:45Z,Internazionale,Udinese,1,2,Milano,Italy,635.0,0,1.0,18.6
+736799,2025-08-31T18:45Z,Lazio,Hellas Verona,4,0,Roma,Italy,576.0,3.1,12.8,15.8
+736811,2025-09-13T13:00Z,Cagliari,Parma,2,0,Cagliari,Italy,6.0,0,15.5,26.5
+736807,2025-09-13T16:00Z,Juventus,Internazionale,4,3,Torino,Italy,239.0,0,3.9,20.9
+736809,2025-09-13T18:45Z,Fiorentina,Napoli,1,3,Firenze,Italy,58.0,0.5,5.0,21.1
+736804,2025-09-14T10:30Z,AS Roma,Torino,0,1,Roma,Italy,576.0,0,17.0,21.4
+736812,2025-09-14T13:00Z,Atalanta,Lecce,4,1,Bergamo,Italy,249.0,0,8.2,23.4
+736805,2025-09-14T13:00Z,Pisa,Udinese,0,1,Pisa,Italy,4.0,0,13.6,24.6
+736813,2025-09-14T16:00Z,Sassuolo,Lazio,1,0,Reggio Emilia,Italy,58.0,0,4.9,26.3
+736806,2025-09-14T18:45Z,AC Milan,Bologna,1,0,Milano,Italy,635.0,0,4.1,18.3
+736808,2025-09-15T16:30Z,Hellas Verona,Cremonese,0,0,Verona,Italy,59.0,0,4.3,25.1
+736810,2025-09-15T18:45Z,Como,Genoa,1,1,Como,Italy,201.0,0,2.3,20.6

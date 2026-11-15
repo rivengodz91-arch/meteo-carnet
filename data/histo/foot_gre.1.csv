@@ -475,3 +475,23 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 734475,2025-05-22T15:00Z,Levadiakos,Volos NFC,3,2,Levadia,Greece,,,,
 734477,2025-05-22T15:00Z,Panetolikos,Panserraikos FC,1,0,Agrinio,Greece,66.0,0.2,7.3,22.3
 734476,2025-05-22T17:00Z,Athens Kallithea,Lamia,3,0,Athens,Greece,70.0,0,7.5,26.5
+752277,2025-08-23T17:00Z,Aris,Volos NFC,2,0,Thessaloniki,Greece,-9999.0,0,14.0,28.6
+752273,2025-08-23T17:00Z,Olympiacos,Asteras Tripoli,2,0,Piraeus,Greece,29.0,0,16.2,28.5
+752275,2025-08-23T19:00Z,Panetolikos,Atromitos,0,2,Agrinio,Greece,66.0,0,6.2,25.5
+752278,2025-08-24T17:15Z,AEK Athens,Panserraikos FC,2,0,Athens,Greece,70.0,0,8.9,28.0
+752274,2025-08-24T18:00Z,PAOK,Larissa FC,1,0,Thessaloniki,Greece,-9999.0,0,10.4,27.4
+752276,2025-08-25T16:30Z,Levadiakos,Kifisia,3,2,Levadia,Greece,,,,
+752284,2025-08-30T16:00Z,Volos NFC,Olympiacos,0,2,Volos,Greece,52.0,0,6.3,27.5
+752286,2025-08-30T16:30Z,Panserraikos FC,OFI Crete,0,1,Panserraikos,Greece,,,,
+752281,2025-08-30T18:00Z,Aris,Panetolikos,0,2,Thessaloniki,Greece,-9999.0,0,0.7,26.7
+752280,2025-08-30T18:30Z,Larissa FC,Kifisia,1,1,Larissa,Greece,76.0,0,11.9,28.7
+752282,2025-08-31T17:00Z,AEK Athens,Asteras Tripoli,1,0,Athens,Greece,70.0,0,8.1,29.0
+752283,2025-08-31T18:00Z,PAOK,Atromitos,1,0,Thessaloniki,Greece,-9999.0,0,4.0,25.8
+752287,2025-08-31T19:00Z,Panathinaikos,Levadiakos,1,1,Athens,Greece,70.0,0,4.4,27.7
+752291,2025-09-13T15:00Z,Olympiacos,Panserraikos FC,5,0,Piraeus,Greece,29.0,0,12.2,31.8
+752289,2025-09-13T17:00Z,Atromitos,Aris,1,2,Athens,Greece,70.0,0,7.3,27.4
+752294,2025-09-13T17:00Z,Panetolikos,Volos NFC,1,2,Agrinio,Greece,66.0,0,4.2,27.9
+752290,2025-09-14T15:00Z,Asteras Tripoli,Larissa FC,2,2,Tripoli,Greece,660.0,0,5.0,26.7
+752288,2025-09-14T15:00Z,Kifisia,Panathinaikos,3,2,Volos,Greece,52.0,0,17.2,25.0
+752293,2025-09-14T17:00Z,Levadiakos,AEK Athens,0,1,Levadia,Greece,,,,
+752292,2025-09-14T18:30Z,OFI Crete,PAOK,1,2,Athens,Greece,70.0,0,2.8,26.0

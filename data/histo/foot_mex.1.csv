@@ -676,3 +676,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 735748,2025-05-19T01:15Z,América,Cruz Azul,2,1,Mexico City,Mexico,2240.0,1.5,13.2,20.8
 735812,2025-05-23T02:00Z,América,Toluca,0,0,Mexico City,Mexico,2240.0,0.1,13.4,19.6
 735813,2025-05-26T01:00Z,Toluca,América,2,0,Toluca,Mexico,2671.0,1.0,7.4,15.2
+736614,2025-07-12T01:00Z,Puebla,Atlas,2,3,Puebla,Mexico,2166.0,0,7.4,16.0
+736616,2025-07-12T03:00Z,FC Juárez,América,1,1,Ciudad Juárez,Mexico,1124.0,0,11.9,36.4
+736615,2025-07-12T03:05Z,Tijuana,Querétaro,1,0,Tijuana,Mexico,97.0,0,5.5,18.2
+736617,2025-07-13T01:00Z,Santos,Pumas UNAM,3,0,Torreón,Mexico,1124.0,0.3,7.8,32.3
+736618,2025-07-13T01:00Z,Toluca,Necaxa,3,1,Toluca,Mexico,2671.0,0,5.0,14.4
+736619,2025-07-13T03:05Z,Cruz Azul,Mazatlán FC,0,0,Mexico City,Mexico,2240.0,4.5,3.1,14.9
+736620,2025-07-13T23:00Z,Pachuca,Monterrey,3,0,Pachuca,Mexico,2393.0,0,12.4,18.7
+736621,2025-07-14T01:00Z,León,Atlético de San Luis,0,1,León de los Aldamas,Mexico,,,,
+736622,2025-07-17T01:00Z,América,Tijuana,3,1,Mexico City,Mexico,2240.0,1.9,7.8,17.6
+736623,2025-07-17T03:05Z,Santos,Toluca,2,4,Torreón,Mexico,1124.0,0,8.7,24.1
+736624,2025-07-19T01:00Z,Necaxa,Querétaro,3,1,Aguascalientes,Mexico,1885.0,0.1,6.1,17.6
+736626,2025-07-19T03:00Z,Atlético de San Luis,Monterrey,0,1,San Luis Potosi,Mexico,1886.0,0.1,4.5,16.1
+736625,2025-07-19T03:05Z,Mazatlán FC,Puebla,2,1,Mazatlán,Mexico,1.0,0,4.2,28.4
+736628,2025-07-20T01:00Z,León,Guadalajara,1,0,León de los Aldamas,Mexico,,,,
+736627,2025-07-20T01:00Z,Tigres UANL,FC Juárez,1,0,San Nicolás de los Garza,Mexico,510.0,0,13.7,32.0
+736629,2025-07-20T03:05Z,Atlas,Cruz Azul,3,3,Guadalajara,Mexico,1546.0,0,0.4,19.8
+736630,2025-07-20T18:00Z,Pumas UNAM,Pachuca,2,3,Mexico City,Mexico,2240.0,0,3.6,20.5
+736631,2025-07-26T01:00Z,Puebla,Santos,1,0,Puebla,Mexico,2166.0,0,14.3,20.4
+736632,2025-07-26T01:00Z,Querétaro,Pumas UNAM,0,2,Santiago de Querétaro,Mexico,1826.0,0,12.8,22.4
+736633,2025-07-26T03:00Z,Tijuana,FC Juárez,1,1,Tijuana,Mexico,97.0,0,9.7,18.3
+736635,2025-07-26T23:00Z,Pachuca,Mazatlán FC,1,0,Pachuca,Mexico,2393.0,0,22.9,17.4
+736634,2025-07-26T23:07Z,Guadalajara,Atlético de San Luis,4,3,Guadalajara,Mexico,1546.0,0,14.9,29.1
+736636,2025-07-27T01:00Z,Cruz Azul,León,4,1,Mexico City,Mexico,2240.0,5.3,12.2,17.8
+736639,2025-07-27T01:00Z,Monterrey,Atlas,3,1,Guadalupe,Mexico,496.0,5.4,6.0,25.1
+736637,2025-07-27T01:00Z,Toluca,Tigres UANL,3,4,Toluca,Mexico,2671.0,0.2,8.1,16.0
+736638,2025-07-27T03:05Z,Necaxa,América,1,1,Aguascalientes,Mexico,1885.0,0,17.9,20.8
+736640,2025-08-09T03:00Z,Tigres UANL,Puebla,7,0,San Nicolás de los Garza,Mexico,510.0,0,4.0,32.6
+736641,2025-08-10T01:00Z,América,Querétaro,1,0,Mexico City,Mexico,2240.0,0.5,11.3,16.2
+736643,2025-08-10T03:00Z,Mazatlán FC,Tijuana,2,2,Mazatlán,Mexico,1.0,0,6.5,28.4
+736642,2025-08-10T03:05Z,Atlas,Pachuca,0,3,Guadalajara,Mexico,1546.0,0.1,6.3,18.5
+736644,2025-08-11T00:00Z,Pumas UNAM,Necaxa,1,1,Mexico City,Mexico,2240.0,5.3,5.8,16.6
+736645,2025-08-11T02:05Z,Santos,Guadalajara,1,0,Torreón,Mexico,1124.0,0,4.5,32.1
+736646,2025-08-12T01:00Z,León,Monterrey,1,3,León de los Aldamas,Mexico,,,,
+736648,2025-08-12T03:00Z,FC Juárez,Toluca,0,2,Ciudad Juárez,Mexico,1124.0,0,6.7,33.4
+736647,2025-08-12T03:05Z,Atlético de San Luis,Cruz Azul,1,2,San Luis Potosi,Mexico,1886.0,0,8.5,19.9
+736649,2025-08-16T01:00Z,Puebla,Atlético de San Luis,0,2,Puebla,Mexico,2166.0,0,1.3,17.0
+736650,2025-08-16T03:05Z,Necaxa,León,0,1,Aguascalientes,Mexico,1885.0,9.1,3.6,16.9
+736652,2025-08-16T23:07Z,Guadalajara,FC Juárez,1,2,Guadalajara,Mexico,1546.0,4.5,1.7,23.5
+736655,2025-08-17T01:00Z,Cruz Azul,Santos,3,2,Mexico City,Mexico,2240.0,0,11.8,20.3
+736653,2025-08-17T01:00Z,Pachuca,Tijuana,0,2,Pachuca,Mexico,2393.0,0,17.4,14.3
+736654,2025-08-17T01:00Z,Tigres UANL,América,1,3,San Nicolás de los Garza,Mexico,510.0,0,12.3,34.6
+736651,2025-08-17T03:10Z,Toluca,Pumas UNAM,1,1,Toluca,Mexico,2671.0,0,0.9,13.2
+736656,2025-08-17T22:00Z,Querétaro,Atlas,3,3,Santiago de Querétaro,Mexico,1826.0,0,14.6,25.6
+736657,2025-08-18T00:00Z,Monterrey,Mazatlán FC,3,2,Guadalupe,Mexico,496.0,0,18.0,35.3
+736658,2025-08-23T01:00Z,FC Juárez,Santos,2,1,Ciudad Juárez,Mexico,1124.0,0,8.4,33.1
+736659,2025-08-23T01:00Z,Querétaro,Atlético de San Luis,3,2,Santiago de Querétaro,Mexico,1826.0,1.3,8.4,19.1
+736660,2025-08-23T03:00Z,Tijuana,Guadalajara,3,3,Tijuana,Mexico,97.0,0,2.8,22.6
+736662,2025-08-23T23:00Z,León,Pachuca,1,1,León de los Aldamas,Mexico,,,,
+736661,2025-08-24T01:00Z,Mazatlán FC,Tigres UANL,2,2,Mazatlán,Mexico,1.0,0,4.3,28.5
+736663,2025-08-24T01:00Z,Monterrey,Necaxa,3,0,Guadalupe,Mexico,496.0,1.6,10.6,24.2
+736664,2025-08-24T03:05Z,Cruz Azul,Toluca,1,0,Mexico City,Mexico,2240.0,0.2,0.3,15.2
+736665,2025-08-24T23:00Z,Pumas UNAM,Puebla,0,0,Mexico City,Mexico,2240.0,3.5,7.5,20.6
+736666,2025-08-25T01:05Z,Atlas,América,2,4,Guadalajara,Mexico,1546.0,3.5,0.6,19.7
+736667,2025-08-30T01:00Z,Atlético de San Luis,Toluca,1,3,San Luis Potosi,Mexico,1886.0,0,11.4,21.9
+736668,2025-08-30T01:00Z,FC Juárez,Mazatlán FC,1,0,Ciudad Juárez,Mexico,1124.0,0,6.4,35.7
+736669,2025-08-30T03:05Z,Puebla,Monterrey,2,4,Puebla,Mexico,2166.0,0,3.4,17.4
+736670,2025-08-30T23:00Z,León,Querétaro,3,0,León de los Aldamas,Mexico,,,,
+736672,2025-08-31T01:00Z,Santos,Tigres UANL,0,1,Torreón,Mexico,1124.0,0,12.9,33.4
+736671,2025-08-31T01:07Z,Guadalajara,Cruz Azul,1,2,Guadalajara,Mexico,1546.0,0,5.6,25.1
+736673,2025-08-31T03:05Z,América,Pachuca,2,0,Mexico City,Mexico,2240.0,0.1,1.5,15.2
+736674,2025-08-31T22:00Z,Pumas UNAM,Atlas,1,0,Mexico City,Mexico,2240.0,4.0,6.2,22.3
+736675,2025-09-01T03:00Z,Tijuana,Necaxa,3,0,Tijuana,Mexico,97.0,0,3.1,20.8
+736677,2025-09-13T01:00Z,Necaxa,FC Juárez,1,1,Aguascalientes,Mexico,1885.0,0,4.9,20.2
+736678,2025-09-13T03:00Z,Mazatlán FC,Pumas UNAM,1,4,Mazatlán,Mexico,1.0,0,12.9,29.5
+736679,2025-09-13T23:00Z,Pachuca,Cruz Azul,0,1,Pachuca,Mexico,2393.0,0,17.7,17.3
+736680,2025-09-14T01:00Z,Atlas,Santos,2,2,Guadalajara,Mexico,1546.0,1.0,7.4,19.9
+736681,2025-09-14T01:00Z,Tigres UANL,León,0,0,San Nicolás de los Garza,Mexico,510.0,0,12.4,27.0
+736682,2025-09-14T03:00Z,Toluca,Puebla,3,1,Toluca,Mexico,2671.0,0,2.5,12.0
+736676,2025-09-14T03:15Z,América,Guadalajara,1,2,Mexico City,Mexico,2240.0,0,3.8,15.8
+736683,2025-09-14T23:00Z,Querétaro,Monterrey,0,1,Santiago de Querétaro,Mexico,1826.0,0,14.4,25.8
+736684,2025-09-15T01:00Z,Atlético de San Luis,Tijuana,1,1,San Luis Potosi,Mexico,1886.0,0,13.4,19.3
+736685,2025-09-18T01:07Z,Guadalajara,Tigres UANL,0,0,Guadalajara,Mexico,1546.0,2.3,2.7,21.4

@@ -611,3 +611,47 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712905,2025-05-17T17:00Z,FC Porto,C.D. Nacional,3,0,Porto,Portugal,91.0,0,9.3,22.4
 712911,2025-05-17T17:00Z,SC Farense,Santa Clara,1,2,Faro,Portugal,24.0,0,10.7,21.8
 712913,2025-05-17T17:00Z,Sporting CP,Vitória de Guimaraes,2,0,Lisbon,Portugal,68.0,0,12.0,24.3
+750246,2025-08-08T19:15Z,Casa Pia,Sporting CP,0,2,Rio Maior,Portugal,82.0,0,15.1,20.9
+750249,2025-08-09T14:30Z,C.D. Nacional,Gil Vicente,0,2,Funchal,Portugal,280.0,0,17.1,28.6
+750250,2025-08-09T19:30Z,Arouca,AVS,3,1,Arouca,Portugal,313.0,0,4.0,27.1
+750253,2025-08-10T16:00Z,FC Famalicao,Santa Clara,3,0,Vila Nova de Famalicão,Portugal,96.0,0,8.7,29.7
+750247,2025-08-10T19:30Z,Braga,Tondela,3,0,Braga,Portugal,190.0,0,4.0,27.5
+750254,2025-08-10T19:30Z,Moreirense,Alverca,2,1,Moreira de Conegos,Portugal,151.0,0,5.1,28.7
+750251,2025-08-11T17:45Z,Estoril,Estrela,1,1,Estoril,Portugal,24.0,0,12.3,35.9
+750252,2025-08-11T19:45Z,FC Porto,Vitória de Guimaraes,3,0,Porto,Portugal,91.0,0,8.5,23.7
+750262,2025-08-15T14:45Z,AVS,Casa Pia,0,2,Vila das Aves,Portugal,,,,
+750258,2025-08-16T14:30Z,Tondela,FC Famalicao,0,1,Rio Maior,Portugal,82.0,0,13.0,31.6
+750259,2025-08-16T17:00Z,Vitória de Guimaraes,Estoril,3,2,Guimarães,Portugal,189.0,0,8.6,29.3
+750260,2025-08-16T19:30Z,Estrela,Benfica,0,1,Amadora,Portugal,138.0,0,13.1,27.4
+750255,2025-08-17T14:30Z,Rio Ave,C.D. Nacional,1,1,Vila do Conde,Portugal,12.0,0,17.0,21.1
+750261,2025-08-17T17:00Z,Alverca,Braga,0,3,Alverca do Ribatejo,Portugal,18.0,0,21.9,27.3
+750256,2025-08-17T17:00Z,Santa Clara,Moreirense,0,1,Ponta Delgada,Portugal,12.0,0,9.6,24.6
+750257,2025-08-17T19:30Z,Sporting CP,Arouca,6,0,Lisbon,Portugal,68.0,0,17.6,23.6
+750263,2025-08-18T19:15Z,Gil Vicente,FC Porto,0,2,Barcelos,Portugal,36.0,0,12.5,20.6
+750269,2025-08-23T15:00Z,Moreirense,Vitória de Guimaraes,2,0,Moreira de Conegos,Portugal,151.0,0,14.8,29.9
+750267,2025-08-23T17:00Z,C.D. Nacional,Sporting CP,1,4,Funchal,Portugal,280.0,0,7.3,23.2
+750272,2025-08-23T19:30Z,Arouca,Rio Ave,3,3,Arouca,Portugal,313.0,0,5.2,22.1
+750271,2025-08-23T19:30Z,Benfica,Tondela,3,0,Lisbon,Portugal,68.0,0,12.1,22.0
+750266,2025-08-24T14:30Z,FC Famalicao,Gil Vicente,0,0,Vila Nova de Famalicão,Portugal,96.0,0,13.7,24.2
+750264,2025-08-24T17:00Z,FC Porto,Casa Pia,4,0,Porto,Portugal,91.0,0,13.6,20.6
+750270,2025-08-24T19:30Z,Braga,AVS,2,2,Braga,Portugal,190.0,0,9.0,21.3
+750265,2025-08-25T19:15Z,Estrela,Alverca,2,2,Amadora,Portugal,138.0,0,20.2,20.3
+750273,2025-08-29T19:15Z,Gil Vicente,Moreirense,2,0,Barcelos,Portugal,36.0,0.3,12.3,19.7
+750274,2025-08-30T14:30Z,Casa Pia,C.D. Nacional,0,2,Rio Maior,Portugal,82.0,0,18.7,24.4
+750277,2025-08-30T17:00Z,AVS,FC Famalicao,0,1,Vila das Aves,Portugal,,,,
+750281,2025-08-30T17:00Z,Vitória de Guimaraes,Arouca,1,1,Guimarães,Portugal,189.0,0,11.2,21.1
+750279,2025-08-30T19:30Z,Sporting CP,FC Porto,1,2,Lisbon,Portugal,68.0,0,13.4,21.9
+750280,2025-08-31T14:30Z,Tondela,Estoril,2,2,Tondela,Portugal,305.0,0,17.8,22.0
+750275,2025-08-31T17:00Z,Alverca,Benfica,1,2,Alverca do Ribatejo,Portugal,18.0,0,23.4,23.1
+750276,2025-08-31T19:30Z,Rio Ave,Braga,2,2,Vila do Conde,Portugal,12.0,0.1,8.0,17.4
+750278,2025-08-31T19:30Z,Santa Clara,Estrela,0,0,Ponta Delgada,Portugal,12.0,0,13.3,21.9
+750268,2025-09-06T19:30Z,Estoril,Santa Clara,0,1,Estoril,Portugal,24.0,0,11.5,19.8
+750287,2025-09-12T19:15Z,Alverca,Tondela,1,0,Alverca do Ribatejo,Portugal,18.0,0,20.1,21.6
+750289,2025-09-12T19:15Z,Benfica,Santa Clara,1,1,Lisbon,Portugal,68.0,0,15.9,22.1
+750290,2025-09-13T14:30Z,Estoril,AVS,3,1,Estoril,Portugal,24.0,0,19.2,25.3
+750283,2025-09-13T14:30Z,Moreirense,Rio Ave,3,1,Moreira de Conegos,Portugal,151.0,0,13.9,23.8
+750285,2025-09-13T17:00Z,FC Porto,C.D. Nacional,1,0,Porto,Portugal,91.0,0,8.0,19.4
+750286,2025-09-13T19:30Z,FC Famalicao,Sporting CP,1,2,Vila Nova de Famalicão,Portugal,96.0,0,6.5,18.6
+750282,2025-09-14T14:30Z,Estrela,Vitória de Guimaraes,0,2,Amadora,Portugal,138.0,0,12.9,27.5
+750288,2025-09-14T17:00Z,Arouca,Casa Pia,0,2,Arouca,Portugal,313.0,0,11.0,22.3
+750284,2025-09-14T19:30Z,Braga,Gil Vicente,0,1,Braga,Portugal,190.0,0,8.9,19.5

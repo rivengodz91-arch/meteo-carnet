@@ -721,3 +721,45 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 714229,2025-05-31T16:00Z,Alanyaspor,Sivasspor,2,0,Antalya,Türkiye,61.0,2.5,6.8,17.3
 714232,2025-06-01T16:00Z,Bodrum FK,Besiktas,0,4,Mugla,,672.0,0.1,2.2,18.7
 714231,2025-06-01T16:00Z,Samsunspor,Kayserispor,2,1,Samsun,Türkiye,64.0,0,2.2,17.1
+749923,2025-08-08T18:30Z,Gaziantep FK,Galatasaray,0,3,Gaziantep,Türkiye,842.0,0,11.5,32.5
+749925,2025-08-09T16:00Z,Samsunspor,Genclerbirligi,2,1,Samsun,Türkiye,64.0,0,13.8,27.6
+749918,2025-08-09T18:30Z,Antalyaspor,Kasimpasa,2,1,Antalya,Türkiye,61.0,0,12.0,35.1
+749919,2025-08-10T16:00Z,Caykur Rizespor,Goztepe,0,3,Rize,Türkiye,63.0,0,11.7,24.1
+749920,2025-08-10T18:30Z,Eyupspor,Konyaspor,1,4,Istanbul,Türkiye,39.0,0,21.2,25.4
+749921,2025-08-11T18:30Z,Trabzonspor,Kocaelispor,1,0,Trabzon,Türkiye,39.0,0,4.2,24.2
+749929,2025-08-15T18:30Z,Galatasaray,Fatih Karagümrük,3,0,Istanbul,Türkiye,39.0,0,27.5,25.0
+749934,2025-08-16T16:00Z,Kocaelispor,Samsunspor,0,1,Kocaeli,Türkiye,310.0,0,28.6,23.7
+749927,2025-08-16T18:30Z,Alanyaspor,Caykur Rizespor,0,0,Antalya,Türkiye,61.0,0,1.9,28.2
+749931,2025-08-16T18:30Z,Goztepe,Fenerbahce,0,0,Izmir,Türkiye,122.0,0,16.0,30.5
+749930,2025-08-17T16:00Z,Genclerbirligi,Antalyaspor,0,1,Ankara,Türkiye,850.0,0,7.7,32.1
+749935,2025-08-17T16:00Z,Konyaspor,Gaziantep FK,3,0,Konya,Türkiye,1030.0,0,10.6,32.2
+749928,2025-08-17T18:30Z,Besiktas,Eyupspor,2,1,Istanbul,Türkiye,39.0,0,15.7,24.7
+749932,2025-08-17T18:30Z,Istanbul Basaksehir,Kayserispor,1,1,Istanbul,Türkiye,39.0,0,15.7,24.7
+749933,2025-08-18T18:30Z,Kasimpasa,Trabzonspor,0,1,Istanbul,Türkiye,39.0,0,9.7,23.7
+749938,2025-08-22T18:30Z,Fatih Karagümrük,Goztepe,0,2,Istanbul,Türkiye,39.0,0,8.7,28.4
+749939,2025-08-23T18:30Z,Fenerbahce,Kocaelispor,3,1,Istanbul,Türkiye,39.0,0,14.6,23.5
+749940,2025-08-23T18:30Z,Gaziantep FK,Genclerbirligi,2,1,Gaziantep,Türkiye,842.0,0,13.6,29.6
+749944,2025-08-24T16:00Z,Trabzonspor,Antalyaspor,1,0,Trabzon,Türkiye,39.0,1.6,4.8,23.8
+749941,2025-08-24T18:30Z,Kayserispor,Galatasaray,0,4,Kayseri,Türkiye,1054.0,0,5.8,25.7
+749937,2025-08-25T16:00Z,Eyupspor,Alanyaspor,2,1,Istanbul,Türkiye,39.0,0,20.3,23.8
+749949,2025-08-29T18:30Z,Goztepe,Konyaspor,1,1,Izmir,Türkiye,122.0,0,5.7,27.7
+749951,2025-08-30T16:00Z,Kasimpasa,Gaziantep FK,2,3,Istanbul,Türkiye,39.0,0,7.2,26.7
+749952,2025-08-30T16:00Z,Kocaelispor,Kayserispor,1,1,Kocaeli,Türkiye,310.0,0,16.9,27.3
+749946,2025-08-30T18:30Z,Antalyaspor,Fatih Karagümrük,1,2,Antalya,Türkiye,61.0,0,5.1,27.4
+749947,2025-08-30T18:30Z,Galatasaray,Caykur Rizespor,3,1,Istanbul,Türkiye,39.0,0,3.0,25.4
+749948,2025-08-31T16:00Z,Genclerbirligi,Fenerbahce,1,3,Ankara,Türkiye,850.0,0,7.4,32.1
+749950,2025-08-31T16:00Z,Istanbul Basaksehir,Eyupspor,0,0,Istanbul,Türkiye,39.0,0,12.6,31.3
+749945,2025-08-31T18:30Z,Alanyaspor,Besiktas,2,0,Antalya,Türkiye,61.0,0,1.2,27.8
+749953,2025-08-31T18:30Z,Trabzonspor,Samsunspor,1,1,Trabzon,Türkiye,39.0,0,2.2,23.5
+749956,2025-09-13T14:00Z,Eyupspor,Galatasaray,0,2,Istanbul,Türkiye,39.0,0,22.2,25.0
+749957,2025-09-13T14:00Z,Fatih Karagümrük,Kasimpasa,0,1,Istanbul,Türkiye,39.0,0,22.2,25.0
+749962,2025-09-13T14:00Z,Samsunspor,Antalyaspor,1,2,Samsun,Türkiye,64.0,0,16.6,22.9
+749954,2025-09-13T17:00Z,Besiktas,Istanbul Basaksehir,2,1,Istanbul,Türkiye,39.0,0,18.3,22.5
+749961,2025-09-13T17:00Z,Konyaspor,Alanyaspor,1,2,Konya,Türkiye,1030.0,0,8.9,24.1
+749960,2025-09-14T14:00Z,Kayserispor,Goztepe,1,1,Kayseri,Türkiye,1054.0,0,7.6,26.5
+749958,2025-09-14T16:00Z,Fenerbahce,Trabzonspor,1,0,Istanbul,Türkiye,39.0,0,21.4,21.7
+749959,2025-09-14T16:00Z,Gaziantep FK,Kocaelispor,2,0,Gaziantep,Türkiye,842.0,0,6.8,28.9
+749955,2025-09-15T17:00Z,Caykur Rizespor,Genclerbirligi,1,0,Rize,Türkiye,63.0,0,2.2,19.8
+749922,2025-09-17T17:00Z,Fatih Karagümrük,Istanbul Basaksehir,0,2,Istanbul,Türkiye,39.0,0,19.4,22.5
+749926,2025-09-17T17:00Z,Fenerbahce,Alanyaspor,2,2,Istanbul,Türkiye,39.0,0,19.4,22.5
+749943,2025-09-17T17:00Z,Samsunspor,Kasimpasa,0,0,Samsun,Türkiye,64.0,0,6.7,21.0

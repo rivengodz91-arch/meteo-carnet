@@ -487,3 +487,81 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 731752,2025-06-17T11:35Z,Beijing Guoan,Qingdao West Coast,1,0,Beijing,China PR,49.0,0,10.1,32.3
 731754,2025-06-18T11:35Z,Henan,Shanghai Port FC,1,3,Zhengzhou,China PR,104.0,0,7.2,30.8
 731809,2025-06-18T12:00Z,Shenzhen Xinpengcheng,Wuhan Three Towns,1,2,Shenzhen,China PR,4.0,0.1,8.7,26.4
+731823,2025-06-25T11:00Z,Qingdao Hainiu,Zhejiang Professional FC,0,3,Qingdao,China PR,16.0,0,12.1,25.0
+731822,2025-06-25T11:00Z,Shanghai Shenhua FC,Tianjin Jinmen Tiger,3,0,Shanghai,China PR,12.0,0,6.4,25.3
+731824,2025-06-25T11:35Z,Changchun Yatai,Qingdao West Coast,1,0,Changchun,China PR,206.0,0,9.5,33.2
+731825,2025-06-25T11:35Z,Meizhou Hakka,Beijing Guoan,0,4,Wuhua,China PR,106.0,0,10.1,31.1
+731826,2025-06-25T11:35Z,Shandong Taishan,Wuhan Three Towns,3,1,Jinan,China PR,32.0,0.1,12.0,32.7
+731827,2025-06-25T12:00Z,Chengdu Rongcheng,Shenzhen Xinpengcheng,5,0,Chengdu,China PR,499.0,0,4.8,25.1
+731828,2025-06-26T11:35Z,Shanghai Port FC,Dalian Yingbo,3,0,Shanghai,China PR,12.0,0,6.1,29.1
+731829,2025-06-26T12:00Z,Yunnan Yukun,Henan,2,1,Yuxi,China PR,1638.0,0.3,0.2,20.3
+731830,2025-06-29T10:30Z,Changchun Yatai,Shanghai Shenhua FC,1,2,Changchun,China PR,206.0,0.1,7.1,28.0
+731831,2025-06-29T10:30Z,Qingdao West Coast,Qingdao Hainiu,1,0,Qingdao,China PR,16.0,0,13.0,24.8
+731832,2025-06-29T11:00Z,Meizhou Hakka,Tianjin Jinmen Tiger,1,2,Wuhua,China PR,106.0,0,3.4,28.2
+731833,2025-06-29T11:35Z,Wuhan Three Towns,Chengdu Rongcheng,2,2,Wuhan,China PR,20.0,0,6.4,28.3
+731834,2025-06-30T11:00Z,Henan,Shandong Taishan,2,2,Zhengzhou,China PR,104.0,0,9.0,30.0
+731835,2025-06-30T11:35Z,Beijing Guoan,Yunnan Yukun,2,1,Beijing,China PR,49.0,0,9.0,29.3
+731836,2025-06-30T11:35Z,Dalian Yingbo,Zhejiang Professional FC,1,0,Dalian,China PR,33.0,0,7.0,23.3
+731837,2025-06-30T12:00Z,Shenzhen Xinpengcheng,Shanghai Port FC,1,2,Shenzhen,China PR,4.0,0.3,12.9,25.9
+731840,2025-07-18T08:30Z,Changchun Yatai,Shanghai Port FC,1,3,Changchun,China PR,206.0,0.2,4.8,26.6
+731838,2025-07-18T11:00Z,Wuhan Three Towns,Qingdao West Coast,1,1,Wuhan,China PR,20.0,0,7.5,34.2
+731839,2025-07-18T11:35Z,Tianjin Jinmen Tiger,Chengdu Rongcheng,2,1,Tianjin,China PR,11.0,0,7.6,30.7
+731841,2025-07-18T12:00Z,Zhejiang Professional FC,Yunnan Yukun,3,1,Hangzhou,China PR,12.0,4.5,9.2,26.1
+731842,2025-07-19T11:00Z,Dalian Yingbo,Shandong Taishan,2,0,Dalian,China PR,33.0,0,12.6,25.5
+731844,2025-07-19T11:35Z,Beijing Guoan,Shanghai Shenhua FC,1,3,Beijing,China PR,49.0,0,2.9,33.1
+731843,2025-07-19T11:35Z,Shenzhen Xinpengcheng,Qingdao Hainiu,4,0,Shenzhen,China PR,4.0,9.9,4.5,26.8
+731845,2025-07-19T12:00Z,Henan,Meizhou Hakka,1,1,Zhengzhou,China PR,104.0,0,12.7,36.2
+731846,2025-07-26T11:00Z,Shanghai Port FC,Qingdao West Coast,2,2,Shanghai,China PR,12.0,0.4,13.2,27.6
+731847,2025-07-26T11:35Z,Chengdu Rongcheng,Beijing Guoan,2,0,Chengdu,China PR,499.0,0,2.5,30.4
+731848,2025-07-26T12:00Z,Yunnan Yukun,Shenzhen Xinpengcheng,3,1,Yuxi,China PR,1638.0,1.4,2.7,19.8
+731849,2025-07-27T11:00Z,Changchun Yatai,Dalian Yingbo,0,2,Changchun,China PR,206.0,0.1,1.5,24.7
+731850,2025-07-27T11:00Z,Qingdao Hainiu,Tianjin Jinmen Tiger,2,0,Qingdao,China PR,16.0,0,10.2,30.5
+731851,2025-07-27T11:35Z,Shanghai Shenhua FC,Henan,3,2,Shanghai,China PR,12.0,0.6,13.7,28.3
+731852,2025-07-27T11:35Z,Zhejiang Professional FC,Wuhan Three Towns,3,2,Hangzhou,China PR,12.0,0.1,5.4,26.7
+731853,2025-07-27T12:00Z,Shandong Taishan,Meizhou Hakka,3,0,Jinan,China PR,32.0,0,4.2,30.6
+731854,2025-08-02T10:00Z,Yunnan Yukun,Shanghai Shenhua FC,4,4,Yuxi,China PR,1638.0,0.7,9.7,26.4
+731856,2025-08-02T11:35Z,Chengdu Rongcheng,Shandong Taishan,2,1,Chengdu,China PR,499.0,0,9.6,38.6
+731855,2025-08-02T11:35Z,Qingdao West Coast,Henan,2,1,Qingdao,China PR,16.0,0,15.2,28.5
+731857,2025-08-02T12:00Z,Meizhou Hakka,Shanghai Port FC,2,4,Wuhua,China PR,106.0,0,12.4,26.6
+731858,2025-08-03T11:00Z,Dalian Yingbo,Qingdao Hainiu,2,0,Dalian,China PR,33.0,0,4.4,26.8
+731860,2025-08-03T11:35Z,Beijing Guoan,Tianjin Jinmen Tiger,2,2,Beijing,China PR,49.0,0,3.5,31.1
+731859,2025-08-03T11:35Z,Wuhan Three Towns,Changchun Yatai,0,0,Wuhan,China PR,20.0,0,6.6,36.1
+731861,2025-08-03T12:00Z,Shenzhen Xinpengcheng,Zhejiang Professional FC,2,4,Shenzhen,China PR,4.0,0.2,8.1,26.8
+731862,2025-08-08T11:35Z,Dalian Yingbo,Chengdu Rongcheng,0,2,Dalian,China PR,33.0,0.2,4.1,25.0
+731863,2025-08-08T12:00Z,Henan,Shenzhen Xinpengcheng,4,1,Zhengzhou,China PR,104.0,14.1,6.3,28.5
+731864,2025-08-09T11:00Z,Shandong Taishan,Changchun Yatai,2,1,Jinan,China PR,32.0,0,9.3,26.3
+731865,2025-08-09T11:35Z,Shanghai Shenhua FC,Shanghai Port FC,1,2,Shanghai,China PR,12.0,0,5.2,33.9
+731866,2025-08-09T12:00Z,Qingdao Hainiu,Yunnan Yukun,5,1,Qingdao,China PR,16.0,0,10.9,24.7
+731867,2025-08-10T11:00Z,Tianjin Jinmen Tiger,Qingdao West Coast,0,0,Tianjin,China PR,11.0,0,4.6,29.5
+731868,2025-08-10T11:35Z,Zhejiang Professional FC,Beijing Guoan,3,4,Hangzhou,China PR,12.0,0,6.2,29.8
+731869,2025-08-10T12:00Z,Wuhan Three Towns,Meizhou Hakka,1,2,Wuhan,China PR,20.0,0.6,4.1,27.5
+731870,2025-08-15T11:35Z,Shanghai Port FC,Henan,4,1,Shanghai,China PR,12.0,0,14.5,30.1
+731871,2025-08-15T12:00Z,Yunnan Yukun,Wuhan Three Towns,2,1,Yuxi,China PR,1638.0,0.2,3.5,20.1
+731872,2025-08-16T10:30Z,Tianjin Jinmen Tiger,Dalian Yingbo,2,0,Tianjin,China PR,11.0,0.5,3.5,25.3
+731874,2025-08-16T11:00Z,Changchun Yatai,Meizhou Hakka,1,0,Changchun,China PR,206.0,0.1,5.3,21.2
+731873,2025-08-16T11:00Z,Qingdao West Coast,Beijing Guoan,1,3,Qingdao,China PR,16.0,0,12.9,28.3
+731876,2025-08-16T11:35Z,Shenzhen Xinpengcheng,Shandong Taishan,1,3,Shenzhen,China PR,4.0,0,12.1,27.4
+731875,2025-08-16T11:35Z,Zhejiang Professional FC,Shanghai Shenhua FC,0,0,Hangzhou,China PR,12.0,0,12.7,35.5
+731877,2025-08-16T12:00Z,Chengdu Rongcheng,Qingdao Hainiu,0,0,Chengdu,China PR,499.0,1.0,2.4,26.2
+731887,2025-08-20T11:35Z,Zhejiang Professional FC,Tianjin Jinmen Tiger,2,0,Hangzhou,China PR,12.0,0,3.8,31.6
+731884,2025-08-23T11:35Z,Qingdao Hainiu,Shanghai Shenhua FC,0,2,Qingdao,China PR,16.0,0,11.6,30.0
+731879,2025-08-23T11:35Z,Yunnan Yukun,Chengdu Rongcheng,1,5,Yuxi,China PR,1638.0,0.8,1.6,20.3
+731881,2025-08-24T11:00Z,Changchun Yatai,Shenzhen Xinpengcheng,1,0,Changchun,China PR,206.0,0,1.9,24.5
+731882,2025-08-24T11:00Z,Meizhou Hakka,Zhejiang Professional FC,2,2,Wuhua,China PR,106.0,0,2.9,27.1
+731878,2025-08-24T11:00Z,Shanghai Port FC,Tianjin Jinmen Tiger,1,1,Shanghai,China PR,12.0,0,10.4,33.8
+731883,2025-08-24T11:35Z,Henan,Dalian Yingbo,4,0,Zhengzhou,China PR,104.0,1.6,5.1,24.7
+731885,2025-08-24T12:00Z,Shandong Taishan,Qingdao West Coast,3,2,Jinan,China PR,32.0,0.6,6.8,25.3
+731880,2025-08-25T12:00Z,Beijing Guoan,Wuhan Three Towns,4,0,Beijing,China PR,49.0,0,4.6,27.3
+731886,2025-08-29T11:00Z,Qingdao Hainiu,Henan,1,1,Qingdao,China PR,16.0,2.1,0.3,29.5
+731888,2025-08-30T11:35Z,Chengdu Rongcheng,Shanghai Port FC,4,1,Chengdu,China PR,499.0,0,1.1,23.6
+731890,2025-08-30T12:00Z,Yunnan Yukun,Changchun Yatai,1,1,Yuxi,China PR,1638.0,0,6.5,22.0
+731891,2025-08-31T11:00Z,Wuhan Three Towns,Shanghai Shenhua FC,1,0,Wuhan,China PR,20.0,0,2.1,26.3
+731892,2025-08-31T11:35Z,Shandong Taishan,Beijing Guoan,6,0,Jinan,China PR,32.0,0,4.8,23.8
+731893,2025-08-31T11:35Z,Shenzhen Xinpengcheng,Meizhou Hakka,2,0,Shenzhen,China PR,4.0,0,8.1,28.2
+731894,2025-09-12T10:00Z,Shanghai Port FC,Yunnan Yukun,4,2,Shanghai,China PR,12.0,0.2,1.1,31.0
+731895,2025-09-12T11:35Z,Chengdu Rongcheng,Changchun Yatai,1,0,Chengdu,China PR,499.0,0,3.0,24.3
+731896,2025-09-12T11:35Z,Henan,Beijing Guoan,2,0,Zhengzhou,China PR,104.0,0,0.3,22.9
+731897,2025-09-12T12:00Z,Shanghai Shenhua FC,Shandong Taishan,3,3,Shanghai,China PR,12.0,0.4,9.1,30.0
+731899,2025-09-13T11:35Z,Qingdao West Coast,Zhejiang Professional FC,0,2,Qingdao,China PR,16.0,0,12.3,24.4
+731900,2025-09-14T11:00Z,Dalian Yingbo,Shenzhen Xinpengcheng,2,1,Dalian,China PR,33.0,0,8.2,24.4
+731901,2025-09-14T11:35Z,Tianjin Jinmen Tiger,Wuhan Three Towns,4,0,Tianjin,China PR,11.0,0,7.2,28.3

@@ -431,3 +431,48 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 712104,2025-05-18T13:30Z,SSV Ulm 1846,Preußen Münster,2,2,Ulm,Germany,480.0,0.2,14.9,17.0
 712108,2025-05-18T13:30Z,SV Darmstadt 98,SSV Jahn Regensburg,3,1,Darmstadt,Germany,148.0,0,12.6,16.7
 712107,2025-05-18T13:30Z,TSV Eintracht Braunschweig,1. FC Nürnberg,1,4,Braunschweig,Germany,72.0,0.2,13.5,14.7
+747024,2025-08-01T18:30Z,Schalke 04,Hertha Berlin,2,1,Gelsenkirchen,Germany,48.0,0,10.9,16.8
+747032,2025-08-02T11:00Z,Karlsruher SC,Preußen Münster,3,2,Karlsruhe,Germany,118.0,0.3,8.0,19.9
+747029,2025-08-02T11:00Z,SC Paderborn 07,Holstein Kiel,2,1,Paderborn,Germany,118.0,0.9,18.2,17.5
+747031,2025-08-02T11:00Z,SV Darmstadt 98,VfL Bochum,4,1,Darmstadt,Germany,148.0,0.3,9.7,20.0
+747030,2025-08-02T11:00Z,SV Elversberg,1. FC Nürnberg,1,0,Spiesen-Elversberg,Germany,353.0,0.1,13.1,18.8
+747026,2025-08-02T18:30Z,Arminia Bielefeld,Fortuna Düsseldorf,5,1,Bielefeld,Germany,111.0,0.6,12.8,16.0
+747025,2025-08-03T11:30Z,1. FC Magdeburg,TSV Eintracht Braunschweig,0,1,Magdeburg,Germany,47.0,0,17.9,18.9
+747028,2025-08-03T11:30Z,Hannover 96,Kaiserslautern,1,0,Hannover,Germany,57.0,0.2,13.4,15.0
+747027,2025-08-03T11:30Z,SpVgg Greuther Fürth,Dynamo Dresden,3,2,Fürth,Germany,302.0,0.2,13.7,18.4
+747034,2025-08-08T16:30Z,1. FC Nürnberg,SV Darmstadt 98,0,1,Nürnberg,Germany,300.0,0,10.4,28.5
+747039,2025-08-08T16:30Z,Preußen Münster,SC Paderborn 07,1,1,Münster,Germany,64.0,0,11.5,23.8
+747040,2025-08-09T11:00Z,Dynamo Dresden,1. FC Magdeburg,1,2,Dresden,Germany,116.0,0,9.3,26.8
+747036,2025-08-09T11:00Z,Fortuna Düsseldorf,Hannover 96,0,2,Düsseldorf,Germany,42.0,0,6.7,25.8
+747035,2025-08-09T11:00Z,TSV Eintracht Braunschweig,SpVgg Greuther Fürth,3,2,Braunschweig,Germany,72.0,0,3.8,26.0
+747033,2025-08-09T18:30Z,Kaiserslautern,Schalke 04,1,0,Kaiserslautern,Germany,240.0,0,10.5,26.9
+747037,2025-08-10T11:30Z,Hertha Berlin,Karlsruher SC,0,0,Berlin,Germany,74.0,0,18.5,21.9
+747038,2025-08-10T11:30Z,Holstein Kiel,Arminia Bielefeld,0,2,Kiel,Germany,7.0,0,21.7,20.1
+747041,2025-08-10T11:30Z,VfL Bochum,SV Elversberg,2,0,Bochum,Germany,102.0,0,6.4,24.7
+747047,2025-08-22T16:30Z,Preußen Münster,1. FC Nürnberg,2,1,Münster,Germany,64.0,0,16.6,17.6
+747048,2025-08-22T16:30Z,SV Elversberg,Kaiserslautern,2,1,Spiesen-Elversberg,Germany,353.0,0,7.8,20.0
+747044,2025-08-23T11:00Z,Hannover 96,1. FC Magdeburg,3,1,Hannover,Germany,57.0,0.1,20.5,17.6
+747045,2025-08-23T11:00Z,Karlsruher SC,TSV Eintracht Braunschweig,2,0,Karlsruhe,Germany,118.0,0,8.1,21.1
+747046,2025-08-23T11:00Z,SC Paderborn 07,Fortuna Düsseldorf,1,2,Paderborn,Germany,118.0,0.1,16.8,17.0
+747043,2025-08-23T18:30Z,Schalke 04,VfL Bochum,2,1,Gelsenkirchen,Germany,48.0,0,10.4,17.2
+747042,2025-08-24T11:30Z,Arminia Bielefeld,Dynamo Dresden,1,2,Bielefeld,Germany,111.0,0,10.0,17.6
+747050,2025-08-24T11:30Z,SpVgg Greuther Fürth,Holstein Kiel,0,2,Fürth,Germany,302.0,0,6.3,18.7
+747049,2025-08-24T11:30Z,SV Darmstadt 98,Hertha Berlin,0,0,Darmstadt,Germany,148.0,0,5.6,19.9
+747053,2025-08-29T16:30Z,1. FC Nürnberg,SC Paderborn 07,0,0,Nürnberg,Germany,300.0,0,9.8,20.7
+747056,2025-08-29T16:30Z,Hertha Berlin,SV Elversberg,0,2,Berlin,Germany,74.0,0.1,3.4,20.1
+747057,2025-08-30T11:00Z,Holstein Kiel,Hannover 96,1,2,Kiel,Germany,7.0,0,15.8,20.6
+747054,2025-08-30T11:00Z,TSV Eintracht Braunschweig,Arminia Bielefeld,1,1,Braunschweig,Germany,72.0,0.2,16.1,21.7
+747059,2025-08-30T11:00Z,VfL Bochum,Preußen Münster,1,2,Bochum,Germany,102.0,0.1,15.3,20.0
+747055,2025-08-30T18:30Z,Fortuna Düsseldorf,Karlsruher SC,0,0,Düsseldorf,Germany,42.0,0,7.8,20.0
+747052,2025-08-31T11:30Z,1. FC Magdeburg,SpVgg Greuther Fürth,4,5,Magdeburg,Germany,47.0,0,14.3,24.1
+747058,2025-08-31T11:30Z,Dynamo Dresden,Schalke 04,0,1,Dresden,Germany,116.0,0,0.8,23.1
+747051,2025-08-31T11:30Z,Kaiserslautern,SV Darmstadt 98,3,1,Kaiserslautern,Germany,240.0,0,13.9,21.8
+747060,2025-09-12T16:30Z,Arminia Bielefeld,1. FC Magdeburg,2,0,Bielefeld,Germany,111.0,0,14.1,16.0
+747064,2025-09-12T16:30Z,SC Paderborn 07,VfL Bochum,1,0,Paderborn,Germany,118.0,0.5,10.9,15.3
+747063,2025-09-13T11:00Z,Karlsruher SC,1. FC Nürnberg,2,1,Karlsruhe,Germany,118.0,0,9.5,19.7
+747061,2025-09-13T11:00Z,Schalke 04,Holstein Kiel,0,1,Gelsenkirchen,Germany,48.0,0,18.3,17.7
+747067,2025-09-13T11:00Z,SV Darmstadt 98,TSV Eintracht Braunschweig,2,1,Darmstadt,Germany,148.0,0.2,11.3,17.3
+747062,2025-09-13T18:30Z,Hannover 96,Hertha Berlin,0,3,Hannover,Germany,57.0,0,10.7,16.2
+747065,2025-09-14T11:30Z,Preußen Münster,Fortuna Düsseldorf,1,2,Münster,Germany,64.0,0.2,14.9,16.5
+747068,2025-09-14T11:30Z,SpVgg Greuther Fürth,Kaiserslautern,0,3,Fürth,Germany,302.0,0.1,13.8,15.5
+747066,2025-09-14T11:30Z,SV Elversberg,Dynamo Dresden,2,2,Spiesen-Elversberg,Germany,353.0,0.2,14.3,16.1

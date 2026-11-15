@@ -755,3 +755,107 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 732709,2025-06-12T23:00Z,Grêmio,Corinthians,1,1,Porto Alegre,Brazil,46.0,0,17.5,13.3
 732700,2025-06-13T00:30Z,Atlético-MG,Internacional,2,0,Belo Horizonte,Brazil,888.0,0,14.4,13.6
 732708,2025-06-13T00:30Z,São Paulo,Vasco da Gama,1,3,Sao Paulo,Brazil,769.0,0,8.1,10.2
+732710,2025-07-12T19:30Z,Flamengo,São Paulo,2,0,Rio de Janeiro,Brazil,12.0,0,11.2,22.7
+732716,2025-07-12T19:30Z,Internacional,Vitória,1,0,Porto Alegre,Brazil,46.0,0,9.2,16.3
+732712,2025-07-12T21:30Z,Vasco da Gama,Botafogo,0,2,Brasília,Brazil,1136.0,0,12.4,21.1
+732718,2025-07-13T00:00Z,Bahia,Atlético-MG,2,1,Salvador,Brazil,4.0,0,22.7,23.9
+732719,2025-07-13T22:00Z,Corinthians,Red Bull Bragantino,1,2,Sao Paulo,Brazil,769.0,0,7.0,16.5
+732711,2025-07-13T23:30Z,Cruzeiro,Grêmio,4,1,Belo Horizonte,Brazil,888.0,0,7.9,17.3
+732717,2025-07-13T23:30Z,Fortaleza,Ceará,0,1,Fortaleza,Brazil,18.0,0,10.1,25.4
+732715,2025-07-14T23:00Z,Juventude,Sport,2,0,Caxias do Sul,Brazil,787.0,0,0.4,14.0
+732722,2025-07-16T22:00Z,Palmeiras,Mirassol,1,1,Sao Paulo,Brazil,769.0,0,8.4,18.0
+732726,2025-07-16T22:30Z,Ceará,Corinthians,0,1,Fortaleza,Brazil,18.0,0,11.1,26.2
+732724,2025-07-16T23:00Z,Santos,Flamengo,1,0,Santos,Brazil,12.0,0,2.6,16.5
+732727,2025-07-17T00:30Z,Botafogo,Vitória,0,0,Rio de Janeiro,Brazil,12.0,0,5.4,18.7
+732721,2025-07-17T00:30Z,Red Bull Bragantino,São Paulo,2,2,Bragança Paulista,Brazil,831.0,0,5.3,12.4
+732725,2025-07-17T22:30Z,Fluminense,Cruzeiro,0,2,Rio de Janeiro,Brazil,12.0,0,9.2,20.5
+732731,2025-07-19T19:00Z,Fortaleza,Bahia,1,1,Fortaleza,Brazil,18.0,0,16.1,28.3
+732736,2025-07-19T20:30Z,Vasco da Gama,Grêmio,1,1,Rio de Janeiro,Brazil,12.0,0,12.9,19.6
+732734,2025-07-19T21:30Z,Mirassol,Santos,3,0,Mirassol,Brazil,567.0,0,10.1,21.8
+732737,2025-07-20T00:00Z,São Paulo,Corinthians,2,0,Sao Paulo,Brazil,769.0,0,6.2,12.7
+732730,2025-07-20T14:00Z,Internacional,Ceará,1,0,Porto Alegre,Brazil,46.0,0,1.0,13.5
+732733,2025-07-20T19:00Z,Cruzeiro,Juventude,4,0,Belo Horizonte,Brazil,888.0,0,4.6,23.3
+732735,2025-07-20T19:00Z,Vitória,Red Bull Bragantino,1,0,Salvador,Brazil,4.0,0,17.2,24.7
+732739,2025-07-20T20:30Z,Palmeiras,Atlético-MG,3,2,Sao Paulo,Brazil,769.0,0,6.1,20.7
+732738,2025-07-20T20:30Z,Sport,Botafogo,0,1,Recife,Brazil,8.0,0.1,13.5,24.6
+732732,2025-07-20T22:30Z,Flamengo,Fluminense,1,0,Rio de Janeiro,Brazil,12.0,0,7.9,19.4
+732741,2025-07-23T22:00Z,Ceará,Mirassol,0,2,Fortaleza,Brazil,18.0,0,11.6,26.2
+732748,2025-07-23T22:00Z,Fluminense,Palmeiras,1,2,Rio de Janeiro,Brazil,12.0,0,9.8,19.8
+732749,2025-07-23T22:30Z,Corinthians,Cruzeiro,0,0,Sao Paulo,Brazil,769.0,0,8.0,16.3
+732745,2025-07-24T00:30Z,Red Bull Bragantino,Flamengo,1,2,Bragança Paulista,Brazil,831.0,0,13.7,13.3
+732744,2025-07-24T00:30Z,Santos,Internacional,1,2,Santos,Brazil,12.0,0.1,5.2,16.6
+732742,2025-07-24T00:30Z,Vitória,Sport,2,2,Salvador,Brazil,4.0,0.1,12.9,23.8
+732746,2025-07-24T22:00Z,Juventude,São Paulo,0,1,Caxias do Sul,Brazil,787.0,0,12.8,11.6
+732758,2025-07-26T21:30Z,Botafogo,Corinthians,1,1,Rio de Janeiro,Brazil,12.0,0,8.2,20.0
+732751,2025-07-26T21:30Z,Fortaleza,Red Bull Bragantino,3,1,Fortaleza,Brazil,18.0,0,13.7,26.7
+732753,2025-07-26T21:30Z,Mirassol,Vitória,1,1,Mirassol,Brazil,567.0,0,3.8,26.9
+732755,2025-07-26T21:30Z,Sport,Santos,2,2,Recife,Brazil,8.0,0.1,14.9,24.6
+732759,2025-07-27T00:00Z,Palmeiras,Grêmio,1,0,Sao Paulo,Brazil,769.0,0,8.0,18.8
+732757,2025-07-27T19:00Z,Cruzeiro,Ceará,1,2,Belo Horizonte,Brazil,888.0,0,6.4,24.1
+732754,2025-07-27T19:00Z,São Paulo,Fluminense,3,1,Sao Paulo,Brazil,769.0,0,14.1,26.2
+732750,2025-07-27T21:30Z,Bahia,Juventude,3,0,Salvador,Brazil,4.0,0,10.8,24.2
+732752,2025-07-27T21:30Z,Internacional,Vasco da Gama,1,1,Porto Alegre,Brazil,46.0,7.1,18.3,15.1
+732756,2025-07-27T23:30Z,Flamengo,Atlético-MG,1,0,Rio de Janeiro,Brazil,12.0,0,10.7,22.6
+732729,2025-07-29T23:30Z,Grêmio,Fortaleza,2,1,Porto Alegre,Brazil,46.0,0,9.4,11.6
+732768,2025-08-02T19:00Z,Sport,Bahia,0,0,Recife,Brazil,8.0,0.5,19.3,25.0
+732766,2025-08-02T21:30Z,Mirassol,Vasco da Gama,3,2,Mirassol,Brazil,567.0,0,9.8,25.6
+732769,2025-08-03T00:00Z,Fluminense,Grêmio,1,0,Rio de Janeiro,Brazil,12.0,0,9.5,19.6
+732761,2025-08-03T19:00Z,Botafogo,Cruzeiro,0,2,Rio de Janeiro,Brazil,12.0,0,10.5,24.2
+732763,2025-08-03T19:00Z,Corinthians,Fortaleza,1,1,Sao Paulo,Brazil,769.0,0,8.8,25.3
+732760,2025-08-03T21:30Z,Atlético-MG,Red Bull Bragantino,2,1,Belo Horizonte,Brazil,888.0,0,12.1,19.8
+732762,2025-08-03T21:30Z,Ceará,Flamengo,1,1,Fortaleza,Brazil,18.0,0,13.5,26.4
+732764,2025-08-03T22:30Z,Vitória,Palmeiras,2,2,Salvador,Brazil,4.0,0,17.9,23.7
+732765,2025-08-03T23:30Z,Internacional,São Paulo,1,2,Porto Alegre,Brazil,46.0,0,9.4,15.0
+732767,2025-08-04T23:00Z,Santos,Juventude,3,1,Sao Paulo,Brazil,769.0,0,3.0,16.4
+732772,2025-08-09T21:30Z,Flamengo,Mirassol,2,1,Rio de Janeiro,Brazil,12.0,0,18.2,18.6
+732777,2025-08-09T21:30Z,Red Bull Bragantino,Internacional,1,3,Bragança Paulista,Brazil,831.0,0,8.1,14.6
+732778,2025-08-09T21:30Z,São Paulo,Vitória,2,0,Sao Paulo,Brazil,769.0,0,12.4,15.7
+732773,2025-08-09T23:30Z,Fortaleza,Botafogo,0,5,Fortaleza,Brazil,18.0,0,9.0,25.6
+732770,2025-08-10T00:00Z,Bahia,Fluminense,3,3,Salvador,Brazil,4.0,0,17.6,24.0
+732776,2025-08-10T19:00Z,Palmeiras,Ceará,2,1,Sao Paulo,Brazil,769.0,0,11.0,14.4
+732779,2025-08-10T19:00Z,Vasco da Gama,Atlético-MG,1,1,Rio de Janeiro,Brazil,12.0,0.2,23.9,19.2
+732771,2025-08-10T21:30Z,Cruzeiro,Santos,1,2,Belo Horizonte,Brazil,888.0,0,11.0,22.4
+732774,2025-08-10T23:30Z,Grêmio,Sport,0,1,Porto Alegre,Brazil,46.0,0,5.7,11.4
+732775,2025-08-11T23:00Z,Juventude,Corinthians,2,1,Caxias do Sul,Brazil,787.0,0,10.4,8.1
+732781,2025-08-16T19:00Z,Ceará,Red Bull Bragantino,1,0,Fortaleza,Brazil,18.0,0,17.0,28.0
+732789,2025-08-16T19:00Z,Fluminense,Fortaleza,2,1,Rio de Janeiro,Brazil,12.0,0,18.2,20.8
+732788,2025-08-16T21:30Z,Sport,São Paulo,2,2,Recife,Brazil,8.0,1.3,15.0,23.2
+732784,2025-08-16T21:30Z,Vitória,Juventude,2,2,Salvador,Brazil,4.0,0.1,15.6,23.8
+732780,2025-08-17T00:00Z,Corinthians,Bahia,1,2,Sao Paulo,Brazil,769.0,0,8.8,15.2
+732783,2025-08-17T19:00Z,Atlético-MG,Grêmio,1,3,Belo Horizonte,Brazil,888.0,0,7.9,26.7
+732787,2025-08-17T19:00Z,Santos,Vasco da Gama,0,6,Sao Paulo,Brazil,769.0,0,8.0,25.5
+732785,2025-08-17T21:30Z,Internacional,Flamengo,1,3,Porto Alegre,Brazil,46.0,0,9.8,16.3
+732782,2025-08-17T23:30Z,Botafogo,Palmeiras,0,1,Rio de Janeiro,Brazil,12.0,0,8.7,19.7
+732786,2025-08-18T23:00Z,Mirassol,Cruzeiro,1,1,Mirassol,Brazil,567.0,0,10.0,24.9
+732723,2025-08-20T22:00Z,Juventude,Vasco da Gama,2,0,Caxias do Sul,Brazil,787.0,0,20.9,14.9
+732797,2025-08-23T19:00Z,Red Bull Bragantino,Fluminense,4,2,Bragança Paulista,Brazil,831.0,0,15.4,29.3
+732792,2025-08-23T21:30Z,Cruzeiro,Internacional,2,1,Belo Horizonte,Brazil,888.0,0,11.9,24.1
+732794,2025-08-24T00:00Z,Grêmio,Ceará,0,0,Porto Alegre,Brazil,46.0,0,10.1,12.3
+732793,2025-08-24T19:00Z,Bahia,Santos,2,0,Salvador,Brazil,4.0,0,16.4,25.7
+732795,2025-08-24T19:00Z,Vasco da Gama,Corinthians,2,3,Rio de Janeiro,Brazil,12.0,0,17.1,22.7
+732790,2025-08-24T21:30Z,Fortaleza,Mirassol,0,1,Fortaleza,Brazil,18.0,0,17.0,26.6
+732799,2025-08-24T21:30Z,Juventude,Botafogo,1,3,Caxias do Sul,Brazil,787.0,0,6.0,7.0
+732796,2025-08-24T23:30Z,São Paulo,Atlético-MG,2,0,Sao Paulo,Brazil,769.0,0,10.1,15.7
+732798,2025-08-25T22:00Z,Palmeiras,Sport,3,0,Sao Paulo,Brazil,769.0,0,10.6,15.7
+732791,2025-08-26T00:00Z,Flamengo,Vitória,8,0,Rio de Janeiro,Brazil,12.0,0.4,9.5,21.3
+732801,2025-08-30T19:00Z,Ceará,Juventude,0,1,Fortaleza,Brazil,18.0,0,21.8,29.0
+732800,2025-08-30T21:30Z,Botafogo,Red Bull Bragantino,4,1,Rio de Janeiro,Brazil,12.0,0,10.4,20.7
+732803,2025-08-31T00:00Z,Cruzeiro,São Paulo,1,0,Belo Horizonte,Brazil,888.0,0,9.2,15.8
+732808,2025-08-31T19:00Z,Flamengo,Grêmio,1,1,Rio de Janeiro,Brazil,12.0,0,17.1,22.6
+732805,2025-08-31T19:00Z,Santos,Fluminense,0,0,Santos,Brazil,12.0,0,13.6,22.8
+732802,2025-08-31T21:30Z,Corinthians,Palmeiras,1,1,Sao Paulo,Brazil,769.0,0,10.2,18.6
+732806,2025-08-31T21:30Z,Mirassol,Bahia,5,1,Mirassol,Brazil,567.0,0,5.4,27.1
+732804,2025-08-31T21:30Z,Vitória,Atlético-MG,1,0,Salvador,Brazil,4.0,0,18.0,25.0
+732807,2025-08-31T23:30Z,Internacional,Fortaleza,2,1,Porto Alegre,Brazil,46.0,0,17.6,20.1
+732809,2025-08-31T23:30Z,Sport,Vasco da Gama,2,3,Recife,Brazil,8.0,0,14.3,24.8
+732810,2025-09-13T19:00Z,Fortaleza,Vitória,2,0,Fortaleza,Brazil,18.0,0,17.4,28.4
+732819,2025-09-13T19:00Z,Grêmio,Mirassol,0,1,Porto Alegre,Brazil,46.0,0,18.0,20.5
+732816,2025-09-13T21:30Z,Palmeiras,Internacional,4,1,Sao Paulo,Brazil,769.0,0,13.3,16.5
+732811,2025-09-14T00:00Z,Fluminense,Corinthians,0,1,Rio de Janeiro,Brazil,12.0,0.2,10.6,19.3
+732817,2025-09-14T14:00Z,Red Bull Bragantino,Sport,1,1,Bragança Paulista,Brazil,831.0,0,9.0,23.3
+732813,2025-09-14T19:00Z,Atlético-MG,Santos,1,1,Belo Horizonte,Brazil,888.0,0,5.9,25.0
+732815,2025-09-14T19:00Z,Juventude,Flamengo,0,2,Caxias do Sul,Brazil,787.0,0,7.9,22.0
+732818,2025-09-14T20:30Z,São Paulo,Botafogo,1,0,Sao Paulo,Brazil,769.0,0,12.4,19.0
+732814,2025-09-14T23:30Z,Vasco da Gama,Ceará,2,2,Rio de Janeiro,Brazil,12.0,0,12.6,19.9
+732812,2025-09-15T23:00Z,Bahia,Cruzeiro,1,2,Salvador,Brazil,4.0,0.8,16.3,22.6
+732701,2025-09-17T22:30Z,Botafogo,Mirassol,3,3,Rio de Janeiro,Brazil,12.0,0.4,17.6,20.9

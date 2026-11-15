@@ -468,3 +468,91 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 727706,2025-06-01T15:00Z,Rosenborg,KFUM Oslo,1,1,Trondheim,Norway,18.0,3.6,18.4,11.4
 727708,2025-06-01T15:00Z,SK Brann,Kristiansund BK,4,2,Bergen,Norway,20.0,0.7,21.9,12.1
 727709,2025-06-01T17:15Z,Molde,Viking FK,0,1,Molde,Norway,3.0,0.5,1.5,11.5
+727714,2025-06-21T16:00Z,Bodo/Glimt,SK Brann,3,0,Bodø/Glimt,Norway,,,,
+727712,2025-06-22T12:30Z,Vålerenga,Molde,2,3,Oslo,Norway,26.0,0,13.5,22.6
+727715,2025-06-22T15:00Z,Hamarkameratene,Tromso,1,3,Hamar,Norway,137.0,0.2,15.1,19.0
+727716,2025-06-22T15:00Z,KFUM Oslo,Stromsgodset,5,0,Oslo,Norway,26.0,0,12.6,18.9
+727717,2025-06-22T15:00Z,Kristiansund BK,Rosenborg,4,1,Kristiansund,Norway,1.0,0.5,9.1,16.6
+727713,2025-06-22T15:00Z,Sandefjord,Haugesund,4,0,Sandefjord,Norway,11.0,0,7.0,17.7
+727710,2025-06-22T15:00Z,Sarpsborg FK,Bryne,1,1,Sarpsborg,Norway,54.0,0,10.0,19.1
+727711,2025-06-22T17:15Z,Viking FK,Fredrikstad,3,0,Stavanger,Norway,15.0,0,33.4,18.2
+727719,2025-06-28T16:00Z,Rosenborg,Viking FK,1,1,Trondheim,Norway,18.0,0.7,19.4,15.7
+727723,2025-06-29T12:30Z,Haugesund,Kristiansund BK,0,0,Haugesund,Norway,17.0,0.4,31.6,14.1
+727722,2025-06-29T15:00Z,Bodo/Glimt,Sarpsborg FK,1,2,Bodø/Glimt,Norway,,,,
+727725,2025-06-29T15:00Z,Bryne,Hamarkameratene,1,1,Bryne,Norway,33.0,0.4,29.7,13.0
+727720,2025-06-29T15:00Z,Fredrikstad,Tromso,0,1,Fredrikstad,Norway,6.0,0,20.8,22.4
+727718,2025-06-29T15:00Z,Molde,KFUM Oslo,2,3,Molde,Norway,3.0,1.0,26.9,11.6
+727724,2025-06-29T17:15Z,Stromsgodset,Vålerenga,0,2,Drammen,Norway,11.0,0,18.7,19.6
+727721,2025-06-30T17:00Z,SK Brann,Sandefjord,1,0,Bergen,Norway,20.0,0.1,20.1,16.6
+727728,2025-07-05T12:00Z,Hamarkameratene,SK Brann,1,1,Hamar,Norway,137.0,0.3,10.9,13.7
+727732,2025-07-05T14:00Z,Viking FK,Stromsgodset,1,0,Stavanger,Norway,15.0,0.7,14.4,15.0
+727733,2025-07-05T16:00Z,Vålerenga,Fredrikstad,1,1,Oslo,Norway,26.0,0.6,7.1,17.0
+727727,2025-07-05T18:00Z,Kristiansund BK,Bodo/Glimt,1,1,Kristiansund,Norway,1.0,0.5,11.7,16.2
+727731,2025-07-05T20:00Z,Tromso,Molde,1,0,Tromsø,Norway,-9999.0,0,6.6,12.4
+727726,2025-07-06T12:30Z,KFUM Oslo,Bryne,1,1,Oslo,Norway,26.0,0,8.1,20.2
+727729,2025-07-06T12:30Z,Sandefjord,Rosenborg,2,0,Sandefjord,Norway,11.0,0,14.3,18.4
+727730,2025-07-06T12:30Z,Sarpsborg FK,Haugesund,3,1,Sarpsborg,Norway,54.0,0.1,18.1,18.9
+727738,2025-07-12T14:00Z,Bodo/Glimt,Sandefjord,2,0,Bodø/Glimt,Norway,,,,
+727739,2025-07-12T16:00Z,Fredrikstad,Molde,4,2,Fredrikstad,Norway,6.0,0,18.5,28.3
+727734,2025-07-13T12:30Z,Bryne,Vålerenga,1,0,Bryne,Norway,33.0,0.1,10.5,21.0
+727735,2025-07-13T15:00Z,Haugesund,KFUM Oslo,0,2,Haugesund,Norway,17.0,0,10.0,19.9
+727736,2025-07-13T15:00Z,Kristiansund BK,Sarpsborg FK,0,0,Kristiansund,Norway,1.0,0,19.9,29.2
+727741,2025-07-13T15:00Z,Rosenborg,Hamarkameratene,2,0,Trondheim,Norway,18.0,0,15.1,29.1
+727740,2025-07-13T15:00Z,Stromsgodset,Tromso,2,3,Drammen,Norway,11.0,0,11.7,23.9
+727737,2025-07-13T17:15Z,SK Brann,Viking FK,3,1,Bergen,Norway,20.0,0,6.8,21.7
+727667,2025-07-16T16:00Z,Fredrikstad,Bodo/Glimt,0,1,Fredrikstad,Norway,6.0,0,12.4,24.0
+727745,2025-07-18T16:00Z,Sarpsborg FK,Rosenborg,2,2,Sarpsborg,Norway,54.0,0,6.2,26.1
+727748,2025-07-19T12:00Z,KFUM Oslo,SK Brann,2,0,Oslo,Norway,26.0,0,7.9,27.6
+727747,2025-07-19T14:00Z,Molde,Stromsgodset,4,1,Molde,Norway,3.0,0,5.3,25.3
+727746,2025-07-19T16:00Z,Viking FK,Bodo/Glimt,2,4,Stavanger,Norway,15.0,0,6.7,20.3
+727743,2025-07-20T12:30Z,Vålerenga,Haugesund,3,0,Oslo,Norway,26.0,0,6.7,29.6
+727744,2025-07-20T15:00Z,Sandefjord,Kristiansund BK,6,0,Sandefjord,Norway,11.0,0,10.0,29.5
+727742,2025-07-20T15:00Z,Tromso,Bryne,3,1,Tromsø,Norway,-9999.0,0.9,1.7,25.4
+727749,2025-07-20T17:15Z,Hamarkameratene,Fredrikstad,1,1,Hamar,Norway,137.0,0,9.1,26.5
+727751,2025-07-25T17:00Z,Fredrikstad,Stromsgodset,3,2,Fredrikstad,Norway,6.0,0,14.7,22.5
+727750,2025-07-26T14:00Z,Haugesund,Hamarkameratene,0,3,Haugesund,Norway,17.0,0,14.6,18.0
+727754,2025-07-26T14:00Z,Kristiansund BK,KFUM Oslo,0,5,Kristiansund,Norway,1.0,0.2,12.8,18.7
+727755,2025-07-26T14:00Z,Sandefjord,Sarpsborg FK,3,2,Sandefjord,Norway,11.0,0,13.2,24.5
+727752,2025-07-26T16:00Z,Bodo/Glimt,Vålerenga,7,2,Bodø/Glimt,Norway,,,,
+727756,2025-07-27T12:30Z,Bryne,Viking FK,1,3,Bryne,Norway,33.0,0,15.7,17.8
+727753,2025-07-27T12:30Z,Rosenborg,Tromso,4,1,Trondheim,Norway,18.0,0,7.6,18.2
+727675,2025-07-30T17:00Z,Bodo/Glimt,Stromsgodset,1,0,Bodø/Glimt,Norway,,,,
+727759,2025-08-02T14:00Z,Tromso,Fredrikstad,0,0,Tromsø,Norway,-9999.0,0.9,5.5,21.5
+727757,2025-08-02T16:00Z,Sarpsborg FK,SK Brann,1,4,Sarpsborg,Norway,54.0,0,10.6,19.2
+727761,2025-08-03T12:30Z,Hamarkameratene,Bodo/Glimt,1,3,Hamar,Norway,137.0,1.6,11.6,20.0
+727763,2025-08-03T15:00Z,KFUM Oslo,Rosenborg,4,1,Oslo,Norway,26.0,0.7,13.6,19.0
+727762,2025-08-03T15:00Z,Molde,Bryne,2,0,Molde,Norway,3.0,4.2,13.8,16.7
+727760,2025-08-03T15:00Z,Stromsgodset,Haugesund,2,0,Drammen,Norway,11.0,0.1,10.2,21.8
+727758,2025-08-03T15:00Z,Vålerenga,Sandefjord,2,1,Oslo,Norway,26.0,0.7,13.6,19.0
+727764,2025-08-09T14:00Z,Molde,Hamarkameratene,1,0,Molde,Norway,3.0,1.6,6.7,18.3
+727766,2025-08-09T17:15Z,Bodo/Glimt,Tromso,1,1,Bodø/Glimt,Norway,,,,
+727767,2025-08-10T15:00Z,Bryne,KFUM Oslo,0,0,Bryne,Norway,33.0,0.4,17.5,15.2
+727768,2025-08-10T15:00Z,Haugesund,Sarpsborg FK,3,2,Haugesund,Norway,17.0,0,17.5,14.8
+727765,2025-08-10T17:15Z,Sandefjord,Viking FK,1,2,Sandefjord,Norway,11.0,0,13.7,20.3
+727774,2025-08-15T17:00Z,Stromsgodset,Bodo/Glimt,0,5,Drammen,Norway,11.0,0,17.4,21.4
+727772,2025-08-17T12:30Z,Tromso,SK Brann,1,2,Tromsø,Norway,-9999.0,0,17.2,11.5
+727769,2025-08-17T15:00Z,Hamarkameratene,Bryne,1,0,Hamar,Norway,137.0,0,8.8,23.3
+727773,2025-08-17T15:00Z,KFUM Oslo,Molde,0,0,Oslo,Norway,26.0,0,6.5,23.9
+727770,2025-08-17T15:00Z,Kristiansund BK,Sandefjord,2,2,Kristiansund,Norway,1.0,0,11.3,15.9
+727771,2025-08-17T17:15Z,Vålerenga,Sarpsborg FK,4,0,Oslo,Norway,26.0,0,4.1,23.0
+727778,2025-08-22T17:00Z,KFUM Oslo,Hamarkameratene,2,2,Oslo,Norway,26.0,0.1,8.5,11.4
+727777,2025-08-24T12:30Z,Haugesund,Vålerenga,2,3,Haugesund,Norway,17.0,0,22.9,14.4
+727776,2025-08-24T15:00Z,Bryne,Stromsgodset,2,2,Bryne,Norway,33.0,0,24.4,13.7
+727779,2025-08-24T17:15Z,Molde,Tromso,2,0,Molde,Norway,3.0,0,10.3,10.8
+727781,2025-08-25T17:00Z,Sarpsborg FK,Kristiansund BK,0,1,Sarpsborg,Norway,54.0,0,5.5,18.0
+727782,2025-08-30T16:00Z,Vålerenga,Bryne,3,2,Oslo,Norway,26.0,0.2,6.2,16.5
+727789,2025-08-31T12:30Z,Kristiansund BK,SK Brann,2,2,Kristiansund,Norway,1.0,0,6.6,17.7
+727784,2025-08-31T15:00Z,Fredrikstad,Haugesund,2,2,Fredrikstad,Norway,6.0,0,10.3,19.9
+727788,2025-08-31T15:00Z,Hamarkameratene,Sarpsborg FK,1,3,Hamar,Norway,137.0,0,11.4,18.6
+727785,2025-08-31T15:00Z,Sandefjord,Bodo/Glimt,1,2,Sandefjord,Norway,11.0,0,11.7,17.7
+727786,2025-08-31T15:00Z,Tromso,KFUM Oslo,2,0,Tromsø,Norway,-9999.0,0,4.4,17.0
+727787,2025-08-31T15:00Z,Viking FK,Rosenborg,2,1,Stavanger,Norway,15.0,0.5,22.3,16.9
+727783,2025-08-31T17:15Z,Stromsgodset,Molde,3,1,Drammen,Norway,11.0,0,10.1,17.7
+727794,2025-09-12T17:00Z,Bodo/Glimt,Kristiansund BK,7,1,Bodø/Glimt,Norway,,,,
+727792,2025-09-13T14:00Z,Molde,Fredrikstad,1,2,Molde,Norway,3.0,0.3,3.2,14.6
+727793,2025-09-13T16:00Z,SK Brann,Vålerenga,3,2,Bergen,Norway,20.0,0,6.5,14.4
+727790,2025-09-14T12:30Z,Bryne,Tromso,0,2,Bryne,Norway,33.0,0,10.6,15.1
+727795,2025-09-14T15:00Z,Hamarkameratene,Stromsgodset,1,2,Hamar,Norway,137.0,0.3,9.5,14.2
+727797,2025-09-14T15:00Z,KFUM Oslo,Viking FK,2,2,Oslo,Norway,26.0,2.3,14.6,13.1
+727791,2025-09-14T15:00Z,Sarpsborg FK,Sandefjord,2,1,Sarpsborg,Norway,54.0,1.9,11.4,12.7
+727796,2025-09-14T17:15Z,Haugesund,Rosenborg,0,3,Haugesund,Norway,17.0,0,7.2,14.2

@@ -344,3 +344,49 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 725323,2025-06-14T18:45Z,Sligo Rovers,Waterford,1,0,Sligo,Republic of Ireland,13.0,0,16.2,12.8
 725324,2025-06-16T18:45Z,Drogheda United,Shamrock Rovers,1,2,Drogheda,Republic of Ireland,28.0,0,16.6,19.6
 725325,2025-06-16T18:45Z,St Patrick's Athletic,Shelbourne,0,1,Dublin,Republic of Ireland,17.0,0,14.9,20.8
+725327,2025-06-20T18:45Z,Drogheda United,Sligo Rovers,1,0,Drogheda,Republic of Ireland,28.0,0,19.5,20.6
+725328,2025-06-20T18:45Z,Galway United FC,St Patrick's Athletic,3,1,Galway,Republic of Ireland,10.0,0,16.6,20.3
+725330,2025-06-20T18:45Z,Shamrock Rovers,Cork,4,1,Dublin,,17.0,0,15.6,20.8
+725326,2025-06-20T18:45Z,Shelbourne,Derry City,0,1,Dublin,Republic of Ireland,17.0,0,15.6,20.8
+725329,2025-06-20T18:45Z,Waterford,Bohemians,2,1,Waterford,Republic of Ireland,294.0,0.5,9.4,23.6
+725333,2025-06-23T18:45Z,Bohemians,Shamrock Rovers,2,0,Dublin,,17.0,0,22.8,17.3
+725334,2025-06-23T18:45Z,Cork,Drogheda United,1,1,Cork,Republic of Ireland,10.0,0,23.0,18.0
+725331,2025-06-23T18:45Z,Sligo Rovers,Galway United FC,2,1,Sligo,Republic of Ireland,13.0,0,19.1,15.3
+725332,2025-06-23T18:45Z,St Patrick's Athletic,Derry City,0,1,Dublin,Republic of Ireland,17.0,0,22.8,17.3
+725335,2025-06-23T18:45Z,Waterford,Shelbourne,2,2,Waterford,Republic of Ireland,294.0,0,16.6,32.8
+725336,2025-06-27T18:45Z,Bohemians,Sligo Rovers,1,1,Dublin,,17.0,0,21.2,22.0
+725337,2025-06-27T18:45Z,Cork,St Patrick's Athletic,0,0,Cork,Republic of Ireland,10.0,0,23.5,18.6
+725338,2025-06-27T18:45Z,Derry City,Drogheda United,3,0,Derry,Republic of Ireland,24.0,0.1,29.4,18.4
+725339,2025-06-27T18:45Z,Galway United FC,Shelbourne,1,1,Galway,Republic of Ireland,10.0,0.1,32.1,17.5
+725340,2025-06-27T19:00Z,Shamrock Rovers,Waterford,1,0,Dublin,,17.0,0,20.8,21.2
+725341,2025-07-04T18:45Z,Derry City,Waterford,7,2,Derry,Republic of Ireland,24.0,0.2,29.5,15.7
+725344,2025-07-04T18:45Z,Drogheda United,Galway United FC,1,0,Drogheda,Republic of Ireland,28.0,0.2,38.5,16.5
+725343,2025-07-04T18:45Z,Shelbourne,Cork,3,1,Dublin,Republic of Ireland,17.0,0,28.7,17.8
+725342,2025-07-04T18:45Z,St Patrick's Athletic,Bohemians,0,0,Dublin,Republic of Ireland,17.0,0,28.7,17.8
+725345,2025-07-05T18:45Z,Sligo Rovers,Shamrock Rovers,2,2,Sligo,Republic of Ireland,13.0,0.3,17.8,14.3
+725346,2025-07-11T18:45Z,Bohemians,Galway United FC,3,0,Dublin,,17.0,0,12.8,25.6
+725347,2025-07-11T18:45Z,Waterford,Cork,2,0,Waterford,Republic of Ireland,294.0,0.4,12.7,25.1
+725348,2025-07-12T18:45Z,Sligo Rovers,Derry City,2,0,Sligo,Republic of Ireland,13.0,0,15.2,27.0
+725351,2025-07-25T18:45Z,Cork,Sligo Rovers,2,3,Cork,Republic of Ireland,10.0,0,14.8,18.3
+725349,2025-07-25T18:45Z,Derry City,Bohemians,1,1,Derry,Republic of Ireland,24.0,0,17.0,17.4
+725350,2025-07-25T18:45Z,Galway United FC,Waterford,2,4,Galway,Republic of Ireland,10.0,0,17.4,17.6
+725352,2025-08-01T18:45Z,Bohemians,Drogheda United,0,1,Dublin,,17.0,0,15.9,17.5
+725353,2025-08-01T18:45Z,Cork,Galway United FC,1,0,Cork,Republic of Ireland,10.0,0,15.5,17.3
+725356,2025-08-02T18:45Z,Sligo Rovers,Shelbourne,0,2,Sligo,Republic of Ireland,13.0,4.0,19.1,17.4
+725354,2025-08-03T15:00Z,Waterford,St Patrick's Athletic,0,2,Waterford,Republic of Ireland,294.0,0,2.3,22.7
+725355,2025-08-03T18:00Z,Shamrock Rovers,Derry City,2,0,Dublin,,17.0,0.2,9.7,17.9
+725361,2025-08-08T18:45Z,Derry City,Cork,0,0,Derry,Republic of Ireland,24.0,0,28.7,17.0
+725360,2025-08-08T18:45Z,Drogheda United,Waterford,0,0,Drogheda,Republic of Ireland,28.0,0,24.0,18.0
+725358,2025-08-09T16:00Z,Shelbourne,Bohemians,2,2,Dublin,Republic of Ireland,17.0,0,20.7,21.0
+725359,2025-08-10T16:00Z,Galway United FC,Shamrock Rovers,0,0,Galway,Republic of Ireland,10.0,0,25.2,18.8
+725357,2025-08-10T17:00Z,St Patrick's Athletic,Sligo Rovers,3,0,Dublin,Republic of Ireland,17.0,0,12.9,22.2
+725365,2025-08-22T18:45Z,Bohemians,Cork,3,0,Dublin,,17.0,0,6.4,19.0
+725362,2025-08-22T18:45Z,Drogheda United,St Patrick's Athletic,0,1,Drogheda,Republic of Ireland,28.0,0,7.1,19.4
+725363,2025-08-22T18:45Z,Galway United FC,Derry City,1,2,Galway,Republic of Ireland,10.0,0.3,17.1,18.2
+725364,2025-08-22T18:45Z,Waterford,Sligo Rovers,1,2,Waterford,Republic of Ireland,294.0,0,4.3,24.9
+725369,2025-08-29T18:45Z,Cork,Waterford,2,0,Cork,Republic of Ireland,10.0,0,18.4,16.5
+725368,2025-08-29T18:45Z,Derry City,St Patrick's Athletic,2,2,Derry,Republic of Ireland,24.0,0.2,19.8,15.2
+725371,2025-08-30T18:45Z,Sligo Rovers,Bohemians,0,0,Sligo,Republic of Ireland,13.0,0.1,26.4,14.2
+725370,2025-08-31T18:00Z,Shamrock Rovers,Drogheda United,2,1,Dublin,,17.0,0.7,20.6,15.5
+725367,2025-09-07T16:00Z,Shelbourne,Galway United FC,1,0,Dublin,Republic of Ireland,17.0,0.1,17.2,16.0
+725376,2025-09-12T18:45Z,Bohemians,Derry City,3,4,Dublin,,17.0,0.2,14.2,12.9
