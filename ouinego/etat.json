@@ -1,142 +1,16 @@
 {
- "maj": "2026-11-14T09:00+00:00",
+ "maj": "2026-11-15T05:32+00:00",
  "robots": {
-  "ouvertures": {
-   "statut": "ok",
-   "resultat": {
-    "reseaux": {
-     "Boulangerie Ange": {
-      "statut": "ok",
-      "magasins": 325,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.boulangerie-ange.fr/stores/boulangerie-ange-agen/",
-       {
-        "adresse": "non lue sur la page, à vérifier"
-       }
-      ]
-     },
-     "Biocoop": {
-      "statut": "ok",
-      "magasins": 724,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.biocoop.fr/auvergne-rhone-alpes/ain/AMBERIEU-EN-BUGEY/LE-VERT-DE-TERRE",
-       {
-        "cp": "01500",
-        "ville": "AMBERIEU EN BUGEY"
-       }
-      ]
-     },
-     "5àSec": {
-      "statut": "ok",
-      "magasins": 197,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.5asec.fr/fr/magasin/pressing-5-a-sec-labege/",
-       {
-        "cp": "31120",
-        "ville": "Portet sur Garonne"
-       }
-      ]
-     },
-     "Tutti Pizza": {
-      "statut": "ok",
-      "magasins": 74,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.tutti-pizza.com/pizzerias/17000-tutti-matic-la-rochelle/",
-       {
-        "cp": "17000",
-        "ville": "La Rochelle"
-       }
-      ]
-     },
-     "Moustache Glaces": {
-      "statut": "ok",
-      "magasins": 51,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.glaces-moustache.fr/glaciers/glaces-moustache-la-trinite-sur-mer-artisan-glacier/",
-       {
-        "cp": "56470",
-        "ville": "La Trinité-sur-Mer FR"
-       }
-      ]
-     },
-     "Fitness Park": {
-      "statut": "ok",
-      "magasins": 861,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.fitnesspark.fr/club/Blois/",
-       {
-        "cp": "41000",
-        "ville": "Blois"
-       }
-      ]
-     },
-     "Keep Cool": {
-      "statut": "ok",
-      "magasins": 245,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.keepcool.fr/clubs/salle-de-sport-abbeville",
-       {
-        "cp": "80100",
-        "ville": "Abbeville"
-       }
-      ]
-     },
-     "L'Orange Bleue": {
-      "statut": "ok",
-      "magasins": 402,
-      "nouveaux": 0,
-      "pages_sans_magasin_ignorees": 0,
-      "disparus": 0,
-      "test_page": [
-       "https://www.lorangebleue.fr/clubs/agen/",
-       {
-        "cp": "47000",
-        "ville": "Agen"
-       }
-      ]
-     }
-    },
-    "nouveaux": []
-   }
-  },
   "presse": {
    "statut": "ok",
    "resultat": {
     "nouveaux": [
      {
-      "reseau": "Boulangerie Ange",
-      "titre": "On connaît la date d’ouverture de la future boulangerie Ange à Coutances - Ouest-France",
-      "source": "Ouest-France",
-      "publie": "Tue, 10 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkswZ1dJcjR0NDZPeEJrQmtDRGxWMGpzT2NQYlBHVHpNMWxid3lNcTl6cEVjNVVOYS1NRTBqZ2tSSzlQN0tlWEpmQmI0Uzd1dTg5QzhiRjBHaG54N3hTMjhWbEFNd0xmMnVqWUJzUkRiSXR3OTA1ZDYya2RxNDBILUZBdjFBLUl4VDlLWU5XMjdSM1BRSVZFNGNrcEgtZUFBbVh6WDhweGpyMUJ1OHZya0dLUjZOLWplalp1WEdkdlZPVHRTNUxnUVVDU1RQNl9LUkpRSjRZdWhXOTR3UVI4X3JqYjJFbHBWLUE?oc=5"
-     },
-     {
-      "reseau": "Boulangerie Ange",
-      "titre": "« Tant pis, j’irai ailleurs » : le projet d’ouverture d’une boulangerie Ange retardé dans le Haut-Bugey - Le Progrès",
-      "source": "Le Progrès",
-      "publie": "Thu, 12 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbU1NbzFnRjFEQ1dYQjgwaHR5RHItaDRrb0V1Uzk3YkFfTllhTzJ2UGtuNWxMcnlrUnMzYlF2WG5lRFgtWV9rY3Z6SDVxWkt6NXJEMV9xYmdfQkZMazM0bmZSd1B6NE1SNUlUV1gyRXVzbGx6dUdfVm05MHgzWGJIWTdZTjI2SGxQRUhkWFdiY1RaYjRRSUdydmhjdW5IdVRUS3VVLTI1WGkzT3ItRS1vQzBjZmVrNnFuZ0NIdk56RzMxTG53TkxqbVE3UFpqSjdQdUhibmlpU3k?oc=5"
+      "reseau": "B&B Hotels",
+      "titre": "B&B HOTELS inaugure son premier établissement à Venise - InfoTravel.fr",
+      "source": "InfoTravel.fr",
+      "publie": "Sat, 14 Nov 2026",
+      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0NFMEg0T2gxaWpNcmIxRVR4MmV0SDQ5YVIyZEQxenBkT0xnQ1Axb3FvSnhhZnRZVnpMbERxU3RfRFdMWUNhZXk1eEhpYzRzcWJfOGZBanBrMzhzNC02NVo0ZWRuQkhCQW9KYWxOMzF2dVVybGg5ZVlEOGpDZC10TWxaNjllQjFVMkpJUVEyTUFTQnhRb3c?oc=5"
      }
     ],
     "requetes_ko": []
@@ -145,7 +19,15 @@
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [],
+    "alertes": [
+     {
+      "source": "Presse",
+      "date": "2026-11-15",
+      "fournisseur": "",
+      "quoi": "Vitrine du retour des médicaments fabriqués en France, le laboratoire Benta Lyon de nouveau en difficulté - Lyon Mag",
+      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGRwRVdKTkNsVWMzSFRoYU9YOWU0b3B0MFU5dVRVeXg3QVRfN1U2WV9rOHZobzM4SzI2Q0c0SzAzZWwwVlhQRW51RUZRbFlhMk4xX0ZsTTBrUkpQYklIUDdqODBIWHZPbG9UNWZZSTQ1ZGJTUXF3N081U0k2R2JZUHBqMEN2Z3VSemFKclV2R1k4b3BwdkJ4LVpGdXl6U0tUUHVyakdnTXRjOEtyQXpxTFBhblJJNVBSZFk4bkJkejJ2LUFyMjZ3dFZ5MkVYWEdGTUZxMXIyb0xKb1U?oc=5"
+     }
+    ],
     "fournisseurs_suivis": 1373
    }
   },
@@ -153,12 +35,12 @@
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-14",
-    "moy_7j": 249.1,
-    "moy_30j": 208.7,
-    "moy_365j": 93.9,
-    "seuil_bas_20pct": 41.1,
-    "rang_7j_sur_an_pct": 98,
+    "dernier_jour": "2026-11-15",
+    "moy_7j": 228.0,
+    "moy_30j": 204.8,
+    "moy_365j": 94.1,
+    "seuil_bas_20pct": 41.2,
+    "rang_7j_sur_an_pct": 96,
     "alerte": null
    }
   }
