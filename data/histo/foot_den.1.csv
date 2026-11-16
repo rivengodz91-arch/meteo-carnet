@@ -621,3 +621,44 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401874530,2026-09-06T16:00Z,Brøndby IF,Randers FC,0,3,Brøndby,Denmark,11.0,0,13.5,17.2
 401874509,2026-09-07T17:00Z,FC Midtjylland,FC Nordsjælland,2,2,Herning,Denmark,60.0,0,16.9,19.3
 401874540,2026-09-11T17:00Z,F.C. København,AC Horsens,2,0,Copenhagen,Denmark,14.0,0,13.9,16.8
+401874525,2026-09-13T12:00Z,Lyngby Boldklub,Sønderjyske Fodbold,1,1,Lyngby,Denmark,19.0,0,24.7,15.4
+401874528,2026-09-13T12:00Z,Silkeborg IF,Viborg FF,1,1,Silkeborg,Denmark,19.0,0,16.3,16.7
+401874527,2026-09-13T14:00Z,Randers FC,Odense Boldklub,1,2,Randers,Denmark,12.0,0,18.1,16.1
+401874487,2026-09-13T16:00Z,FC Nordsjælland,AGF,2,0,Farum,Denmark,33.0,0,8.9,16.7
+401874539,2026-09-14T17:00Z,FC Midtjylland,Brøndby IF,4,1,Herning,Denmark,60.0,0,6.0,15.3
+401874503,2026-09-18T17:00Z,Lyngby Boldklub,Silkeborg IF,0,4,Lyngby,Denmark,19.0,0,25.3,14.9
+401874536,2026-09-19T16:00Z,Odense Boldklub,FC Midtjylland,1,1,Odense,Denmark,17.0,0.1,27.3,17.4
+401874554,2026-09-20T12:00Z,Brøndby IF,F.C. København,0,1,Brøndby,Denmark,11.0,1.2,24.6,14.9
+401874534,2026-09-20T12:00Z,Sønderjyske Fodbold,Randers FC,4,2,Haderslev,Denmark,13.0,0.7,26.6,14.7
+401874529,2026-09-20T14:00Z,AC Horsens,AGF,2,2,Horsens,Denmark,4.0,0.8,24.9,13.4
+401874495,2026-09-20T16:00Z,Viborg FF,FC Nordsjælland,4,1,Viborg,Denmark,50.0,0.8,27.9,11.7
+401874517,2026-10-09T17:00Z,FC Nordsjælland,Odense Boldklub,0,0,Farum,Denmark,33.0,0.1,13.0,10.1
+401874724,2026-10-11T12:00Z,Randers FC,Viborg FF,0,2,Randers,Denmark,12.0,0,17.4,9.2
+401874726,2026-10-11T12:00Z,Silkeborg IF,AC Horsens,3,3,Silkeborg,Denmark,19.0,0.1,19.1,9.6
+401874521,2026-10-11T14:00Z,Brøndby IF,Lyngby Boldklub,5,2,Brøndby,Denmark,11.0,1.1,16.8,9.9
+401874498,2026-10-11T16:00Z,FC Midtjylland,F.C. København,2,1,Herning,Denmark,60.0,0,15.0,8.6
+401874516,2026-10-12T17:00Z,AGF,Sønderjyske Fodbold,3,0,Risskov,Denmark,3.0,0,7.5,9.0
+401874728,2026-10-16T17:00Z,AC Horsens,Randers FC,0,0,Horsens,Denmark,4.0,0,15.6,11.7
+401874542,2026-10-18T12:00Z,Lyngby Boldklub,FC Nordsjælland,3,3,Lyngby,Denmark,19.0,0,14.8,11.6
+401874565,2026-10-18T12:00Z,Sønderjyske Fodbold,Silkeborg IF,4,0,Haderslev,Denmark,13.0,0,21.8,10.5
+401874548,2026-10-18T14:00Z,Odense Boldklub,Brøndby IF,2,1,Odense,Denmark,17.0,0,15.9,10.1
+401874551,2026-10-18T16:00Z,F.C. København,AGF,1,1,Copenhagen,Denmark,14.0,0,16.0,10.0
+401874524,2026-10-19T17:00Z,Viborg FF,FC Midtjylland,1,2,Viborg,Denmark,50.0,0,9.9,6.5
+401874550,2026-10-23T17:00Z,Randers FC,Brøndby IF,1,3,Randers,Denmark,12.0,0.6,19.1,10.2
+401874547,2026-10-25T13:00Z,FC Midtjylland,Lyngby Boldklub,3,2,Herning,Denmark,60.0,1.4,23.8,10.0
+401874735,2026-10-25T13:00Z,Silkeborg IF,FC Nordsjælland,1,1,Silkeborg,Denmark,19.0,1.3,24.3,9.4
+401874546,2026-10-25T15:00Z,AC Horsens,Sønderjyske Fodbold,5,1,Horsens,Denmark,4.0,0.3,28.0,9.9
+401874553,2026-10-25T17:00Z,AGF,Viborg FF,2,1,Risskov,Denmark,3.0,0.2,26.9,9.2
+401874531,2026-10-26T18:00Z,F.C. København,Odense Boldklub,1,1,Copenhagen,Denmark,14.0,0,18.8,10.7
+401874738,2026-10-30T18:00Z,Lyngby Boldklub,Randers FC,2,1,Lyngby,Denmark,19.0,0,8.5,10.7
+401874571,2026-11-01T13:00Z,Odense Boldklub,Silkeborg IF,4,1,Odense,Denmark,17.0,0,12.9,10.0
+401874491,2026-11-01T13:00Z,Viborg FF,AC Horsens,1,0,Viborg,Denmark,50.0,0,12.9,12.2
+401874519,2026-11-01T15:00Z,FC Nordsjælland,FC Midtjylland,2,3,Farum,Denmark,33.0,0,10.7,8.6
+401874544,2026-11-01T17:00Z,Brøndby IF,AGF,2,0,Brøndby,Denmark,11.0,0,10.5,9.2
+401874494,2026-11-02T18:00Z,Sønderjyske Fodbold,F.C. København,0,2,Haderslev,Denmark,13.0,0,19.8,9.0
+401874537,2026-11-06T18:00Z,Silkeborg IF,Lyngby Boldklub,1,0,Silkeborg,Denmark,19.0,0,6.1,3.0
+401874499,2026-11-07T17:00Z,Odense Boldklub,Viborg FF,1,2,Odense,Denmark,17.0,0,11.2,5.1
+401874488,2026-11-08T11:00Z,F.C. København,Brøndby IF,1,0,Copenhagen,Denmark,14.0,0,15.1,6.0
+401874570,2026-11-08T13:00Z,AGF,AC Horsens,2,0,Risskov,Denmark,3.0,0,12.4,6.9
+401874562,2026-11-08T15:00Z,Randers FC,FC Nordsjælland,1,6,Randers,Denmark,12.0,0,6.4,6.0
+401874556,2026-11-08T17:00Z,FC Midtjylland,Sønderjyske Fodbold,2,2,Herning,Denmark,60.0,0,9.8,6.1

@@ -784,3 +784,57 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401843430,2026-09-06T17:15Z,Kristiansund BK,Tromso,2,0,Kristiansund,Norway,1.0,0,8.3,12.5
 401873905,2026-09-12T14:00Z,Lillestrom,Vålerenga,2,0,Lillestrøm,Norway,116.0,0.1,17.2,14.0
 401873926,2026-09-12T16:00Z,Rosenborg,Tromso,5,3,Trondheim,Norway,18.0,0,13.8,15.6
+401843437,2026-09-13T12:30Z,Viking FK,Kristiansund BK,8,1,Stavanger,Norway,15.0,0,16.8,13.9
+401843442,2026-09-13T15:00Z,Hamarkameratene,Molde,1,5,Hamar,Norway,137.0,0,8.2,16.1
+401843438,2026-09-13T15:00Z,IK Start,SK Brann,2,0,Kristiansund,Norway,1.0,0,21.2,11.5
+401843441,2026-09-13T15:00Z,KFUM Oslo,Aalesund,2,1,Oslo,Norway,26.0,0,5.0,17.3
+401843436,2026-09-13T17:15Z,Fredrikstad,Sarpsborg FK,1,1,Fredrikstad,Norway,6.0,0,4.1,16.2
+401843435,2026-09-14T17:00Z,Bodo/Glimt,Sandefjord,3,2,Bodø/Glimt,Norway,,,,
+401873932,2026-09-18T17:00Z,Sarpsborg FK,KFUM Oslo,1,3,Sarpsborg,Norway,54.0,0,21.6,14.5
+401873922,2026-09-19T14:00Z,Kristiansund BK,Rosenborg,1,3,Kristiansund,Norway,1.0,1.0,10.7,12.2
+401873903,2026-09-19T16:00Z,Molde,Aalesund,1,2,Molde,Norway,3.0,1.9,16.3,10.9
+401843450,2026-09-20T12:30Z,Vålerenga,Fredrikstad,1,1,Oslo,Norway,26.0,0,17.4,15.1
+401843447,2026-09-20T15:00Z,Sandefjord,IK Start,3,0,Sandefjord,Norway,11.0,0,19.5,16.8
+401843445,2026-09-20T15:00Z,Tromso,Hamarkameratene,3,2,Tromsø,Norway,-9999.0,0,8.8,10.1
+401843444,2026-09-20T15:00Z,Viking FK,Lillestrom,3,0,Stavanger,Norway,15.0,0.4,34.3,12.6
+401843443,2026-09-20T17:15Z,SK Brann,Bodo/Glimt,2,1,Bergen,Norway,20.0,1.3,23.7,9.7
+401843455,2026-10-09T17:00Z,SK Brann,Viking FK,0,2,Bergen,Norway,20.0,3.2,9.9,6.9
+401843456,2026-10-10T14:00Z,Bodo/Glimt,Kristiansund BK,3,1,Bodø/Glimt,Norway,,,,
+401843451,2026-10-10T16:00Z,Rosenborg,Sandefjord,1,1,Trondheim,Norway,18.0,0,18.6,7.1
+401843454,2026-10-11T12:30Z,Fredrikstad,Tromso,1,1,Fredrikstad,Norway,6.0,0,19.5,5.6
+401843457,2026-10-11T15:00Z,Aalesund,Sarpsborg FK,2,4,Aalesunds,Norway,,,,
+401843458,2026-10-11T15:00Z,IK Start,Hamarkameratene,2,4,Kristiansund,Norway,1.0,0,2.2,10.7
+401843452,2026-10-11T17:15Z,Lillestrom,Molde,2,2,Lillestrøm,Norway,116.0,0.3,13.6,3.0
+401843453,2026-10-12T17:00Z,KFUM Oslo,Vålerenga,2,1,Oslo,Norway,26.0,0,6.3,5.6
+401843465,2026-10-17T12:00Z,Hamarkameratene,Bodo/Glimt,0,2,Hamar,Norway,137.0,0,7.1,8.8
+401843464,2026-10-17T14:00Z,Kristiansund BK,Aalesund,1,4,Kristiansund,Norway,1.0,1.1,19.2,7.3
+401843459,2026-10-17T16:00Z,Viking FK,Fredrikstad,3,2,Stavanger,Norway,15.0,0,19.7,10.0
+401843461,2026-10-18T12:30Z,Sarpsborg FK,Rosenborg,0,3,Sarpsborg,Norway,54.0,0,2.7,10.3
+401843463,2026-10-18T15:00Z,Molde,IK Start,6,1,Molde,Norway,3.0,0,4.2,9.4
+401843462,2026-10-18T15:00Z,Sandefjord,Lillestrom,0,2,Sandefjord,Norway,11.0,0,3.6,8.2
+401843466,2026-10-18T15:00Z,Vålerenga,SK Brann,3,1,Oslo,Norway,26.0,0,0.3,7.7
+401843460,2026-10-18T17:15Z,Tromso,KFUM Oslo,1,1,Tromsø,Norway,-9999.0,0.1,22.2,6.2
+401843372,2026-10-24T14:00Z,Bodo/Glimt,Vålerenga,0,1,Bodø/Glimt,Norway,,,,
+401843371,2026-10-24T16:00Z,Hamarkameratene,Rosenborg,0,3,Hamar,Norway,137.0,0.4,17.0,8.0
+401843373,2026-10-25T13:30Z,Viking FK,Tromso,3,1,Stavanger,Norway,15.0,0.6,24.3,9.8
+401843366,2026-10-25T16:00Z,IK Start,Sandefjord,1,0,Kristiansund,Norway,1.0,0,22.3,9.9
+401843370,2026-10-25T16:00Z,Kristiansund BK,KFUM Oslo,2,2,Kristiansund,Norway,1.0,0,22.3,9.9
+401843369,2026-10-25T16:00Z,Lillestrom,SK Brann,3,2,Lillestrøm,Norway,116.0,1.9,18.9,6.5
+401843367,2026-10-25T16:00Z,Sarpsborg FK,Aalesund,2,1,Sarpsborg,Norway,54.0,3.7,19.6,8.1
+401843368,2026-10-25T18:15Z,Molde,Fredrikstad,5,1,Molde,Norway,3.0,0,16.7,10.4
+401843468,2026-10-30T18:00Z,Bodo/Glimt,Viking FK,3,2,Bodø/Glimt,Norway,,,,
+401843473,2026-10-31T15:00Z,Fredrikstad,Rosenborg,0,3,Fredrikstad,Norway,6.0,0,5.5,9.6
+401843467,2026-10-31T17:00Z,Aalesund,Sandefjord,3,4,Aalesunds,Norway,,,,
+401843474,2026-11-01T13:30Z,SK Brann,Molde,3,2,Bergen,Norway,20.0,0,15.7,9.9
+401843470,2026-11-01T16:00Z,IK Start,Lillestrom,0,1,Kristiansund,Norway,1.0,0,5.5,5.7
+401843472,2026-11-01T16:00Z,KFUM Oslo,Hamarkameratene,2,2,Oslo,Norway,26.0,0,4.6,7.0
+401843471,2026-11-01T16:00Z,Sarpsborg FK,Kristiansund BK,2,4,Sarpsborg,Norway,54.0,0,7.8,8.4
+401843469,2026-11-01T18:15Z,Vålerenga,Tromso,4,0,Oslo,Norway,26.0,0,12.4,6.7
+401843478,2026-11-07T17:00Z,Rosenborg,IK Start,4,1,Trondheim,Norway,18.0,0.3,17.2,6.6
+401843476,2026-11-08T13:30Z,Tromso,Bodo/Glimt,0,2,Tromsø,Norway,-9999.0,3.3,9.6,5.0
+401843481,2026-11-08T16:00Z,Hamarkameratene,Sarpsborg FK,3,0,Hamar,Norway,137.0,0,0.2,-0.6
+401843479,2026-11-08T16:00Z,Lillestrom,Aalesund,3,2,Lillestrøm,Norway,116.0,0,2.2,-1.7
+401843477,2026-11-08T16:00Z,Sandefjord,Molde,5,5,Sandefjord,Norway,11.0,0,8.1,-0.7
+401843482,2026-11-08T16:00Z,Viking FK,KFUM Oslo,5,1,Stavanger,Norway,15.0,0,8.1,5.4
+401843475,2026-11-08T18:15Z,Fredrikstad,SK Brann,2,2,Fredrikstad,Norway,6.0,0,5.9,1.8
+401843480,2026-11-09T18:00Z,Kristiansund BK,Vålerenga,1,0,Kristiansund,Norway,1.0,0.1,17.2,7.9

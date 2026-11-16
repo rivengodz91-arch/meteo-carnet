@@ -1079,3 +1079,81 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401876982,2026-09-12T23:05Z,Toluca,Atlas,5,2,Toluca,Mexico,2671.0,0.2,3.4,18.1
 401876974,2026-09-13T01:10Z,Monterrey,Tigres UANL,0,0,Guadalupe,Mexico,496.0,0,5.0,32.8
 401876981,2026-09-13T03:15Z,Cruz Azul,América,4,3,Mexico City,Mexico,2240.0,0.5,3.1,15.9
+401876976,2026-09-14T01:00Z,Santos,FC Juárez,2,1,Torreón,Mexico,1124.0,0,10.8,30.4
+401876975,2026-09-14T01:07Z,Guadalajara,Pumas UNAM,3,0,Guadalajara,Mexico,1546.0,5.5,3.5,19.1
+401876977,2026-09-15T01:00Z,León,Atlético de San Luis,2,0,León de los Aldamas,Mexico,,,,
+401876991,2026-09-16T01:00Z,Puebla,Toluca,0,1,Puebla,Mexico,2166.0,0.2,4.3,19.9
+401876973,2026-09-19T01:00Z,Puebla,Atlante,1,1,Puebla,Mexico,2166.0,0.4,4.0,18.9
+401876972,2026-09-19T03:00Z,FC Juárez,Tigres UANL,2,0,Ciudad Juárez,Mexico,1124.0,0,4.1,25.8
+401876971,2026-09-19T23:00Z,Atlas,Pumas UNAM,1,1,Guadalajara,Mexico,1546.0,0,1.4,26.0
+401876970,2026-09-19T23:00Z,Atlético de San Luis,Necaxa,3,1,San Luis Potosi,Mexico,1886.0,0.5,10.9,24.7
+401876969,2026-09-20T01:10Z,Monterrey,Cruz Azul,1,0,Guadalupe,Mexico,496.0,0,11.4,31.8
+401876968,2026-09-20T03:15Z,América,Guadalajara,2,2,Mexico City,Mexico,2240.0,0.5,4.1,15.7
+401876967,2026-09-21T00:00Z,Pachuca,Tijuana,2,2,Pachuca,Mexico,2393.0,0,13.6,18.3
+401876966,2026-09-21T00:00Z,Toluca,Santos,2,3,Toluca,Mexico,2671.0,0.1,3.1,17.8
+401876965,2026-09-21T02:10Z,Querétaro,León,1,1,Santiago de Querétaro,Mexico,1826.0,0,14.9,24.5
+401876964,2026-09-26T01:00Z,Atlante,Monterrey,4,2,Mexico City,Mexico,2240.0,1.6,10.8,17.1
+401876963,2026-09-26T03:00Z,Tijuana,Atlas,2,3,Tijuana,Mexico,97.0,0,5.1,22.0
+401876959,2026-09-26T22:50Z,Cruz Azul,Toluca,3,3,Mexico City,Mexico,2240.0,1.1,9.4,24.5
+401876962,2026-09-26T23:07Z,Guadalajara,Querétaro,0,2,Guadalajara,Mexico,1546.0,0,6.9,27.6
+401876961,2026-09-27T03:05Z,Santos,Pachuca,1,0,Torreón,Mexico,1124.0,0,13.3,31.5
+401876960,2026-09-27T03:10Z,Tigres UANL,Puebla,1,0,San Nicolás de los Garza,Mexico,510.0,0,15.6,30.2
+401876958,2026-09-27T18:00Z,Pumas UNAM,Atlético de San Luis,2,3,Mexico City,Mexico,2240.0,0.2,3.3,23.1
+401876957,2026-09-28T01:00Z,León,FC Juárez,2,1,León de los Aldamas,Mexico,,,,
+401876956,2026-09-28T03:10Z,Necaxa,América,2,4,Aguascalientes,Mexico,1885.0,0,11.3,22.9
+401876954,2026-10-10T01:00Z,Puebla,León,1,1,Puebla,Mexico,2166.0,2.7,3.8,15.7
+401876953,2026-10-10T03:00Z,Tigres UANL,Toluca,3,2,San Nicolás de los Garza,Mexico,510.0,0,3.7,23.9
+401876952,2026-10-10T23:00Z,FC Juárez,Tijuana,1,1,Ciudad Juárez,Mexico,1124.0,0,13.7,29.4
+401876955,2026-10-10T23:00Z,Querétaro,Atlante,2,0,Santiago de Querétaro,Mexico,1826.0,0.3,10.9,16.6
+401876951,2026-10-11T01:00Z,Atlas,Guadalajara,1,1,Guadalajara,Mexico,1546.0,2.6,7.6,16.9
+401876950,2026-10-11T03:10Z,América,Monterrey,1,1,Mexico City,Mexico,2240.0,0.2,1.5,15.8
+401876948,2026-10-11T23:00Z,Atlético de San Luis,Santos,1,2,San Luis Potosi,Mexico,1886.0,0,13.9,20.2
+401876949,2026-10-11T23:10Z,Pachuca,Necaxa,3,3,Pachuca,Mexico,2393.0,0.7,10.4,16.6
+401876947,2026-10-12T01:15Z,Pumas UNAM,Cruz Azul,3,3,Mexico City,Mexico,2240.0,4.6,3.6,16.6
+401876946,2026-10-17T01:00Z,Necaxa,Atlas,0,2,Aguascalientes,Mexico,1885.0,0,20.4,18.6
+401876945,2026-10-17T03:00Z,Atlante,Pumas UNAM,1,2,Mexico City,Mexico,2240.0,1.6,12.4,14.5
+401876944,2026-10-17T03:05Z,Tijuana,Puebla,0,0,Tijuana,Mexico,97.0,0,2.9,27.1
+401876942,2026-10-17T23:00Z,Santos,Querétaro,5,0,Torreón,Mexico,1124.0,0,10.2,17.4
+401876943,2026-10-17T23:07Z,Guadalajara,Tigres UANL,1,1,Guadalajara,Mexico,1546.0,0,12.4,21.6
+401876941,2026-10-18T01:00Z,León,América,3,5,León de los Aldamas,Mexico,,,,
+401876940,2026-10-18T01:00Z,Toluca,Atlético de San Luis,1,1,Toluca,Mexico,2671.0,0.1,2.5,12.2
+401876939,2026-10-18T03:10Z,Cruz Azul,FC Juárez,5,0,Mexico City,Mexico,2240.0,0,11.0,12.5
+401876938,2026-10-19T01:00Z,Monterrey,Pachuca,2,1,Guadalupe,Mexico,496.0,0,2.6,15.0
+401876934,2026-10-21T00:07Z,Guadalajara,Necaxa,1,0,Guadalajara,Mexico,1546.0,0,4.6,28.4
+401876937,2026-10-21T01:00Z,Atlético de San Luis,Querétaro,2,1,San Luis Potosi,Mexico,1886.0,0,8.5,16.0
+401876936,2026-10-21T01:00Z,FC Juárez,Atlante,0,1,Ciudad Juárez,Mexico,1124.0,0,9.4,25.4
+401876935,2026-10-21T03:10Z,Tigres UANL,León,0,2,San Nicolás de los Garza,Mexico,510.0,0,2.6,21.3
+401876932,2026-10-22T01:00Z,Atlas,América,2,5,Guadalajara,Mexico,1546.0,0,9.2,27.2
+401876933,2026-10-22T01:00Z,Puebla,Monterrey,1,4,Puebla,Mexico,2166.0,0,4.4,16.9
+401876931,2026-10-22T01:00Z,Toluca,Tijuana,2,2,Toluca,Mexico,2671.0,0,3.8,14.8
+401876930,2026-10-22T03:10Z,Pachuca,Cruz Azul,1,2,Pachuca,Mexico,2393.0,2.0,10.8,12.9
+401876929,2026-10-22T03:10Z,Santos,Pumas UNAM,2,0,Torreón,Mexico,1124.0,0,11.5,24.4
+401876928,2026-10-24T01:00Z,Necaxa,FC Juárez,1,1,Aguascalientes,Mexico,1885.0,0,10.5,21.2
+401876927,2026-10-24T03:00Z,Atlante,Atlético de San Luis,0,1,Mexico City,Mexico,2240.0,0,13.8,15.9
+401876926,2026-10-24T23:00Z,León,Toluca,1,1,León de los Aldamas,Mexico,,,,
+401876925,2026-10-25T01:00Z,Monterrey,Guadalajara,0,1,Guadalupe,Mexico,496.0,0,8.9,22.1
+401876924,2026-10-25T03:10Z,Pumas UNAM,Tigres UANL,1,1,Mexico City,Mexico,2240.0,0,12.5,15.7
+401876923,2026-10-25T23:00Z,Atlas,Puebla,4,3,Guadalajara,Mexico,1546.0,0,11.3,24.5
+401876921,2026-10-26T01:00Z,Querétaro,Cruz Azul,1,3,Santiago de Querétaro,Mexico,1826.0,0.2,13.4,14.4
+401876922,2026-10-26T01:05Z,América,Pachuca,1,2,Mexico City,Mexico,2240.0,0.2,10.9,15.9
+401876920,2026-10-26T03:10Z,Tijuana,Santos,4,1,Tijuana,Mexico,97.0,0,6.3,21.5
+401876986,2026-10-29T03:00Z,América,Tijuana,1,1,Mexico City,Mexico,2240.0,0.2,8.3,17.1
+401876919,2026-10-31T01:00Z,Atlético de San Luis,Atlas,0,1,San Luis Potosi,Mexico,1886.0,0,9.7,21.4
+401876918,2026-10-31T01:00Z,FC Juárez,Querétaro,3,1,Ciudad Juárez,Mexico,1124.0,1.6,4.9,18.6
+401876917,2026-10-31T03:00Z,Puebla,Pumas UNAM,1,2,Puebla,Mexico,2166.0,0,0.5,16.9
+401876916,2026-10-31T23:00Z,Pachuca,Tigres UANL,3,0,Pachuca,Mexico,2393.0,0,18.0,17.7
+401876914,2026-11-01T01:05Z,Monterrey,Tijuana,3,3,Guadalupe,Mexico,496.0,0,5.1,23.3
+401876915,2026-11-01T01:07Z,Guadalajara,Atlante,4,2,Guadalajara,Mexico,1546.0,0,5.6,25.3
+401876913,2026-11-01T03:10Z,América,Toluca,2,2,Mexico City,Mexico,2240.0,0,11.7,18.5
+401876912,2026-11-01T23:00Z,Santos,Necaxa,1,0,Torreón,Mexico,1124.0,0,7.6,29.2
+401876911,2026-11-02T01:10Z,Cruz Azul,León,2,1,Mexico City,Mexico,2240.0,0,10.3,21.4
+401876910,2026-11-07T01:00Z,Atlético de San Luis,FC Juárez,0,1,San Luis Potosi,Mexico,1886.0,0,16.4,18.6
+401876909,2026-11-07T01:00Z,Necaxa,Tijuana,1,0,Aguascalientes,Mexico,1885.0,0,5.9,21.6
+401876908,2026-11-07T03:00Z,Atlante,Santos,0,2,Mexico City,Mexico,2240.0,0.2,7.1,15.3
+401876907,2026-11-07T23:00Z,Atlas,Pachuca,1,4,Guadalajara,Mexico,1546.0,0,3.0,27.3
+401876906,2026-11-08T01:00Z,Tigres UANL,Cruz Azul,2,3,San Nicolás de los Garza,Mexico,510.0,1.2,7.6,19.5
+401876905,2026-11-08T01:00Z,Toluca,Monterrey,4,0,Toluca,Mexico,2671.0,0,4.2,14.6
+401876904,2026-11-08T03:10Z,Pumas UNAM,América,2,2,Mexico City,Mexico,2240.0,0,11.0,17.3
+401876903,2026-11-09T00:00Z,Querétaro,Puebla,0,2,Santiago de Querétaro,Mexico,1826.0,0,14.0,25.5
+401876902,2026-11-09T02:10Z,León,Guadalajara,1,1,León de los Aldamas,Mexico,,,,
+401876988,2026-11-14T23:00Z,Querétaro,Monterrey,0,1,Santiago de Querétaro,Mexico,1826.0,0,7.7,21.6

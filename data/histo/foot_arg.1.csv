@@ -1350,3 +1350,116 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401841567,2026-09-12T17:45Z,Independiente Rivadavia,Aldosivi,4,3,Mendoza,Argentina,853.0,0,18.0,5.2
 401841559,2026-09-12T20:30Z,Atlético Tucumán,River Plate,1,2,Tucuman,Argentina,735.0,0,43.6,8.9
 401841563,2026-09-12T23:00Z,Talleres (Córdoba),Unión (Santa Fe),2,1,Córdoba,Argentina,378.0,0.6,14.0,5.0
+401841564,2026-09-13T17:45Z,Sarmiento (Junín),Belgrano (Córdoba),1,1,Junin,Argentina,73.0,0,6.5,11.0
+401841562,2026-09-13T17:45Z,Tigre,Rosario Central,0,1,Buenos Aires,Argentina,31.0,0,5.2,10.6
+401841560,2026-09-13T20:00Z,Argentinos Juniors,Gimnasia La Plata,1,1,Buenos Aires,Argentina,31.0,0,10.9,9.8
+401841568,2026-09-13T22:15Z,Independiente,San Lorenzo,1,1,Avellaneda,Argentina,13.0,0,6.5,9.0
+401841561,2026-09-14T00:30Z,Huracán,Racing Club,2,1,Buenos Aires,Argentina,31.0,0,8.6,8.3
+401841558,2026-09-14T22:00Z,Banfield,Barracas Central,1,1,Buenos Aires,Argentina,31.0,0,9.2,12.1
+401841555,2026-09-14T22:00Z,Deportivo Riestra,Lanús,0,3,Buenos Aires,Argentina,31.0,0,9.2,12.1
+401841566,2026-09-15T00:15Z,Instituto (Córdoba),Estudiantes de Río Cuarto,2,1,Córdoba,Argentina,378.0,0,4.1,10.5
+401841572,2026-09-18T21:00Z,Central Córdoba (Santiago del Estero),Defensa y Justicia,2,2,Santiago del Estero,Argentina,176.0,0,12.9,27.7
+401841580,2026-09-19T00:15Z,Racing Club,Sarmiento (Junín),3,1,Buenos Aires,Argentina,31.0,0,11.2,18.2
+401841574,2026-09-19T17:30Z,Gimnasia (Mendoza),Deportivo Riestra,0,0,Mendoza,Argentina,853.0,0,9.4,25.7
+401841573,2026-09-19T17:30Z,Gimnasia La Plata,Banfield,2,2,La Plata,Argentina,27.0,0,10.9,20.5
+401841576,2026-09-19T19:45Z,Unión (Santa Fe),Independiente,1,2,"Rosario, Santa Fe",Argentina,38.0,0,8.4,26.9
+401841579,2026-09-19T22:00Z,River Plate,Huracán,1,2,Buenos Aires,Argentina,31.0,0,8.8,18.3
+401841575,2026-09-20T00:15Z,Instituto (Córdoba),Talleres (Córdoba),3,1,Córdoba,Argentina,378.0,0,12.8,21.3
+401841577,2026-09-20T17:45Z,San Lorenzo,Boca Juniors,0,2,Buenos Aires,Argentina,31.0,1.9,7.7,23.0
+401841581,2026-09-20T20:00Z,Platense,Newell's Old Boys,0,1,Buenos Aires,Argentina,31.0,1.7,23.5,18.4
+401841578,2026-09-20T20:00Z,Rosario Central,Argentinos Juniors,1,0,Rosario,Argentina,38.0,0.5,10.1,18.9
+401841571,2026-09-20T22:15Z,Belgrano (Córdoba),Estudiantes de Río Cuarto,2,1,Córdoba,Argentina,378.0,0.1,16.0,20.2
+401841570,2026-09-21T00:30Z,Vélez Sarsfield,Tigre,3,2,Buenos Aires,Argentina,31.0,0,9.1,15.5
+401841569,2026-09-21T17:30Z,Aldosivi,Atlético Tucumán,1,0,Buenos Aires,Argentina,31.0,0,31.7,15.9
+401841583,2026-09-21T22:00Z,Barracas Central,Independiente Rivadavia,0,1,Buenos Aires,Argentina,31.0,0,21.4,13.4
+401841582,2026-09-22T00:15Z,Lanús,Estudiantes de La Plata,2,1,Buenos Aires,Argentina,31.0,0,20.2,11.3
+401841588,2026-10-02T22:15Z,Independiente,Instituto (Córdoba),1,4,Avellaneda,Argentina,13.0,0.3,13.3,14.0
+401841594,2026-10-03T00:30Z,Boca Juniors,Unión (Santa Fe),3,0,Buenos Aires,Argentina,31.0,0.1,15.4,14.7
+401841587,2026-10-03T00:30Z,Independiente Rivadavia,Gimnasia La Plata,1,1,Mendoza,Argentina,853.0,0,13.9,21.6
+401841593,2026-10-03T17:45Z,Defensa y Justicia,San Lorenzo,3,0,Buenos Aires,Argentina,31.0,0,10.9,15.9
+401841596,2026-10-03T20:00Z,Atlético Tucumán,Barracas Central,2,3,Tucuman,Argentina,735.0,0,22.2,30.9
+401841586,2026-10-03T20:00Z,Newell's Old Boys,Lanús,0,0,Rosario,Argentina,38.0,0,12.4,19.8
+401841589,2026-10-04T17:45Z,Huracán,Aldosivi,1,0,Buenos Aires,Argentina,31.0,0,2.9,22.1
+401841584,2026-10-04T20:00Z,Talleres (Córdoba),Belgrano (Córdoba),0,1,Córdoba,Argentina,378.0,0,16.8,21.5
+401841597,2026-10-04T22:15Z,Argentinos Juniors,Tigre,2,1,Buenos Aires,Argentina,31.0,0,8.0,17.6
+401841591,2026-10-05T00:30Z,Estudiantes de Río Cuarto,Racing Club,1,2,Rio Cuarto,Argentina,429.0,0,17.6,16.9
+401841592,2026-10-05T19:45Z,Deportivo Riestra,Central Córdoba (Santiago del Estero),1,1,Buenos Aires,Argentina,31.0,0,12.8,20.7
+401841590,2026-10-05T22:00Z,Estudiantes de La Plata,Gimnasia (Mendoza),3,0,La Plata,Argentina,27.0,0,6.2,16.0
+401841585,2026-10-05T22:00Z,Vélez Sarsfield,Platense,2,2,Buenos Aires,Argentina,31.0,0,9.9,18.4
+401841595,2026-10-06T00:15Z,Banfield,Rosario Central,1,1,Buenos Aires,Argentina,31.0,0,9.3,17.5
+401841612,2026-10-09T17:30Z,Aldosivi,Sarmiento (Junín),1,3,Buenos Aires,Argentina,31.0,0.1,17.0,16.3
+401841609,2026-10-09T21:00Z,Gimnasia La Plata,Atlético Tucumán,1,1,La Plata,Argentina,27.0,0,20.3,13.8
+401841607,2026-10-09T22:30Z,Instituto (Córdoba),Boca Juniors,2,2,Córdoba,Argentina,378.0,0,8.8,12.8
+401841613,2026-10-10T00:45Z,Unión (Santa Fe),Defensa y Justicia,0,2,"Rosario, Santa Fe",Argentina,38.0,0,10.5,14.1
+401841611,2026-10-10T18:45Z,Barracas Central,Huracán,2,0,Buenos Aires,Argentina,31.0,0.9,9.8,15.4
+401841610,2026-10-10T20:00Z,Central Córdoba (Santiago del Estero),Estudiantes de La Plata,2,2,Santiago del Estero,Argentina,176.0,0,12.9,19.5
+401841599,2026-10-10T22:15Z,Tigre,Banfield,1,2,Buenos Aires,Argentina,31.0,0,9.6,13.8
+401841603,2026-10-11T00:30Z,River Plate,Estudiantes de Río Cuarto,1,0,Buenos Aires,Argentina,31.0,0,9.5,12.9
+401841601,2026-10-11T17:45Z,San Lorenzo,Deportivo Riestra,1,0,Buenos Aires,Argentina,31.0,0,8.2,15.8
+401841605,2026-10-11T20:00Z,Platense,Argentinos Juniors,1,1,Buenos Aires,Argentina,31.0,0,8.3,15.0
+401841602,2026-10-11T20:00Z,Rosario Central,Independiente Rivadavia,5,0,Rosario,Argentina,38.0,0,10.5,16.5
+401841604,2026-10-11T22:15Z,Racing Club,Belgrano (Córdoba),0,2,Buenos Aires,Argentina,31.0,0,8.0,13.9
+401841600,2026-10-12T00:30Z,Talleres (Córdoba),Independiente,0,0,Córdoba,Argentina,378.0,0,3.7,13.2
+401841606,2026-10-12T19:00Z,Lanús,Vélez Sarsfield,2,0,Buenos Aires,Argentina,31.0,0,16.9,15.6
+401841608,2026-10-12T21:30Z,Gimnasia (Mendoza),Newell's Old Boys,1,0,Mendoza,Argentina,853.0,0,2.3,17.0
+401841598,2026-10-14T22:00Z,Sarmiento (Junín),River Plate,1,1,Junin,Argentina,73.0,0,5.3,16.2
+401841622,2026-10-15T23:00Z,Huracán,Gimnasia La Plata,1,2,Buenos Aires,Argentina,31.0,0,12.7,15.1
+401841626,2026-10-16T22:00Z,Defensa y Justicia,Instituto (Córdoba),0,1,Buenos Aires,Argentina,31.0,0,14.2,13.3
+401841627,2026-10-17T00:30Z,Boca Juniors,Talleres (Córdoba),2,1,Buenos Aires,Argentina,31.0,0,12.1,12.1
+401841615,2026-10-17T18:00Z,Banfield,Argentinos Juniors,0,1,Buenos Aires,Argentina,31.0,0.1,13.9,12.7
+401841621,2026-10-17T20:30Z,Independiente Rivadavia,Tigre,2,2,Mendoza,Argentina,853.0,0,2.3,16.3
+401841619,2026-10-17T20:30Z,Platense,Lanús,0,1,Buenos Aires,Argentina,31.0,0,12.8,12.9
+401841614,2026-10-17T23:00Z,Atlético Tucumán,Rosario Central,2,3,Tucuman,Argentina,735.0,0,30.6,17.2
+401841616,2026-10-17T23:00Z,Vélez Sarsfield,Gimnasia (Mendoza),1,0,Buenos Aires,Argentina,31.0,0,10.8,11.8
+401841618,2026-10-18T17:45Z,Racing Club,Independiente,1,1,Buenos Aires,Argentina,31.0,0,5.0,16.0
+401841623,2026-10-18T21:00Z,Estudiantes de La Plata,San Lorenzo,1,2,La Plata,Argentina,27.0,0.2,8.8,12.6
+401841624,2026-10-18T21:00Z,Estudiantes de Río Cuarto,Aldosivi,2,1,Rio Cuarto,Argentina,429.0,0,15.6,17.4
+401841628,2026-10-18T23:15Z,Belgrano (Córdoba),River Plate,0,3,Córdoba,Argentina,378.0,0,5.8,15.7
+401841620,2026-10-19T22:00Z,Newell's Old Boys,Central Córdoba (Santiago del Estero),2,1,Rosario,Argentina,38.0,0,9.0,16.8
+401841617,2026-10-19T22:00Z,Sarmiento (Junín),Barracas Central,1,1,Junin,Argentina,73.0,0,10.0,15.9
+401841625,2026-10-20T00:15Z,Deportivo Riestra,Unión (Santa Fe),1,1,Buenos Aires,Argentina,31.0,0,11.5,13.7
+401841638,2026-10-23T21:00Z,Gimnasia La Plata,Sarmiento (Junín),2,0,La Plata,Argentina,27.0,0,15.6,20.8
+401841637,2026-10-23T21:30Z,Gimnasia (Mendoza),Platense,1,2,Mendoza,Argentina,853.0,1.1,15.6,15.3
+401841643,2026-10-24T00:15Z,Tigre,Atlético Tucumán,0,1,Buenos Aires,Argentina,31.0,0,12.6,18.6
+401841641,2026-10-24T17:45Z,Banfield,Lanús,1,1,Buenos Aires,Argentina,31.0,1.7,13.2,17.0
+401841631,2026-10-24T20:00Z,Talleres (Córdoba),Defensa y Justicia,1,2,Córdoba,Argentina,378.0,0,18.7,17.2
+401841632,2026-10-24T22:15Z,San Lorenzo,Newell's Old Boys,0,0,Buenos Aires,Argentina,31.0,0,12.5,15.5
+401841633,2026-10-25T00:30Z,Rosario Central,Huracán,2,0,Rosario,Argentina,38.0,0,16.3,14.7
+401841629,2026-10-25T17:45Z,Aldosivi,Belgrano (Córdoba),1,0,Buenos Aires,Argentina,31.0,0,10.2,16.0
+401841636,2026-10-25T20:00Z,Independiente,Boca Juniors,0,1,Avellaneda,Argentina,13.0,0,12.1,15.2
+401841634,2026-10-25T22:15Z,River Plate,Racing Club,1,0,Buenos Aires,Argentina,31.0,0,12.2,13.9
+401841640,2026-10-26T00:30Z,Barracas Central,Estudiantes de Río Cuarto,2,1,Buenos Aires,Argentina,31.0,0,10.1,12.6
+401841639,2026-10-26T00:30Z,Central Córdoba (Santiago del Estero),Vélez Sarsfield,0,5,Santiago del Estero,Argentina,176.0,0,10.4,17.7
+401841630,2026-10-26T22:00Z,Unión (Santa Fe),Estudiantes de La Plata,3,1,"Rosario, Santa Fe",Argentina,38.0,0,5.5,16.9
+401841635,2026-10-27T00:15Z,Instituto (Córdoba),Deportivo Riestra,1,0,Córdoba,Argentina,378.0,0,10.7,15.7
+401841642,2026-10-27T22:00Z,Argentinos Juniors,Independiente Rivadavia,1,0,Buenos Aires,Argentina,31.0,0,8.0,15.8
+401841655,2026-10-30T22:00Z,Estudiantes de Río Cuarto,Gimnasia La Plata,1,2,Rio Cuarto,Argentina,429.0,0,3.6,23.3
+401841653,2026-10-30T22:00Z,Huracán,Tigre,0,2,Buenos Aires,Argentina,31.0,0.7,6.4,17.4
+401841648,2026-10-31T00:15Z,Racing Club,Aldosivi,2,1,Buenos Aires,Argentina,31.0,0.1,9.1,14.9
+401841647,2026-10-31T00:15Z,Sarmiento (Junín),Rosario Central,1,2,Junin,Argentina,73.0,0,12.1,17.2
+401841656,2026-10-31T20:00Z,Deportivo Riestra,Talleres (Córdoba),0,3,Buenos Aires,Argentina,31.0,0,12.0,20.9
+401841646,2026-10-31T22:15Z,Vélez Sarsfield,San Lorenzo,2,2,Buenos Aires,Argentina,31.0,0,11.2,18.8
+401841654,2026-11-01T00:30Z,Estudiantes de La Plata,Instituto (Córdoba),3,3,La Plata,Argentina,27.0,0,11.0,17.3
+401841658,2026-11-01T18:00Z,Boca Juniors,River Plate,1,0,Buenos Aires,Argentina,31.0,0.9,7.5,21.3
+401841645,2026-11-01T21:30Z,Belgrano (Córdoba),Barracas Central,2,2,Córdoba,Argentina,378.0,0,5.3,26.6
+401841650,2026-11-01T21:30Z,Newell's Old Boys,Unión (Santa Fe),1,1,Rosario,Argentina,38.0,0,8.7,23.6
+401841651,2026-11-01T23:45Z,Lanús,Gimnasia (Mendoza),1,1,Buenos Aires,Argentina,31.0,0.3,3.6,18.8
+401841657,2026-11-02T22:00Z,Defensa y Justicia,Independiente,1,1,Buenos Aires,Argentina,31.0,0,4.4,22.4
+401841649,2026-11-02T22:00Z,Platense,Central Córdoba (Santiago del Estero),2,0,Buenos Aires,Argentina,31.0,0,4.4,22.4
+401841644,2026-11-03T00:15Z,Atlético Tucumán,Argentinos Juniors,1,2,Tucuman,Argentina,735.0,0,25.5,24.6
+401841652,2026-11-03T00:15Z,Independiente Rivadavia,Banfield,3,1,Mendoza,Argentina,853.0,0.3,10.0,21.0
+401841659,2026-11-05T18:00Z,Aldosivi,River Plate,0,2,Buenos Aires,Argentina,31.0,0,10.1,26.6
+401841667,2026-11-05T22:15Z,Gimnasia La Plata,Belgrano (Córdoba),2,1,La Plata,Argentina,27.0,0,6.7,21.2
+401841670,2026-11-06T18:00Z,Barracas Central,Racing Club,2,0,Buenos Aires,Argentina,31.0,2.1,6.6,26.1
+401841665,2026-11-06T22:15Z,Independiente,Deportivo Riestra,2,1,Avellaneda,Argentina,13.0,0,20.1,18.5
+401841662,2026-11-06T22:15Z,San Lorenzo,Platense,0,2,Buenos Aires,Argentina,31.0,0,21.7,18.8
+401841660,2026-11-06T22:15Z,Unión (Santa Fe),Vélez Sarsfield,2,0,"Rosario, Santa Fe",Argentina,38.0,0,8.0,23.0
+401841671,2026-11-07T01:00Z,Banfield,Atlético Tucumán,2,2,Buenos Aires,Argentina,31.0,0.3,17.5,16.9
+401841673,2026-11-07T01:00Z,Tigre,Sarmiento (Junín),1,0,Buenos Aires,Argentina,31.0,0.3,17.5,16.9
+401841666,2026-11-07T18:00Z,Gimnasia (Mendoza),Independiente Rivadavia,1,1,Mendoza,Argentina,853.0,0,11.9,18.8
+401841661,2026-11-07T18:00Z,Talleres (Córdoba),Estudiantes de La Plata,1,1,Córdoba,Argentina,378.0,0,14.9,20.5
+401841672,2026-11-07T20:30Z,Argentinos Juniors,Huracán,0,2,Buenos Aires,Argentina,31.0,0,16.2,17.5
+401841669,2026-11-07T20:30Z,Boca Juniors,Defensa y Justicia,1,0,Buenos Aires,Argentina,31.0,0,16.2,17.5
+401841663,2026-11-07T20:30Z,Rosario Central,Estudiantes de Río Cuarto,2,0,Rosario,Argentina,38.0,0,16.0,19.0
+401841664,2026-11-08T01:00Z,Instituto (Córdoba),Newell's Old Boys,2,2,Córdoba,Argentina,378.0,0,4.5,15.1
+401841668,2026-11-08T22:30Z,Central Córdoba (Santiago del Estero),Lanús,1,1,Santiago del Estero,Argentina,176.0,0,9.2,25.4

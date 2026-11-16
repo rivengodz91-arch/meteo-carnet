@@ -1068,3 +1068,61 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401888383,2026-09-12T14:00Z,Samsunspor,Çorum FK,1,5,Samsun,Türkiye,64.0,0,9.5,24.1
 401888296,2026-09-12T17:00Z,Alanyaspor,Goztepe,2,2,Antalya,Türkiye,61.0,0,5.9,28.9
 401888294,2026-09-12T17:00Z,Konyaspor,Trabzonspor,1,0,Konya,Türkiye,1030.0,0,1.3,26.2
+401888295,2026-09-13T14:00Z,Genclerbirligi,Kasimpasa,1,2,Ankara,Türkiye,850.0,0,15.0,32.4
+401888384,2026-09-13T17:00Z,Amed SFK,Istanbul Basaksehir,5,0,Diyarbakir,Türkiye,674.0,0,8.0,28.1
+401888293,2026-09-13T17:00Z,Galatasaray,Kocaelispor,1,0,Istanbul,Türkiye,39.0,2.6,14.0,19.1
+401888298,2026-09-14T17:00Z,Gaziantep FK,Fenerbahce,0,0,Gaziantep,Türkiye,842.0,0,12.3,26.6
+401888290,2026-09-18T17:00Z,Kasimpasa,Konyaspor,0,0,Istanbul,Türkiye,39.0,0,9.7,20.7
+401888381,2026-09-19T14:00Z,Çorum FK,Alanyaspor,1,2,Çorum,Türkiye,808.0,0,6.4,21.9
+401888286,2026-09-19T14:00Z,Kocaelispor,Gaziantep FK,2,0,Kocaeli,Türkiye,310.0,0,19.7,24.2
+401888289,2026-09-19T17:00Z,Istanbul Basaksehir,Genclerbirligi,4,0,Istanbul,Türkiye,39.0,0,13.0,21.4
+401888291,2026-09-19T17:00Z,Trabzonspor,Galatasaray,4,0,Trabzon,Türkiye,39.0,0,0.8,20.6
+401888285,2026-09-20T14:00Z,Erzurum BB,Samsunspor,1,0,Erzurum,Türkiye,1914.0,0,9.2,19.5
+401888287,2026-09-20T14:00Z,Fenerbahce,Eyupspor,8,0,Istanbul,Türkiye,39.0,0,18.4,24.0
+401888382,2026-09-20T17:00Z,Amed SFK,Besiktas,3,2,Diyarbakir,Türkiye,674.0,0,10.8,27.5
+401888288,2026-09-20T17:00Z,Goztepe,Caykur Rizespor,2,2,Izmir,Türkiye,122.0,0,12.8,26.4
+401888280,2026-10-09T17:00Z,Galatasaray,Kasimpasa,3,1,Istanbul,Türkiye,39.0,0,7.9,20.4
+401888379,2026-10-10T10:30Z,Genclerbirligi,Amed SFK,2,2,Ankara,Türkiye,850.0,0,1.9,21.7
+401888283,2026-10-10T13:00Z,Alanyaspor,Erzurum BB,0,0,Antalya,Türkiye,61.0,0,12.8,28.5
+401888278,2026-10-10T13:00Z,Samsunspor,Trabzonspor,0,3,Samsun,Türkiye,64.0,0,5.6,21.9
+401888282,2026-10-10T16:00Z,Caykur Rizespor,Fenerbahce,0,3,Rize,Türkiye,63.0,0,2.7,17.3
+401888281,2026-10-11T10:30Z,Konyaspor,Istanbul Basaksehir,0,0,Konya,Türkiye,1030.0,0,5.3,22.6
+401888380,2026-10-11T13:00Z,Gaziantep FK,Çorum FK,0,3,Gaziantep,Türkiye,842.0,0,13.2,23.3
+401888279,2026-10-11T16:00Z,Besiktas,Kocaelispor,2,1,Istanbul,Türkiye,39.0,0,2.3,22.4
+401888284,2026-10-12T17:00Z,Eyupspor,Goztepe,0,4,Istanbul,Türkiye,39.0,0,6.9,19.2
+401888377,2026-10-16T17:00Z,Çorum FK,Caykur Rizespor,2,1,Çorum,Türkiye,808.0,1.1,7.8,9.2
+401888271,2026-10-17T10:30Z,Erzurum BB,Eyupspor,2,0,Erzurum,Türkiye,1914.0,0,16.3,17.5
+401888378,2026-10-17T13:00Z,Amed SFK,Konyaspor,1,0,Diyarbakir,Türkiye,674.0,0.3,2.9,23.3
+401888274,2026-10-17T13:00Z,Genclerbirligi,Galatasaray,0,1,Ankara,Türkiye,850.0,0.2,13.1,12.2
+401888273,2026-10-17T16:00Z,Fenerbahce,Alanyaspor,3,0,Istanbul,Türkiye,39.0,1.1,21.2,12.0
+401888276,2026-10-18T10:30Z,Kasimpasa,Samsunspor,4,1,Istanbul,Türkiye,39.0,0.7,13.2,13.1
+401888272,2026-10-18T13:00Z,Kocaelispor,Goztepe,1,2,Kocaeli,Türkiye,310.0,0,10.7,12.9
+401888275,2026-10-18T16:00Z,Istanbul Basaksehir,Gaziantep FK,2,1,Istanbul,Türkiye,39.0,0,14.2,13.7
+401888277,2026-10-19T17:00Z,Trabzonspor,Besiktas,2,0,Trabzon,Türkiye,39.0,0,1.7,17.1
+401888268,2026-10-23T17:00Z,Alanyaspor,Kocaelispor,1,2,Antalya,Türkiye,61.0,0,0.7,19.7
+401888269,2026-10-24T10:30Z,Eyupspor,Kasimpasa,0,1,Istanbul,Türkiye,39.0,0,9.3,17.9
+401888270,2026-10-24T13:00Z,Gaziantep FK,Erzurum BB,1,3,Gaziantep,Türkiye,842.0,0,8.5,21.7
+401888375,2026-10-24T16:00Z,Samsunspor,Amed SFK,1,2,Samsun,Türkiye,64.0,0,2.7,16.7
+401888266,2026-10-25T13:00Z,Konyaspor,Genclerbirligi,2,0,Konya,Türkiye,1030.0,0,6.0,22.4
+401888376,2026-10-25T16:00Z,Goztepe,Çorum FK,2,0,Izmir,Türkiye,122.0,0,1.7,19.4
+401888264,2026-10-26T16:00Z,Besiktas,Istanbul Basaksehir,2,0,Istanbul,Türkiye,39.0,0,15.3,16.7
+401888267,2026-10-26T16:00Z,Caykur Rizespor,Trabzonspor,3,4,Rize,Türkiye,63.0,0,0.3,17.6
+401888265,2026-10-26T18:30Z,Galatasaray,Fenerbahce,2,1,Istanbul,Türkiye,39.0,0.2,15.3,17.1
+401888259,2026-10-30T17:00Z,Konyaspor,Galatasaray,0,4,Konya,Türkiye,1030.0,0,0.4,11.8
+401888373,2026-10-31T10:30Z,Erzurum BB,Çorum FK,1,3,Erzurum,Türkiye,1914.0,0,7.5,11.1
+401888257,2026-10-31T13:00Z,Kocaelispor,Caykur Rizespor,0,0,Kocaeli,Türkiye,310.0,0,9.3,16.2
+401888258,2026-10-31T16:00Z,Fenerbahce,Goztepe,1,2,Istanbul,Türkiye,39.0,0,13.5,13.4
+401888374,2026-11-01T10:30Z,Amed SFK,Eyupspor,5,1,Diyarbakir,Türkiye,674.0,0,3.4,19.8
+401888261,2026-11-01T13:00Z,Istanbul Basaksehir,Samsunspor,5,2,Istanbul,Türkiye,39.0,0,13.4,19.0
+401888263,2026-11-01T13:00Z,Trabzonspor,Gaziantep FK,2,0,Trabzon,Türkiye,39.0,0,4.1,18.8
+401888262,2026-11-01T16:00Z,Kasimpasa,Besiktas,2,2,Istanbul,Türkiye,39.0,0,15.4,16.6
+401888260,2026-11-02T17:00Z,Genclerbirligi,Alanyaspor,5,0,Ankara,Türkiye,850.0,0,4.5,12.3
+401888256,2026-11-06T17:00Z,Gaziantep FK,Kasimpasa,0,2,Gaziantep,Türkiye,842.0,0.1,4.0,10.5
+401888255,2026-11-07T10:30Z,Eyupspor,Kocaelispor,0,2,Istanbul,Türkiye,39.0,0,21.9,11.3
+401888250,2026-11-07T13:00Z,Samsunspor,Konyaspor,1,0,Samsun,Türkiye,64.0,0.3,16.1,10.0
+401888371,2026-11-07T16:00Z,Galatasaray,Amed SFK,4,3,Istanbul,Türkiye,39.0,0,17.8,8.4
+401888252,2026-11-07T16:00Z,Goztepe,Istanbul Basaksehir,1,2,Izmir,Türkiye,122.0,0,13.4,10.3
+401888253,2026-11-08T10:30Z,Caykur Rizespor,Erzurum BB,2,1,Rize,Türkiye,63.0,2.7,15.2,9.2
+401888372,2026-11-08T13:00Z,Çorum FK,Fenerbahce,0,5,Çorum,Türkiye,808.0,0,8.4,4.9
+401888254,2026-11-08T15:30Z,Alanyaspor,Trabzonspor,0,2,Antalya,Türkiye,61.0,0,15.6,14.1
+401888251,2026-11-08T18:00Z,Besiktas,Genclerbirligi,3,0,Istanbul,Türkiye,39.0,0,5.1,8.2

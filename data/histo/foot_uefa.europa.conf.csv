@@ -446,3 +446,57 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401862927,2026-05-07T19:00Z,Crystal Palace,Shakhtar Donetsk,2,1,London,England,25.0,0,12.3,12.5
 401862928,2026-05-07T19:00Z,Strasbourg,Rayo Vallecano,0,1,Strasbourg,France,147.0,0,7.1,13.0
 401862929,2026-05-27T19:00Z,Crystal Palace,Rayo Vallecano,1,0,Leipzig,Germany,116.0,0,9.7,18.7
+401915855,2026-10-15T16:45Z,CSKA Sofia,AS Monaco,1,2,Sofia,Bulgaria,562.0,0,8.6,9.9
+401915854,2026-10-15T16:45Z,CSU Craiova,Getafe,1,1,Craiova,Romania,105.0,0,2.9,13.8
+401915859,2026-10-15T16:45Z,Egnatia,FC Midtjylland,1,1,Elbasan,Albania,126.0,0,3.8,17.8
+401915748,2026-10-15T16:45Z,FC Lugano,Red Star Belgrade,3,2,Lugano,Switzerland,284.0,0,2.7,17.8
+401915861,2026-10-15T16:45Z,Hajduk Split,Ajax Amsterdam,2,1,Split,Croatia,12.0,0,2.1,18.9
+401915860,2026-10-15T16:45Z,KAA Gent,AGF,1,0,Ghent,Belgium,10.0,0,12.1,19.4
+401915858,2026-10-15T16:45Z,KuPS Kuopio,Trabzonspor,2,4,Tampere,Finland,114.0,0,19.8,10.2
+401915857,2026-10-15T16:45Z,Mjällby AIF,Inter D'Escaldes,2,0,Helsingborg,Sweden,13.0,0,20.5,13.3
+401915856,2026-10-15T16:45Z,Panathinaikos,Borac Banja Luka,2,1,Athens,Greece,70.0,0,0.5,16.6
+401915747,2026-10-15T16:45Z,Riga FC,Kairat Almaty,1,1,Riga,Latvia,6.0,0,7.6,9.6
+401915746,2026-10-15T19:00Z,Atalanta,Pafos,3,1,Bergamo,Italy,249.0,0,3.2,15.8
+401915853,2026-10-15T19:00Z,Brighton & Hove Albion,Kauno Zalgiris,4,0,Falmer,England,97.0,0,13.6,17.0
+401915852,2026-10-15T19:00Z,F.C. København,Braga,3,0,Copenhagen,Denmark,14.0,0,18.7,13.2
+401915851,2026-10-15T19:00Z,FC Twente,FC Thun,1,0,Enschede,Netherlands,45.0,0,10.2,15.7
+401915850,2026-10-15T19:00Z,Heart of Midlothian,FC Nordsjælland,1,1,Edinburgh,Scotland,66.0,0,19.0,11.0
+401915848,2026-10-15T19:00Z,SC Freiburg,Jablonec,3,2,Freiburg im Breisgau,Germany,278.0,0,3.3,13.3
+401915849,2026-10-15T19:00Z,Sint-Truidense,Iberia 1999,2,0,Sint-Truiden,Belgium,54.0,0,11.9,16.1
+401915847,2026-10-15T19:00Z,SK Brann,Lincoln Red Imps,2,1,Bergen,Norway,20.0,0.1,10.4,8.7
+401915846,2026-10-22T14:30Z,Kairat Almaty,Panathinaikos,1,5,Almaty,Kazakhstan,783.0,0,7.7,12.9
+401915844,2026-10-22T16:45Z,FC Nordsjælland,CSKA Sofia,2,2,Farum,Denmark,33.0,0,9.0,9.4
+401915840,2026-10-22T16:45Z,Getafe,FC Lugano,2,5,Getafe,Spain,623.0,0,13.1,18.8
+401915845,2026-10-22T16:45Z,Iberia 1999,Mjällby AIF,1,1,Tbilisi,Georgia,433.0,0.2,4.4,14.1
+401915839,2026-10-22T16:45Z,Inter D'Escaldes,CSU Craiova,1,3,Encamp,Andorra,1257.0,0,9.2,8.8
+401915842,2026-10-22T16:45Z,Jablonec,Brighton & Hove Albion,0,0,Jablonec,Czechia,314.0,0,14.4,9.4
+401915841,2026-10-22T16:45Z,Kauno Zalgiris,SK Brann,1,4,Kaunas,Lithuania,96.0,0,19.3,12.8
+401915838,2026-10-22T16:45Z,Pafos,Riga FC,1,1,Kolossi,Cyprus,54.0,0,3.6,22.8
+401915843,2026-10-22T16:45Z,Red Star Belgrade,F.C. København,2,2,Belgrade,Serbia,120.0,0,8.5,13.9
+401915745,2026-10-22T16:45Z,Trabzonspor,Heart of Midlothian,2,0,Trabzon,Türkiye,39.0,0,3.1,16.2
+401915744,2026-10-22T19:00Z,AGF,Egnatia,1,1,Randers,Denmark,12.0,0,16.2,9.7
+401915837,2026-10-22T19:00Z,Ajax Amsterdam,Atalanta,2,0,Amsterdam,Netherlands,13.0,0,6.5,9.1
+401915836,2026-10-22T19:00Z,AS Monaco,SC Freiburg,3,0,Monaco,France,-9999.0,0,1.8,16.0
+401915743,2026-10-22T19:00Z,Borac Banja Luka,KuPS Kuopio,2,0,Banja Luka,Bosnia and Herzegovina,151.0,0,4.1,11.1
+401915832,2026-10-22T19:00Z,Braga,KAA Gent,2,0,Braga,Portugal,190.0,0.2,11.5,14.1
+401915835,2026-10-22T19:00Z,FC Midtjylland,Sint-Truidense,0,1,Herning,Denmark,60.0,0.2,9.2,8.1
+401915834,2026-10-22T19:00Z,FC Thun,Hajduk Split,0,1,Thun,Switzerland,560.0,0,0.2,9.1
+401915833,2026-10-22T19:00Z,Lincoln Red Imps,FC Twente,1,4,Gibraltar,Gibraltar,11.0,0,14.8,19.3
+401915831,2026-11-05T17:45Z,AGF,Braga,0,0,Randers,Denmark,12.0,0,1.9,8.0
+401915830,2026-11-05T17:45Z,Atalanta,Kairat Almaty,1,1,Bergamo,Italy,249.0,0,3.9,9.3
+401915829,2026-11-05T17:45Z,FC Midtjylland,Ajax Amsterdam,1,6,Herning,Denmark,60.0,0,7.2,5.9
+401915828,2026-11-05T17:45Z,FC Thun,Heart of Midlothian,3,1,Thun,Switzerland,560.0,0,2.7,7.6
+401915826,2026-11-05T17:45Z,KuPS Kuopio,KAA Gent,0,0,Tampere,Finland,114.0,0,25.1,5.7
+401915742,2026-11-05T17:45Z,Lincoln Red Imps,Hajduk Split,1,0,Gibraltar,Gibraltar,11.0,0,4.5,18.8
+401915741,2026-11-05T17:45Z,Mjällby AIF,Borac Banja Luka,2,0,Helsingborg,Sweden,13.0,0,8.2,8.7
+401915827,2026-11-05T17:45Z,Red Star Belgrade,Inter D'Escaldes,2,1,Belgrade,Serbia,120.0,0,0.5,7.7
+401915825,2026-11-05T17:45Z,Trabzonspor,SC Freiburg,0,1,Trabzon,Türkiye,39.0,0,6.2,12.3
+401915824,2026-11-05T20:00Z,AS Monaco,FC Nordsjælland,2,0,Monaco,France,-9999.0,6.0,10.7,11.6
+401915817,2026-11-05T20:00Z,CSU Craiova,Egnatia,2,0,Craiova,Romania,105.0,0,0.6,4.0
+401915740,2026-11-05T20:00Z,F.C. København,Iberia 1999,2,1,Copenhagen,Denmark,14.0,0,9.4,8.4
+401915823,2026-11-05T20:00Z,FC Lugano,Kauno Zalgiris,3,0,Lugano,Switzerland,284.0,0,0.6,10.1
+401915822,2026-11-05T20:00Z,FC Twente,Pafos,3,1,Enschede,Netherlands,45.0,0,13.9,4.9
+401915821,2026-11-05T20:00Z,Getafe,Brighton & Hove Albion,0,1,Getafe,Spain,623.0,0,3.2,10.4
+401915819,2026-11-05T20:00Z,Panathinaikos,CSKA Sofia,2,1,Athens,Greece,70.0,0,2.4,11.4
+401915818,2026-11-05T20:00Z,Riga FC,Jablonec,1,1,Riga,Latvia,6.0,0.1,24.6,9.1
+401915820,2026-11-05T20:00Z,Sint-Truidense,SK Brann,1,1,Sint-Truiden,Belgium,54.0,0,7.7,5.0

@@ -507,3 +507,26 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401870492,2026-05-15T09:35Z,Adelaide United FC,Auckland FC,0,3,Adelaide,Australia,59.0,0.7,16.5,16.9
 401870493,2026-05-16T09:40Z,Newcastle Jets,Sydney FC,1,1,"Newcastle, New South Wales",Australia,48.0,0,14.3,18.5
 401873206,2026-05-23T08:10Z,Auckland FC,Sydney FC,1,0,Auckland,New Zealand,43.0,0,17.9,15.9
+401892162,2026-10-16T09:00Z,Sydney FC,Western Sydney Wanderers FC,0,0,Sydney,Australia,58.0,0,12.1,16.1
+401892161,2026-10-17T04:00Z,Auckland FC,Melbourne City FC,3,1,Auckland,New Zealand,43.0,0,13.1,14.8
+401892160,2026-10-17T06:00Z,Macarthur FC,Perth Glory FC,2,1,Sydney,Australia,58.0,0,12.5,18.4
+401892159,2026-10-17T08:40Z,Central Coast Mariners FC,Newcastle Jets,2,2,New South Wales,Australia,-9999.0,0,10.4,34.6
+401892158,2026-10-18T02:00Z,Wellington Phoenix,Melbourne Victory,2,1,Wellington,New Zealand,31.0,0,1.5,13.4
+401892156,2026-10-23T09:00Z,Brisbane Roar FC,Perth Glory FC,2,1,Brisbane,Australia,27.0,0.1,8.9,20.5
+401892155,2026-10-24T04:00Z,Newcastle Jets,Macarthur FC,1,1,"Newcastle, New South Wales",Australia,48.0,0.2,19.8,23.6
+401892154,2026-10-24T06:00Z,Western Sydney Wanderers FC,Auckland FC,5,2,Sydney,Australia,58.0,0,14.1,23.4
+401892153,2026-10-24T08:40Z,Melbourne Victory,Melbourne City FC,1,1,Melbourne,Australia,25.0,0.5,3.2,22.1
+401892152,2026-10-25T02:00Z,Wellington Phoenix,Central Coast Mariners FC,2,0,Wellington,New Zealand,31.0,0,43.4,16.7
+401892151,2026-10-25T04:00Z,Sydney FC,Adelaide United FC,2,1,Sydney,Australia,58.0,0,16.8,31.0
+401892150,2026-10-30T09:00Z,Brisbane Roar FC,Auckland FC,1,1,Brisbane,Australia,27.0,0,6.9,19.7
+401892149,2026-10-31T04:00Z,Newcastle Jets,Wellington Phoenix,0,3,"Newcastle, New South Wales",Australia,48.0,2.0,10.2,22.8
+401892148,2026-10-31T06:00Z,Melbourne City FC,Sydney FC,2,1,Melbourne,Australia,25.0,0,19.1,20.4
+401892147,2026-10-31T08:40Z,Macarthur FC,Western Sydney Wanderers FC,0,0,Sydney,Australia,58.0,0,10.4,24.9
+401892146,2026-11-01T04:00Z,Melbourne Victory,Central Coast Mariners FC,1,1,Melbourne,Australia,25.0,0,10.9,17.7
+401892145,2026-11-01T07:00Z,Perth Glory FC,Adelaide United FC,4,0,Perth,Australia,34.0,0,15.5,18.5
+401892144,2026-11-06T08:40Z,Sydney FC,Central Coast Mariners FC,4,1,Sydney,Australia,58.0,0,18.7,19.2
+401892143,2026-11-07T04:00Z,Auckland FC,Wellington Phoenix,0,0,Auckland,New Zealand,43.0,0.9,8.5,18.9
+401892142,2026-11-07T08:40Z,Melbourne City FC,Western Sydney Wanderers FC,2,1,Melbourne,Australia,25.0,0.1,22.5,11.6
+401892141,2026-11-07T10:45Z,Perth Glory FC,Newcastle Jets,2,1,Perth,Australia,34.0,0,16.6,19.8
+401892140,2026-11-08T04:00Z,Macarthur FC,Brisbane Roar FC,1,2,Sydney,Australia,58.0,0.1,29.4,16.7
+401892139,2026-11-08T06:00Z,Adelaide United FC,Melbourne Victory,2,2,Adelaide,Australia,59.0,0,6.1,22.3

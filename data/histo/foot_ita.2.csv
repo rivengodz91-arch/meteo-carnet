@@ -1207,3 +1207,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401899624,2026-09-12T13:00Z,Vicenza,Juve Stabia,1,1,Vicenza,Italy,39.0,0,3.1,24.0
 401899627,2026-09-12T15:15Z,Catanzaro,Carrarese,1,0,Catanzaro,Italy,320.0,0,21.6,24.8
 401899626,2026-09-12T17:30Z,Cesena,Cremonese,2,2,Cesena,Italy,44.0,0,4.1,22.5
+401899623,2026-09-13T15:15Z,Mantova,Sampdoria,2,0,Mantova,Italy,209.0,0,9.4,27.0
+401899629,2026-09-13T15:15Z,US Avellino,Palermo,1,1,Avellino,Italy,348.0,0,11.8,26.1
+401899614,2026-09-18T18:30Z,Juve Stabia,Cesena,1,1,Castellammare di Stabia,Italy,6.0,0,1.8,23.7
+401899617,2026-09-19T13:00Z,Carrarese,Benevento,0,1,Carrara,Italy,100.0,0,5.3,25.8
+401899616,2026-09-19T13:00Z,Cremonese,Virtus Entella,0,0,Cremona,Italy,45.0,0.2,6.6,26.0
+401899611,2026-09-19T13:00Z,Palermo,Padova,2,1,Palermo,Italy,14.0,1.4,9.2,24.4
+401899610,2026-09-19T15:15Z,Sampdoria,Catanzaro,2,1,Genova,Italy,3.0,0,3.1,25.8
+401899618,2026-09-19T17:30Z,Ascoli,US Avellino,3,1,Ascoli Piceno,Italy,154.0,0.1,2.4,21.6
+401899619,2026-09-20T13:00Z,Arezzo,Sudtirol,1,4,Arezzo,Italy,296.0,0,2.8,27.3
+401899615,2026-09-20T13:00Z,Hellas Verona,Vicenza,2,1,Verona,Italy,59.0,0,9.8,29.3
+401899613,2026-09-20T15:15Z,Mantova,Pisa,2,2,Mantova,Italy,209.0,0,8.9,28.6
+401899612,2026-09-20T17:30Z,Modena,Empoli,2,1,Modena,Italy,34.0,0,2.6,27.4
+401899608,2026-10-09T18:30Z,US Avellino,Sampdoria,4,1,Avellino,Italy,348.0,0.1,5.4,15.6
+401899607,2026-10-10T13:00Z,Benevento,Cesena,2,0,Benevento,Italy,135.0,7.2,2.2,19.2
+401899605,2026-10-10T13:00Z,Empoli,Palermo,2,4,Empoli,Italy,28.0,0,5.4,21.6
+401899601,2026-10-10T13:00Z,Sudtirol,Ascoli,0,0,Bolzano,Italy,262.0,0.2,4.0,19.6
+401899600,2026-10-10T13:00Z,Virtus Entella,Juve Stabia,1,1,Chiavari,Italy,5.0,0.2,7.3,21.2
+401899604,2026-10-10T15:15Z,Vicenza,Pisa,0,3,Vicenza,Italy,39.0,0,6.7,21.1
+401899609,2026-10-10T17:30Z,Arezzo,Cremonese,0,0,Arezzo,Italy,296.0,0,1.5,16.6
+401899606,2026-10-11T13:00Z,Catanzaro,Mantova,1,3,Catanzaro,Italy,320.0,0,25.9,22.6
+401899602,2026-10-11T15:15Z,Padova,Carrarese,0,2,Padova,Italy,329.0,0.2,8.8,19.2
+401899603,2026-10-11T17:30Z,Modena,Hellas Verona,3,2,Modena,Italy,34.0,0,7.1,19.4
+401899595,2026-10-16T18:30Z,Hellas Verona,Catanzaro,2,2,Verona,Italy,59.0,0,5.2,17.3
+401899599,2026-10-17T13:00Z,Ascoli,Empoli,1,1,Ascoli Piceno,Italy,154.0,0,5.9,21.7
+401899598,2026-10-17T13:00Z,Benevento,Vicenza,2,2,Benevento,Italy,135.0,0,3.8,21.8
+401899597,2026-10-17T13:00Z,Carrarese,Modena,2,1,Carrara,Italy,100.0,0,9.0,21.5
+401899592,2026-10-17T13:00Z,Padova,Virtus Entella,1,2,Padova,Italy,329.0,0,11.3,19.3
+401899593,2026-10-17T15:15Z,Mantova,Palermo,0,2,Mantova,Italy,209.0,0,8.1,21.5
+401899591,2026-10-17T17:30Z,Pisa,Cremonese,3,1,Pisa,Italy,4.0,0,3.1,18.8
+401899594,2026-10-18T13:00Z,Juve Stabia,Sudtirol,3,0,Castellammare di Stabia,Italy,6.0,0,5.6,21.8
+401899596,2026-10-18T15:15Z,Cesena,US Avellino,1,1,Cesena,Italy,44.0,0,15.7,20.9
+401899590,2026-10-18T17:30Z,Sampdoria,Arezzo,1,2,Genova,Italy,3.0,0,6.4,16.8
+401899585,2026-10-23T18:30Z,Empoli,Vicenza,0,2,Empoli,Italy,28.0,4.7,1.6,14.5
+401899586,2026-10-24T13:00Z,Cremonese,Juve Stabia,0,1,Cremona,Italy,45.0,0,9.9,17.7
+401899583,2026-10-24T13:00Z,Modena,Cesena,3,0,Modena,Italy,34.0,0,10.4,17.0
+401899581,2026-10-24T13:00Z,Sudtirol,Sampdoria,1,1,Bolzano,Italy,262.0,0,3.7,16.3
+401899588,2026-10-24T13:00Z,US Avellino,Padova,0,1,Avellino,Italy,348.0,0.2,14.7,17.9
+401899580,2026-10-24T13:00Z,Virtus Entella,Mantova,0,1,Chiavari,Italy,5.0,0,13.6,19.6
+401899587,2026-10-24T15:15Z,Catanzaro,Ascoli,1,6,Catanzaro,Italy,320.0,0.1,22.1,19.6
+401899589,2026-10-24T17:30Z,Arezzo,Benevento,0,3,Arezzo,Italy,296.0,0,7.1,11.8
+401899582,2026-10-25T14:00Z,Palermo,Carrarese,2,1,Palermo,Italy,14.0,0.4,19.4,19.3
+401899584,2026-10-25T16:15Z,Hellas Verona,Pisa,1,1,Verona,Italy,59.0,0,2.0,11.0
+401899578,2026-10-27T18:00Z,Benevento,Catanzaro,1,1,Benevento,Italy,135.0,0,5.6,12.6
+401899579,2026-10-27T19:00Z,Ascoli,Sampdoria,2,0,Ascoli Piceno,Italy,154.0,0,3.3,14.0
+401899576,2026-10-27T19:00Z,Cesena,Empoli,2,1,Cesena,Italy,44.0,0,4.5,12.7
+401899573,2026-10-27T19:00Z,Mantova,Cremonese,0,2,Mantova,Italy,209.0,0,1.3,10.9
+401899572,2026-10-27T19:00Z,Padova,Sudtirol,2,0,Padova,Italy,329.0,0,3.6,10.1
+401899574,2026-10-27T19:00Z,Vicenza,Modena,1,2,Vicenza,Italy,39.0,0,4.4,11.9
+401899570,2026-10-27T19:00Z,Virtus Entella,US Avellino,1,1,Chiavari,Italy,5.0,0,3.4,15.1
+401899571,2026-10-28T18:00Z,Pisa,Palermo,3,3,Pisa,Italy,4.0,0,4.2,13.6
+401899577,2026-10-28T19:00Z,Carrarese,Arezzo,2,1,Carrara,Italy,100.0,0,1.4,13.9
+401899575,2026-10-28T19:00Z,Juve Stabia,Hellas Verona,0,1,Castellammare di Stabia,Italy,6.0,0,4.6,14.4
+401899566,2026-10-31T14:00Z,Cremonese,Benevento,2,0,Cremona,Italy,45.0,0,3.5,16.2
+401899563,2026-10-31T14:00Z,Modena,Mantova,1,1,Modena,Italy,34.0,0,2.8,16.9
+401899560,2026-10-31T14:00Z,Sudtirol,Cesena,1,1,Bolzano,Italy,262.0,0,3.2,17.8
+401899567,2026-10-31T16:15Z,Catanzaro,Padova,1,1,Catanzaro,Italy,320.0,0,3.1,15.0
+401899561,2026-10-31T18:30Z,Sampdoria,Virtus Entella,2,0,Genova,Italy,3.0,0,7.1,10.8
+401899569,2026-11-01T14:00Z,Arezzo,Ascoli,0,0,Arezzo,Italy,296.0,0,21.4,9.8
+401899565,2026-11-01T14:00Z,Empoli,Juve Stabia,2,2,Empoli,Italy,28.0,0,20.1,12.2
+401899568,2026-11-01T14:00Z,US Avellino,Pisa,2,0,Avellino,Italy,348.0,0.6,12.3,11.2
+401899564,2026-11-01T16:15Z,Hellas Verona,Carrarese,3,0,Verona,Italy,59.0,0,4.8,10.7
+401899562,2026-11-01T18:30Z,Palermo,Vicenza,3,1,Palermo,Italy,14.0,0.1,6.9,15.9
+401899559,2026-11-06T19:30Z,Ascoli,Palermo,1,1,Ascoli Piceno,Italy,154.0,0.1,1.6,11.9
+401899556,2026-11-07T14:00Z,Cesena,Catanzaro,1,0,Cesena,Italy,44.0,0.2,17.2,10.4
+401899555,2026-11-07T14:00Z,Juve Stabia,Arezzo,1,0,Castellammare di Stabia,Italy,6.0,0.2,6.7,18.2
+401899552,2026-11-07T14:00Z,Padova,Empoli,2,2,Padova,Italy,329.0,0.1,5.4,6.9
+401899551,2026-11-07T14:00Z,Pisa,Sudtirol,2,2,Pisa,Italy,4.0,0,7.7,15.9
+401899553,2026-11-07T16:15Z,Mantova,Hellas Verona,0,0,Mantova,Italy,209.0,0,5.0,9.1
+401899558,2026-11-07T18:30Z,Benevento,US Avellino,1,1,Benevento,Italy,135.0,0.1,2.7,13.1
+401899550,2026-11-08T14:00Z,Virtus Entella,Modena,0,2,Chiavari,Italy,5.0,0.3,2.1,14.2
+401899557,2026-11-08T16:15Z,Carrarese,Sampdoria,0,1,Carrara,Italy,100.0,0,0.6,12.7
+401899554,2026-11-08T18:30Z,Vicenza,Cremonese,1,4,Vicenza,Italy,39.0,0,5.4,8.1

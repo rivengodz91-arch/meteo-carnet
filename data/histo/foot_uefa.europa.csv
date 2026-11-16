@@ -518,3 +518,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401862910,2026-05-07T19:00Z,Aston Villa,Nottingham Forest,4,0,Birmingham,England,149.0,0,10.5,12.2
 401862909,2026-05-07T19:00Z,SC Freiburg,Braga,3,1,Freiburg im Breisgau,Germany,278.0,0,5.2,11.5
 401862911,2026-05-20T19:00Z,SC Freiburg,Aston Villa,0,3,Istanbul,Türkiye,39.0,0.2,12.0,15.9
+401915594,2026-09-16T16:45Z,Ararat-Armenia,Sparta Prague,1,4,Yerevan,Armenia,1002.0,0,3.8,26.8
+401915611,2026-09-16T16:45Z,Omonia Nicosia,Celta Vigo,1,0,Nicosia,Cyprus,155.0,0,7.0,29.0
+401915586,2026-09-16T19:00Z,AC Milan,Benfica,0,2,Milano,Italy,635.0,0,3.5,19.9
+401915590,2026-09-16T19:00Z,Anderlecht,Lyon,1,2,Brussels,Belgium,28.0,0,5.5,14.9
+401915587,2026-09-16T19:00Z,Bayer Leverkusen,NK Celje,2,0,Leverkusen,Germany,52.0,0,4.6,14.5
+401915589,2026-09-16T19:00Z,Hapoel Be'er,Dinamo Zagreb,0,0,Bucuresti,Romania,92.0,0,8.0,19.1
+401915588,2026-09-16T19:00Z,Olympiacos,Jagiellonia Bialystok,2,1,Piraeus,Greece,29.0,0,8.3,22.7
+401915593,2026-09-16T19:00Z,SK Sturm Graz,Stade Rennais,0,0,Graz,Austria,362.0,0,9.0,17.4
+401915592,2026-09-16T19:00Z,Sunderland,AZ Alkmaar,1,0,Sunderland,England,36.0,0.1,14.0,14.4
+401915584,2026-09-17T16:45Z,Levski Sofia,RB Salzburg,0,1,Sofia,Bulgaria,562.0,0,0.4,24.8
+401915585,2026-09-17T16:45Z,OFI Crete,TSG Hoffenheim,2,0,Crete,Greece,1585.0,0,12.4,12.3
+401915591,2026-09-17T19:00Z,Besiktas,Marseille,4,1,Istanbul,Türkiye,39.0,0,10.5,19.6
+401915581,2026-09-17T19:00Z,Celtic,Ferencvaros,1,3,Glasgow,Scotland,40.0,0.1,22.0,12.0
+401915569,2026-09-17T19:00Z,Crystal Palace,Lech Poznan,4,0,London,England,25.0,0,11.7,16.5
+401915582,2026-09-17T19:00Z,Juventus,NEC Nijmegen,5,0,Torino,Italy,239.0,0,12.2,21.9
+401915570,2026-09-17T19:00Z,Lillestrom,Torreense,1,2,Lillestrøm,Norway,116.0,0.1,11.0,10.9
+401915583,2026-09-17T19:00Z,Real Sociedad,AFC Bournemouth,1,2,San Sebastian,Spain,74.0,0,5.1,17.3
+401915580,2026-09-17T19:00Z,Viktoria Plzen,Union St.-Gilloise,0,3,Plzen,Czechia,354.0,0,5.6,13.3
+401915573,2026-10-15T16:45Z,AZ Alkmaar,Hapoel Be'er,2,1,Alkmaar,Netherlands,5.0,0,20.0,18.1
+401915576,2026-10-15T16:45Z,Lech Poznan,Bayer Leverkusen,0,4,Poznan,Poland,69.0,0,4.1,11.8
+401915566,2026-10-15T16:45Z,Lyon,Crystal Palace,3,2,Lyon,France,173.0,0,1.9,20.1
+401915577,2026-10-15T16:45Z,NK Celje,Omonia Nicosia,0,3,Celje,Slovenia,240.0,0,2.9,14.9
+401915568,2026-10-15T16:45Z,RB Salzburg,AC Milan,0,4,Salzburg,Austria,424.0,0,1.4,14.6
+401915567,2026-10-15T16:45Z,Sparta Prague,Lillestrom,1,1,Prague,Czechia,202.0,0,1.1,13.1
+401915575,2026-10-15T16:45Z,Torreense,Sunderland,1,2,Leiria,Portugal,33.0,0,11.9,25.9
+401915574,2026-10-15T16:45Z,Union St.-Gilloise,Real Sociedad,1,1,Leuven,Belgium,28.0,0,8.3,18.9
+401915571,2026-10-15T19:00Z,AFC Bournemouth,SK Sturm Graz,3,0,Bournemouth,England,19.0,0,14.0,16.1
+401915562,2026-10-15T19:00Z,Benfica,Celtic,4,1,Lisbon,Portugal,68.0,0,9.5,25.8
+401915560,2026-10-15T19:00Z,Celta Vigo,Juventus,1,2,Vigo,Spain,86.0,0,4.8,14.8
+401915549,2026-10-15T19:00Z,Dinamo Zagreb,Anderlecht,1,0,Zagreb,Croatia,135.0,0,2.4,13.1
+401915564,2026-10-15T19:00Z,Ferencvaros,Viktoria Plzen,2,1,Budapest,Hungary,104.0,0,6.9,9.1
+401915561,2026-10-15T19:00Z,Jagiellonia Bialystok,Ararat-Armenia,3,1,Bialystok,Poland,135.0,0,6.7,8.7
+401915550,2026-10-15T19:00Z,Marseille,Olympiacos,0,1,Marseille,France,28.0,0,2.7,17.1
+401915565,2026-10-15T19:00Z,NEC Nijmegen,Levski Sofia,1,1,Nijmegen,Netherlands,25.0,0,10.7,16.6
+401915572,2026-10-15T19:00Z,Stade Rennais,OFI Crete,2,1,Rennes,France,39.0,0,9.0,18.3
+401915563,2026-10-15T19:00Z,TSG Hoffenheim,Besiktas,2,3,Sinsheim,Germany,162.0,0,4.0,10.9
+401915548,2026-10-22T16:45Z,Ararat-Armenia,AZ Alkmaar,0,4,Yerevan,Armenia,1002.0,0.1,2.2,12.6
+401915556,2026-10-22T16:45Z,Dinamo Zagreb,NEC Nijmegen,2,4,Zagreb,Croatia,135.0,0,1.2,11.4
+401915558,2026-10-22T16:45Z,Ferencvaros,Torreense,4,1,Budapest,Hungary,104.0,0,16.4,11.4
+401915547,2026-10-22T16:45Z,Juventus,Stade Rennais,2,2,Torino,Italy,239.0,0,2.4,15.8
+401915546,2026-10-22T16:45Z,Lech Poznan,Sunderland,1,1,Poznan,Poland,69.0,0,8.7,9.3
+401915559,2026-10-22T16:45Z,OFI Crete,Bayer Leverkusen,0,2,Crete,Greece,1585.0,0,6.6,11.8
+401915557,2026-10-22T16:45Z,SK Sturm Graz,Marseille,1,0,Graz,Austria,362.0,0,3.1,9.6
+401915545,2026-10-22T16:45Z,Union St.-Gilloise,Hapoel Be'er,4,0,Düsseldorf,Germany,42.0,0.1,15.5,11.8
+401915552,2026-10-22T19:00Z,AFC Bournemouth,AC Milan,3,0,Bournemouth,England,19.0,1.7,25.0,13.3
+401915553,2026-10-22T19:00Z,Besiktas,Crystal Palace,2,2,Istanbul,Türkiye,39.0,0,7.5,17.4
+401915555,2026-10-22T19:00Z,Celtic,Celta Vigo,1,2,Glasgow,Scotland,40.0,0,4.8,5.8
+401915542,2026-10-22T19:00Z,Jagiellonia Bialystok,Anderlecht,0,3,Bialystok,Poland,135.0,0.9,18.1,12.0
+401915540,2026-10-22T19:00Z,Lillestrom,Real Sociedad,0,6,Lillestrøm,Norway,116.0,0.2,12.7,8.4
+401915541,2026-10-22T19:00Z,NK Celje,RB Salzburg,2,2,Celje,Slovenia,240.0,0,0.3,8.3
+401915554,2026-10-22T19:00Z,Olympiacos,Sparta Prague,1,0,Piraeus,Greece,29.0,0,4.1,21.0
+401915544,2026-10-22T19:00Z,Omonia Nicosia,Benfica,1,4,Nicosia,Cyprus,155.0,0,4.6,19.1
+401915543,2026-10-22T19:00Z,TSG Hoffenheim,Lyon,3,0,Sinsheim,Germany,162.0,0,9.2,9.3
+401915539,2026-10-22T19:00Z,Viktoria Plzen,Levski Sofia,1,2,Plzen,Czechia,354.0,0,10.4,6.7
+401915551,2026-11-04T15:30Z,Stade Rennais,Olympiacos,0,0,Rennes,France,39.0,0,16.1,9.6
+401915534,2026-11-05T17:45Z,AC Milan,Ferencvaros,0,2,Milano,Italy,635.0,0,4.4,9.0
+401915538,2026-11-05T17:45Z,Anderlecht,RB Salzburg,2,0,Brussels,Belgium,28.0,0,8.7,7.2
+401915526,2026-11-05T17:45Z,Crystal Palace,TSG Hoffenheim,1,1,London,England,25.0,0,10.5,9.2
+401915536,2026-11-05T17:45Z,Levski Sofia,Jagiellonia Bialystok,1,0,Sofia,Bulgaria,562.0,0,3.1,7.7
+401915527,2026-11-05T17:45Z,Lillestrom,Viktoria Plzen,0,1,Lillestrøm,Norway,116.0,0,1.3,1.1
+401915535,2026-11-05T17:45Z,NEC Nijmegen,Omonia Nicosia,3,1,Nijmegen,Netherlands,25.0,0,12.9,6.8
+401915537,2026-11-05T17:45Z,Real Sociedad,Lyon,1,1,San Sebastian,Spain,74.0,0,0.9,11.7
+401915528,2026-11-05T17:45Z,Sparta Prague,AFC Bournemouth,1,3,Prague,Czechia,202.0,0,6.7,4.7
+401915529,2026-11-05T20:00Z,AZ Alkmaar,Juventus,1,2,Alkmaar,Netherlands,5.0,0,15.7,6.3
+401915533,2026-11-05T20:00Z,Bayer Leverkusen,Marseille,0,1,Leverkusen,Germany,52.0,0,10.5,6.4
+401915525,2026-11-05T20:00Z,Benfica,Lech Poznan,3,1,Lisbon,Portugal,68.0,0,5.9,15.0
+401915531,2026-11-05T20:00Z,Celta Vigo,Union St.-Gilloise,1,2,Vigo,Spain,86.0,0,0.4,8.9
+401915522,2026-11-05T20:00Z,Celtic,Besiktas,3,2,Glasgow,Scotland,40.0,0,13.7,8.3
+401915532,2026-11-05T20:00Z,Hapoel Be'er,OFI Crete,0,2,Bucuresti,Romania,92.0,0,8.6,4.4
+401915524,2026-11-05T20:00Z,SK Sturm Graz,NK Celje,2,3,Graz,Austria,362.0,0,2.8,5.4
+401915523,2026-11-05T20:00Z,Sunderland,Dinamo Zagreb,0,2,Sunderland,England,36.0,0,16.9,9.9
+401915530,2026-11-05T20:00Z,Torreense,Ararat-Armenia,3,2,Leiria,Portugal,33.0,0,1.2,11.7

@@ -777,3 +777,56 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401885112,2026-09-12T11:00Z,TSV Eintracht Braunschweig,Dynamo Dresden,2,2,Braunschweig,Germany,72.0,0,10.8,20.4
 401885115,2026-09-12T11:00Z,VfL Bochum,SpVgg Greuther Fürth,1,1,Bochum,Germany,102.0,0,12.0,20.0
 401885119,2026-09-12T18:30Z,St. Pauli,VfL Wolfsburg,1,0,Hamburg Norderstedt,Germany,,,,
+401885118,2026-09-13T11:30Z,1. FC Heidenheim 1846,Holstein Kiel,1,0,Heidenheim,Germany,494.0,0,16.0,21.0
+401885114,2026-09-13T11:30Z,Karlsruher SC,Energie Cottbus,0,3,Karlsruhe,Germany,118.0,0,16.9,24.1
+401885103,2026-09-18T16:30Z,SpVgg Greuther Fürth,1. FC Magdeburg,1,1,Fürth,Germany,302.0,0,10.4,18.2
+401885110,2026-09-18T16:30Z,VfL Wolfsburg,SV Darmstadt 98,5,1,Wolfsburg,Germany,65.0,0,17.1,18.0
+401885105,2026-09-19T11:00Z,Holstein Kiel,VfL Osnabruck,1,1,Kiel,Germany,7.0,0.1,30.1,18.2
+401885108,2026-09-19T11:00Z,Kaiserslautern,TSV Eintracht Braunschweig,1,0,Kaiserslautern,Germany,240.0,0,14.9,20.0
+401885107,2026-09-19T11:00Z,Karlsruher SC,1. FC Nürnberg,0,1,Karlsruhe,Germany,118.0,0,12.1,20.8
+401885106,2026-09-19T18:30Z,Dynamo Dresden,Hertha Berlin,1,2,Dresden,Germany,116.0,0,8.4,17.5
+401885104,2026-09-20T11:30Z,Arminia Bielefeld,1. FC Heidenheim 1846,2,2,Bielefeld,Germany,111.0,0.4,21.9,17.9
+401885102,2026-09-20T11:30Z,Energie Cottbus,St. Pauli,1,1,Cottbus,Germany,80.0,0,20.4,20.0
+401885109,2026-09-20T11:30Z,Hannover 96,VfL Bochum,2,1,Hannover,Germany,57.0,0.3,23.8,19.8
+401885100,2026-10-09T16:30Z,1. FC Heidenheim 1846,Kaiserslautern,0,0,Heidenheim,Germany,494.0,0,15.8,10.8
+401885094,2026-10-09T16:30Z,TSV Eintracht Braunschweig,Holstein Kiel,1,0,Braunschweig,Germany,72.0,1.3,24.1,10.2
+401885095,2026-10-10T11:00Z,1. FC Magdeburg,Hannover 96,3,0,Magdeburg,Germany,47.0,0,18.1,15.8
+401885099,2026-10-10T11:00Z,SV Darmstadt 98,Energie Cottbus,3,1,Darmstadt,Germany,148.0,0,16.2,15.5
+401885097,2026-10-10T18:30Z,1. FC Nürnberg,VfL Wolfsburg,4,4,Nürnberg,Germany,300.0,0,8.3,10.1
+401885098,2026-10-11T11:30Z,Hertha Berlin,SpVgg Greuther Fürth,2,1,Berlin,Germany,74.0,1.3,12.9,10.1
+401885101,2026-10-11T11:30Z,St. Pauli,Karlsruher SC,2,0,Hamburg Norderstedt,Germany,,,,
+401885096,2026-10-11T11:30Z,VfL Bochum,Arminia Bielefeld,0,1,Bochum,Germany,102.0,0.1,21.1,12.9
+401885084,2026-10-16T16:30Z,Energie Cottbus,1. FC Nürnberg,1,1,Cottbus,Germany,80.0,0,10.9,15.0
+401885087,2026-10-16T16:30Z,Holstein Kiel,Hertha Berlin,0,0,Kiel,Germany,7.0,0,9.7,15.6
+401885090,2026-10-17T11:00Z,Kaiserslautern,VfL Bochum,2,0,Kaiserslautern,Germany,240.0,0.3,13.9,10.2
+401885085,2026-10-17T11:00Z,SpVgg Greuther Fürth,TSV Eintracht Braunschweig,2,0,Fürth,Germany,302.0,0.2,10.0,14.5
+401885092,2026-10-17T11:00Z,VfL Wolfsburg,1. FC Heidenheim 1846,3,1,Wolfsburg,Germany,65.0,0.5,15.3,10.7
+401885091,2026-10-17T18:30Z,Hannover 96,St. Pauli,1,1,Hannover,Germany,57.0,0,10.9,9.7
+401885086,2026-10-18T11:30Z,Arminia Bielefeld,VfL Osnabruck,2,1,Bielefeld,Germany,111.0,0.1,9.4,11.8
+401885088,2026-10-18T11:30Z,Dynamo Dresden,1. FC Magdeburg,2,0,Dresden,Germany,116.0,0,6.7,11.3
+401885089,2026-10-18T11:30Z,Karlsruher SC,SV Darmstadt 98,4,0,Karlsruhe,Germany,118.0,0,11.2,9.2
+401885082,2026-10-23T16:30Z,SV Darmstadt 98,St. Pauli,0,0,Darmstadt,Germany,148.0,2.1,29.5,12.6
+401885079,2026-10-23T16:30Z,VfL Bochum,VfL Wolfsburg,1,1,Bochum,Germany,102.0,3.5,30.4,11.6
+401885083,2026-10-24T11:00Z,1. FC Heidenheim 1846,Energie Cottbus,1,1,Heidenheim,Germany,494.0,0.2,23.3,8.2
+401885077,2026-10-24T11:00Z,1. FC Magdeburg,Karlsruher SC,6,1,Magdeburg,Germany,47.0,0.6,18.4,8.5
+401885081,2026-10-24T11:00Z,Hertha Berlin,Arminia Bielefeld,1,0,Berlin,Germany,74.0,0.1,21.7,10.9
+401885080,2026-10-24T18:30Z,1. FC Nürnberg,Kaiserslautern,0,1,Nürnberg,Germany,300.0,0,9.9,6.4
+401885078,2026-10-25T12:30Z,Holstein Kiel,Dynamo Dresden,3,0,Kiel,Germany,7.0,0.8,32.4,11.8
+401885076,2026-10-25T12:30Z,TSV Eintracht Braunschweig,Hannover 96,2,0,Braunschweig,Germany,72.0,0,26.0,13.3
+401885068,2026-10-30T17:30Z,Arminia Bielefeld,TSV Eintracht Braunschweig,3,1,Bielefeld,Germany,111.0,0,7.9,7.9
+401885066,2026-10-30T17:30Z,Energie Cottbus,VfL Bochum,1,2,Cottbus,Germany,80.0,0,11.2,9.1
+401885070,2026-10-31T12:00Z,Kaiserslautern,Hertha Berlin,0,3,Kaiserslautern,Germany,240.0,0,14.3,10.3
+401885071,2026-10-31T12:00Z,SV Darmstadt 98,1. FC Magdeburg,1,1,Darmstadt,Germany,148.0,0,11.0,9.4
+401885074,2026-10-31T12:00Z,VfL Wolfsburg,VfL Osnabruck,2,0,Wolfsburg,Germany,65.0,0,10.0,11.3
+401885069,2026-10-31T19:30Z,Karlsruher SC,1. FC Heidenheim 1846,2,1,Karlsruhe,Germany,118.0,0,10.2,9.0
+401885072,2026-11-01T12:30Z,Hannover 96,Dynamo Dresden,2,1,Hannover,Germany,57.0,0,6.9,10.5
+401885067,2026-11-01T12:30Z,SpVgg Greuther Fürth,Holstein Kiel,1,0,Fürth,Germany,302.0,0,11.0,9.5
+401885073,2026-11-01T12:30Z,St. Pauli,1. FC Nürnberg,1,3,Hamburg Norderstedt,Germany,,,,
+401885061,2026-11-06T17:30Z,Dynamo Dresden,SpVgg Greuther Fürth,3,0,Dresden,Germany,116.0,0,8.7,3.1
+401885058,2026-11-06T17:30Z,TSV Eintracht Braunschweig,Energie Cottbus,0,0,Braunschweig,Germany,72.0,0,13.7,3.8
+401885063,2026-11-07T12:00Z,1. FC Nürnberg,SV Darmstadt 98,2,0,Nürnberg,Germany,300.0,0,7.7,6.8
+401885060,2026-11-07T12:00Z,Holstein Kiel,Arminia Bielefeld,1,2,Kiel,Germany,7.0,0,11.8,6.3
+401885064,2026-11-07T19:30Z,Hertha Berlin,VfL Wolfsburg,2,1,Berlin,Germany,74.0,0,6.2,2.1
+401885065,2026-11-08T12:30Z,1. FC Heidenheim 1846,Hannover 96,2,2,Heidenheim,Germany,494.0,0,6.7,7.5
+401885059,2026-11-08T12:30Z,1. FC Magdeburg,St. Pauli,4,1,Magdeburg,Germany,47.0,0,5.6,7.6
+401885062,2026-11-08T12:30Z,VfL Bochum,Karlsruher SC,3,2,Bochum,Germany,102.0,0.1,10.1,9.8
