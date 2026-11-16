@@ -50,10 +50,23 @@
      "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGRwRVdKTkNsVWMzSFRoYU9YOWU0b3B0MFU5dVRVeXg3QVRfN1U2WV9rOHZobzM4SzI2Q0c0SzAzZWwwVlhQRW51RUZRbFlhMk4xX0ZsTTBrUkpQYklIUDdqODBIWHZPbG9UNWZZSTQ1ZGJTUXF3N081U0k2R2JZUHBqMEN2Z3VSemFKclV2R1k4b3BwdkJ4LVpGdXl6U0tUUHVyakdnTXRjOEtyQXpxTFBhblJJNVBSZFk4bkJkejJ2LUFyMjZ3dFZ5MkVYWEdGTUZxMXIyb0xKb1U?oc=5"
     }
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "presse": [
+    {
+     "reseau": "Keep Cool",
+     "titre": "Anse sports. Une salle de sport Keep cool ouvre ce lundi à 6 heures : « Une structure à taille humaine » - Le Progrès",
+     "source": "Le Progrès",
+     "publie": "Sun, 15 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFpkOEp5endnNVNiYlE3d2dkTXJhd3J1SU9Za2QtX2F4MGhzcEtDTXIxc25Nb1oxRU1EWVhTVVZxRXV3dEFzNTJ6cWlGWmE3THNuZmxIWXRaS29IWW0yRzVHdmlWeGFJeU1rUWFfdkRjWHJBeVFZdzlqTzNLNGtfTVVGZ1pNWExoeXNTYVlzQTNrRUdpa0prRTJ2Zkc5VTBFODFuajEtNG5mMkRha2pTV2lIUFlWWTJORHpDbWFlZUt5WjZtN3c?oc=5"
+    }
+   ]
   }
  ],
- "maj": "2026-11-15T05:32+00:00",
+ "maj": "2026-11-16T05:55+00:00",
  "etat": {
+  "ouvertures": "ok",
   "presse": "ok",
   "fournisseurs": "ok",
   "prix": "ok"
