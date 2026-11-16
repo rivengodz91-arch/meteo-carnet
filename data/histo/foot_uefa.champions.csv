@@ -481,3 +481,24 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401862583,2026-03-11T20:00Z,Bodo/Glimt,Sporting CP,3,0,Bodø/Glimt,Norway,,,,
 401862646,2026-03-11T20:00Z,Paris Saint-Germain,Chelsea,5,2,Paris,France,42.0,0,10.3,8.3
 401862645,2026-03-11T20:00Z,Real Madrid,Manchester City,3,0,Madrid,Spain,665.0,0,8.3,11.0
+401862584,2026-03-17T17:45Z,Sporting CP,Bodo/Glimt,5,0,Lisbon,Portugal,68.0,0.3,21.4,16.4
+401862581,2026-03-17T20:00Z,Arsenal,Bayer Leverkusen,2,0,London,England,25.0,0,8.5,11.0
+401862648,2026-03-17T20:00Z,Chelsea,Paris Saint-Germain,0,3,London,England,25.0,0,8.5,11.0
+401862647,2026-03-17T20:00Z,Manchester City,Real Madrid,1,2,Manchester,England,51.0,0,12.3,11.6
+401862582,2026-03-18T17:45Z,Barcelona,Newcastle United,7,2,Barcelona,Spain,15.0,0,18.2,14.0
+401862642,2026-03-18T20:00Z,Bayern Munich,Atalanta,4,1,München,Germany,524.0,0,15.7,6.5
+401862668,2026-03-18T20:00Z,Liverpool,Galatasaray,4,0,Liverpool,England,30.0,0,6.3,13.1
+401862580,2026-03-18T20:00Z,Tottenham Hotspur,Atlético Madrid,3,2,London,England,25.0,0,11.4,10.2
+401862886,2026-04-07T19:00Z,Real Madrid,Bayern Munich,1,2,Madrid,Spain,665.0,0.3,9.3,15.3
+401862888,2026-04-07T19:00Z,Sporting CP,Arsenal,0,1,Lisbon,Portugal,68.0,0.5,13.4,11.3
+401862887,2026-04-08T19:00Z,Barcelona,Atlético Madrid,0,2,Barcelona,Spain,15.0,0,0.6,14.7
+401862885,2026-04-08T19:00Z,Paris Saint-Germain,Liverpool,2,0,Paris,France,42.0,0,5.5,18.8
+401862892,2026-04-14T19:00Z,Atlético Madrid,Barcelona,1,2,Madrid,Spain,665.0,0,3.1,18.1
+401862889,2026-04-14T19:00Z,Liverpool,Paris Saint-Germain,0,2,Liverpool,England,30.0,1.6,20.5,11.8
+401862890,2026-04-15T19:00Z,Arsenal,Sporting CP,0,0,London,England,25.0,0,17.6,13.5
+401862891,2026-04-15T19:00Z,Bayern Munich,Real Madrid,4,3,München,Germany,524.0,0,5.2,11.2
+401862893,2026-04-28T19:00Z,Paris Saint-Germain,Bayern Munich,5,4,Paris,France,42.0,0,13.1,19.0
+401862894,2026-04-29T19:00Z,Atlético Madrid,Arsenal,1,1,Madrid,Spain,665.0,1.7,7.2,15.2
+401862896,2026-05-05T19:00Z,Arsenal,Atlético Madrid,1,0,London,England,25.0,0.1,12.1,14.3
+401862895,2026-05-06T19:00Z,Bayern Munich,Paris Saint-Germain,1,1,München,Germany,524.0,0,16.6,10.9
+401862897,2026-05-30T16:00Z,Paris Saint-Germain,Arsenal,1,1,Budapest,Hungary,104.0,0,13.0,26.1

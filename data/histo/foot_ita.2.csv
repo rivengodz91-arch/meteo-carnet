@@ -1079,3 +1079,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 755016,2026-03-14T18:30Z,Sampdoria,Venezia,0,0,Genova,Italy,3.0,0.3,10.1,11.9
 755018,2026-03-15T14:00Z,Virtus Entella,US Avellino,1,2,Chiavari,Italy,5.0,0,12.9,17.7
 755017,2026-03-15T16:15Z,Sudtirol,Pescara,0,0,Bolzano,Italy,262.0,0,4.9,13.1
+755024,2026-03-17T18:00Z,Palermo,Juve Stabia,2,2,Palermo,Italy,14.0,2.5,12.9,13.2
+755023,2026-03-17T19:00Z,Mantova,Cesena,3,0,Mantova,Italy,209.0,0,5.7,10.0
+755026,2026-03-17T19:00Z,Reggiana,Monza,0,0,Reggio Emilia,Italy,58.0,0,13.6,10.0
+755027,2026-03-17T19:00Z,Spezia,Empoli,1,1,La Spezia,Italy,3.0,0,4.1,12.5
+755028,2026-03-17T19:00Z,Venezia,Padova,3,1,Venezia,Italy,160.0,0,9.1,9.3
+755022,2026-03-18T18:00Z,Frosinone,Bari,2,1,Frosinone,Italy,291.0,4.0,10.7,6.6
+755020,2026-03-18T19:00Z,Carrarese,Sampdoria,2,0,Carrara,Italy,100.0,0,5.2,10.7
+755025,2026-03-18T19:00Z,Pescara,Virtus Entella,3,0,Pescara,Italy,4.0,0,6.4,8.5
+755019,2026-03-18T19:00Z,US Avellino,Sudtirol,3,2,Avellino,Italy,348.0,0,7.0,3.2
+755034,2026-03-21T14:00Z,Cesena,Catanzaro,3,1,Cesena,Italy,44.0,0,13.0,13.3
+755032,2026-03-21T14:00Z,Juve Stabia,Spezia,3,1,Castellammare di Stabia,Italy,6.0,0.3,9.1,14.0
+755035,2026-03-21T14:00Z,Padova,Palermo,0,1,Padova,Italy,329.0,0,13.3,12.5
+755036,2026-03-21T16:15Z,Monza,Venezia,1,1,Monza,Italy,162.0,0,8.2,13.6
+755037,2026-03-21T18:30Z,Modena,Mantova,2,1,Modena,Italy,34.0,0,10.5,10.5
+755029,2026-03-22T14:00Z,Bari,Carrarese,0,3,Bari,Italy,5.0,0,6.5,14.4
+755038,2026-03-22T14:00Z,Empoli,Pescara,4,2,Empoli,Italy,28.0,0,14.2,14.7
+755031,2026-03-22T14:00Z,Sudtirol,Frosinone,1,3,Bolzano,Italy,262.0,0,0.9,9.0
+755033,2026-03-22T16:15Z,Sampdoria,US Avellino,2,1,Genova,Italy,3.0,0,7.3,13.3
+755030,2026-03-22T18:30Z,Virtus Entella,Reggiana,3,0,Chiavari,Italy,5.0,0.1,2.2,10.7
+755043,2026-04-05T15:15Z,Frosinone,Padova,2,0,Frosinone,Italy,291.0,0,13.5,21.2
+755045,2026-04-05T17:30Z,Palermo,US Avellino,2,0,Palermo,Italy,14.0,0,3.2,15.8
+755042,2026-04-06T10:30Z,Cesena,Sudtirol,1,1,Cesena,Italy,44.0,0,7.1,20.0
+755039,2026-04-06T13:00Z,Bari,Modena,3,1,Bari,Italy,5.0,0,6.6,22.0
+755041,2026-04-06T13:00Z,Catanzaro,Monza,1,1,Catanzaro,Italy,320.0,0,20.8,17.0
+755044,2026-04-06T13:00Z,Mantova,Virtus Entella,1,0,Mantova,Italy,209.0,0,12.9,22.4
+755046,2026-04-06T13:00Z,Reggiana,Pescara,1,3,Reggio Emilia,Italy,58.0,0,4.8,22.1
+755048,2026-04-06T13:00Z,Venezia,Juve Stabia,3,1,Venezia,Italy,160.0,0,5.8,22.9
+755047,2026-04-06T15:15Z,Sampdoria,Empoli,1,0,Genova,Italy,3.0,0,7.5,22.2
+755040,2026-04-06T17:30Z,Carrarese,Spezia,3,1,Carrara,Italy,100.0,0,5.4,14.4
+755050,2026-04-10T18:30Z,Frosinone,Palermo,1,1,Frosinone,Italy,291.0,0,4.2,15.3
+755051,2026-04-11T13:00Z,Juve Stabia,Cesena,2,0,Castellammare di Stabia,Italy,6.0,0,9.4,21.5
+755054,2026-04-11T13:00Z,Pescara,Sampdoria,1,2,Pescara,Italy,4.0,0,11.7,19.0
+755057,2026-04-11T13:00Z,Sudtirol,Modena,1,1,Bolzano,Italy,262.0,0,6.5,23.6
+755058,2026-04-11T13:00Z,Virtus Entella,Venezia,1,1,Chiavari,Italy,5.0,0,3.3,18.0
+755049,2026-04-11T15:15Z,US Avellino,Catanzaro,1,1,Avellino,Italy,348.0,0,8.3,20.3
+755052,2026-04-11T17:30Z,Monza,Bari,2,0,Monza,Italy,162.0,0,5.6,20.2
+755053,2026-04-12T13:00Z,Padova,Empoli,1,0,Padova,Italy,329.0,0.1,10.5,14.5
+755056,2026-04-12T15:15Z,Spezia,Mantova,0,2,La Spezia,Italy,3.0,0,3.4,19.0
+755055,2026-04-12T17:30Z,Reggiana,Carrarese,2,0,Reggio Emilia,Italy,58.0,0,11.1,16.2
+755021,2026-04-14T17:00Z,Catanzaro,Modena,2,2,Catanzaro,Italy,320.0,0,13.1,17.2
+755067,2026-04-17T18:30Z,Sampdoria,Monza,0,3,Genova,Italy,3.0,0,1.5,19.3
+755059,2026-04-18T13:00Z,Bari,Venezia,0,3,Bari,Italy,5.0,0,20.5,21.0
+755063,2026-04-18T13:00Z,Mantova,US Avellino,0,2,Mantova,Italy,209.0,0,3.2,23.5
+755064,2026-04-18T13:00Z,Modena,Frosinone,1,2,Modena,Italy,34.0,0,9.6,24.1
+755068,2026-04-18T13:00Z,Spezia,Sudtirol,6,1,La Spezia,Italy,3.0,0,12.2,24.2
+755066,2026-04-18T15:15Z,Palermo,Cesena,2,0,Palermo,Italy,14.0,0,6.3,20.2
+755062,2026-04-18T17:30Z,Juve Stabia,Catanzaro,1,1,Castellammare di Stabia,Italy,6.0,0,12.3,21.3
+755060,2026-04-19T13:00Z,Carrarese,Pescara,2,2,Carrara,Italy,100.0,0,12.3,20.7
+755065,2026-04-19T15:15Z,Padova,Reggiana,1,0,Padova,Italy,329.0,7.7,5.0,15.7
+755061,2026-04-19T17:30Z,Empoli,Virtus Entella,1,1,Empoli,Italy,28.0,0,16.9,19.8
+755078,2026-04-24T17:00Z,Monza,Modena,1,0,Monza,Italy,162.0,0,8.7,23.3
+755069,2026-04-24T19:00Z,US Avellino,Bari,2,0,Avellino,Italy,348.0,0,3.9,12.4
+755070,2026-04-25T10:30Z,Catanzaro,Spezia,4,2,Catanzaro,Italy,320.0,0,21.0,19.0
+755072,2026-04-25T13:00Z,Frosinone,Carrarese,3,0,Frosinone,Italy,291.0,0,10.5,24.4
+755073,2026-04-25T13:00Z,Pescara,Juve Stabia,1,1,Pescara,Italy,4.0,0,11.8,22.6
+755075,2026-04-25T13:00Z,Reggiana,Palermo,1,1,Reggio Emilia,Italy,58.0,0,3.0,23.7
+755076,2026-04-25T13:00Z,Sudtirol,Mantova,0,3,Bolzano,Italy,262.0,0,7.3,27.9
+755074,2026-04-25T13:00Z,Virtus Entella,Padova,1,0,Chiavari,Italy,5.0,0,10.3,18.2
+755077,2026-04-25T15:15Z,Venezia,Empoli,2,0,Venezia,Italy,160.0,0,9.4,23.5
+755071,2026-04-25T17:30Z,Cesena,Sampdoria,0,0,Cesena,Italy,44.0,0,4.0,20.9
+755079,2026-05-01T13:00Z,Bari,Virtus Entella,2,0,Bari,Italy,5.0,0,21.7,16.7
+755080,2026-05-01T13:00Z,Carrarese,Cesena,0,0,Carrara,Italy,100.0,0,5.8,21.7
+755081,2026-05-01T13:00Z,Empoli,US Avellino,1,0,Empoli,Italy,28.0,0,23.4,20.3
+755082,2026-05-01T13:00Z,Juve Stabia,Frosinone,0,1,Castellammare di Stabia,Italy,6.0,0,16.3,19.1
+755083,2026-05-01T13:00Z,Mantova,Monza,3,2,Mantova,Italy,209.0,0,13.7,19.9
+755084,2026-05-01T13:00Z,Modena,Reggiana,2,1,Modena,Italy,34.0,0,10.6,19.9
+755085,2026-05-01T13:00Z,Padova,Pescara,1,0,Padova,Italy,329.0,0,13.6,16.1
+755086,2026-05-01T13:00Z,Palermo,Catanzaro,3,2,Palermo,Italy,14.0,0,14.0,19.5
+755087,2026-05-01T13:00Z,Sampdoria,Sudtirol,1,0,Genova,Italy,3.0,0,11.5,18.5
+755088,2026-05-01T13:00Z,Spezia,Venezia,2,2,La Spezia,Italy,3.0,0,3.5,22.1
+755090,2026-05-08T18:30Z,Catanzaro,Bari,2,3,Catanzaro,Italy,320.0,0,8.7,17.7
+755091,2026-05-08T18:30Z,Cesena,Padova,3,4,Cesena,Italy,44.0,0,4.6,17.0
+755092,2026-05-08T18:30Z,Frosinone,Mantova,5,0,Frosinone,Italy,291.0,1.0,2.9,16.5
+755098,2026-05-08T18:30Z,Monza,Empoli,2,2,Monza,Italy,162.0,0,2.7,18.4
+755093,2026-05-08T18:30Z,Pescara,Spezia,1,1,Pescara,Italy,4.0,0,5.2,18.3
+755095,2026-05-08T18:30Z,Reggiana,Sampdoria,1,0,Reggio Emilia,Italy,58.0,0,6.5,17.7
+755096,2026-05-08T18:30Z,Sudtirol,Juve Stabia,1,1,Bolzano,Italy,262.0,0,3.3,18.8
+755089,2026-05-08T18:30Z,US Avellino,Modena,1,0,Avellino,Italy,348.0,0,9.7,14.7
+755097,2026-05-08T18:30Z,Venezia,Palermo,2,0,Venezia,Italy,160.0,0,5.1,17.1
+755094,2026-05-08T18:30Z,Virtus Entella,Carrarese,2,1,Chiavari,Italy,5.0,0,11.9,18.3
+401872116,2026-05-12T16:45Z,Modena,Juve Stabia,0,1,Modena,Italy,34.0,0,13.2,22.3
+401872117,2026-05-12T19:00Z,Catanzaro,US Avellino,3,0,Catanzaro,Italy,320.0,0,23.8,17.5
+401872118,2026-05-15T18:00Z,Bari,Sudtirol,0,0,Bari,Italy,5.0,0,21.7,20.6
+401872119,2026-05-16T18:00Z,Juve Stabia,Monza,2,2,Castellammare di Stabia,Italy,6.0,0,16.3,15.9
+401872120,2026-05-17T18:00Z,Catanzaro,Palermo,3,0,Catanzaro,Italy,320.0,0,14.2,15.5
+401872121,2026-05-19T18:00Z,Monza,Juve Stabia,2,1,Monza,Italy,162.0,0,5.3,20.6
+401872122,2026-05-20T18:00Z,Palermo,Catanzaro,2,0,Palermo,Italy,14.0,0,10.1,19.2
+401872123,2026-05-22T18:00Z,Sudtirol,Bari,0,0,Bolzano,Italy,262.0,0,3.6,27.6
+401873594,2026-05-24T18:00Z,Catanzaro,Monza,0,2,Catanzaro,Italy,320.0,0,8.9,19.8
+401873595,2026-05-29T18:00Z,Monza,Catanzaro,0,0,Monza,Italy,162.0,0,9.3,28.4

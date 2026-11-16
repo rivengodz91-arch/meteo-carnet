@@ -527,3 +527,60 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401863957,2026-03-14T16:00Z,SV Josko Ried,WSG Swarovski Tirol,2,1,Ried,Austria,468.0,1.1,8.1,11.6
 401863959,2026-03-15T13:30Z,RB Salzburg,Rapid Vienna,0,1,Salzburg,Austria,424.0,0,3.5,7.1
 401863960,2026-03-15T16:00Z,Austria Vienna,SK Sturm Graz,2,5,Wien,Austria,876.0,0,5.3,6.1
+401863961,2026-03-20T18:30Z,SK Sturm Graz,RB Salzburg,1,1,Graz,Austria,362.0,0,1.3,7.1
+401863962,2026-03-21T16:00Z,FC Blau-Weiß Linz,SV Josko Ried,3,2,Linz,Austria,266.0,0,14.8,9.6
+401863963,2026-03-21T16:00Z,Wolfsberger,SC Rheindorf Altach,1,1,Wolfsberg,Austria,461.0,0,4.2,8.4
+401863964,2026-03-21T16:00Z,WSG Swarovski Tirol,Grazer AK,1,5,Innsbruck,Austria,570.0,0,0.8,9.2
+401863965,2026-03-22T13:30Z,TSV Hartberg,Austria Vienna,0,1,Hartberg,Austria,396.0,0,12.8,11.8
+401863966,2026-03-22T16:00Z,Rapid Vienna,LASK Linz,4,2,Wien,Austria,876.0,0,14.8,6.6
+401863967,2026-04-03T17:30Z,SV Josko Ried,SC Rheindorf Altach,3,2,Ried,Austria,468.0,0,1.0,9.8
+401863968,2026-04-04T15:00Z,Grazer AK,FC Blau-Weiß Linz,2,1,Graz,Austria,362.0,0,13.7,15.7
+401863969,2026-04-04T15:00Z,WSG Swarovski Tirol,Wolfsberger,3,1,Innsbruck,Austria,570.0,0,0.6,11.7
+401863970,2026-04-05T12:30Z,LASK Linz,Austria Vienna,4,1,Linz,Austria,266.0,0,1.8,20.1
+401864011,2026-04-05T12:30Z,TSV Hartberg,RB Salzburg,1,2,Hartberg,Austria,396.0,0,12.5,21.5
+401864012,2026-04-05T15:00Z,Rapid Vienna,SK Sturm Graz,0,2,Wien,Austria,876.0,0,21.3,16.5
+401864013,2026-04-10T17:30Z,RB Salzburg,LASK Linz,2,3,Salzburg,Austria,424.0,0.4,2.7,9.4
+401864015,2026-04-11T15:00Z,SC Rheindorf Altach,Grazer AK,1,0,Altach,Austria,413.0,0,4.5,19.3
+401864014,2026-04-11T15:00Z,Wolfsberger,SV Josko Ried,0,0,Wolfsberg,Austria,461.0,0,5.1,15.9
+401864016,2026-04-11T17:30Z,FC Blau-Weiß Linz,WSG Swarovski Tirol,5,0,Linz,Austria,266.0,0,12.6,12.1
+401864017,2026-04-12T12:30Z,SK Sturm Graz,TSV Hartberg,0,0,Graz,Austria,362.0,0,6.4,16.0
+401864018,2026-04-12T15:00Z,Austria Vienna,Rapid Vienna,1,1,Wien,Austria,876.0,0,10.8,12.0
+401864019,2026-04-17T17:30Z,Grazer AK,SV Josko Ried,1,1,Graz,Austria,362.0,0,5.1,18.1
+401864020,2026-04-18T15:00Z,Wolfsberger,FC Blau-Weiß Linz,0,0,Wolfsberg,Austria,461.0,0,2.0,20.6
+401864021,2026-04-18T15:00Z,WSG Swarovski Tirol,SC Rheindorf Altach,2,2,Innsbruck,Austria,570.0,0.1,6.9,19.9
+401864022,2026-04-19T12:30Z,Austria Vienna,RB Salzburg,1,3,Wien,Austria,876.0,0.4,10.6,10.4
+401864023,2026-04-19T12:30Z,TSV Hartberg,Rapid Vienna,2,2,Hartberg,Austria,396.0,0,7.4,21.5
+401864024,2026-04-19T15:00Z,LASK Linz,SK Sturm Graz,1,1,Linz,Austria,266.0,0.5,14.4,16.0
+401864026,2026-04-21T16:30Z,FC Blau-Weiß Linz,Wolfsberger,3,0,Linz,Austria,266.0,0,10.8,10.6
+401864025,2026-04-21T16:30Z,SC Rheindorf Altach,WSG Swarovski Tirol,0,0,Altach,Austria,413.0,0,14.2,11.7
+401864027,2026-04-21T18:30Z,SV Josko Ried,Grazer AK,2,1,Ried,Austria,468.0,0,9.4,6.0
+401864028,2026-04-22T16:30Z,Rapid Vienna,TSV Hartberg,0,2,Wien,Austria,876.0,0,16.0,8.3
+401864029,2026-04-22T16:30Z,RB Salzburg,Austria Vienna,3,1,Salzburg,Austria,424.0,0,4.5,12.6
+401864030,2026-04-22T18:30Z,SK Sturm Graz,LASK Linz,1,1,Graz,Austria,362.0,0,11.1,10.8
+401864031,2026-04-24T17:30Z,FC Blau-Weiß Linz,SC Rheindorf Altach,3,0,Linz,Austria,266.0,0,14.6,18.5
+401864032,2026-04-25T15:00Z,Wolfsberger,Grazer AK,1,0,Wolfsberg,Austria,461.0,0,11.9,24.1
+401864033,2026-04-25T15:00Z,WSG Swarovski Tirol,SV Josko Ried,1,0,Innsbruck,Austria,570.0,0,8.2,20.8
+401864034,2026-04-26T12:30Z,Rapid Vienna,RB Salzburg,1,0,Wien,Austria,876.0,0,10.3,11.2
+401864035,2026-04-26T12:30Z,TSV Hartberg,LASK Linz,1,5,Hartberg,Austria,396.0,0,18.6,19.1
+401864036,2026-04-26T15:00Z,SK Sturm Graz,Austria Vienna,1,1,Graz,Austria,362.0,0,21.4,17.0
+401864037,2026-05-02T15:00Z,Grazer AK,WSG Swarovski Tirol,4,0,Graz,Austria,362.0,0,8.8,22.5
+401864038,2026-05-02T15:00Z,SV Josko Ried,FC Blau-Weiß Linz,2,0,Ried,Austria,468.0,0,9.7,23.2
+401864039,2026-05-03T12:30Z,Austria Vienna,TSV Hartberg,1,0,Wien,Austria,876.0,0,13.7,22.3
+401864041,2026-05-03T15:00Z,RB Salzburg,SK Sturm Graz,1,1,Salzburg,Austria,424.0,0,11.8,27.1
+401864042,2026-05-04T16:30Z,SC Rheindorf Altach,Wolfsberger,1,4,Altach,Austria,413.0,0,2.9,20.6
+401864040,2026-05-04T18:30Z,LASK Linz,Rapid Vienna,3,1,Linz,Austria,266.0,0,3.7,24.5
+401864044,2026-05-09T15:00Z,Grazer AK,SC Rheindorf Altach,2,2,Graz,Austria,362.0,0,8.3,15.9
+401864043,2026-05-09T15:00Z,SV Josko Ried,Wolfsberger,0,1,Ried,Austria,468.0,0.4,9.8,17.8
+401864045,2026-05-09T15:00Z,WSG Swarovski Tirol,FC Blau-Weiß Linz,1,1,Innsbruck,Austria,570.0,0,2.3,20.4
+401864047,2026-05-10T15:00Z,LASK Linz,RB Salzburg,2,1,Linz,Austria,266.0,0,8.6,25.0
+401864046,2026-05-10T15:00Z,Rapid Vienna,Austria Vienna,0,2,Wien,Austria,876.0,0.1,5.9,18.5
+401864048,2026-05-10T15:00Z,TSV Hartberg,SK Sturm Graz,2,4,Hartberg,Austria,396.0,0,10.4,20.1
+401864049,2026-05-16T15:00Z,FC Blau-Weiß Linz,Grazer AK,0,3,Linz,Austria,266.0,2.6,10.0,9.9
+401864051,2026-05-16T15:00Z,SC Rheindorf Altach,SV Josko Ried,2,0,Altach,Austria,413.0,0.2,11.6,12.4
+401864050,2026-05-16T15:00Z,Wolfsberger,WSG Swarovski Tirol,2,0,Wolfsberg,Austria,461.0,0,16.6,12.8
+401864053,2026-05-17T12:30Z,Austria Vienna,LASK Linz,0,3,Wien,Austria,876.0,0,12.4,10.9
+401864052,2026-05-17T12:30Z,RB Salzburg,TSV Hartberg,1,3,Salzburg,Austria,424.0,0.1,3.1,14.2
+401864054,2026-05-17T12:30Z,SK Sturm Graz,Rapid Vienna,2,0,Graz,Austria,362.0,0,12.8,17.3
+401873390,2026-05-19T16:30Z,SV Josko Ried,Wolfsberger,2,1,Ried,Austria,468.0,0,2.9,17.4
+401873416,2026-05-22T17:30Z,SV Josko Ried,Rapid Vienna,2,1,Ried,Austria,468.0,0,7.5,21.3
+401873417,2026-05-25T15:00Z,Rapid Vienna,SV Josko Ried,3,0,Wien,Austria,876.0,0,10.9,23.9

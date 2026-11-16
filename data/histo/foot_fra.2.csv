@@ -928,3 +928,66 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 747701,2026-03-14T13:00Z,Stade de Reims,Rodez Aveyron,1,2,Reims,France,88.0,0,13.8,8.0
 747696,2026-03-14T19:00Z,Grenoble,Saint-Étienne,0,0,Grenoble,France,218.0,0.3,8.1,3.5
 747703,2026-03-16T19:45Z,Annecy,Troyes,1,2,Annecy,France,452.0,0,3.9,7.1
+747705,2026-03-20T19:00Z,Boulogne,AS Nancy Lorraine,0,0,Boulogne,France,74.0,0,8.2,10.0
+747711,2026-03-20T19:00Z,Clermont Foot,Red Star FC 93,0,1,Clermont,France,406.0,0,7.2,8.9
+747707,2026-03-20T19:00Z,Pau,Montpellier,0,0,Pau,France,219.0,0,5.8,12.6
+747708,2026-03-20T19:00Z,Rodez Aveyron,Bastia,1,1,Rodez,France,627.0,0,9.4,7.3
+747712,2026-03-20T19:00Z,SC Amiens,Le Mans,3,4,Amiens,France,28.0,0,11.1,11.4
+747706,2026-03-20T19:00Z,Stade Laval,Grenoble,3,2,Laval,France,54.0,0,7.7,10.8
+747710,2026-03-21T13:00Z,Guingamp,Stade de Reims,0,2,Guingamp,France,73.0,0,16.0,12.7
+747713,2026-03-21T13:00Z,Troyes,Dunkerque,5,1,Paris,France,42.0,0,6.8,15.5
+747709,2026-03-21T19:00Z,Saint-Étienne,Annecy,4,0,Saint-Etienne,France,529.0,0,2.4,9.3
+747716,2026-04-03T18:00Z,Annecy,Guingamp,1,0,Annecy,France,452.0,0,6.1,9.7
+747717,2026-04-03T18:00Z,Bastia,SC Amiens,1,1,Rodez,France,627.0,0,16.9,8.8
+747722,2026-04-03T18:00Z,Dunkerque,Rodez Aveyron,1,1,Dunkerque,France,-3.0,0,28.3,11.9
+747715,2026-04-03T18:00Z,Grenoble,Clermont Foot,2,2,Grenoble,France,218.0,0,6.8,11.7
+747714,2026-04-03T18:00Z,Red Star FC 93,Stade Laval,0,0,"Saint-Ouen, Paris",France,35.0,0,14.8,11.3
+747721,2026-04-04T12:00Z,Montpellier,Troyes,2,2,Montpellier,France,55.0,0,12.7,22.8
+747719,2026-04-04T12:00Z,Stade de Reims,Boulogne,0,0,Reims,France,88.0,0,18.6,14.8
+747718,2026-04-04T18:00Z,AS Nancy Lorraine,Saint-Étienne,1,1,Nancy,France,212.0,0,6.9,13.0
+747720,2026-04-06T18:45Z,Le Mans,Pau,4,0,Le Mans,France,65.0,0,12.1,17.5
+747727,2026-04-10T18:00Z,Annecy,Montpellier,0,0,Annecy,France,452.0,0,2.2,17.6
+747726,2026-04-10T18:00Z,Clermont Foot,AS Nancy Lorraine,2,2,Clermont,France,406.0,0,2.3,17.3
+747725,2026-04-10T18:00Z,Guingamp,Grenoble,1,1,Guingamp,France,73.0,0,16.0,13.3
+747728,2026-04-10T18:00Z,SC Amiens,Pau,0,1,Amiens,France,28.0,0,8.3,10.9
+747724,2026-04-10T18:00Z,Stade Laval,Stade de Reims,2,2,Laval,France,54.0,0,10.0,14.9
+747729,2026-04-11T12:00Z,Boulogne,Le Mans,0,0,Boulogne,France,74.0,0,23.9,11.0
+747730,2026-04-11T12:00Z,Red Star FC 93,Bastia,4,3,"Saint-Ouen, Paris",France,35.0,0.9,16.3,15.3
+747731,2026-04-11T18:00Z,Saint-Étienne,Dunkerque,2,1,Saint-Etienne,France,529.0,0.5,8.0,15.2
+747723,2026-04-13T18:45Z,Rodez Aveyron,Troyes,2,1,Rodez,France,627.0,0,15.3,7.2
+747737,2026-04-17T18:00Z,AS Nancy Lorraine,Annecy,1,5,Nancy,France,212.0,0,3.8,16.8
+747740,2026-04-17T18:00Z,Le Mans,Clermont Foot,1,0,Le Mans,France,65.0,0,5.0,20.8
+747738,2026-04-17T18:00Z,Montpellier,Grenoble,2,1,Montpellier,France,55.0,0,11.4,19.0
+747736,2026-04-17T18:00Z,Pau,Guingamp,2,1,Pau,France,219.0,0,4.2,21.3
+747734,2026-04-17T18:00Z,Rodez Aveyron,SC Amiens,3,2,Rodez,France,627.0,0,6.2,15.2
+747735,2026-04-18T12:00Z,Stade de Reims,Red Star FC 93,3,2,Reims,France,88.0,0,3.1,20.0
+747733,2026-04-18T12:00Z,Troyes,Boulogne,1,0,Paris,France,42.0,0.1,8.9,21.9
+747732,2026-04-18T18:00Z,Bastia,Saint-Étienne,2,0,Furiani,France,210.0,0,6.0,17.6
+747739,2026-04-20T18:45Z,Dunkerque,Stade Laval,0,2,Dunkerque,France,-3.0,0,15.9,9.6
+747744,2026-04-24T18:00Z,Annecy,Pau,5,1,Annecy,France,452.0,0,5.1,17.9
+747745,2026-04-24T18:00Z,Clermont Foot,Bastia,1,1,Clermont,France,406.0,0,12.7,19.4
+747748,2026-04-24T18:00Z,Red Star FC 93,Guingamp,3,2,"Saint-Ouen, Paris",France,35.0,0,14.0,20.6
+747743,2026-04-24T18:00Z,SC Amiens,Montpellier,0,2,Amiens,France,28.0,0,12.1,15.9
+747749,2026-04-24T18:00Z,Stade Laval,Rodez Aveyron,0,0,Laval,France,54.0,0,13.1,20.2
+747742,2026-04-25T12:00Z,Grenoble,Le Mans,1,1,Grenoble,France,218.0,0,9.7,25.1
+747747,2026-04-25T12:00Z,Stade de Reims,AS Nancy Lorraine,1,1,Reims,France,88.0,0,6.4,18.5
+747746,2026-04-25T18:00Z,Saint-Étienne,Troyes,0,3,Saint-Etienne,France,529.0,0,11.9,19.9
+747741,2026-04-27T18:45Z,Boulogne,Dunkerque,2,6,Boulogne,France,74.0,0,10.3,19.4
+747750,2026-05-02T18:00Z,Boulogne,Annecy,1,2,Boulogne,France,74.0,0.5,16.0,15.6
+747752,2026-05-02T18:00Z,Dunkerque,Grenoble,0,1,Dunkerque,France,-3.0,2.4,4.8,17.8
+747753,2026-05-02T18:00Z,Guingamp,Bastia,0,1,Guingamp,France,73.0,0.1,7.5,14.1
+747754,2026-05-02T18:00Z,Le Mans,Stade de Reims,1,1,Le Mans,France,65.0,0.8,15.1,18.3
+747755,2026-05-02T18:00Z,Montpellier,Clermont Foot,1,2,Montpellier,France,55.0,0,15.2,16.7
+747756,2026-05-02T18:00Z,Pau,AS Nancy Lorraine,1,3,Pau,France,219.0,1.2,6.5,15.9
+747757,2026-05-02T18:00Z,Rodez Aveyron,Saint-Étienne,2,1,Rodez,France,627.0,0,31.2,12.4
+747751,2026-05-02T18:00Z,SC Amiens,Red Star FC 93,1,3,Amiens,France,28.0,0,7.9,18.8
+747758,2026-05-02T18:00Z,Troyes,Stade Laval,4,0,Paris,France,42.0,1.5,11.9,20.9
+747759,2026-05-09T18:00Z,Annecy,Rodez Aveyron,1,2,Annecy,France,452.0,0,3.1,18.1
+747764,2026-05-09T18:00Z,AS Nancy Lorraine,Dunkerque,3,2,Nancy,France,212.0,0,10.4,20.4
+747760,2026-05-09T18:00Z,Bastia,Le Mans,0,2,Furiani,France,210.0,0,12.0,17.1
+747761,2026-05-09T18:00Z,Clermont Foot,Guingamp,1,0,Clermont,France,406.0,0,8.4,18.5
+747762,2026-05-09T18:00Z,Grenoble,Troyes,1,0,Grenoble,France,218.0,0,4.8,19.6
+747765,2026-05-09T18:00Z,Red Star FC 93,Montpellier,1,1,"Saint-Ouen, Paris",France,35.0,0,7.7,20.5
+747767,2026-05-09T18:00Z,Saint-Étienne,SC Amiens,5,0,Saint-Etienne,France,529.0,0,9.0,17.8
+747766,2026-05-09T18:00Z,Stade de Reims,Pau,5,3,Reims,France,88.0,0,8.9,19.6
+747763,2026-05-09T18:00Z,Stade Laval,Boulogne,2,1,Laval,France,54.0,6.2,2.7,17.2

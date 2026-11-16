@@ -718,3 +718,75 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401848214,2026-03-14T23:30Z,Cerro Porteño,Sportivo Trinidense,2,1,Asunción,Paraguay,113.0,0,1.2,30.2
 401848215,2026-03-15T21:30Z,Nacional Asunción,Rubio Ñú,1,0,Asunción,Paraguay,113.0,0,4.1,27.5
 401848217,2026-03-15T23:30Z,Sportivo Ameliano,Guaraní,0,0,Villeta,Paraguay,78.0,0,4.2,25.6
+401848223,2026-03-17T21:30Z,Sportivo San Lorenzo,2 de Mayo,1,1,San Lorenzo,Paraguay,119.0,0.1,2.7,27.5
+401848221,2026-03-17T23:30Z,Club Olimpia,Sportivo Luqueño,1,0,Asunción,Paraguay,113.0,0,5.4,26.5
+401848222,2026-03-18T21:30Z,Rubio Ñú,Cerro Porteño,2,0,Asunción,Paraguay,113.0,0.1,6.2,29.7
+401848219,2026-03-18T23:30Z,Guaraní,Deportivo Recoleta,3,1,Capiata,Paraguay,130.0,0,6.6,27.3
+401848220,2026-03-18T23:30Z,Libertad,Nacional Asunción,2,1,Asunción,Paraguay,113.0,0.1,4.2,27.6
+401848224,2026-03-19T23:00Z,Sportivo Trinidense,Sportivo Ameliano,1,1,Asunción,Paraguay,113.0,0,6.4,27.8
+401848225,2026-03-21T21:30Z,Guaraní,Club Olimpia,0,2,Capiata,Paraguay,130.0,0,6.9,31.2
+401848226,2026-03-21T23:30Z,Libertad,Cerro Porteño,2,3,Asunción,Paraguay,113.0,4.9,6.7,26.5
+401848229,2026-03-22T21:30Z,Sportivo San Lorenzo,Nacional Asunción,0,0,San Lorenzo,Paraguay,119.0,0,6.9,29.5
+401848228,2026-03-22T23:30Z,Sportivo Luqueño,2 de Mayo,0,2,Itagua,Paraguay,31.0,0,7.9,23.1
+401848230,2026-03-23T21:30Z,Sportivo Trinidense,Deportivo Recoleta,3,2,Asunción,Paraguay,113.0,0.3,7.1,25.9
+401848227,2026-03-23T23:30Z,Rubio Ñú,Sportivo Ameliano,1,2,Asunción,Paraguay,113.0,0,7.3,25.5
+401848195,2026-03-25T22:30Z,Guaraní,2 de Mayo,1,1,Asunción,Paraguay,113.0,0,5.6,26.6
+401848235,2026-03-26T23:00Z,Deportivo Recoleta,Rubio Ñú,1,0,Asunción,Paraguay,113.0,0,5.1,26.9
+401848233,2026-03-27T21:30Z,Nacional Asunción,Sportivo Luqueño,3,2,Asunción,Paraguay,113.0,0,7.7,30.4
+401848236,2026-03-27T23:30Z,Sportivo Ameliano,Libertad,2,0,Villeta,Paraguay,78.0,0,7.9,27.7
+401848234,2026-03-28T21:30Z,Club Olimpia,2 de Mayo,4,1,Asunción,Paraguay,113.0,0,7.6,31.3
+401848231,2026-03-28T23:30Z,Cerro Porteño,Sportivo San Lorenzo,2,0,Asunción,Paraguay,113.0,0,5.8,28.6
+401848232,2026-03-29T22:00Z,Guaraní,Sportivo Trinidense,0,0,Capiata,Paraguay,130.0,0,0.8,29.7
+401848240,2026-03-30T23:30Z,Libertad,Deportivo Recoleta,1,0,Asunción,Paraguay,113.0,0,3.8,28.8
+401848241,2026-03-31T21:30Z,2 de Mayo,Nacional Asunción,1,1,Pedro Juan Caballero,Paraguay,649.0,0,6.8,28.3
+401848238,2026-03-31T23:30Z,Sportivo Luqueño,Cerro Porteño,2,3,Itagua,Paraguay,31.0,0.6,1.7,22.4
+401848237,2026-03-31T23:30Z,Sportivo San Lorenzo,Sportivo Ameliano,1,2,San Lorenzo,Paraguay,119.0,0,2.6,28.9
+401848239,2026-04-01T21:30Z,Rubio Ñú,Guaraní,0,2,Asunción,Paraguay,113.0,0,5.8,29.0
+401848242,2026-04-01T23:30Z,Sportivo Trinidense,Club Olimpia,2,1,Capiata,Paraguay,130.0,0,4.7,26.3
+401848245,2026-04-04T21:30Z,Club Olimpia,Nacional Asunción,3,0,Asunción,Paraguay,113.0,0,5.3,32.0
+401848243,2026-04-04T23:30Z,Cerro Porteño,2 de Mayo,3,0,Asunción,Paraguay,113.0,0,5.3,28.9
+401848246,2026-04-04T23:30Z,Deportivo Recoleta,Sportivo San Lorenzo,4,2,Asunción,Paraguay,113.0,0,5.3,28.9
+401848247,2026-04-05T21:30Z,Sportivo Ameliano,Sportivo Luqueño,2,2,Villeta,Paraguay,78.0,0,5.7,30.0
+401848244,2026-04-05T23:30Z,Guaraní,Libertad,1,0,Asunción,Paraguay,113.0,0,10.5,28.5
+401848248,2026-04-06T23:00Z,Sportivo Trinidense,Rubio Ñú,4,0,Asunción,Paraguay,113.0,0,12.6,27.6
+401848249,2026-04-10T21:15Z,2 de Mayo,Sportivo Ameliano,1,2,Pedro Juan Caballero,Paraguay,649.0,0,2.7,24.6
+401848254,2026-04-10T23:30Z,Sportivo San Lorenzo,Guaraní,1,0,San Lorenzo,Paraguay,119.0,0,0.8,22.6
+401848253,2026-04-11T21:15Z,Sportivo Luqueño,Deportivo Recoleta,2,1,Itagua,Paraguay,31.0,0,4.7,22.3
+401848251,2026-04-11T23:30Z,Nacional Asunción,Cerro Porteño,0,0,Asunción,Paraguay,113.0,0,7.0,24.0
+401848252,2026-04-12T21:15Z,Rubio Ñú,Club Olimpia,0,2,Ciudad del Este,Paraguay,197.0,7.3,19.3,18.8
+401848250,2026-04-12T23:30Z,Libertad,Sportivo Trinidense,1,1,Asunción,Paraguay,113.0,5.7,15.9,21.4
+401848260,2026-04-17T20:00Z,Sportivo Trinidense,Sportivo San Lorenzo,2,1,Asunción,Paraguay,113.0,0,3.1,27.9
+401848259,2026-04-18T21:15Z,Guaraní,Sportivo Luqueño,2,1,Capiata,Paraguay,130.0,0,9.1,26.3
+401848257,2026-04-18T23:30Z,Deportivo Recoleta,2 de Mayo,5,0,Asunción,Paraguay,113.0,0,7.9,24.7
+401848258,2026-04-19T20:30Z,Club Olimpia,Cerro Porteño,3,0,Asunción,Paraguay,113.0,0,6.0,28.7
+401848255,2026-04-20T23:30Z,Sportivo Ameliano,Nacional Asunción,1,1,Villeta,Paraguay,78.0,13.3,4.4,22.1
+401848256,2026-04-21T20:00Z,Rubio Ñú,Libertad,3,0,Asunción,Paraguay,113.0,0,5.8,27.7
+401848264,2026-04-24T20:45Z,Nacional Asunción,Deportivo Recoleta,2,1,Asunción,Paraguay,113.0,0,7.8,29.0
+401848261,2026-04-24T23:00Z,Cerro Porteño,Sportivo Ameliano,1,1,Asunción,Paraguay,113.0,0,8.4,24.5
+401848265,2026-04-25T20:45Z,Sportivo Luqueño,Sportivo Trinidense,2,1,Itagua,Paraguay,31.0,0,4.7,29.3
+401848263,2026-04-25T23:00Z,Libertad,Club Olimpia,3,2,Asunción,Paraguay,113.0,2.8,4.0,22.8
+401848262,2026-04-26T20:45Z,2 de Mayo,Guaraní,2,2,Pedro Juan Caballero,Paraguay,649.0,0,10.7,24.6
+401848266,2026-04-26T23:00Z,Sportivo San Lorenzo,Rubio Ñú,0,1,San Lorenzo,Paraguay,119.0,1.0,5.7,22.5
+401848272,2026-05-01T20:45Z,Sportivo Trinidense,2 de Mayo,1,2,Asunción,Paraguay,113.0,0,15.9,30.6
+401848268,2026-05-01T23:00Z,Libertad,Sportivo San Lorenzo,5,0,Asunción,Paraguay,113.0,0,9.4,27.1
+401848271,2026-05-02T23:00Z,Rubio Ñú,Sportivo Luqueño,0,0,Asunción,Paraguay,113.0,0,16.1,21.9
+401848269,2026-05-03T12:30Z,Club Olimpia,Sportivo Ameliano,1,1,Asunción,Paraguay,113.0,0,10.7,16.3
+401848270,2026-05-03T12:30Z,Deportivo Recoleta,Cerro Porteño,2,1,Asunción,Paraguay,113.0,0,10.7,16.3
+401848274,2026-05-09T20:45Z,2 de Mayo,Rubio Ñú,2,0,Pedro Juan Caballero,Paraguay,649.0,2.6,16.2,9.6
+401848275,2026-05-09T23:00Z,Nacional Asunción,Sportivo Trinidense,2,1,Asunción,Paraguay,113.0,0,0.0,14.0
+401848276,2026-05-10T20:45Z,Sportivo San Lorenzo,Club Olimpia,1,0,Asunción,Paraguay,113.0,0,8.9,15.9
+401848277,2026-05-10T23:00Z,Sportivo Luqueño,Libertad,2,3,Itagua,Paraguay,31.0,0.2,16.7,20.5
+401848278,2026-05-11T20:45Z,Sportivo Ameliano,Deportivo Recoleta,3,2,Villeta,Paraguay,78.0,0,4.3,17.7
+401848273,2026-05-11T23:00Z,Cerro Porteño,Guaraní,0,0,Asunción,Paraguay,113.0,0,5.3,13.8
+401848280,2026-05-14T20:00Z,Libertad,2 de Mayo,0,0,Asunción,Paraguay,113.0,0,7.2,22.4
+401848281,2026-05-15T12:30Z,Club Olimpia,Deportivo Recoleta,3,2,Capiata,Paraguay,130.0,0,9.5,16.3
+401848282,2026-05-15T20:00Z,Rubio Ñú,Nacional Asunción,1,1,Asunción,Paraguay,113.0,0,2.3,22.7
+401848284,2026-05-15T20:00Z,Sportivo Trinidense,Cerro Porteño,3,1,Asunción,Paraguay,113.0,0,2.3,22.7
+401848279,2026-05-16T20:15Z,Guaraní,Sportivo Ameliano,1,0,Capiata,Paraguay,130.0,0,4.1,23.4
+401848283,2026-05-17T20:00Z,Sportivo San Lorenzo,Sportivo Luqueño,0,0,Capiata,Paraguay,130.0,0,19.2,19.2
+401848285,2026-05-22T21:00Z,2 de Mayo,Sportivo San Lorenzo,0,1,Pedro Juan Caballero,Paraguay,649.0,0.4,10.8,14.8
+401848290,2026-05-23T19:00Z,Sportivo Luqueño,Club Olimpia,1,2,Itagua,Paraguay,31.0,0,7.0,25.5
+401848288,2026-05-23T21:15Z,Deportivo Recoleta,Guaraní,2,1,Asunción,Paraguay,113.0,0,6.1,17.0
+401848286,2026-05-24T20:00Z,Cerro Porteño,Rubio Ñú,2,0,Asunción,Paraguay,113.0,0.1,4.1,19.1
+401848289,2026-05-24T20:00Z,Nacional Asunción,Libertad,2,1,Asunción,Paraguay,113.0,0.1,4.1,19.1
+401848287,2026-05-24T20:00Z,Sportivo Ameliano,Sportivo Trinidense,1,2,Villeta,Paraguay,78.0,0,2.9,19.1

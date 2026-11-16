@@ -959,3 +959,135 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401859306,2026-03-14T06:00Z,Sanfrecce Hiroshima,Gamba Osaka,2,0,Hiroshima,Japan,16.0,0,11.0,14.1
 401859308,2026-03-14T07:00Z,Tokyo Verdy 1969,Urawa Red Diamonds,1,0,Tokyo,Japan,44.0,0,10.6,14.4
 401859309,2026-03-15T05:00Z,V-Varen Nagasaki,Avispa Fukuoka,1,0,Nagasaki,Japan,15.0,0,8.6,15.7
+401859310,2026-03-18T09:30Z,Cerezo Osaka,Fagiano Okayama,1,2,Osaka,Japan,4.0,1.4,9.3,11.7
+401859311,2026-03-18T10:00Z,Avispa Fukuoka,Shimizu S-Pulse,1,1,"Hakata-ku, Fukuoka",Japan,,,,
+401859420,2026-03-18T10:00Z,JEF United Ichihara-Chiba,FC Tokyo,1,2,Chiba,Japan,5.0,0,10.0,13.4
+401859312,2026-03-18T10:00Z,Nagoya Grampus,Sanfrecce Hiroshima,2,1,Toyota,Japan,55.0,2.5,8.3,11.0
+401859315,2026-03-18T10:00Z,Tokyo Verdy 1969,Kawasaki Frontale,0,2,Tokyo,Japan,44.0,0,8.2,14.0
+401859314,2026-03-18T10:00Z,V-Varen Nagasaki,Kyoto Sanga,1,2,Nagasaki,Japan,15.0,7.1,20.0,15.7
+401859313,2026-03-18T10:00Z,Vissel Kobe,Gamba Osaka,2,2,Kobe,Japan,35.0,1.3,14.3,10.8
+401859317,2026-03-18T10:30Z,Machida Zelvia,Kashima Antlers,0,3,Tokyo,Japan,44.0,0,8.2,14.0
+401859316,2026-03-18T10:30Z,Urawa Red Diamonds,Kashiwa Reysol,1,1,Saitama,Japan,16.0,0,9.3,14.7
+401859318,2026-03-21T05:00Z,Fagiano Okayama,V-Varen Nagasaki,0,1,Okayama,Japan,5.0,0,6.7,14.1
+401859319,2026-03-21T05:30Z,Avispa Fukuoka,Gamba Osaka,2,2,"Hakata-ku, Fukuoka",Japan,,,,
+401859320,2026-03-22T04:00Z,Shimizu S-Pulse,Sanfrecce Hiroshima,3,1,Shimzu,Japan,,,,
+401859321,2026-03-22T05:00Z,Kyoto Sanga,Nagoya Grampus,1,1,Kyoto,Japan,50.0,0,4.6,14.7
+401859322,2026-03-22T05:00Z,Tokyo Verdy 1969,FC Tokyo,0,0,Tokyo,Japan,44.0,0,7.2,15.6
+401859324,2026-03-22T06:00Z,Cerezo Osaka,Vissel Kobe,1,1,Osaka,Japan,4.0,0,4.8,14.3
+401859422,2026-03-22T06:00Z,Kashima Antlers,JEF United Ichihara-Chiba,2,1,Kashima,Japan,20.0,5.3,1.4,15.0
+401859323,2026-03-22T06:00Z,Kawasaki Frontale,Yokohama F. Marinos,0,5,Tokyo,Japan,44.0,0,8.5,15.0
+401859423,2026-03-22T07:00Z,Kashiwa Reysol,Mito Hollyhock,3,0,Kashiwa,Japan,24.0,0,12.1,14.6
+401859325,2026-03-22T07:00Z,Urawa Red Diamonds,Machida Zelvia,1,2,Saitama,Japan,16.0,0,9.7,15.9
+401859326,2026-03-27T10:00Z,Vissel Kobe,Sanfrecce Hiroshima,2,1,Kobe,Japan,35.0,0,5.3,13.0
+401859296,2026-03-28T05:00Z,Machida Zelvia,Kawasaki Frontale,1,1,Tokyo,Japan,44.0,0,10.3,17.7
+401859347,2026-04-01T10:00Z,Machida Zelvia,FC Tokyo,0,3,Tokyo,Japan,44.0,3.5,7.5,11.9
+401859349,2026-04-01T10:00Z,Vissel Kobe,Shimizu S-Pulse,2,0,Kobe,Japan,35.0,1.8,10.1,11.5
+401859424,2026-04-04T04:00Z,JEF United Ichihara-Chiba,Tokyo Verdy 1969,3,2,Chiba,Japan,5.0,0.2,21.5,16.5
+401859327,2026-04-04T06:00Z,Nagoya Grampus,Cerezo Osaka,3,0,Toyota,Japan,55.0,1.9,28.3,16.0
+401859328,2026-04-04T07:00Z,Gamba Osaka,Kyoto Sanga,2,0,Osaka,Japan,4.0,4.5,13.2,17.0
+401859329,2026-04-05T04:00Z,V-Varen Nagasaki,Shimizu S-Pulse,0,3,Nagasaki,Japan,15.0,0,14.9,18.1
+401859330,2026-04-05T05:00Z,Fagiano Okayama,Vissel Kobe,1,4,Okayama,Japan,5.0,0,3.2,21.4
+401859332,2026-04-05T05:00Z,Kashiwa Reysol,Yokohama F. Marinos,3,0,Kashiwa,Japan,24.0,0,10.2,23.1
+401859331,2026-04-05T05:00Z,Sanfrecce Hiroshima,Avispa Fukuoka,0,1,Hiroshima,Japan,16.0,0,12.4,19.0
+401859333,2026-04-05T06:00Z,FC Tokyo,Machida Zelvia,0,0,Tokyo,Japan,44.0,0,8.0,22.4
+401859334,2026-04-05T07:00Z,Kawasaki Frontale,Urawa Red Diamonds,3,2,Kawasaki,Japan,1.0,0,18.3,20.7
+401859426,2026-04-11T04:00Z,JEF United Ichihara-Chiba,Mito Hollyhock,1,1,Chiba,Japan,5.0,0.3,4.6,23.9
+401859335,2026-04-11T05:00Z,Avispa Fukuoka,V-Varen Nagasaki,1,0,"Hakata-ku, Fukuoka",Japan,,,,
+401859336,2026-04-11T05:00Z,Machida Zelvia,Kashiwa Reysol,1,0,Tokyo,Japan,44.0,0,1.7,25.5
+401859337,2026-04-11T05:00Z,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,Hiroshima,Japan,16.0,0,14.0,19.0
+401859338,2026-04-11T06:00Z,Vissel Kobe,Nagoya Grampus,3,2,Kobe,Japan,35.0,0,15.8,20.2
+401859339,2026-04-11T06:00Z,Yokohama F. Marinos,FC Tokyo,1,3,Yokohama,Japan,21.0,0,6.8,25.1
+401859340,2026-04-11T07:00Z,Gamba Osaka,Cerezo Osaka,0,1,Osaka,Japan,4.0,0,14.4,20.1
+401859341,2026-04-11T07:00Z,Kyoto Sanga,Fagiano Okayama,5,1,Kyoto,Japan,50.0,0,10.7,23.0
+401859342,2026-04-12T05:00Z,Urawa Red Diamonds,Tokyo Verdy 1969,1,1,Saitama,Japan,16.0,0,7.0,21.9
+401859343,2026-04-12T07:00Z,Kawasaki Frontale,Kashima Antlers,0,2,Kawasaki,Japan,1.0,0,14.0,19.0
+401859344,2026-04-18T04:00Z,Yokohama F. Marinos,Kawasaki Frontale,1,2,Yokohama,Japan,21.0,0,12.9,20.4
+401859345,2026-04-18T05:00Z,Kashima Antlers,Urawa Red Diamonds,1,0,Kashima,Japan,20.0,0,8.7,23.4
+401859346,2026-04-18T05:00Z,Sanfrecce Hiroshima,V-Varen Nagasaki,2,0,Hiroshima,Japan,16.0,0,6.2,21.9
+401859427,2026-04-18T06:00Z,Tokyo Verdy 1969,JEF United Ichihara-Chiba,1,0,Tokyo,Japan,44.0,0,11.2,20.9
+401859348,2026-04-18T07:00Z,Cerezo Osaka,Kyoto Sanga,3,0,Nagai,Japan,204.0,0,21.1,17.0
+401859350,2026-04-19T06:00Z,Gamba Osaka,Fagiano Okayama,2,2,Osaka,Japan,4.0,0,10.8,21.3
+401859351,2026-04-19T07:00Z,Nagoya Grampus,Avispa Fukuoka,2,2,Nagoya,Japan,23.0,0,11.3,20.6
+401859398,2026-04-22T10:00Z,Gamba Osaka,Avispa Fukuoka,1,2,Osaka,Japan,4.0,0,2.9,17.9
+401859429,2026-04-24T10:00Z,FC Tokyo,Mito Hollyhock,5,2,Tokyo,Japan,44.0,0,3.7,14.4
+401859352,2026-04-24T10:00Z,Kashiwa Reysol,Kashima Antlers,0,1,Kashiwa,Japan,24.0,0,8.8,13.5
+401859354,2026-04-25T05:00Z,Fagiano Okayama,Avispa Fukuoka,2,0,Okayama,Japan,5.0,0,10.0,21.1
+401859353,2026-04-25T05:00Z,Shimizu S-Pulse,Nagoya Grampus,0,2,Shimzu,Japan,,,,
+401859355,2026-04-25T05:00Z,Urawa Red Diamonds,Yokohama F. Marinos,2,3,Saitama,Japan,16.0,0,9.4,17.4
+401859430,2026-04-25T06:00Z,Kawasaki Frontale,JEF United Ichihara-Chiba,2,1,Kawasaki,Japan,1.0,0,9.3,17.1
+401859357,2026-04-25T07:00Z,Sanfrecce Hiroshima,Cerezo Osaka,2,1,Hiroshima,Japan,16.0,0,6.0,21.8
+401859358,2026-04-25T09:30Z,V-Varen Nagasaki,Gamba Osaka,1,1,Nagasaki,Japan,15.0,0.1,2.0,19.8
+401859361,2026-04-29T04:00Z,Shimizu S-Pulse,V-Varen Nagasaki,1,2,Shimzu,Japan,,,,
+401859360,2026-04-29T04:00Z,Tokyo Verdy 1969,Kashima Antlers,2,1,Tokyo,Japan,44.0,1.3,7.6,17.5
+401859363,2026-04-29T05:00Z,Avispa Fukuoka,Sanfrecce Hiroshima,2,2,"Hakata-ku, Fukuoka",Japan,,,,
+401859431,2026-04-29T05:00Z,JEF United Ichihara-Chiba,Yokohama F. Marinos,2,3,Chiba,Japan,5.0,0,13.1,17.6
+401859362,2026-04-29T05:00Z,Vissel Kobe,Cerezo Osaka,0,0,Kobe,Japan,35.0,0,11.7,17.4
+401859365,2026-04-29T06:00Z,Kyoto Sanga,Gamba Osaka,1,1,Kyoto,Japan,50.0,0,9.9,16.5
+401859364,2026-04-29T06:00Z,Nagoya Grampus,Fagiano Okayama,1,1,Nagoya,Japan,23.0,0,14.1,18.0
+401859366,2026-04-29T06:00Z,Urawa Red Diamonds,Kawasaki Frontale,2,0,Saitama,Japan,16.0,0.2,10.4,17.1
+401859367,2026-04-29T07:00Z,Kashiwa Reysol,FC Tokyo,1,3,Kashiwa,Japan,24.0,0.7,16.4,15.8
+401859368,2026-05-02T03:55Z,Fagiano Okayama,Sanfrecce Hiroshima,1,0,Okayama,Japan,5.0,0,11.0,23.8
+401859369,2026-05-02T05:00Z,FC Tokyo,Kawasaki Frontale,2,0,Tokyo,Japan,44.0,0,8.5,26.1
+401859370,2026-05-02T05:00Z,Kyoto Sanga,Shimizu S-Pulse,1,2,Kyoto,Japan,50.0,0,13.8,22.5
+401859433,2026-05-02T05:00Z,Yokohama F. Marinos,Mito Hollyhock,1,1,Yokohama,Japan,21.0,0,12.5,23.5
+401859371,2026-05-02T06:00Z,Gamba Osaka,Vissel Kobe,5,0,Osaka,Japan,4.0,0,8.7,21.5
+401859434,2026-05-02T07:00Z,Urawa Red Diamonds,JEF United Ichihara-Chiba,2,0,Saitama,Japan,16.0,0,8.1,24.2
+401859372,2026-05-03T05:00Z,Tokyo Verdy 1969,Kashiwa Reysol,1,0,Tokyo,Japan,44.0,0,14.8,22.6
+401859373,2026-05-03T06:00Z,Cerezo Osaka,Avispa Fukuoka,1,1,Osaka,Japan,4.0,0.2,15.7,21.9
+401859374,2026-05-03T07:00Z,Kashima Antlers,Machida Zelvia,1,1,Kashima,Japan,20.0,9.0,16.7,19.7
+401859375,2026-05-03T08:00Z,V-Varen Nagasaki,Nagoya Grampus,1,2,Nagasaki,Japan,15.0,10.8,20.7,18.4
+401859376,2026-05-06T04:00Z,Shimizu S-Pulse,Cerezo Osaka,1,1,Shimzu,Japan,,,,
+401859377,2026-05-06T04:00Z,V-Varen Nagasaki,Fagiano Okayama,2,1,Nagasaki,Japan,15.0,0,9.1,22.2
+401859379,2026-05-06T05:00Z,Avispa Fukuoka,Kyoto Sanga,1,1,"Hakata-ku, Fukuoka",Japan,,,,
+401859378,2026-05-06T05:00Z,Nagoya Grampus,Gamba Osaka,2,1,Toyota,Japan,55.0,0,5.5,17.4
+401859435,2026-05-06T06:00Z,FC Tokyo,JEF United Ichihara-Chiba,0,3,Tokyo,Japan,44.0,0,12.4,19.7
+401859380,2026-05-06T06:00Z,Sanfrecce Hiroshima,Vissel Kobe,1,1,Hiroshima,Japan,16.0,0,10.3,20.5
+401859436,2026-05-06T07:00Z,Kashima Antlers,Mito Hollyhock,3,0,Kashima,Japan,20.0,0.1,5.4,24.1
+401859381,2026-05-06T07:00Z,Machida Zelvia,Yokohama F. Marinos,2,0,Tokyo,Japan,44.0,0,11.7,19.5
+401859382,2026-05-06T08:00Z,Kawasaki Frontale,Tokyo Verdy 1969,1,0,Kawasaki,Japan,1.0,0,13.1,18.9
+401859383,2026-05-06T10:00Z,Kashiwa Reysol,Urawa Red Diamonds,0,1,Kashiwa,Japan,24.0,0,10.5,17.9
+401859384,2026-05-09T07:00Z,Cerezo Osaka,V-Varen Nagasaki,3,2,Osaka,Japan,4.0,0,9.6,20.9
+401859385,2026-05-10T05:00Z,Shimizu S-Pulse,Avispa Fukuoka,1,1,Shimzu,Japan,,,,
+401859386,2026-05-10T05:00Z,Vissel Kobe,Fagiano Okayama,0,3,Kobe,Japan,35.0,0,9.8,20.3
+401859387,2026-05-10T05:00Z,Yokohama F. Marinos,Kashima Antlers,1,1,Yokohama,Japan,21.0,0,15.4,22.7
+401859388,2026-05-10T06:00Z,FC Tokyo,Tokyo Verdy 1969,2,1,Tokyo,Japan,44.0,0,17.9,22.9
+401859389,2026-05-10T06:00Z,Gamba Osaka,Sanfrecce Hiroshima,0,1,Osaka,Japan,4.0,0,5.5,23.5
+401859390,2026-05-10T07:00Z,Kashiwa Reysol,Kawasaki Frontale,1,0,Kashiwa,Japan,24.0,0,18.7,22.6
+401859391,2026-05-10T07:00Z,Nagoya Grampus,Kyoto Sanga,3,0,Toyota,Japan,55.0,0,12.6,21.9
+401859439,2026-05-10T08:00Z,JEF United Ichihara-Chiba,Machida Zelvia,0,2,Chiba,Japan,5.0,0,17.3,20.7
+401859356,2026-05-13T10:00Z,Machida Zelvia,Tokyo Verdy 1969,0,0,Tokyo,Japan,44.0,0.2,8.5,21.0
+401859359,2026-05-13T10:00Z,Vissel Kobe,Kyoto Sanga,1,0,Kobe,Japan,35.0,0,7.4,21.1
+401859392,2026-05-16T07:00Z,Urawa Red Diamonds,FC Tokyo,0,0,Saitama,Japan,16.0,0,8.0,28.3
+401859393,2026-05-16T08:00Z,Yokohama F. Marinos,Kashiwa Reysol,0,1,Yokohama,Japan,21.0,0,13.8,22.3
+401859394,2026-05-17T04:00Z,V-Varen Nagasaki,Vissel Kobe,2,2,Nagasaki,Japan,15.0,0,3.2,28.0
+401859395,2026-05-17T05:00Z,Fagiano Okayama,Shimizu S-Pulse,2,0,Okayama,Japan,5.0,0,4.0,31.6
+401859441,2026-05-17T05:00Z,JEF United Ichihara-Chiba,Kashima Antlers,0,2,Chiba,Japan,5.0,0,15.3,28.2
+401859397,2026-05-17T06:00Z,Cerezo Osaka,Nagoya Grampus,6,1,Osaka,Japan,4.0,0,9.9,30.1
+401859396,2026-05-17T06:00Z,Kyoto Sanga,Sanfrecce Hiroshima,0,4,Kyoto,Japan,50.0,0,10.8,31.3
+401859399,2026-05-17T10:00Z,Kawasaki Frontale,Machida Zelvia,1,1,Kawasaki,Japan,1.0,0,9.2,23.0
+401859400,2026-05-22T10:30Z,Machida Zelvia,Urawa Red Diamonds,1,0,Tokyo,Japan,44.0,0,13.6,13.6
+401859401,2026-05-23T05:00Z,Avispa Fukuoka,Vissel Kobe,0,1,"Hakata-ku, Fukuoka",Japan,,,,
+401859402,2026-05-23T05:00Z,Sanfrecce Hiroshima,Nagoya Grampus,4,2,Hiroshima,Japan,16.0,0.5,9.5,24.4
+401859403,2026-05-23T08:30Z,Kashima Antlers,FC Tokyo,1,0,Kashima,Japan,20.0,0,13.9,24.5
+401859442,2026-05-23T09:00Z,Kashiwa Reysol,JEF United Ichihara-Chiba,4,2,Kashiwa,Japan,24.0,0,9.1,14.7
+401859404,2026-05-23T10:00Z,Kyoto Sanga,V-Varen Nagasaki,1,0,Kyoto,Japan,50.0,0,7.0,18.4
+401859405,2026-05-24T03:55Z,Fagiano Okayama,Cerezo Osaka,2,3,Okayama,Japan,5.0,0,8.7,25.5
+401859406,2026-05-24T05:00Z,Tokyo Verdy 1969,Yokohama F. Marinos,0,6,Tokyo,Japan,44.0,0,8.4,22.6
+401859407,2026-05-24T08:00Z,Shimizu S-Pulse,Gamba Osaka,1,2,Tokyo,Japan,44.0,0,8.8,21.6
+401873663,2026-05-30T05:00Z,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,Hiroshima,Japan,16.0,0,8.7,27.4
+401873662,2026-05-30T05:00Z,Vissel Kobe,Kashima Antlers,5,0,Kobe,Japan,35.0,0,11.6,25.8
+401873665,2026-05-30T06:00Z,Cerezo Osaka,FC Tokyo,2,2,Nagai,Japan,204.0,0,18.2,23.8
+401873667,2026-05-30T07:00Z,Avispa Fukuoka,JEF United Ichihara-Chiba,2,2,"Hakata-ku, Fukuoka",Japan,,,,
+401873666,2026-05-30T07:00Z,Gamba Osaka,Tokyo Verdy 1969,1,1,Osaka,Japan,4.0,0,12.9,30.3
+401873668,2026-05-30T08:00Z,V-Varen Nagasaki,Mito Hollyhock,1,0,Nagasaki,Japan,15.0,0,11.9,25.9
+401873669,2026-05-30T10:00Z,Kyoto Sanga,Kashiwa Reysol,2,6,Kyoto,Japan,50.0,0,6.7,27.4
+401873671,2026-05-31T05:00Z,Fagiano Okayama,Urawa Red Diamonds,1,1,Okayama,Japan,5.0,0,10.1,32.3
+401873670,2026-05-31T05:00Z,Shimizu S-Pulse,Yokohama F. Marinos,1,1,Shimzu,Japan,,,,
+401873672,2026-06-06T05:00Z,FC Tokyo,Cerezo Osaka,1,3,Tokyo,Japan,44.0,0,5.3,21.8
+401873694,2026-06-06T05:00Z,Kashima Antlers,Vissel Kobe,2,0,Kashima,Japan,20.0,0,7.2,29.8
+401873695,2026-06-06T06:00Z,Machida Zelvia,Nagoya Grampus,2,1,Tokyo,Japan,44.0,0,5.9,23.0
+401873697,2026-06-06T07:00Z,Tokyo Verdy 1969,Gamba Osaka,2,4,Tokyo,Japan,44.0,0,6.9,22.7
+401873698,2026-06-06T07:00Z,Urawa Red Diamonds,Fagiano Okayama,0,2,Saitama,Japan,16.0,0,6.9,23.0
+401873699,2026-06-06T08:00Z,Yokohama F. Marinos,Shimizu S-Pulse,3,0,Yokohama,Japan,21.0,0,8.4,20.7
+401873700,2026-06-06T09:00Z,Kashiwa Reysol,Kyoto Sanga,0,1,Kashiwa,Japan,24.0,0,9.0,18.7
+401873701,2026-06-06T10:00Z,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,Kawasaki,Japan,1.0,0,12.9,19.3

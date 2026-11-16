@@ -860,3 +860,69 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 741213,2026-03-15T13:30Z,AZ Alkmaar,Heracles Almelo,4,0,Alkmaar,Netherlands,5.0,0,24.2,10.0
 741214,2026-03-15T13:30Z,Feyenoord Rotterdam,Excelsior,2,1,Rotterdam,Netherlands,9.0,0,14.7,11.1
 741218,2026-03-15T15:45Z,Go Ahead Eagles,NAC Breda,6,0,Deventer,Netherlands,12.0,0,17.9,10.6
+741226,2026-03-20T19:00Z,Heracles Almelo,Excelsior,1,1,Almelo,Netherlands,15.0,0,14.6,6.8
+741222,2026-03-21T15:30Z,Fortuna Sittard,FC Twente,1,2,Sittard,Netherlands,48.0,0,13.2,12.9
+741227,2026-03-21T17:45Z,Sparta Rotterdam,FC Volendam,2,0,Rotterdam,Netherlands,9.0,0,9.7,10.3
+741224,2026-03-21T20:00Z,PEC Zwolle,NAC Breda,2,1,Zwolle,Netherlands,9.0,0,12.8,5.2
+741225,2026-03-22T11:15Z,NEC Nijmegen,Heerenveen,2,2,Nijmegen,Netherlands,25.0,0,5.9,11.4
+741220,2026-03-22T13:30Z,FC Utrecht,Go Ahead Eagles,2,0,Utrecht,Netherlands,13.0,0,6.0,13.9
+741221,2026-03-22T13:30Z,Feyenoord Rotterdam,Ajax Amsterdam,1,1,Rotterdam,Netherlands,9.0,0,6.3,13.0
+741219,2026-03-22T15:45Z,FC Groningen,AZ Alkmaar,3,0,Groningen,Netherlands,16.0,0,8.3,13.7
+741223,2026-03-22T15:45Z,Telstar,PSV Eindhoven,3,1,Velsen-Zuid,Netherlands,4.0,0,6.1,13.0
+741234,2026-04-04T14:30Z,PSV Eindhoven,FC Utrecht,4,3,Eindhoven,Netherlands,22.0,0,18.7,14.9
+741235,2026-04-04T16:45Z,Telstar,FC Groningen,0,2,Velsen-Zuid,Netherlands,4.0,0,15.4,13.5
+741231,2026-04-04T17:00Z,AZ Alkmaar,Fortuna Sittard,2,0,Alkmaar,Netherlands,5.0,0,19.4,12.6
+741230,2026-04-04T19:00Z,Ajax Amsterdam,FC Twente,1,2,Amsterdam,Netherlands,13.0,0,17.2,13.3
+741229,2026-04-04T19:00Z,Excelsior,NEC Nijmegen,0,2,Rotterdam,Netherlands,9.0,0,18.2,13.4
+741236,2026-04-05T10:15Z,Go Ahead Eagles,PEC Zwolle,5,0,Deventer,Netherlands,12.0,0,25.0,12.0
+741228,2026-04-05T12:30Z,FC Volendam,Feyenoord Rotterdam,0,0,Volendam,Netherlands,,0.1,30.1,11.3
+741232,2026-04-05T12:30Z,Heerenveen,Heracles Almelo,4,1,Heerenveen,Netherlands,,0,28.9,10.9
+741233,2026-04-05T14:45Z,NAC Breda,Sparta Rotterdam,0,0,Breda,Netherlands,9.0,0.2,26.9,12.2
+741238,2026-04-10T18:00Z,FC Twente,FC Volendam,2,1,Enschede,Netherlands,45.0,0,7.9,9.9
+741237,2026-04-11T14:30Z,FC Utrecht,Telstar,4,1,Utrecht,Netherlands,13.0,0,18.2,17.8
+741242,2026-04-11T16:45Z,Sparta Rotterdam,PSV Eindhoven,0,2,Rotterdam,Netherlands,9.0,0.1,19.0,11.1
+741239,2026-04-11T18:00Z,FC Groningen,Go Ahead Eagles,0,0,Groningen,Netherlands,16.0,5.3,16.3,12.4
+741245,2026-04-11T19:00Z,Heracles Almelo,Ajax Amsterdam,0,3,Almelo,Netherlands,15.0,4.1,24.2,10.7
+741241,2026-04-12T10:15Z,Fortuna Sittard,NAC Breda,1,1,Sittard,Netherlands,48.0,0,11.6,12.0
+741244,2026-04-12T12:30Z,NEC Nijmegen,Feyenoord Rotterdam,1,1,Nijmegen,Netherlands,25.0,0,15.7,13.7
+741243,2026-04-12T12:30Z,PEC Zwolle,Excelsior,2,2,Zwolle,Netherlands,9.0,0,17.1,13.5
+741240,2026-04-12T14:45Z,AZ Alkmaar,Heerenveen,3,0,Alkmaar,Netherlands,5.0,0,17.8,12.2
+741254,2026-04-22T18:00Z,Telstar,Sparta Rotterdam,4,1,Velsen-Zuid,Netherlands,4.0,0,14.7,11.7
+741249,2026-04-23T16:45Z,Go Ahead Eagles,AZ Alkmaar,0,0,Deventer,Netherlands,12.0,0,17.8,14.2
+741251,2026-04-23T19:00Z,PSV Eindhoven,PEC Zwolle,6,1,Eindhoven,Netherlands,22.0,0,12.7,12.7
+741248,2026-04-25T14:30Z,Feyenoord Rotterdam,FC Groningen,3,1,Rotterdam,Netherlands,9.0,0,7.9,16.7
+741250,2026-04-25T16:45Z,Heerenveen,Fortuna Sittard,2,1,Heerenveen,Netherlands,,0,18.1,11.1
+741252,2026-04-25T18:00Z,NAC Breda,Ajax Amsterdam,0,2,Breda,Netherlands,9.0,0,12.2,15.0
+741247,2026-04-25T19:00Z,FC Twente,NEC Nijmegen,1,1,Enschede,Netherlands,45.0,0,13.6,12.0
+741246,2026-04-26T10:15Z,Excelsior,FC Utrecht,5,0,Rotterdam,Netherlands,9.0,0,6.4,12.4
+741253,2026-04-26T12:30Z,Heracles Almelo,FC Volendam,0,2,Almelo,Netherlands,15.0,0,5.6,13.4
+741259,2026-05-02T14:30Z,FC Utrecht,NAC Breda,2,0,Utrecht,Netherlands,13.0,0,7.8,21.3
+741257,2026-05-02T16:45Z,FC Groningen,Excelsior,2,3,Groningen,Netherlands,16.0,0,14.3,19.8
+741256,2026-05-02T18:00Z,Ajax Amsterdam,PSV Eindhoven,2,2,Amsterdam,Netherlands,13.0,0,5.5,17.2
+741260,2026-05-02T19:00Z,NEC Nijmegen,Telstar,1,1,Nijmegen,Netherlands,25.0,4.8,8.2,17.9
+741262,2026-05-03T10:15Z,FC Volendam,Heerenveen,0,2,Volendam,Netherlands,,0.5,16.3,17.1
+741261,2026-05-03T12:30Z,Fortuna Sittard,Feyenoord Rotterdam,1,2,Sittard,Netherlands,48.0,0.9,16.7,16.2
+741263,2026-05-03T12:30Z,PEC Zwolle,Heracles Almelo,1,0,Zwolle,Netherlands,9.0,5.8,13.7,17.1
+741255,2026-05-03T14:45Z,AZ Alkmaar,FC Twente,2,2,Alkmaar,Netherlands,5.0,0.1,13.2,14.6
+741258,2026-05-03T14:45Z,Sparta Rotterdam,Go Ahead Eagles,2,2,Rotterdam,Netherlands,9.0,1.3,9.8,15.5
+741272,2026-05-10T14:45Z,Ajax Amsterdam,FC Utrecht,1,2,Amsterdam,Netherlands,13.0,0,17.4,14.4
+741271,2026-05-10T14:45Z,Excelsior,FC Volendam,1,1,Rotterdam,Netherlands,9.0,0,15.8,17.3
+741270,2026-05-10T14:45Z,FC Groningen,NEC Nijmegen,2,1,Groningen,Netherlands,16.0,0.1,20.3,11.4
+741269,2026-05-10T14:45Z,FC Twente,Sparta Rotterdam,4,0,Enschede,Netherlands,45.0,0.1,14.6,17.0
+741268,2026-05-10T14:45Z,Feyenoord Rotterdam,AZ Alkmaar,1,1,Rotterdam,Netherlands,9.0,0,15.8,17.3
+741265,2026-05-10T14:45Z,Fortuna Sittard,PEC Zwolle,3,2,Sittard,Netherlands,48.0,0,14.5,18.4
+741266,2026-05-10T14:45Z,Go Ahead Eagles,PSV Eindhoven,1,4,Deventer,Netherlands,12.0,0,15.0,17.2
+741264,2026-05-10T14:45Z,Telstar,Heracles Almelo,3,0,Velsen-Zuid,Netherlands,4.0,0,19.5,13.3
+741267,2026-05-11T12:30Z,NAC Breda,Heerenveen,2,0,Heerenveen,Netherlands,,0.2,27.6,9.2
+741275,2026-05-17T12:30Z,AZ Alkmaar,NAC Breda,3,3,Alkmaar,Netherlands,5.0,0.6,23.3,13.0
+741274,2026-05-17T12:30Z,FC Utrecht,Fortuna Sittard,2,0,Utrecht,Netherlands,13.0,0.7,16.3,14.9
+741273,2026-05-17T12:30Z,FC Volendam,Telstar,1,2,Volendam,Netherlands,,3.0,18.7,14.3
+741277,2026-05-17T12:30Z,Heerenveen,Ajax Amsterdam,0,0,Heerenveen,Netherlands,,3.8,17.4,14.9
+741276,2026-05-17T12:30Z,Heracles Almelo,FC Groningen,1,2,Almelo,Netherlands,15.0,0.5,17.0,13.9
+741281,2026-05-17T12:30Z,NEC Nijmegen,Go Ahead Eagles,2,1,Nijmegen,Netherlands,25.0,0.1,15.0,14.7
+741278,2026-05-17T12:30Z,PEC Zwolle,Feyenoord Rotterdam,0,2,Zwolle,Netherlands,9.0,0.2,15.3,15.0
+741279,2026-05-17T12:30Z,PSV Eindhoven,FC Twente,5,1,Eindhoven,Netherlands,22.0,0.5,14.3,13.4
+741280,2026-05-17T12:30Z,Sparta Rotterdam,Excelsior,2,3,Rotterdam,Netherlands,9.0,4.1,14.7,14.6
+401873225,2026-05-21T16:45Z,Ajax Amsterdam,FC Groningen,2,0,Volendam,Netherlands,,0,15.1,17.9
+401873226,2026-05-21T19:00Z,FC Utrecht,Heerenveen,3,2,Utrecht,Netherlands,13.0,0,1.6,17.2
+401873227,2026-05-24T10:15Z,Ajax Amsterdam,FC Utrecht,1,1,Volendam,Netherlands,,0,7.4,19.1

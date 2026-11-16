@@ -1048,3 +1048,93 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 737064,2026-03-15T17:00Z,Como,AS Roma,2,1,Como,Italy,201.0,0.1,2.6,11.1
 737071,2026-03-15T19:45Z,Lazio,AC Milan,1,0,Roma,Italy,576.0,0,13.2,3.0
 737065,2026-03-16T19:45Z,Cremonese,Fiorentina,1,4,Cremona,Italy,45.0,0,9.4,12.3
+737081,2026-03-20T17:30Z,Cagliari,Napoli,0,1,Cagliari,Italy,6.0,0,2.3,13.2
+737083,2026-03-20T19:45Z,Genoa,Udinese,0,2,Genova,Italy,3.0,0,3.6,9.0
+737075,2026-03-21T14:00Z,Parma,Cremonese,0,2,Parma,Italy,57.0,0,13.5,14.3
+737076,2026-03-21T17:00Z,AC Milan,Torino,3,2,Milano,Italy,635.0,0,11.7,8.2
+737077,2026-03-21T19:45Z,Juventus,Sassuolo,1,1,Torino,Italy,239.0,0.1,7.7,11.2
+737080,2026-03-22T11:30Z,Como,Pisa,5,0,Como,Italy,201.0,0,8.1,11.6
+737074,2026-03-22T14:00Z,Atalanta,Hellas Verona,1,0,Bergamo,Italy,249.0,0,2.2,12.3
+737082,2026-03-22T14:00Z,Bologna,Lazio,0,2,Bologna,Italy,54.0,1.0,6.5,13.2
+737078,2026-03-22T17:00Z,AS Roma,Lecce,1,0,Roma,Italy,576.0,0,15.3,5.7
+737079,2026-03-22T19:45Z,Fiorentina,Internazionale,1,1,Firenze,Italy,58.0,0,10.6,9.9
+737084,2026-04-04T13:00Z,Sassuolo,Cagliari,2,1,Reggio Emilia,Italy,58.0,0,5.6,19.9
+737091,2026-04-04T16:00Z,Hellas Verona,Fiorentina,0,1,Verona,Italy,59.0,0,3.1,20.9
+737093,2026-04-04T18:45Z,Lazio,Parma,1,1,Roma,Italy,576.0,0,12.8,9.9
+737092,2026-04-05T13:00Z,Cremonese,Bologna,1,2,Cremona,Italy,45.0,0,1.9,23.0
+737085,2026-04-05T16:00Z,Pisa,Torino,0,1,Pisa,Italy,4.0,0,11.8,17.9
+737090,2026-04-05T18:45Z,Internazionale,AS Roma,5,2,Milano,Italy,635.0,0,2.7,13.9
+737088,2026-04-06T10:30Z,Udinese,Como,0,0,Udine,Italy,113.0,0,5.4,20.1
+737087,2026-04-06T13:00Z,Lecce,Atalanta,0,3,Lecce,Italy,49.0,0,7.1,21.4
+737089,2026-04-06T16:00Z,Juventus,Genoa,2,0,Torino,Italy,239.0,0,7.5,24.7
+737086,2026-04-06T18:45Z,Napoli,AC Milan,1,0,Napoli,Italy,58.0,0,0.9,14.2
+737094,2026-04-10T18:45Z,AS Roma,Pisa,3,0,Roma,Italy,576.0,0,4.6,2.7
+737100,2026-04-11T13:00Z,Cagliari,Cremonese,1,0,Cagliari,Italy,6.0,0,14.3,21.6
+737103,2026-04-11T13:00Z,Torino,Hellas Verona,2,1,Torino,Italy,239.0,0,2.0,20.1
+737096,2026-04-11T16:00Z,AC Milan,Udinese,0,3,Milano,Italy,635.0,0,12.7,20.8
+737102,2026-04-11T18:45Z,Atalanta,Juventus,0,1,Bergamo,Italy,249.0,0,1.4,18.0
+737097,2026-04-12T10:30Z,Genoa,Sassuolo,2,1,Genova,Italy,3.0,0,12.3,18.8
+737095,2026-04-12T13:00Z,Parma,Napoli,1,1,Parma,Italy,57.0,0,11.6,17.0
+737101,2026-04-12T16:00Z,Bologna,Lecce,2,0,Bologna,Italy,54.0,0,11.2,16.2
+737099,2026-04-12T18:45Z,Como,Internazionale,3,4,Como,Italy,201.0,0,3.2,14.2
+737098,2026-04-13T18:45Z,Fiorentina,Lazio,1,0,Firenze,Italy,58.0,0.8,8.5,15.4
+737107,2026-04-17T16:30Z,Sassuolo,Como,2,1,Reggio Emilia,Italy,58.0,0,6.8,21.6
+737113,2026-04-17T18:45Z,Internazionale,Cagliari,3,0,Milano,Italy,635.0,0,6.9,14.8
+737106,2026-04-18T13:00Z,Udinese,Parma,0,1,Udine,Italy,113.0,0,9.1,23.2
+737110,2026-04-18T16:00Z,Napoli,Lazio,0,2,Napoli,Italy,58.0,0,15.2,22.6
+737108,2026-04-18T18:45Z,AS Roma,Atalanta,1,1,Roma,Italy,576.0,0,11.6,10.5
+737104,2026-04-19T10:30Z,Cremonese,Torino,0,0,Cremona,Italy,45.0,0.6,3.6,17.5
+737105,2026-04-19T13:00Z,Hellas Verona,AC Milan,0,1,Verona,Italy,59.0,0,9.4,22.4
+737109,2026-04-19T16:00Z,Pisa,Genoa,1,2,Pisa,Italy,4.0,0,11.9,20.0
+737112,2026-04-19T18:45Z,Juventus,Bologna,2,0,Torino,Italy,239.0,0,2.3,19.4
+737111,2026-04-20T18:45Z,Lecce,Fiorentina,1,1,Lecce,Italy,49.0,0,11.8,17.2
+737116,2026-04-24T18:45Z,Napoli,Cremonese,4,0,Napoli,Italy,58.0,0,5.2,18.0
+737115,2026-04-25T13:00Z,Parma,Pisa,1,0,Parma,Italy,57.0,0,1.4,24.2
+737114,2026-04-25T16:00Z,Bologna,AS Roma,0,2,Bologna,Italy,54.0,0,4.6,24.0
+737119,2026-04-25T18:45Z,Hellas Verona,Lecce,0,0,Verona,Italy,59.0,0,4.8,22.6
+737121,2026-04-26T10:30Z,Fiorentina,Sassuolo,0,0,Firenze,Italy,58.0,0,4.8,20.7
+737120,2026-04-26T13:00Z,Genoa,Como,0,2,Genova,Italy,3.0,0,6.5,25.1
+737118,2026-04-26T16:00Z,Torino,Internazionale,2,2,Torino,Italy,239.0,0,7.2,25.2
+737117,2026-04-26T18:45Z,AC Milan,Juventus,0,0,Milano,Italy,635.0,0,0.6,16.1
+737122,2026-04-27T16:30Z,Cagliari,Atalanta,3,2,Cagliari,Italy,6.0,0,13.1,19.0
+737123,2026-04-27T18:45Z,Lazio,Udinese,3,3,Roma,Italy,576.0,0,7.0,7.8
+737126,2026-05-01T18:45Z,Pisa,Lecce,1,2,Pisa,Italy,4.0,0,12.7,18.5
+737128,2026-05-02T13:00Z,Udinese,Torino,2,0,Udine,Italy,113.0,0,10.7,23.7
+737130,2026-05-02T16:00Z,Como,Napoli,0,0,Como,Italy,201.0,0,6.1,22.3
+737132,2026-05-02T18:45Z,Atalanta,Genoa,0,0,Bergamo,Italy,249.0,0,8.0,20.3
+737131,2026-05-03T10:30Z,Bologna,Cagliari,0,0,Bologna,Italy,54.0,0,4.5,24.0
+737124,2026-05-03T13:00Z,Sassuolo,AC Milan,2,0,Reggio Emilia,Italy,58.0,0,2.3,24.5
+737127,2026-05-03T16:00Z,Juventus,Hellas Verona,1,1,Torino,Italy,239.0,0,4.8,21.7
+737133,2026-05-03T18:45Z,Internazionale,Parma,2,0,Milano,Italy,635.0,0,4.9,17.0
+737129,2026-05-04T16:30Z,Cremonese,Lazio,1,2,Cremona,Italy,45.0,0,11.2,22.1
+737125,2026-05-04T18:45Z,AS Roma,Fiorentina,4,0,Roma,Italy,576.0,0,16.5,15.9
+737143,2026-05-08T18:45Z,Torino,Sassuolo,2,1,Torino,Italy,239.0,0,3.3,17.8
+737142,2026-05-09T13:00Z,Cagliari,Udinese,0,2,Cagliari,Italy,6.0,0,15.9,20.6
+737138,2026-05-09T16:00Z,Lazio,Internazionale,0,3,Roma,Italy,576.0,1.8,11.1,13.1
+737137,2026-05-09T18:45Z,Lecce,Juventus,0,1,Lecce,Italy,49.0,0,3.5,16.3
+737139,2026-05-10T10:30Z,Hellas Verona,Como,0,1,Verona,Italy,59.0,0,17.0,21.1
+737141,2026-05-10T13:00Z,Cremonese,Pisa,3,0,Cremona,Italy,45.0,0.2,8.3,18.7
+737140,2026-05-10T13:00Z,Fiorentina,Genoa,0,0,Firenze,Italy,58.0,0.4,5.2,17.1
+737134,2026-05-10T16:00Z,Parma,AS Roma,2,3,Parma,Italy,57.0,0.6,8.7,16.9
+737136,2026-05-10T18:45Z,AC Milan,Atalanta,2,3,Milano,Italy,635.0,1.2,2.7,13.9
+737135,2026-05-11T18:45Z,Napoli,Bologna,2,3,Napoli,Italy,58.0,0,4.1,18.2
+737148,2026-05-17T10:00Z,AS Roma,Lazio,2,0,Roma,Italy,576.0,0.3,26.1,15.3
+737153,2026-05-17T10:00Z,Como,Parma,1,0,Como,Italy,201.0,0,9.2,17.7
+737152,2026-05-17T10:00Z,Genoa,AC Milan,1,2,Genova,Italy,3.0,0,6.5,19.4
+737150,2026-05-17T10:00Z,Juventus,Fiorentina,0,2,Torino,Italy,239.0,0,4.0,19.5
+737149,2026-05-17T10:00Z,Pisa,Napoli,0,3,Pisa,Italy,4.0,0,5.9,19.8
+737151,2026-05-17T13:00Z,Internazionale,Hellas Verona,1,1,Milano,Italy,635.0,0,0.2,17.1
+737144,2026-05-17T16:00Z,Atalanta,Bologna,0,1,Bergamo,Italy,249.0,0,2.6,19.3
+737145,2026-05-17T18:45Z,Cagliari,Torino,2,1,Cagliari,Italy,6.0,0,22.3,17.5
+737147,2026-05-17T18:45Z,Sassuolo,Lecce,2,3,Reggio Emilia,Italy,58.0,0,4.8,18.7
+737146,2026-05-17T18:45Z,Udinese,Cremonese,0,1,Udine,Italy,113.0,0,0.6,16.2
+737161,2026-05-22T18:45Z,Fiorentina,Atalanta,1,1,Firenze,Italy,58.0,0,11.4,22.8
+737154,2026-05-23T16:00Z,Bologna,Internazionale,3,3,Bologna,Italy,54.0,0,8.4,27.6
+737159,2026-05-23T18:45Z,Lazio,Pisa,2,1,Roma,Italy,576.0,0.4,6.1,16.5
+737155,2026-05-24T13:00Z,Parma,Sassuolo,1,0,Parma,Italy,57.0,0,9.7,30.8
+737156,2026-05-24T16:00Z,Napoli,Udinese,1,0,Napoli,Italy,58.0,0,9.2,28.2
+737157,2026-05-24T18:45Z,AC Milan,Cagliari,1,2,Milano,Italy,635.0,0,7.6,20.1
+737162,2026-05-24T18:45Z,Cremonese,Como,1,4,Cremona,Italy,45.0,0,3.2,27.4
+737160,2026-05-24T18:45Z,Hellas Verona,AS Roma,0,2,Verona,Italy,59.0,0,5.7,29.6
+737163,2026-05-24T18:45Z,Lecce,Genoa,1,0,Lecce,Italy,49.0,0,13.3,21.7
+737158,2026-05-24T19:45Z,Torino,Juventus,2,2,Torino,Italy,239.0,0,5.9,29.4

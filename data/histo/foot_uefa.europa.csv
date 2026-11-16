@@ -497,3 +497,24 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401862755,2026-03-12T20:00Z,Ferencvaros,Braga,2,0,Budapest,Hungary,104.0,0,0.2,10.1
 401862770,2026-03-12T20:00Z,Nottingham Forest,FC Midtjylland,0,1,Nottingham,England,46.0,2.3,34.0,11.1
 401862769,2026-03-12T20:00Z,Racing Genk,SC Freiburg,1,0,Genk,Belgium,66.0,0,21.9,9.8
+401862758,2026-03-18T15:30Z,Braga,Ferencvaros,4,0,Braga,Portugal,190.0,0,14.3,19.7
+401862875,2026-03-19T17:45Z,FC Midtjylland,Nottingham Forest,1,2,Herning,Denmark,60.0,0,15.0,7.8
+401862876,2026-03-19T17:45Z,Lyon,Celta Vigo,0,2,Lyon,France,173.0,0,7.5,13.6
+401862873,2026-03-19T17:45Z,SC Freiburg,Racing Genk,5,1,Freiburg im Breisgau,Germany,278.0,0,11.9,12.7
+401862874,2026-03-19T20:00Z,AS Roma,Bologna,3,4,Roma,Italy,576.0,0,4.0,-0.2
+401862759,2026-03-19T20:00Z,Aston Villa,Lille,2,0,Birmingham,England,149.0,0,7.3,9.9
+401862756,2026-03-19T20:00Z,FC Porto,VfB Stuttgart,2,0,Porto,Portugal,91.0,0,5.8,14.1
+401862757,2026-03-19T20:00Z,Real Betis,Panathinaikos,4,0,Sevilla,Spain,16.0,0.4,12.8,16.8
+401862899,2026-04-08T16:45Z,Braga,Real Betis,1,1,Braga,Portugal,190.0,0.1,5.7,16.5
+401862902,2026-04-09T19:00Z,Bologna,Aston Villa,1,3,Bologna,Italy,54.0,0,8.0,14.1
+401862901,2026-04-09T19:00Z,FC Porto,Nottingham Forest,1,1,Porto,Portugal,91.0,0,9.1,22.8
+401862900,2026-04-09T19:00Z,SC Freiburg,Celta Vigo,3,0,Freiburg im Breisgau,Germany,278.0,0,2.9,14.5
+401862904,2026-04-16T16:45Z,Celta Vigo,SC Freiburg,1,3,Vigo,Spain,86.0,0,11.4,15.8
+401862906,2026-04-16T19:00Z,Aston Villa,Bologna,4,0,Birmingham,England,149.0,0.2,11.4,12.5
+401862905,2026-04-16T19:00Z,Nottingham Forest,FC Porto,1,0,Nottingham,England,46.0,0,7.9,13.1
+401862903,2026-04-16T19:00Z,Real Betis,Braga,2,4,Sevilla,Spain,16.0,0,2.4,25.5
+401862907,2026-04-30T19:00Z,Braga,SC Freiburg,2,1,Braga,Portugal,190.0,0,6.1,15.6
+401862908,2026-04-30T19:00Z,Nottingham Forest,Aston Villa,1,0,Nottingham,England,46.0,0,15.9,16.6
+401862910,2026-05-07T19:00Z,Aston Villa,Nottingham Forest,4,0,Birmingham,England,149.0,0,10.5,12.2
+401862909,2026-05-07T19:00Z,SC Freiburg,Braga,3,1,Freiburg im Breisgau,Germany,278.0,0,5.2,11.5
+401862911,2026-05-20T19:00Z,SC Freiburg,Aston Villa,0,3,Istanbul,Türkiye,39.0,0.2,12.0,15.9

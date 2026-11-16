@@ -650,3 +650,64 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 752445,2026-03-15T16:00Z,PAOK,Levadiakos,3,0,Thessaloniki,Greece,-9999.0,0,10.0,12.0
 752446,2026-03-15T17:30Z,Atromitos,AEK Athens,2,2,Athens,Greece,70.0,0,4.0,13.1
 752448,2026-03-15T19:00Z,Panathinaikos,Panetolikos,0,0,Athens,Greece,70.0,0,6.5,11.5
+752449,2026-03-22T17:00Z,AEK Athens,Kifisia,3,0,Athens,Greece,70.0,0,4.0,10.6
+752450,2026-03-22T17:00Z,Aris,OFI Crete,0,2,Thessaloniki,Greece,-9999.0,0,5.2,11.2
+752451,2026-03-22T17:00Z,Asteras Tripoli,Panathinaikos,1,2,Tripoli,Greece,660.0,0,5.7,6.1
+752455,2026-03-22T17:00Z,Levadiakos,Atromitos,1,0,Levadia,Greece,,,,
+752453,2026-03-22T17:00Z,Olympiacos,Larissa FC,0,0,Piraeus,Greece,29.0,0,11.0,12.1
+752452,2026-03-22T17:00Z,Panetolikos,Panserraikos FC,0,0,Agrinio,Greece,66.0,0,2.6,11.1
+752454,2026-03-22T17:00Z,Volos NFC,PAOK,2,1,Volos,Greece,52.0,0,0.4,10.2
+401866534,2026-04-04T13:00Z,Kifisia,Panserraikos FC,1,2,Athens,Greece,70.0,0,5.7,15.7
+401866533,2026-04-04T15:00Z,Asteras Tripoli,Larissa FC,3,1,Tripoli,Greece,660.0,0.7,1.0,10.0
+401866535,2026-04-04T17:00Z,Panetolikos,Atromitos,1,1,Agrinio,Greece,66.0,0,0.6,13.3
+401866536,2026-04-05T14:00Z,Levadiakos,Aris,1,1,Levadia,Greece,,,,
+401866538,2026-04-05T14:00Z,Volos NFC,OFI Crete,1,1,Volos,Greece,52.0,0,6.6,18.2
+401866539,2026-04-05T16:00Z,PAOK,Panathinaikos,0,0,Thessaloniki,Greece,-9999.0,0,5.9,17.2
+401866537,2026-04-05T18:00Z,Olympiacos,AEK Athens,0,1,Piraeus,Greece,29.0,0,7.0,14.7
+401866540,2026-04-08T13:00Z,Larissa FC,Panetolikos,1,2,Larissa,Greece,76.0,0,7.2,23.1
+401866542,2026-04-08T14:00Z,Panserraikos FC,Asteras Tripoli,0,0,Panserraikos,Greece,,,,
+401866541,2026-04-08T16:00Z,Atromitos,Kifisia,0,0,Athens,Greece,70.0,0,7.3,20.7
+401866548,2026-04-18T13:00Z,Kifisia,Asteras Tripoli,0,0,Athens,Greece,70.0,0,13.0,21.8
+401866549,2026-04-18T14:00Z,Atromitos,Larissa FC,3,2,Athens,Greece,70.0,0,11.8,21.2
+401866547,2026-04-18T15:00Z,OFI Crete,Levadiakos,2,0,Crete,Greece,1585.0,0,16.9,8.0
+401866544,2026-04-18T16:00Z,Aris,Volos NFC,3,2,Thessaloniki,Greece,-9999.0,0,1.5,18.7
+401866546,2026-04-18T17:00Z,Panetolikos,Panserraikos FC,2,3,Agrinio,Greece,66.0,0.5,5.7,16.1
+401866543,2026-04-19T15:00Z,AEK Athens,PAOK,3,0,Athens,Greece,70.0,0,8.1,19.8
+401866545,2026-04-19T18:00Z,Panathinaikos,Olympiacos,0,2,Athens,Greece,70.0,0,4.1,17.2
+401866550,2026-04-22T13:00Z,Panserraikos FC,Atromitos,0,4,Panserraikos,Greece,,,,
+401866551,2026-04-22T14:00Z,Larissa FC,Kifisia,1,1,Larissa,Greece,76.0,1.4,9.6,13.9
+401866552,2026-04-22T17:00Z,Asteras Tripoli,Panetolikos,2,1,Tripoli,Greece,660.0,0,13.5,15.3
+401866553,2026-04-26T13:00Z,Kifisia,Panetolikos,0,0,Athens,Greece,70.0,0,11.8,25.0
+401866554,2026-04-26T15:00Z,Atromitos,Asteras Tripoli,2,1,Athens,Greece,70.0,0,9.0,23.5
+401866555,2026-04-26T17:00Z,Larissa FC,Panserraikos FC,0,1,Larissa,Greece,76.0,0,0.3,20.9
+401866559,2026-05-02T14:00Z,Panetolikos,Kifisia,0,1,Agrinio,Greece,66.0,0.1,10.9,16.2
+401866557,2026-05-02T14:30Z,Panserraikos FC,Larissa FC,1,1,Panserraikos,Greece,,,,
+401866562,2026-05-02T16:30Z,Asteras Tripoli,Atromitos,4,2,Tripoli,Greece,660.0,0,20.6,8.0
+401866561,2026-05-03T14:00Z,Levadiakos,Volos NFC,5,2,Levadia,Greece,,,,
+401866560,2026-05-03T14:00Z,OFI Crete,Aris,0,2,Crete,Greece,1585.0,0.1,18.4,3.3
+401866556,2026-05-03T16:00Z,PAOK,Olympiacos,3,1,Thessaloniki,Greece,-9999.0,0,5.5,15.5
+401866558,2026-05-03T18:00Z,Panathinaikos,AEK Athens,0,0,Athens,Greece,70.0,0,12.6,11.1
+401866564,2026-05-09T13:00Z,Panserraikos FC,Kifisia,1,2,Panserraikos,Greece,,,,
+401866566,2026-05-09T14:00Z,Larissa FC,Asteras Tripoli,1,1,Larissa,Greece,76.0,2.8,3.7,23.1
+401866567,2026-05-09T16:30Z,Atromitos,Panetolikos,1,2,Athens,Greece,70.0,0,6.0,21.9
+401866568,2026-05-10T14:00Z,Aris,OFI Crete,3,1,Thessaloniki,Greece,-9999.0,0,8.6,22.8
+401866563,2026-05-10T14:00Z,Volos NFC,Levadiakos,0,3,Volos,Greece,52.0,0,11.7,21.0
+401866569,2026-05-10T16:30Z,AEK Athens,Panathinaikos,2,1,Athens,Greece,70.0,0,4.6,20.1
+401866565,2026-05-10T16:30Z,Olympiacos,PAOK,1,1,Piraeus,Greece,29.0,0,7.3,20.4
+401866570,2026-05-12T16:00Z,Asteras Tripoli,Panserraikos FC,1,0,Tripoli,Greece,660.0,0,29.9,19.1
+401866571,2026-05-12T16:00Z,Kifisia,Atromitos,0,3,Athens,Greece,70.0,0,2.7,24.2
+401866573,2026-05-12T16:00Z,Panetolikos,Larissa FC,1,1,Agrinio,Greece,66.0,0,13.1,21.6
+401866576,2026-05-13T14:00Z,Levadiakos,OFI Crete,3,2,Levadia,Greece,,,,
+401866572,2026-05-13T14:00Z,Volos NFC,Aris,1,2,Volos,Greece,52.0,0,4.7,24.3
+401866575,2026-05-13T16:30Z,Olympiacos,Panathinaikos,1,0,Piraeus,Greece,29.0,0,5.9,22.3
+401866574,2026-05-13T16:30Z,PAOK,AEK Athens,1,1,Thessaloniki,Greece,-9999.0,1.6,12.5,19.4
+401866579,2026-05-16T16:00Z,Asteras Tripoli,Kifisia,0,0,Tripoli,Greece,660.0,0.2,12.3,16.1
+401866580,2026-05-16T16:00Z,Larissa FC,Atromitos,2,1,Larissa,Greece,76.0,0,17.4,22.3
+401866583,2026-05-17T12:00Z,Panserraikos FC,Panetolikos,1,1,Panserraikos,Greece,,,,
+401866582,2026-05-17T14:00Z,Aris,Levadiakos,3,0,Thessaloniki,Greece,-9999.0,0,13.2,23.7
+401866577,2026-05-17T14:00Z,OFI Crete,Volos NFC,3,1,Crete,Greece,1585.0,0,3.8,19.4
+401866581,2026-05-17T16:30Z,AEK Athens,Olympiacos,1,1,Athens,Greece,70.0,0,12.7,22.9
+401866578,2026-05-17T16:30Z,Panathinaikos,PAOK,2,2,Athens,Greece,70.0,0,12.7,22.9
+401866584,2026-05-21T15:00Z,Atromitos,Panserraikos FC,6,0,Athens,Greece,70.0,0,7.4,23.2
+401866586,2026-05-21T16:00Z,Kifisia,Larissa FC,3,2,Athens,Greece,70.0,0,7.3,22.4
+401866585,2026-05-21T16:00Z,Panetolikos,Asteras Tripoli,1,2,Agrinio,Greece,66.0,0.7,13.0,19.1

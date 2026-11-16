@@ -523,3 +523,58 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401863630,2026-03-15T15:00Z,Sønderjyske Fodbold,AGF,1,1,Haderslev,Denmark,13.0,0,22.2,7.6
 401863631,2026-03-15T17:00Z,Brøndby IF,Viborg FF,0,1,Brøndby,Denmark,11.0,0,9.5,5.6
 401863632,2026-03-16T18:00Z,Silkeborg IF,Vejle Boldklub,1,1,Silkeborg,Denmark,19.0,0,11.8,4.1
+401863633,2026-03-20T18:00Z,Vejle Boldklub,Odense Boldklub,1,1,Vejle,Denmark,5.0,0,4.4,6.3
+401863634,2026-03-22T13:00Z,FC Nordsjælland,Sønderjyske Fodbold,2,0,Farum,Denmark,33.0,0,9.2,11.3
+401863635,2026-03-22T13:00Z,Randers FC,Silkeborg IF,0,3,Randers,Denmark,12.0,0,13.3,11.3
+401863636,2026-03-22T15:00Z,F.C. København,FC Fredericia,1,2,Copenhagen,Denmark,14.0,0,12.1,5.9
+401863637,2026-03-22T17:00Z,AGF,Brøndby IF,0,0,Risskov,Denmark,3.0,0,9.5,7.2
+401863638,2026-03-22T19:00Z,Viborg FF,FC Midtjylland,1,1,Viborg,Denmark,50.0,0,8.4,6.1
+401863639,2026-04-04T16:00Z,FC Midtjylland,Sønderjyske Fodbold,2,2,Herning,Denmark,60.0,0,21.8,7.2
+401863640,2026-04-05T16:00Z,F.C. København,Silkeborg IF,7,0,Copenhagen,Denmark,14.0,0,36.7,9.0
+401863641,2026-04-06T12:00Z,Vejle Boldklub,Randers FC,1,1,Vejle,Denmark,5.0,0.1,38.3,8.3
+401863642,2026-04-06T14:00Z,Odense Boldklub,FC Fredericia,1,0,Odense,Denmark,17.0,0,32.1,9.9
+401863643,2026-04-06T16:00Z,Viborg FF,AGF,1,2,Viborg,Denmark,50.0,0,29.5,7.8
+401863644,2026-04-07T17:00Z,FC Nordsjælland,Brøndby IF,2,1,Farum,Denmark,33.0,0,10.6,6.2
+401863645,2026-04-10T17:00Z,AGF,FC Nordsjælland,1,1,Risskov,Denmark,3.0,0,10.2,5.7
+401863646,2026-04-12T12:00Z,Silkeborg IF,Odense Boldklub,3,1,Silkeborg,Denmark,19.0,0,11.9,13.0
+401863647,2026-04-12T12:00Z,Sønderjyske Fodbold,Viborg FF,0,2,Haderslev,Denmark,13.0,0,14.3,10.6
+401863648,2026-04-12T14:00Z,Brøndby IF,FC Midtjylland,1,2,Brøndby,Denmark,11.0,0,13.7,6.9
+401863649,2026-04-12T16:00Z,Randers FC,F.C. København,1,2,Randers,Denmark,12.0,0,16.7,9.3
+401863650,2026-04-13T17:00Z,FC Fredericia,Vejle Boldklub,2,2,Fredericia,Denmark,16.0,0,18.9,8.6
+401863651,2026-04-17T17:00Z,Brøndby IF,Sønderjyske Fodbold,6,0,Brøndby,Denmark,11.0,0,7.0,9.8
+401863653,2026-04-19T12:00Z,Odense Boldklub,Randers FC,3,1,Odense,Denmark,17.0,0.1,12.3,10.1
+401863652,2026-04-19T12:00Z,Silkeborg IF,FC Fredericia,2,2,Silkeborg,Denmark,19.0,0.3,10.2,11.1
+401863654,2026-04-19T14:00Z,FC Nordsjælland,Viborg FF,2,1,Farum,Denmark,33.0,0,9.4,9.9
+401863655,2026-04-19T16:00Z,Vejle Boldklub,F.C. København,1,4,Vejle,Denmark,5.0,1.2,7.7,10.5
+401863656,2026-04-20T17:00Z,FC Midtjylland,AGF,2,1,Herning,Denmark,60.0,0,14.5,9.8
+401863657,2026-04-22T16:00Z,F.C. København,Odense Boldklub,2,1,Copenhagen,Denmark,14.0,0,20.3,14.7
+401863658,2026-04-22T16:00Z,Vejle Boldklub,Silkeborg IF,1,2,Vejle,Denmark,5.0,0,19.2,12.7
+401863659,2026-04-22T18:00Z,Viborg FF,Brøndby IF,0,1,Viborg,Denmark,50.0,0,20.2,7.8
+401863661,2026-04-23T16:00Z,FC Nordsjælland,AGF,1,1,Farum,Denmark,33.0,0,12.9,13.4
+401863660,2026-04-23T16:00Z,Randers FC,FC Fredericia,2,2,Randers,Denmark,12.0,0,18.2,13.6
+401863662,2026-04-23T18:00Z,Sønderjyske Fodbold,FC Midtjylland,1,2,Haderslev,Denmark,13.0,0,23.8,9.8
+401863663,2026-04-26T12:00Z,FC Fredericia,Odense Boldklub,0,2,Fredericia,Denmark,16.0,0,11.5,11.6
+401863664,2026-04-26T12:00Z,Silkeborg IF,Randers FC,2,0,Silkeborg,Denmark,19.0,0,10.9,12.1
+401863665,2026-04-26T14:00Z,Sønderjyske Fodbold,Brøndby IF,3,0,Haderslev,Denmark,13.0,0,13.6,10.8
+401863666,2026-04-26T16:00Z,Viborg FF,FC Nordsjælland,1,0,Viborg,Denmark,50.0,0,17.2,9.4
+401863667,2026-04-26T18:00Z,AGF,FC Midtjylland,0,0,Risskov,Denmark,3.0,0,15.7,8.7
+401863668,2026-04-27T17:00Z,F.C. København,Vejle Boldklub,3,0,Copenhagen,Denmark,14.0,0,18.2,10.3
+401863669,2026-05-01T17:00Z,Brøndby IF,FC Nordsjælland,1,1,Brøndby,Denmark,11.0,0,8.5,18.6
+401863670,2026-05-03T12:00Z,Odense Boldklub,Silkeborg IF,2,3,Odense,Denmark,17.0,0,4.0,17.3
+401863671,2026-05-03T12:00Z,Randers FC,Vejle Boldklub,1,0,Randers,Denmark,12.0,0,9.6,13.1
+401863672,2026-05-03T14:00Z,FC Fredericia,F.C. København,3,3,Fredericia,Denmark,16.0,0,6.6,17.1
+401863673,2026-05-03T16:00Z,AGF,Sønderjyske Fodbold,2,1,Risskov,Denmark,3.0,0,4.8,15.6
+401863674,2026-05-04T17:00Z,FC Midtjylland,Viborg FF,3,3,Herning,Denmark,60.0,0,15.8,9.9
+401863678,2026-05-08T17:00Z,Viborg FF,Sønderjyske Fodbold,0,1,Viborg,Denmark,50.0,0,12.1,14.8
+401863675,2026-05-10T12:00Z,FC Nordsjælland,FC Midtjylland,0,0,Farum,Denmark,33.0,0.2,10.6,15.1
+401863680,2026-05-10T12:00Z,Vejle Boldklub,FC Fredericia,2,0,Vejle,Denmark,5.0,0,13.6,12.0
+401863676,2026-05-10T14:00Z,Silkeborg IF,F.C. København,0,4,Silkeborg,Denmark,19.0,0,16.4,12.0
+401863679,2026-05-10T16:00Z,Brøndby IF,AGF,0,2,Brøndby,Denmark,11.0,0,4.8,14.0
+401863677,2026-05-11T17:00Z,Randers FC,Odense Boldklub,2,2,Randers,Denmark,12.0,0,13.2,8.8
+401863682,2026-05-17T12:00Z,F.C. København,Randers FC,5,0,Copenhagen,Denmark,14.0,0.1,19.1,12.6
+401863684,2026-05-17T12:00Z,FC Fredericia,Silkeborg IF,4,1,Fredericia,Denmark,16.0,0,18.7,13.2
+401863683,2026-05-17T12:00Z,Odense Boldklub,Vejle Boldklub,0,1,Odense,Denmark,17.0,0,15.8,13.6
+401863686,2026-05-17T16:00Z,AGF,Viborg FF,6,2,Risskov,Denmark,3.0,0,13.4,13.2
+401863681,2026-05-17T16:00Z,FC Midtjylland,Brøndby IF,2,3,Herning,Denmark,60.0,0.2,13.9,11.4
+401863685,2026-05-17T16:00Z,Sønderjyske Fodbold,FC Nordsjælland,1,4,Haderslev,Denmark,13.0,0,14.1,12.9
+401873418,2026-05-21T16:30Z,Brøndby IF,F.C. København,1,3,Brøndby,Denmark,11.0,0,20.4,17.7
