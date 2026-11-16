@@ -802,3 +802,111 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401859592,2026-05-31T23:10Z,Emelec,Universidad Católica (Quito),1,0,Quito,Ecuador,2854.0,0.2,4.5,13.9
 401859711,2026-06-01T22:00Z,Leones,Macará,1,1,Ibarra,Ecuador,2192.0,0,11.0,24.1
 401859597,2026-06-02T00:30Z,Técnico Universitario,Barcelona SC,1,0,Ambato,Ecuador,2597.0,0,8.1,14.8
+401859594,2026-07-01T22:00Z,Liga de Quito,Orense,3,0,Quito,Ecuador,2854.0,0,9.0,15.4
+401859604,2026-07-04T00:00Z,Independiente del Valle,Manta F.C.,4,0,Quito,Ecuador,2854.0,0,4.2,15.0
+401859712,2026-07-04T19:00Z,Libertad (Ecuador),Leones,1,3,Loja,Ecuador,2060.0,0.9,11.7,18.6
+401859602,2026-07-05T00:00Z,Barcelona SC,Deportivo Cuenca,2,0,Quito,Ecuador,2854.0,0,5.2,15.7
+401859599,2026-07-05T18:00Z,Macará,Liga de Quito,1,0,Ambato,Ecuador,2597.0,0,10.9,20.4
+401859603,2026-07-05T22:00Z,Delfín,Emelec,1,1,Manta,Ecuador,3.0,0,15.4,28.1
+401859600,2026-07-06T21:30Z,Universidad Católica (Quito),Mushuc Runa,2,3,Quito,Ecuador,2854.0,0,10.5,20.2
+401859598,2026-07-07T00:00Z,Orense,Técnico Universitario,1,2,Machala,Ecuador,16.0,0,6.5,25.2
+401859601,2026-07-08T00:00Z,Aucas,Guayaquil City FC,1,0,Quito,Ecuador,2854.0,0,6.9,17.5
+401859713,2026-07-10T22:00Z,Leones,Universidad Católica (Quito),1,0,Ibarra,Ecuador,2192.0,0,2.3,21.3
+401859611,2026-07-11T00:15Z,Técnico Universitario,Macará,0,2,Ambato,Ecuador,2597.0,0.3,5.0,13.4
+401859607,2026-07-11T17:00Z,Manta F.C.,Orense,0,0,Manta,Ecuador,3.0,0.2,10.9,30.7
+401859606,2026-07-11T19:10Z,Mushuc Runa,Independiente del Valle,1,4,Ambato,Ecuador,2597.0,0.8,10.3,17.9
+401859609,2026-07-11T23:00Z,Guayaquil City FC,Delfín,2,1,Quito,Ecuador,2854.0,0.1,9.6,14.3
+401859608,2026-07-12T17:00Z,Liga de Quito,Libertad (Ecuador),0,0,Quito,Ecuador,2854.0,0,10.8,17.2
+401859605,2026-07-12T19:15Z,Deportivo Cuenca,Aucas,0,1,Cuenca,Ecuador,2484.0,0.2,8.9,19.5
+401859610,2026-07-12T23:40Z,Emelec,Barcelona SC,0,0,Quito,Ecuador,2854.0,0.3,8.4,13.4
+401859614,2026-07-14T21:30Z,Macará,Mushuc Runa,2,1,Ambato,Ecuador,2597.0,0.1,13.6,18.3
+401859613,2026-07-15T00:00Z,Manta F.C.,Delfín,0,1,Manta,Ecuador,3.0,0,16.9,26.3
+401859615,2026-07-15T17:00Z,Libertad (Ecuador),Técnico Universitario,1,0,Loja,Ecuador,2060.0,0.5,22.3,20.5
+401859714,2026-07-15T22:00Z,Leones,Deportivo Cuenca,1,1,Ibarra,Ecuador,2192.0,0,7.8,22.7
+401859618,2026-07-15T22:00Z,Universidad Católica (Quito),Liga de Quito,1,0,Quito,Ecuador,2854.0,0,9.1,19.1
+401859616,2026-07-16T00:30Z,Barcelona SC,Guayaquil City FC,1,1,Quito,Ecuador,2854.0,0,5.4,17.0
+401859617,2026-07-16T21:30Z,Aucas,Independiente del Valle,0,3,Quito,Ecuador,2854.0,0,10.9,20.4
+401859612,2026-07-17T00:00Z,Orense,Emelec,0,2,Machala,Ecuador,16.0,0,7.2,26.0
+401859620,2026-07-18T00:00Z,Delfín,Macará,2,1,Manta,Ecuador,3.0,0,17.2,26.0
+401859619,2026-07-18T19:00Z,Deportivo Cuenca,Universidad Católica (Quito),0,2,Cuenca,Ecuador,2484.0,0.9,10.2,19.9
+401859715,2026-07-18T21:30Z,Liga de Quito,Leones,0,1,Quito,Ecuador,2854.0,0,13.9,19.0
+401859621,2026-07-19T00:00Z,Barcelona SC,Libertad (Ecuador),1,0,Quito,Ecuador,2854.0,0,4.6,16.5
+401859625,2026-07-19T16:45Z,Técnico Universitario,Aucas,0,1,Ambato,Ecuador,2597.0,0.3,4.5,13.6
+401859622,2026-07-19T21:45Z,Guayaquil City FC,Manta F.C.,1,0,Quito,Ecuador,2854.0,3.3,7.9,14.3
+401859623,2026-07-20T00:15Z,Independiente del Valle,Emelec,6,1,Quito,Ecuador,2854.0,1.9,3.4,12.5
+401859624,2026-07-20T19:00Z,Mushuc Runa,Orense,2,1,Ambato,Ecuador,2597.0,0.6,7.7,19.4
+401859628,2026-07-21T21:30Z,Libertad (Ecuador),Delfín,1,0,Loja,Ecuador,2060.0,0,17.1,20.0
+401859629,2026-07-22T00:00Z,Universidad Católica (Quito),Barcelona SC,2,1,Quito,Ecuador,2854.0,0,5.2,15.7
+401859632,2026-07-22T19:00Z,Macará,Deportivo Cuenca,3,0,Ambato,Ecuador,2597.0,0.7,11.4,18.5
+401859626,2026-07-22T21:30Z,Independiente del Valle,Técnico Universitario,3,0,Quito,Ecuador,2854.0,0,9.0,19.1
+401859631,2026-07-23T00:00Z,Manta F.C.,Liga de Quito,1,1,Manta,Ecuador,3.0,0,17.7,25.6
+401859716,2026-07-23T21:30Z,Leones,Guayaquil City FC,1,1,Ibarra,Ecuador,2192.0,0,4.2,21.4
+401859630,2026-07-23T21:30Z,Orense,Aucas,2,1,Machala,Ecuador,16.0,0,9.5,26.7
+401859627,2026-07-24T00:00Z,Emelec,Mushuc Runa,1,1,Quito,Ecuador,2854.0,0,6.5,14.6
+401859639,2026-07-26T00:00Z,Técnico Universitario,Manta F.C.,1,0,Ambato,Ecuador,2597.0,0,5.3,13.7
+401859633,2026-07-26T18:15Z,Aucas,Macará,1,4,Quito,Ecuador,2854.0,0,12.0,21.1
+401859717,2026-07-26T18:15Z,Delfín,Leones,0,1,Manta,Ecuador,3.0,0,12.9,29.7
+401859635,2026-07-26T20:45Z,Orense,Independiente del Valle,2,3,Machala,Ecuador,16.0,0,11.6,27.8
+401859634,2026-07-27T00:15Z,Barcelona SC,Liga de Quito,0,1,Quito,Ecuador,2854.0,0,7.4,15.3
+401859636,2026-07-27T19:00Z,Mushuc Runa,Libertad (Ecuador),0,2,Ambato,Ecuador,2597.0,0.3,11.5,19.3
+401859637,2026-07-27T21:30Z,Guayaquil City FC,Universidad Católica (Quito),0,0,Quito,Ecuador,2854.0,0.2,11.7,17.5
+401859638,2026-07-28T00:00Z,Deportivo Cuenca,Emelec,2,1,Cuenca,Ecuador,2484.0,0.2,2.5,13.3
+401859645,2026-08-01T00:00Z,Libertad (Ecuador),Orense,3,0,Loja,Ecuador,2060.0,0.1,9.0,14.6
+401859643,2026-08-01T19:00Z,Manta F.C.,Mushuc Runa,1,2,Manta,Ecuador,3.0,0,15.1,31.1
+401859642,2026-08-01T21:30Z,Universidad Católica (Quito),Técnico Universitario,5,0,Quito,Ecuador,2854.0,0,13.9,20.3
+401859646,2026-08-02T00:00Z,Emelec,Aucas,0,2,Quito,Ecuador,2854.0,0,9.3,17.1
+401859641,2026-08-02T18:00Z,Independiente del Valle,Deportivo Cuenca,1,0,Quito,Ecuador,2854.0,0,11.7,21.0
+401859644,2026-08-02T20:30Z,Macará,Guayaquil City FC,2,1,Latacunga,Ecuador,2770.0,0.2,13.5,18.2
+401859718,2026-08-02T23:10Z,Leones,Barcelona SC,1,1,Ibarra,Ecuador,2192.0,0,4.4,20.9
+401859640,2026-08-04T00:00Z,Liga de Quito,Delfín,2,1,Quito,Ecuador,2854.0,0,9.0,16.6
+401859648,2026-08-08T00:00Z,Liga de Quito,Independiente del Valle,0,2,Quito,Ecuador,2854.0,0,4.9,17.0
+401859719,2026-08-08T21:30Z,Aucas,Leones,3,0,Quito,Ecuador,2854.0,0.2,11.5,20.3
+401859652,2026-08-09T00:00Z,Barcelona SC,Macará,1,2,Quito,Ecuador,2854.0,0,8.6,16.0
+401859651,2026-08-09T21:00Z,Delfín,Orense,1,1,Manta,Ecuador,3.0,0,16.3,29.2
+401859649,2026-08-10T00:00Z,Guayaquil City FC,Emelec,0,0,Quito,Ecuador,2854.0,0.2,4.7,15.9
+401859653,2026-08-10T19:00Z,Técnico Universitario,Mushuc Runa,0,3,Latacunga,Ecuador,2770.0,0,15.8,18.3
+401859647,2026-08-10T21:30Z,Libertad (Ecuador),Universidad Católica (Quito),2,1,Loja,Ecuador,2060.0,0.9,20.5,16.9
+401859650,2026-08-11T00:00Z,Deportivo Cuenca,Manta F.C.,1,2,Cuenca,Ecuador,2484.0,0,1.7,13.6
+401859657,2026-08-15T00:00Z,Independiente del Valle,Delfín,3,2,Quito,Ecuador,2854.0,0,8.9,16.8
+401859720,2026-08-15T19:00Z,Manta F.C.,Leones,0,2,Manta,Ecuador,3.0,0,19.2,30.4
+401859654,2026-08-15T21:30Z,Guayaquil City FC,Libertad (Ecuador),2,2,Quito,Ecuador,2854.0,0,13.2,20.7
+401859659,2026-08-16T00:00Z,Mushuc Runa,Barcelona SC,0,0,Latacunga,Ecuador,2770.0,0,5.1,12.4
+401859658,2026-08-16T19:00Z,Orense,Deportivo Cuenca,2,0,Machala,Ecuador,16.0,0.4,12.2,28.1
+401859655,2026-08-16T21:15Z,Emelec,Técnico Universitario,2,1,Quito,Ecuador,2854.0,10.9,6.0,13.4
+401859656,2026-08-17T00:00Z,Aucas,Liga de Quito,0,1,Quito,Ecuador,2854.0,2.1,2.1,11.9
+401859660,2026-08-18T00:00Z,Macará,Universidad Católica (Quito),1,1,Ambato,Ecuador,2597.0,0.4,5.5,13.9
+401859667,2026-08-22T00:00Z,Deportivo Cuenca,Mushuc Runa,0,0,Cuenca,Ecuador,2484.0,0,2.2,15.1
+401859721,2026-08-22T00:00Z,Leones,Independiente del Valle,2,3,Ibarra,Ecuador,2192.0,0,4.8,21.1
+401859663,2026-08-22T19:00Z,Universidad Católica (Quito),Manta F.C.,5,1,Quito,Ecuador,2854.0,0,10.7,21.0
+401859664,2026-08-22T21:30Z,Técnico Universitario,Guayaquil City FC,2,3,Ambato,Ecuador,2597.0,1.1,10.7,17.7
+401859661,2026-08-23T00:00Z,Barcelona SC,Orense,3,0,Quito,Ecuador,2854.0,0,1.9,15.7
+401859662,2026-08-23T20:30Z,Delfín,Aucas,0,1,Manta,Ecuador,3.0,0,17.3,28.8
+401859666,2026-08-24T00:00Z,Liga de Quito,Emelec,2,0,Quito,Ecuador,2854.0,0,5.6,15.9
+401859665,2026-08-25T00:00Z,Libertad (Ecuador),Macará,1,0,Loja,Ecuador,2060.0,0.1,11.8,14.7
+401859671,2026-08-28T20:30Z,Mushuc Runa,Delfín,1,0,Ambato,Ecuador,2597.0,0.8,9.3,16.8
+401859674,2026-08-29T00:00Z,Técnico Universitario,Deportivo Cuenca,3,1,Ambato,Ecuador,2597.0,0.2,4.5,13.2
+401859669,2026-08-29T18:00Z,Independiente del Valle,Universidad Católica (Quito),2,2,Quito,Ecuador,2854.0,0,13.2,21.6
+401859673,2026-08-29T21:00Z,Guayaquil City FC,Liga de Quito,2,1,Quito,Ecuador,2854.0,0,10.8,20.0
+401859670,2026-08-30T00:00Z,Manta F.C.,Barcelona SC,2,0,Manta,Ecuador,3.0,0,16.5,25.3
+401859668,2026-08-30T18:00Z,Aucas,Libertad (Ecuador),1,0,Quito,Ecuador,2854.0,0,7.8,17.8
+401859672,2026-08-30T20:30Z,Orense,Macará,1,2,Machala,Ecuador,16.0,0,13.8,27.5
+401859722,2026-08-30T23:00Z,Emelec,Leones,2,1,Quito,Ecuador,2854.0,0.1,8.5,14.6
+401859676,2026-09-01T21:30Z,Delfín,Técnico Universitario,1,0,Manta,Ecuador,3.0,0,17.6,28.2
+401859678,2026-09-02T00:00Z,Liga de Quito,Mushuc Runa,0,0,Quito,Ecuador,2854.0,0,8.3,16.1
+401859680,2026-09-02T19:00Z,Macará,Manta F.C.,4,3,Ambato,Ecuador,2597.0,0.7,10.7,14.6
+401859675,2026-09-02T21:30Z,Deportivo Cuenca,Guayaquil City FC,1,0,Cuenca,Ecuador,2484.0,0,11.4,19.2
+401859677,2026-09-03T00:00Z,Barcelona SC,Independiente del Valle,2,1,Quito,Ecuador,2854.0,0,5.8,16.5
+401859681,2026-09-03T19:00Z,Universidad Católica (Quito),Aucas,1,1,Quito,Ecuador,2854.0,0,14.4,20.6
+401859723,2026-09-03T21:30Z,Leones,Orense,1,0,Ibarra,Ecuador,2192.0,0,9.0,24.3
+401859679,2026-09-04T00:00Z,Libertad (Ecuador),Emelec,1,1,Loja,Ecuador,2060.0,0,8.9,14.8
+401859686,2026-09-05T00:30Z,Técnico Universitario,Liga de Quito,1,3,Ambato,Ecuador,2597.0,0,4.9,13.3
+401859688,2026-09-05T23:00Z,Independiente del Valle,Macará,3,1,Quito,Ecuador,2854.0,0,12.0,15.2
+401859683,2026-09-06T21:00Z,Delfín,Universidad Católica (Quito),0,1,Manta,Ecuador,3.0,0,16.1,27.5
+401859684,2026-09-07T00:00Z,Aucas,Barcelona SC,1,1,Quito,Ecuador,2854.0,0,8.0,15.6
+401859682,2026-09-07T00:00Z,Deportivo Cuenca,Libertad (Ecuador),0,1,Cuenca,Ecuador,2484.0,0,3.9,13.6
+401859685,2026-09-08T00:00Z,Emelec,Manta F.C.,1,0,Quito,Ecuador,2854.0,0,9.3,16.0
+401859724,2026-09-08T00:00Z,Mushuc Runa,Leones,1,1,Latacunga,Ecuador,2770.0,0,5.6,12.0
+401859687,2026-09-08T00:00Z,Orense,Guayaquil City FC,4,3,Machala,Ecuador,16.0,0,8.4,25.4
+401859692,2026-09-12T19:00Z,Manta F.C.,Aucas,0,0,Manta,Ecuador,3.0,0,18.2,30.7
+401859690,2026-09-12T21:30Z,Guayaquil City FC,Mushuc Runa,3,1,Quito,Ecuador,2854.0,0.1,10.4,20.0
+401859691,2026-09-13T00:00Z,Liga de Quito,Deportivo Cuenca,1,1,Quito,Ecuador,2854.0,0,4.9,16.2

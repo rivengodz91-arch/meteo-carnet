@@ -991,3 +991,56 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 747767,2026-05-09T18:00Z,Saint-Étienne,SC Amiens,5,0,Saint-Etienne,France,529.0,0,9.0,17.8
 747766,2026-05-09T18:00Z,Stade de Reims,Pau,5,3,Reims,France,88.0,0,8.9,19.6
 747763,2026-05-09T18:00Z,Stade Laval,Boulogne,2,1,Laval,France,54.0,6.2,2.7,17.2
+401876799,2026-08-08T18:45Z,Boulogne,AS Nancy Lorraine,0,0,Boulogne,France,74.0,0,10.9,31.8
+401876798,2026-08-08T18:45Z,Clermont Foot,Stade de Reims,0,0,Clermont,France,406.0,0,5.8,31.0
+401876797,2026-08-08T18:45Z,Dunkerque,Grenoble,4,2,Dunkerque,France,-3.0,0,11.5,25.0
+401876796,2026-08-08T18:45Z,Metz,Guingamp,2,1,Metz,France,182.0,0,2.7,30.0
+401876795,2026-08-08T18:45Z,Montpellier,Dijon FCO,1,1,Montpellier,France,55.0,0,11.5,31.5
+401876794,2026-08-08T18:45Z,Nantes,Red Star FC 93,0,1,Nantes,France,19.0,0,10.7,30.2
+401876793,2026-08-08T18:45Z,Pau,Annecy,0,1,Pau,France,219.0,0,9.6,32.4
+401876792,2026-08-08T18:45Z,Rodez Aveyron,Stade Laval,3,1,Rodez,France,627.0,0,4.3,31.5
+401876791,2026-08-08T18:45Z,Sochaux,Saint-Étienne,0,3,Montbéliard,France,327.0,0,1.9,29.5
+401876790,2026-08-14T18:45Z,Annecy,Rodez Aveyron,2,0,Annecy,France,452.0,0,2.2,31.4
+401876785,2026-08-14T18:45Z,AS Nancy Lorraine,Montpellier,0,1,Nancy,France,212.0,0,12.6,33.5
+401876789,2026-08-14T18:45Z,Dijon FCO,Pau,0,1,Dijon,France,240.0,0.1,6.2,33.7
+401876788,2026-08-14T18:45Z,Grenoble,Metz,0,0,Grenoble,France,218.0,0,6.3,29.4
+401876787,2026-08-14T18:45Z,Guingamp,Boulogne,1,0,Guingamp,France,73.0,0,14.3,21.9
+401876784,2026-08-14T18:45Z,Red Star FC 93,Sochaux,0,0,"Saint-Ouen, Paris",France,35.0,0,4.5,37.9
+401876782,2026-08-14T18:45Z,Saint-Étienne,Clermont Foot,3,1,Saint-Etienne,France,529.0,0,4.6,32.3
+401876783,2026-08-14T18:45Z,Stade de Reims,Dunkerque,3,3,Reims,France,88.0,0,4.4,33.8
+401876786,2026-08-14T18:45Z,Stade Laval,Nantes,2,1,Laval,France,54.0,0.4,20.5,29.7
+401876781,2026-08-21T18:00Z,Boulogne,Red Star FC 93,1,1,Boulogne,France,74.0,0,14.5,19.9
+401876780,2026-08-21T18:00Z,Clermont Foot,Dijon FCO,1,1,Clermont,France,406.0,0.1,10.6,18.5
+401876779,2026-08-21T18:00Z,Dunkerque,Montpellier,0,1,Dunkerque,France,-3.0,0,13.4,17.6
+401876776,2026-08-21T18:00Z,Pau,AS Nancy Lorraine,0,1,Pau,France,219.0,0,8.5,19.8
+401876773,2026-08-21T18:00Z,Sochaux,Guingamp,1,0,Montbéliard,France,327.0,0.4,6.5,15.6
+401876778,2026-08-22T12:00Z,Metz,Stade Laval,1,1,Metz,France,182.0,0,10.9,20.3
+401876777,2026-08-22T12:00Z,Nantes,Rodez Aveyron,2,5,Nantes,France,19.0,0,10.4,22.1
+401876774,2026-08-22T18:00Z,Saint-Étienne,Grenoble,4,0,Saint-Etienne,France,529.0,0,9.6,21.2
+401876775,2026-08-24T18:45Z,Stade de Reims,Annecy,3,1,Reims,France,88.0,0,15.8,20.6
+401876766,2026-08-28T18:00Z,AS Nancy Lorraine,Dunkerque,2,0,Nancy,France,212.0,0,14.5,18.4
+401876771,2026-08-28T18:00Z,Clermont Foot,Sochaux,0,0,Clermont,France,406.0,0,7.8,18.9
+401876767,2026-08-28T18:00Z,Montpellier,Boulogne,0,0,Montpellier,France,55.0,0,11.6,28.5
+401876764,2026-08-28T18:00Z,Rodez Aveyron,Pau,2,2,Rodez,France,627.0,0,9.5,18.8
+401876768,2026-08-28T18:00Z,Stade Laval,Grenoble,0,3,Laval,France,54.0,0,17.6,19.9
+401876772,2026-08-29T12:00Z,Annecy,Metz,1,1,Annecy,France,452.0,0,9.8,23.6
+401876765,2026-08-29T12:00Z,Red Star FC 93,Stade de Reims,1,4,"Saint-Ouen, Paris",France,35.0,1.6,15.2,20.2
+401876769,2026-08-29T18:00Z,Guingamp,Nantes,3,3,Guingamp,France,73.0,0,19.6,18.7
+401876770,2026-08-31T18:45Z,Dijon FCO,Saint-Étienne,2,3,Dijon,France,240.0,0,8.6,19.6
+401876763,2026-09-04T18:00Z,Boulogne,Dijon FCO,1,1,Boulogne,France,74.0,0,14.9,22.3
+401876762,2026-09-04T18:00Z,Dunkerque,Clermont Foot,1,1,Dunkerque,France,-3.0,0,20.2,19.8
+401876761,2026-09-04T18:00Z,Grenoble,Annecy,1,2,Grenoble,France,218.0,0,1.7,29.4
+401876757,2026-09-04T18:00Z,Pau,Sochaux,1,1,Pau,France,219.0,0,12.7,29.1
+401876760,2026-09-04T18:00Z,Stade Laval,Red Star FC 93,1,2,Laval,France,54.0,0,21.0,22.2
+401876759,2026-09-05T12:00Z,Metz,Rodez Aveyron,4,1,Metz,France,182.0,0,11.5,23.1
+401876756,2026-09-05T12:00Z,Stade de Reims,Guingamp,2,2,Reims,France,88.0,0,9.0,22.1
+401876755,2026-09-05T18:00Z,Saint-Étienne,Montpellier,3,1,Saint-Etienne,France,529.0,0,9.1,26.3
+401876758,2026-09-07T18:45Z,Nantes,AS Nancy Lorraine,1,0,Nantes,France,19.0,0.1,14.3,21.6
+401876749,2026-09-11T18:00Z,AS Nancy Lorraine,Stade de Reims,1,2,Nancy,France,212.0,0,8.1,18.6
+401876754,2026-09-11T18:00Z,Clermont Foot,Boulogne,0,0,Clermont,France,406.0,0,3.2,18.6
+401876753,2026-09-11T18:00Z,Dijon FCO,Stade Laval,3,2,Dijon,France,240.0,0,7.1,17.6
+401876750,2026-09-11T18:00Z,Montpellier,Pau,1,0,Montpellier,France,55.0,0,5.9,22.5
+401876747,2026-09-11T18:00Z,Rodez Aveyron,Grenoble,0,1,Rodez,France,627.0,0,13.4,18.2
+401876751,2026-09-12T12:00Z,Guingamp,Annecy,2,1,Guingamp,France,73.0,0,7.2,20.9
+401876746,2026-09-12T12:00Z,Sochaux,Nantes,1,0,Montbéliard,France,327.0,0,5.1,22.9
+401876752,2026-09-12T18:00Z,Dunkerque,Saint-Étienne,2,1,Dunkerque,France,-3.0,0,21.1,18.9

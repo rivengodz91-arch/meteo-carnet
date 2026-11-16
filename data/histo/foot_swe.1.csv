@@ -702,3 +702,84 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401842731,2026-05-31T12:00Z,BK Häcken,Hammarby IF,3,2,Gothenburg,Sweden,10.0,0.2,10.5,17.9
 401842736,2026-05-31T12:00Z,Degerfors IF,IF Brommapojkarna,2,2,Degerfors,Sweden,112.0,0,10.0,20.7
 401842734,2026-05-31T12:00Z,Västerås SK,IFK Göteborg,4,5,Västeras,Sweden,16.0,0,7.9,22.8
+401842745,2026-07-03T17:00Z,IK Sirius,Mjällby AIF,4,4,Uppsala,Sweden,20.0,0,19.3,14.7
+401842743,2026-07-04T13:00Z,Degerfors IF,Malmö FF,0,1,Degerfors,Sweden,112.0,0,13.6,21.1
+401842741,2026-07-04T13:00Z,Halmstads BK,Västerås SK,1,3,Halmstads,Sweden,,,,
+401842739,2026-07-05T12:00Z,IFK Göteborg,AIK,1,2,Göteborg,Sweden,23.0,0,24.6,18.8
+401842738,2026-07-05T12:00Z,Kalmar FF,Örgryte IS,3,0,Kalmar,Sweden,7.0,0.3,20.3,15.7
+401842742,2026-07-05T14:30Z,IF Elfsborg,Hammarby IF,1,2,Boras,Sweden,143.0,0,22.9,19.1
+401842740,2026-07-06T17:00Z,BK Häcken,Djurgården,2,4,Gothenburg,Sweden,10.0,0,12.1,14.6
+401842744,2026-07-06T17:00Z,IF Brommapojkarna,GAIS,1,1,Stockholm,Sweden,17.0,0.1,16.1,16.7
+401842747,2026-07-11T13:00Z,Mjällby AIF,AIK,1,2,Sölvesborg,Sweden,15.0,0,17.8,20.7
+401842753,2026-07-11T15:30Z,Örgryte IS,BK Häcken,4,3,Göteborg,Sweden,23.0,0,12.1,24.9
+401842749,2026-07-12T12:00Z,Hammarby IF,Kalmar FF,2,0,Stockholm,Sweden,17.0,4.7,17.6,17.1
+401842748,2026-07-12T12:00Z,Malmö FF,IFK Göteborg,4,0,Malmo,Sweden,10.0,0,14.9,27.0
+401842746,2026-07-12T12:00Z,Västerås SK,Degerfors IF,2,0,Västeras,Sweden,16.0,0,16.9,22.9
+401842750,2026-07-12T14:30Z,GAIS,IF Elfsborg,1,0,Göteborg,Sweden,23.0,0.6,13.2,23.6
+401842752,2026-07-12T14:30Z,IF Brommapojkarna,IK Sirius,1,2,Stockholm,Sweden,17.0,0.6,15.5,18.0
+401842751,2026-07-13T17:00Z,Djurgården,Halmstads BK,3,0,Stockholm,Sweden,17.0,0,10.0,20.9
+401842759,2026-07-17T17:00Z,IFK Göteborg,IF Brommapojkarna,2,1,Göteborg,Sweden,23.0,0,6.6,24.4
+401842757,2026-07-17T17:00Z,Mjällby AIF,Västerås SK,0,0,Sölvesborg,Sweden,15.0,0,6.8,21.2
+401842754,2026-07-18T13:00Z,AIK,GAIS,2,0,Stockholm,Sweden,17.0,0.1,16.8,18.0
+401842761,2026-07-19T14:30Z,Halmstads BK,BK Häcken,0,2,Halmstads,Sweden,,,,
+401842760,2026-07-19T14:30Z,Hammarby IF,Degerfors IF,4,0,Stockholm,Sweden,17.0,0,19.2,16.2
+401842755,2026-07-19T14:30Z,IF Elfsborg,IK Sirius,1,3,Boras,Sweden,143.0,0,23.0,14.0
+401842758,2026-07-20T17:00Z,Kalmar FF,Malmö FF,2,2,Kalmar,Sweden,7.0,3.5,24.7,13.2
+401842756,2026-07-20T17:00Z,Örgryte IS,Djurgården,0,0,Göteborg,Sweden,23.0,0,12.4,19.6
+401842769,2026-07-24T17:00Z,Västerås SK,Örgryte IS,2,0,Västeras,Sweden,16.0,0,14.8,21.3
+401842768,2026-07-25T13:00Z,Degerfors IF,Djurgården,0,1,Degerfors,Sweden,112.0,0.7,16.4,14.7
+401842765,2026-07-25T15:30Z,Kalmar FF,Mjällby AIF,2,1,Kalmar,Sweden,7.0,0,19.6,20.2
+401842762,2026-07-26T12:00Z,IF Brommapojkarna,Hammarby IF,1,1,Stockholm,Sweden,17.0,0,16.5,19.8
+401842763,2026-07-26T12:00Z,IK Sirius,IFK Göteborg,4,1,Uppsala,Sweden,20.0,0,22.5,19.3
+401842767,2026-07-26T14:30Z,GAIS,Halmstads BK,1,1,Göteborg,Sweden,23.0,0,16.0,17.2
+401842764,2026-07-26T14:30Z,Malmö FF,IF Elfsborg,1,2,Malmo,Sweden,10.0,0.5,9.6,16.6
+401842766,2026-07-27T17:00Z,BK Häcken,AIK,0,0,Gothenburg,Sweden,10.0,0,31.1,15.5
+401842776,2026-08-01T13:00Z,BK Häcken,Kalmar FF,1,1,Gothenburg,Sweden,10.0,0.1,14.3,17.2
+401842771,2026-08-02T12:00Z,IF Brommapojkarna,Malmö FF,1,2,Stockholm,Sweden,17.0,0,20.2,20.3
+401842773,2026-08-02T12:00Z,IFK Göteborg,Degerfors IF,2,0,Göteborg,Sweden,23.0,0.1,21.2,17.8
+401842770,2026-08-02T14:30Z,AIK,Örgryte IS,0,3,Stockholm,Sweden,17.0,0,19.7,20.4
+401842772,2026-08-03T17:00Z,Djurgården,Västerås SK,6,0,Stockholm,Sweden,17.0,0,8.8,20.1
+401842775,2026-08-03T17:00Z,Halmstads BK,IK Sirius,0,2,Halmstads,Sweden,,,,
+401842785,2026-08-08T13:00Z,Örgryte IS,AIK,3,4,Göteborg,Sweden,23.0,0.3,19.8,18.5
+401842782,2026-08-08T15:30Z,Mjällby AIF,IF Elfsborg,0,1,Sölvesborg,Sweden,15.0,0,18.6,20.6
+401842779,2026-08-09T12:00Z,Hammarby IF,BK Häcken,3,0,Stockholm,Sweden,17.0,0,18.1,23.8
+401842781,2026-08-09T12:00Z,Malmö FF,Degerfors IF,1,2,Malmo,Sweden,10.0,0,20.7,23.0
+401842778,2026-08-09T14:30Z,Halmstads BK,GAIS,0,2,Halmstads,Sweden,,,,
+401842780,2026-08-09T14:30Z,IFK Göteborg,Kalmar FF,3,2,Göteborg,Sweden,23.0,0,24.3,22.4
+401842783,2026-08-10T17:00Z,IK Sirius,IF Brommapojkarna,2,2,Uppsala,Sweden,20.0,0.5,19.9,19.5
+401842784,2026-08-10T17:00Z,Västerås SK,Djurgården,1,0,Västeras,Sweden,16.0,0,22.6,18.7
+401842789,2026-08-14T17:00Z,IF Elfsborg,Västerås SK,3,0,Boras,Sweden,143.0,0,12.5,25.2
+401842793,2026-08-15T13:00Z,Mjällby AIF,IK Sirius,4,3,Sölvesborg,Sweden,15.0,0,18.6,27.8
+401842787,2026-08-16T12:00Z,Degerfors IF,IFK Göteborg,3,0,Degerfors,Sweden,112.0,0.2,15.7,21.0
+401842786,2026-08-16T12:00Z,Djurgården,AIK,1,3,Stockholm,Sweden,17.0,0.1,16.7,18.4
+401842788,2026-08-16T12:00Z,IF Brommapojkarna,Örgryte IS,3,1,Stockholm,Sweden,17.0,0.1,16.7,18.4
+401842790,2026-08-16T14:30Z,GAIS,Malmö FF,0,1,Göteborg,Sweden,23.0,0,17.3,18.6
+401842792,2026-08-16T14:30Z,Kalmar FF,Hammarby IF,0,4,Kalmar,Sweden,7.0,0,17.4,22.8
+401842791,2026-08-17T17:00Z,BK Häcken,Halmstads BK,1,0,Gothenburg,Sweden,10.0,0,5.0,16.4
+401873989,2026-08-21T17:00Z,IK Sirius,BK Häcken,0,3,Uppsala,Sweden,20.0,0,5.2,15.4
+401874017,2026-08-22T13:00Z,Örgryte IS,Halmstads BK,1,1,Göteborg,Sweden,23.0,0.1,14.6,18.7
+401842797,2026-08-23T12:00Z,IFK Göteborg,IF Elfsborg,1,1,Göteborg,Sweden,23.0,0,4.4,17.8
+401842799,2026-08-23T12:00Z,Västerås SK,Kalmar FF,0,0,Västeras,Sweden,16.0,0,15.1,21.2
+401842794,2026-08-23T14:30Z,Hammarby IF,GAIS,2,0,Stockholm,Sweden,17.0,0.1,16.0,19.7
+401842795,2026-08-23T14:30Z,IF Brommapojkarna,Degerfors IF,2,0,Stockholm,Sweden,17.0,0.1,16.0,19.7
+401874010,2026-08-24T17:00Z,Malmö FF,Djurgården,0,3,Malmo,Sweden,10.0,0,10.7,19.0
+401874020,2026-08-29T13:00Z,BK Häcken,Västerås SK,1,3,Gothenburg,Sweden,10.0,3.1,15.3,17.2
+401874011,2026-08-29T13:00Z,IF Elfsborg,Degerfors IF,2,0,Boras,Sweden,143.0,2.1,17.1,16.1
+401874078,2026-08-29T15:30Z,Halmstads BK,Kalmar FF,1,0,Halmstads,Sweden,,,,
+401842802,2026-08-30T12:00Z,AIK,Hammarby IF,3,2,Stockholm,Sweden,17.0,0.8,16.3,20.5
+401842805,2026-08-30T14:30Z,IFK Göteborg,Örgryte IS,1,0,Göteborg,Sweden,23.0,3.7,4.2,17.3
+401874014,2026-08-31T17:00Z,Djurgården,Mjällby AIF,4,0,Stockholm,Sweden,17.0,0,9.3,18.0
+401873991,2026-08-31T17:00Z,GAIS,IF Brommapojkarna,4,0,Göteborg,Sweden,23.0,0.3,8.6,15.5
+401874012,2026-08-31T17:00Z,IK Sirius,Malmö FF,0,1,Uppsala,Sweden,20.0,0,12.0,17.7
+401874077,2026-09-03T17:00Z,Mjällby AIF,Djurgården,0,2,Sölvesborg,Sweden,15.0,1.1,20.1,16.6
+401874080,2026-09-05T13:00Z,Degerfors IF,Halmstads BK,2,0,Degerfors,Sweden,112.0,1.8,7.0,13.6
+401873993,2026-09-05T13:00Z,GAIS,BK Häcken,0,0,Göteborg,Sweden,23.0,0.5,28.1,15.3
+401874013,2026-09-05T15:30Z,Västerås SK,IK Sirius,0,1,Västeras,Sweden,16.0,0,5.7,18.0
+401842817,2026-09-06T12:00Z,Örgryte IS,Hammarby IF,1,1,Göteborg,Sweden,23.0,0,21.1,16.6
+401842812,2026-09-06T14:30Z,IF Brommapojkarna,IF Elfsborg,2,1,Stockholm,Sweden,17.0,0,13.3,18.7
+401874079,2026-09-07T17:00Z,Kalmar FF,Djurgården,0,1,Kalmar,Sweden,7.0,0,17.6,17.0
+401874084,2026-09-07T17:00Z,Malmö FF,AIK,0,0,Malmo,Sweden,10.0,0,18.4,18.6
+401874015,2026-09-07T17:00Z,Mjällby AIF,IFK Göteborg,1,4,Sölvesborg,Sweden,15.0,0,22.0,17.0
+401874082,2026-09-11T17:00Z,BK Häcken,Mjällby AIF,1,1,Gothenburg,Sweden,10.0,0,17.1,15.3
+401874086,2026-09-12T13:00Z,AIK,Västerås SK,1,4,Stockholm,Sweden,17.0,0.3,11.9,17.2
+401874088,2026-09-12T15:30Z,IFK Göteborg,Halmstads BK,2,1,Göteborg,Sweden,23.0,1.2,14.6,15.1

@@ -1312,3 +1312,78 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401872654,2026-05-24T01:30Z,Atlético Junior,Independiente Santa Fe,0,0,Barranquilla,Colombia,24.0,0,10.3,28.0
 401873658,2026-06-03T00:30Z,Atlético Junior,Atlético Nacional,3,0,Barranquilla,Colombia,24.0,0.3,9.9,29.6
 401873659,2026-06-08T22:00Z,Atlético Nacional,Atlético Junior,1,0,Medellin,Colombia,1405.0,1.4,0.9,20.8
+401877863,2026-07-24T23:10Z,Llaneros FC,Deportivo Pereira,1,0,Villavicencio,Colombia,495.0,0,0.9,26.9
+401877996,2026-07-25T01:15Z,Deportivo Cali,Jaguares de Córdoba,2,0,Cali,Colombia,758.0,0,6.9,23.2
+401877999,2026-07-25T21:05Z,Independiente Medellín,Deportivo Pasto,3,2,Itagui,Colombia,1538.0,0,2.8,28.0
+401877997,2026-07-25T23:10Z,Millonarios,Atlético Bucaramanga,0,1,Bogota,Colombia,2582.0,0,12.9,15.7
+401877989,2026-07-26T01:15Z,Deportes Tolima,Atlético Junior,2,1,Ibague,Colombia,1047.0,0,2.4,22.2
+401877988,2026-07-26T19:00Z,Internacional de Bogotá,América de Cali,0,2,Bogota,Colombia,2582.0,0.4,18.6,18.8
+401877957,2026-07-26T21:05Z,Águilas Doradas,Independiente Santa Fe,2,1,Medellin,Colombia,1405.0,2.9,2.7,20.8
+401877853,2026-07-26T23:10Z,Alianza FC,Fortaleza CEIF,1,1,Valledupar,Colombia,160.0,0.1,5.3,27.8
+401878005,2026-07-27T01:15Z,Once Caldas,Cúcuta Deportivo,5,1,Manizales,Colombia,2144.0,0,3.3,15.1
+401878001,2026-07-31T01:00Z,Atlético Bucaramanga,Llaneros FC,1,1,Bucaramanga,Colombia,1010.0,1.3,10.8,21.3
+401877856,2026-08-01T01:00Z,Fortaleza CEIF,Deportivo Pereira,0,0,Bogota,Colombia,2582.0,0,8.6,13.9
+401877956,2026-08-01T19:00Z,Deportivo Pasto,Águilas Doradas,1,2,Pasto,Colombia,2569.0,0,10.7,20.8
+401877852,2026-08-01T21:05Z,Alianza FC,Deportes Tolima,1,2,Valledupar,Colombia,160.0,0.3,13.9,34.6
+401877991,2026-08-01T23:10Z,Independiente Medellín,Deportivo Cali,1,0,Medellin,Colombia,1405.0,0,3.8,23.4
+401878009,2026-08-02T01:15Z,Atlético Junior,Millonarios,0,1,Barranquilla,Colombia,24.0,0,8.3,28.4
+401877990,2026-08-02T20:45Z,Jaguares de Córdoba,Atlético Nacional,0,3,Montería,Colombia,29.0,0.1,1.7,34.5
+401877871,2026-08-02T22:45Z,América de Cali,Boyacá Chicó FC,7,0,Cali,Colombia,758.0,0,9.8,27.7
+401877966,2026-08-03T01:00Z,Independiente Santa Fe,Once Caldas,2,2,Bogota,Colombia,2582.0,0,8.9,14.4
+401877869,2026-08-04T01:00Z,Atlético Bucaramanga,Cúcuta Deportivo,1,1,Bucaramanga,Colombia,1010.0,5.1,7.5,20.9
+401878000,2026-08-04T21:10Z,Llaneros FC,Fortaleza CEIF,3,1,Villavicencio,Colombia,495.0,0.1,2.9,26.7
+401878018,2026-08-04T23:15Z,Deportes Tolima,Independiente Medellín,2,3,Ibague,Colombia,1047.0,0,1.0,26.0
+401877858,2026-08-05T01:20Z,Millonarios,Deportivo Pasto,2,0,Bogota,Colombia,2582.0,0,8.9,15.1
+401877882,2026-08-05T23:15Z,Internacional de Bogotá,Jaguares de Córdoba,1,0,Bogota,Colombia,2582.0,0.2,13.4,13.5
+401877860,2026-08-06T01:30Z,Once Caldas,América de Cali,0,1,Manizales,Colombia,2144.0,0,6.0,14.0
+401877846,2026-08-08T19:00Z,Independiente Santa Fe,Boyacá Chicó FC,2,0,Bogota,Colombia,2582.0,0.1,16.2,19.8
+401877866,2026-08-08T21:20Z,Fortaleza CEIF,Cúcuta Deportivo,2,0,Bogota,Colombia,2582.0,0,15.8,18.8
+401877859,2026-08-08T23:25Z,Deportes Tolima,Internacional de Bogotá,2,1,Ibague,Colombia,1047.0,0,0.4,25.7
+401877993,2026-08-09T01:30Z,Deportivo Pasto,Deportivo Cali,0,2,Pasto,Colombia,2569.0,0,2.0,14.8
+401878027,2026-08-09T21:05Z,Alianza FC,Atlético Bucaramanga,2,3,Valledupar,Colombia,160.0,0.1,15.7,36.2
+401877868,2026-08-09T23:10Z,Jaguares de Córdoba,Once Caldas,1,1,Montería,Colombia,29.0,3.6,13.1,29.8
+401877857,2026-08-10T01:15Z,América de Cali,Atlético Nacional,1,0,Cali,Colombia,758.0,0,5.8,25.3
+401877954,2026-08-19T21:00Z,Águilas Doradas,Llaneros FC,1,1,Medellin,Colombia,1405.0,0,9.7,27.6
+401877992,2026-08-19T23:00Z,Cúcuta Deportivo,Internacional de Bogotá,1,1,Cúcuta,Colombia,298.0,0,4.2,31.5
+401877994,2026-08-21T21:05Z,Jaguares de Córdoba,Boyacá Chicó FC,1,0,Montería,Colombia,29.0,0,10.9,33.6
+401877874,2026-08-22T00:30Z,Alianza FC,Deportivo Pereira,0,0,Valledupar,Colombia,160.0,0,19.5,32.6
+401877952,2026-08-22T20:30Z,Águilas Doradas,Millonarios,1,1,Medellin,Colombia,1405.0,0.1,3.9,27.7
+401877854,2026-08-22T21:05Z,Deportes Tolima,Atlético Bucaramanga,0,0,Ibague,Colombia,1047.0,0,10.5,28.3
+401877964,2026-08-22T23:10Z,Independiente Santa Fe,América de Cali,0,0,Bogota,Colombia,2582.0,0,10.9,15.4
+401878002,2026-08-23T01:15Z,Independiente Medellín,Cúcuta Deportivo,0,1,Medellin,Colombia,1405.0,0,0.2,20.8
+401878016,2026-08-23T19:00Z,Fortaleza CEIF,Atlético Nacional,1,2,Bogota,Colombia,2582.0,0.2,14.2,17.3
+401878046,2026-08-23T21:05Z,Deportivo Pasto,Llaneros FC,0,1,Pasto,Colombia,2569.0,0,2.2,19.8
+401878006,2026-08-23T23:10Z,Deportivo Cali,Internacional de Bogotá,2,2,Cali,Colombia,758.0,0.1,2.4,26.2
+401877888,2026-08-24T01:15Z,Atlético Junior,Once Caldas,1,1,Barranquilla,Colombia,24.0,3.1,5.7,27.1
+401878054,2026-08-26T01:00Z,Cúcuta Deportivo,Alianza FC,1,0,Cúcuta,Colombia,298.0,0,1.3,29.9
+401878025,2026-08-26T21:00Z,Boyacá Chicó FC,Fortaleza CEIF,0,0,Tunja,Colombia,2693.0,0.2,18.6,14.6
+401877855,2026-08-26T23:20Z,América de Cali,Atlético Junior,4,2,"Palmira, Valle Cauca",Colombia,886.0,0,4.3,24.1
+401877897,2026-08-27T01:30Z,Atlético Nacional,Deportivo Cali,2,1,Medellin,Colombia,1405.0,0.1,5.8,21.4
+401877881,2026-08-27T23:10Z,Llaneros FC,Millonarios,0,2,Villavicencio,Colombia,495.0,0,2.7,25.7
+401878050,2026-08-28T01:15Z,Internacional de Bogotá,Deportivo Pasto,1,1,Bogota,Colombia,2582.0,0,6.4,14.8
+401877862,2026-08-29T21:25Z,Jaguares de Córdoba,América de Cali,2,2,Montería,Colombia,29.0,0,11.2,32.5
+401877963,2026-08-29T23:30Z,Atlético Junior,Independiente Santa Fe,1,1,Barranquilla,Colombia,24.0,0,11.6,28.7
+401878039,2026-08-30T01:30Z,Alianza FC,Atlético Nacional,1,5,Valledupar,Colombia,160.0,0,12.5,33.0
+401877950,2026-08-30T19:00Z,Águilas Doradas,Boyacá Chicó FC,2,2,Medellin,Colombia,1405.0,0.6,2.7,28.3
+401877903,2026-08-30T21:10Z,Independiente Medellín,Llaneros FC,2,1,Medellin,Colombia,1405.0,0.6,4.3,25.6
+401878042,2026-08-30T23:15Z,Millonarios,Internacional de Bogotá,0,0,Bogota,Colombia,2582.0,0,12.5,15.7
+401878015,2026-08-31T01:20Z,Deportivo Cali,Atlético Bucaramanga,1,1,Cali,Colombia,758.0,1.9,1.5,22.2
+401877873,2026-08-31T23:00Z,Deportivo Pasto,Deportivo Pereira,1,2,Pasto,Colombia,2569.0,0,3.6,15.6
+401878011,2026-09-01T01:05Z,Deportes Tolima,Cúcuta Deportivo,2,1,Ibague,Colombia,1047.0,0,2.9,23.7
+401878055,2026-09-02T01:00Z,Fortaleza CEIF,Once Caldas,1,2,Bogota,Colombia,2582.0,0,5.7,16.3
+401877839,2026-09-03T01:25Z,Independiente Santa Fe,Millonarios,3,2,Bogota,Colombia,2582.0,0,11.2,15.0
+401877879,2026-09-03T21:00Z,América de Cali,Alianza FC,3,0,Cali,Colombia,758.0,0,1.2,27.6
+401878032,2026-09-04T01:00Z,Deportivo Pereira,Independiente Medellín,0,3,Cali,Colombia,758.0,0,5.5,24.4
+401877870,2026-09-05T21:00Z,Boyacá Chicó FC,Once Caldas,2,0,Tunja,Colombia,2693.0,0,19.8,14.0
+401877867,2026-09-05T23:10Z,Cúcuta Deportivo,Deportivo Pasto,2,2,Cúcuta,Colombia,298.0,0,8.3,30.2
+401877843,2026-09-05T23:25Z,Independiente Santa Fe,Fortaleza CEIF,2,2,Bogota,Colombia,2582.0,0,13.0,14.7
+401877889,2026-09-06T01:30Z,Atlético Junior,Jaguares de Córdoba,3,3,Barranquilla,Colombia,24.0,0,13.6,28.7
+401877949,2026-09-06T21:00Z,Internacional de Bogotá,Águilas Doradas,2,2,Bogota,Colombia,2582.0,0,17.9,16.5
+401877872,2026-09-06T23:10Z,Deportivo Pereira,Millonarios,1,1,Cali,Colombia,758.0,0,4.8,24.6
+401878038,2026-09-07T23:00Z,Llaneros FC,Deportes Tolima,1,2,Villavicencio,Colombia,495.0,0,1.0,25.2
+401878013,2026-09-11T01:00Z,Millonarios,Deportivo Cali,1,1,Bogota,Colombia,2582.0,0.3,5.5,15.3
+401878026,2026-09-11T23:15Z,Jaguares de Córdoba,Fortaleza CEIF,2,2,Montería,Colombia,29.0,0,0.5,29.5
+401877962,2026-09-12T01:30Z,Independiente Santa Fe,Deportes Tolima,1,0,Bogota,Colombia,2582.0,0,6.8,16.7
+401877891,2026-09-12T21:05Z,Internacional de Bogotá,Llaneros FC,3,2,Bogota,Colombia,2582.0,0,14.3,19.8
+401877880,2026-09-12T23:10Z,Boyacá Chicó FC,Independiente Medellín,2,1,Tunja,Colombia,2693.0,0,10.7,12.6
+401878007,2026-09-13T01:20Z,Alianza FC,Atlético Junior,1,0,Valledupar,Colombia,160.0,0,20.7,30.3

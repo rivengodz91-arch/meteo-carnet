@@ -1139,3 +1139,49 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 748514,2026-05-23T19:00Z,Real Madrid,Athletic Club,4,2,Madrid,Spain,665.0,0,7.3,29.9
 748519,2026-05-23T19:00Z,Valencia,Barcelona,3,1,Manises,Spain,55.0,0,7.9,24.8
 748515,2026-05-24T19:00Z,Villarreal,Atlético Madrid,5,1,Villarreal,Spain,42.0,0,12.5,28.8
+401882926,2026-08-15T17:30Z,Alavés,Getafe,3,0,Vitoria-Gasteiz,Spain,547.0,0.4,12.3,24.3
+401882918,2026-08-15T19:30Z,Sevilla,Rayo Vallecano,2,1,Sevilla,Spain,16.0,0,13.1,30.0
+401882920,2026-08-16T15:00Z,Racing Santander,Villarreal,2,2,Santander,Spain,1.0,0,9.4,24.3
+401882922,2026-08-16T17:00Z,Espanyol,Levante,3,0,Barcelona,Spain,15.0,0,8.1,30.9
+401882923,2026-08-17T19:00Z,Deportivo,Elche,1,1,La Coruña,Spain,1102.0,0,10.7,33.9
+401882925,2026-08-19T19:00Z,Atlético Madrid,Málaga,2,0,Madrid,Spain,665.0,0,16.4,31.8
+401882908,2026-08-20T19:00Z,Rayo Vallecano,Alavés,1,1,"Leganés, Madrid",Spain,672.0,0,17.1,26.7
+401882914,2026-08-21T19:00Z,Real Betis,Real Sociedad,1,0,Sevilla,Spain,16.0,0,15.7,27.1
+401882916,2026-08-22T15:00Z,Athletic Club,Sevilla,1,3,Bilbao,Spain,20.0,0,13.7,26.2
+401882907,2026-08-22T17:30Z,Valencia,Celta Vigo,0,0,Manises,Spain,55.0,0,10.7,28.6
+401882912,2026-08-22T19:30Z,Espanyol,Real Madrid,1,2,Barcelona,Spain,15.0,0,5.2,25.5
+401882915,2026-08-23T15:00Z,Atlético Madrid,Villarreal,2,2,Madrid,Spain,665.0,0,8.8,32.8
+401882911,2026-08-23T17:30Z,Getafe,Racing Santander,1,0,Getafe,Spain,623.0,0,14.6,32.6
+401882913,2026-08-23T19:30Z,Elche,Barcelona,0,5,Elche,Spain,96.0,0.2,7.9,26.8
+401882909,2026-08-24T17:30Z,Osasuna,Levante,0,0,Pamplona,Spain,460.0,0,10.9,27.5
+401882910,2026-08-24T19:30Z,Málaga,Deportivo,1,1,Malaga,Spain,22.0,0,11.2,29.1
+401882917,2026-08-25T19:00Z,Valencia,Real Betis,0,1,Manises,Spain,55.0,0,6.5,28.1
+401882919,2026-08-26T19:00Z,Real Madrid,Real Sociedad,4,1,Madrid,Spain,665.0,0,14.9,24.8
+401882924,2026-08-27T18:30Z,Celta Vigo,Osasuna,1,2,Vigo,Spain,86.0,1.1,7.7,15.5
+401882921,2026-08-27T19:00Z,Barcelona,Athletic Club,2,0,Barcelona,Spain,15.0,0,8.5,28.2
+401882900,2026-08-28T17:00Z,Racing Santander,Elche,3,2,Santander,Spain,1.0,0,14.1,23.2
+401882906,2026-08-28T19:30Z,Alavés,Villarreal,1,0,Vitoria-Gasteiz,Spain,547.0,0,13.6,19.6
+401882902,2026-08-29T15:00Z,Levante,Real Betis,5,2,Manises,Spain,55.0,0,11.1,31.3
+401882898,2026-08-29T17:00Z,Real Sociedad,Espanyol,2,1,San Sebastian,Spain,74.0,1.4,5.0,21.5
+401882897,2026-08-29T19:30Z,Sevilla,Atlético Madrid,1,3,Sevilla,Spain,16.0,0,3.6,31.7
+401882899,2026-08-30T15:00Z,Real Madrid,Málaga,4,0,Madrid,Spain,665.0,0,15.2,32.0
+401882904,2026-08-30T17:30Z,Deportivo,Valencia,3,1,La Coruña,Spain,1102.0,0,8.4,31.5
+401882905,2026-08-30T19:30Z,Celta Vigo,Athletic Club,0,2,Vigo,Spain,86.0,0,6.3,17.7
+401882901,2026-08-31T17:30Z,Osasuna,Getafe,1,0,Pamplona,Spain,460.0,0,18.0,21.4
+401882903,2026-08-31T19:30Z,Barcelona,Rayo Vallecano,5,2,Barcelona,Spain,15.0,0,8.0,26.5
+401882867,2026-09-03T19:00Z,Real Sociedad,Celta Vigo,0,0,San Sebastian,Spain,74.0,0,7.3,22.0
+401882894,2026-09-04T19:00Z,Real Betis,Real Madrid,1,0,Sevilla,Spain,16.0,0,11.7,34.1
+401882895,2026-09-05T14:15Z,Athletic Club,Atlético Madrid,3,0,Bilbao,Spain,20.0,0,8.3,29.6
+401882889,2026-09-05T16:30Z,Rayo Vallecano,Racing Santander,3,2,"Leganés, Madrid",Spain,672.0,0,14.7,34.4
+401882887,2026-09-05T19:00Z,Villarreal,Deportivo,2,3,Villarreal,Spain,42.0,0,7.2,31.4
+401882888,2026-09-06T14:15Z,Valencia,Barcelona,0,5,Manises,Spain,55.0,0,13.8,36.9
+401882896,2026-09-06T16:30Z,Alavés,Osasuna,5,2,Vitoria-Gasteiz,Spain,547.0,0.3,10.5,28.9
+401882890,2026-09-06T16:30Z,Málaga,Levante,0,0,Malaga,Spain,22.0,0,6.8,28.6
+401882892,2026-09-06T19:00Z,Espanyol,Sevilla,1,1,Barcelona,Spain,15.0,0,3.8,26.8
+401882891,2026-09-07T17:00Z,Getafe,Celta Vigo,1,1,Getafe,Spain,623.0,0,10.8,36.4
+401882893,2026-09-07T19:30Z,Elche,Real Sociedad,2,3,Elche,Spain,96.0,0,3.0,28.4
+401882878,2026-09-11T19:00Z,Sevilla,Valencia,1,0,Sevilla,Spain,16.0,0,4.0,31.9
+401882881,2026-09-12T12:00Z,Racing Santander,Alavés,2,1,Santander,Spain,1.0,0,17.3,24.5
+401882882,2026-09-12T14:15Z,Osasuna,Espanyol,0,2,Pamplona,Spain,460.0,0,15.5,26.6
+401882886,2026-09-12T16:30Z,Athletic Club,Elche,1,1,Bilbao,Spain,20.0,0,11.8,23.2
+401882880,2026-09-12T19:00Z,Real Madrid,Rayo Vallecano,4,1,Madrid,Spain,665.0,0,4.4,28.8

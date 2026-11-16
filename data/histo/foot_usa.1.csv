@@ -1524,3 +1524,155 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 761656,2026-05-24T21:00Z,Columbus Crew,Atlanta United FC,2,0,"Columbus, Ohio",USA,235.0,2.6,9.3,20.0
 761657,2026-05-24T23:00Z,Inter Miami CF,Philadelphia Union,6,4,"Miami, Florida",USA,2.0,0,16.7,28.6
 761658,2026-05-25T01:15Z,LAFC,Seattle Sounders FC,1,0,"Los Angeles, California",USA,89.0,0,10.7,20.6
+761659,2026-07-16T23:30Z,CF Montréal,Toronto FC,0,0,Montreal,Canada,216.0,0,19.3,21.7
+761661,2026-07-17T00:30Z,St. Louis CITY SC,Sporting Kansas City,3,2,"St. Louis, Missouri",USA,142.0,0.1,1.9,29.2
+761662,2026-07-17T02:30Z,Seattle Sounders FC,Portland Timbers,1,5,"Seattle, Washington",USA,56.0,0.1,15.1,17.2
+761663,2026-07-18T00:10Z,Nashville SC,Atlanta United FC,1,0,"Nashville, Tennessee",USA,170.0,0,5.7,27.0
+761664,2026-07-18T02:25Z,LA Galaxy,LAFC,0,3,"Carson, California",USA,12.0,0,5.9,24.6
+761668,2026-07-22T23:30Z,Columbus Crew,New York City FC,1,2,"Columbus, Ohio",USA,235.0,0,9.7,20.7
+761669,2026-07-22T23:30Z,FC Cincinnati,Vancouver Whitecaps,4,3,"Cincinnati, Ohio",USA,191.0,0,10.3,22.0
+761667,2026-07-22T23:30Z,Inter Miami CF,Chicago Fire FC,3,2,"Miami, Florida",USA,2.0,0,10.5,30.9
+761666,2026-07-22T23:30Z,New England Revolution,Toronto FC,0,0,"Foxborough, Massachusetts",USA,88.0,0.2,14.2,24.8
+761665,2026-07-22T23:30Z,Philadelphia Union,Red Bull New York,3,1,"Chester, Pennsylvania",USA,34.0,0,9.6,16.5
+761670,2026-07-23T00:15Z,Charlotte FC,Atlanta United FC,2,2,"Charlotte, North Carolina",USA,229.0,0,13.5,29.6
+761671,2026-07-23T00:30Z,Houston Dynamo FC,D.C. United,1,1,"Houston, Texas",USA,12.0,1.6,3.6,36.1
+761673,2026-07-23T00:30Z,Nashville SC,CF Montréal,1,0,"Nashville, Tennessee",USA,170.0,0,14.8,28.1
+761672,2026-07-23T00:30Z,Sporting Kansas City,Minnesota United FC,2,1,"Kansas City, Kansas",USA,274.0,0.1,10.0,25.5
+761674,2026-07-23T01:30Z,Austin FC,Seattle Sounders FC,3,1,"Austin, Texas",USA,149.0,0,1.5,35.6
+761675,2026-07-23T01:30Z,Colorado Rapids,San Diego FC,1,0,"Commerce City, Colorado",USA,1572.0,1.3,7.7,23.0
+761678,2026-07-23T02:30Z,LA Galaxy,St. Louis CITY SC,1,3,"Carson, California",USA,12.0,0,10.4,24.2
+761679,2026-07-23T02:30Z,LAFC,Real Salt Lake,3,1,"Los Angeles, California",USA,89.0,0,7.1,27.1
+761677,2026-07-23T02:30Z,Portland Timbers,FC Dallas,2,2,"Portland, Oregon",USA,12.0,1.2,12.9,27.1
+761676,2026-07-23T02:30Z,San Jose Earthquakes,Orlando City SC,0,4,"San Jose, California",USA,26.0,0,14.2,21.9
+761685,2026-07-25T22:30Z,Red Bull New York,Charlotte FC,0,2,"Harrison, New Jersey",USA,320.0,0.3,13.2,31.4
+761680,2026-07-25T23:15Z,Columbus Crew,FC Cincinnati,2,1,"Columbus, Ohio",USA,235.0,0,6.7,27.1
+761687,2026-07-25T23:30Z,CF Montréal,Inter Miami CF,0,1,Montreal,Canada,216.0,0,3.0,26.1
+761681,2026-07-25T23:30Z,D.C. United,Toronto FC,2,1,"Washington, District of Columbia",USA,7.0,0,8.7,26.0
+761682,2026-07-25T23:30Z,New England Revolution,Atlanta United FC,4,1,"Foxborough, Massachusetts",USA,88.0,0,10.0,21.3
+761683,2026-07-25T23:30Z,New York City FC,Chicago Fire FC,3,1,New York City,USA,10.0,0,10.6,24.0
+761686,2026-07-25T23:30Z,Philadelphia Union,Seattle Sounders FC,1,0,"Chester, Pennsylvania",USA,34.0,0,12.6,18.8
+761689,2026-07-26T00:30Z,Houston Dynamo FC,Austin FC,3,0,"Houston, Texas",USA,12.0,0,11.5,31.5
+761690,2026-07-26T00:30Z,Minnesota United FC,Vancouver Whitecaps,0,0,"Saint Paul, Minnesota",USA,242.0,0,4.6,30.6
+761688,2026-07-26T00:30Z,St. Louis CITY SC,Colorado Rapids,1,0,"St. Louis, Missouri",USA,142.0,0.4,2.7,31.1
+761684,2026-07-26T00:46Z,Orlando City SC,Nashville SC,1,0,"Orlando, Florida",USA,30.0,0.2,10.2,28.3
+761691,2026-07-26T01:30Z,San Diego FC,FC Dallas,1,0,"San Diego, California",USA,20.0,0,8.7,22.7
+761694,2026-07-26T02:30Z,LAFC,Sporting Kansas City,4,0,"Los Angeles, California",USA,89.0,0,9.2,28.5
+761692,2026-07-26T02:30Z,Portland Timbers,Real Salt Lake,2,1,"Portland, Oregon",USA,12.0,0,9.8,22.7
+761693,2026-07-26T02:30Z,San Jose Earthquakes,LA Galaxy,1,1,"Stanford, California",USA,287.0,0.1,6.3,22.2
+401864004,2026-07-30T00:00Z,MLS All-Stars,Liga MX All-Stars,4,3,"Charlotte, North Carolina",USA,229.0,0,7.7,27.1
+761695,2026-07-31T23:30Z,New York City FC,Toronto FC,1,1,New York City,USA,10.0,0.1,6.0,26.4
+761697,2026-08-01T23:30Z,CF Montréal,New England Revolution,2,2,Montreal,Canada,216.0,0,4.9,25.0
+761699,2026-08-01T23:30Z,D.C. United,Nashville SC,2,2,"Washington, District of Columbia",USA,7.0,0,4.6,27.4
+761702,2026-08-01T23:30Z,Philadelphia Union,Atlanta United FC,3,2,"Chester, Pennsylvania",USA,34.0,0,1.6,14.4
+761696,2026-08-01T23:30Z,Red Bull New York,Orlando City SC,3,2,"Harrison, New Jersey",USA,320.0,0,23.6,23.5
+761698,2026-08-01T23:30Z,Vancouver Whitecaps,LAFC,1,1,Vancouver,Canada,70.0,0,17.6,18.9
+761701,2026-08-02T00:10Z,Inter Miami CF,Columbus Crew,2,2,"Miami, Florida",USA,2.0,0.3,2.2,26.8
+761704,2026-08-02T00:30Z,Chicago Fire FC,Charlotte FC,2,1,"Chicago, Illinois",USA,179.0,2.8,23.9,20.9
+761703,2026-08-02T00:30Z,Minnesota United FC,San Diego FC,1,1,"Saint Paul, Minnesota",USA,242.0,0,11.3,26.5
+761706,2026-08-02T00:30Z,Sporting Kansas City,Houston Dynamo FC,0,2,"Kansas City, Kansas",USA,274.0,0,15.7,26.7
+761705,2026-08-02T00:30Z,St. Louis CITY SC,Real Salt Lake,1,1,"St. Louis, Missouri",USA,142.0,1.7,15.9,21.4
+761707,2026-08-02T01:30Z,Colorado Rapids,Austin FC,1,0,"Commerce City, Colorado",USA,1572.0,0,12.8,33.0
+761700,2026-08-02T01:46Z,FC Cincinnati,San Jose Earthquakes,4,2,"Cincinnati, Ohio",USA,191.0,0.1,9.7,22.5
+761709,2026-08-02T02:30Z,LA Galaxy,FC Dallas,0,0,"Carson, California",USA,12.0,0,8.3,26.1
+761708,2026-08-02T02:45Z,Portland Timbers,Seattle Sounders FC,2,1,"Portland, Oregon",USA,12.0,0,14.5,22.3
+761469,2026-08-08T20:30Z,New England Revolution,Houston Dynamo FC,0,2,"Foxborough, Massachusetts",USA,88.0,0.3,14.8,30.4
+761712,2026-08-15T23:30Z,Atlanta United FC,Red Bull New York,2,1,"Atlanta, Georgia",USA,320.0,0.1,5.7,33.1
+761711,2026-08-15T23:30Z,CF Montréal,D.C. United,1,1,Montreal,Canada,216.0,0,6.4,21.1
+761710,2026-08-15T23:30Z,Charlotte FC,Columbus Crew,3,1,"Charlotte, North Carolina",USA,229.0,0.1,4.5,25.6
+761713,2026-08-15T23:30Z,Orlando City SC,FC Cincinnati,1,1,"Orlando, Florida",USA,30.0,0.1,6.0,30.0
+761714,2026-08-15T23:30Z,Toronto FC,New England Revolution,2,1,Toronto,Canada,161.0,0,12.4,21.8
+761715,2026-08-16T00:30Z,Houston Dynamo FC,LA Galaxy,1,0,"Houston, Texas",USA,12.0,0,13.6,32.8
+761716,2026-08-16T00:30Z,Nashville SC,Inter Miami CF,4,1,"Nashville, Tennessee",USA,170.0,0,8.7,33.8
+761718,2026-08-16T01:30Z,Colorado Rapids,Sporting Kansas City,2,0,"Commerce City, Colorado",USA,1572.0,0.3,2.0,21.0
+761719,2026-08-16T01:30Z,Real Salt Lake,Minnesota United FC,1,1,"Sandy, Utah",USA,1361.0,0,6.5,26.4
+761720,2026-08-16T02:30Z,LAFC,San Diego FC,0,1,"Los Angeles, California",USA,89.0,0,8.9,23.9
+761721,2026-08-16T02:30Z,San Jose Earthquakes,St. Louis CITY SC,1,3,"San Jose, California",USA,26.0,0,10.8,20.6
+761723,2026-08-16T22:00Z,Chicago Fire FC,Portland Timbers,2,1,"Chicago, Illinois",USA,179.0,0.1,5.4,28.0
+761722,2026-08-16T22:00Z,New York City FC,Philadelphia Union,2,3,New York City,USA,10.0,0.1,10.9,24.3
+761717,2026-08-17T00:30Z,Austin FC,FC Dallas,1,2,"Austin, Texas",USA,149.0,0,11.5,37.2
+761724,2026-08-17T02:30Z,Seattle Sounders FC,Vancouver Whitecaps,0,2,"Seattle, Washington",USA,56.0,0,10.1,22.7
+761726,2026-08-19T23:30Z,Columbus Crew,CF Montréal,1,2,"Columbus, Ohio",USA,235.0,0.1,6.3,23.9
+761725,2026-08-19T23:30Z,D.C. United,New England Revolution,0,3,"Washington, District of Columbia",USA,7.0,0,4.3,29.4
+761730,2026-08-19T23:30Z,FC Cincinnati,New York City FC,2,1,"Cincinnati, Ohio",USA,191.0,0.7,7.3,25.7
+761729,2026-08-19T23:30Z,Orlando City SC,Chicago Fire FC,1,2,"Orlando, Florida",USA,30.0,0,8.0,31.9
+761727,2026-08-19T23:30Z,Philadelphia Union,Inter Miami CF,2,2,"Chester, Pennsylvania",USA,34.0,0.3,3.7,14.8
+761728,2026-08-19T23:30Z,Red Bull New York,Nashville SC,0,1,"Harrison, New Jersey",USA,320.0,0,14.9,35.4
+761731,2026-08-19T23:30Z,Toronto FC,Charlotte FC,3,3,Toronto,Canada,161.0,0,11.5,22.9
+761732,2026-08-20T00:00Z,Sporting Kansas City,St. Louis CITY SC,1,1,"Kansas City, Kansas",USA,274.0,0.1,3.7,26.8
+761733,2026-08-20T00:30Z,Minnesota United FC,Atlanta United FC,1,2,"Saint Paul, Minnesota",USA,242.0,0,8.9,25.9
+761734,2026-08-20T01:30Z,Colorado Rapids,LAFC,1,0,"Commerce City, Colorado",USA,1572.0,0.1,6.3,28.2
+761735,2026-08-20T01:30Z,Real Salt Lake,FC Dallas,3,4,"Sandy, Utah",USA,1361.0,0,1.3,33.6
+761736,2026-08-20T01:30Z,Seattle Sounders FC,Austin FC,1,2,"Seattle, Washington",USA,56.0,0,8.9,25.8
+761738,2026-08-20T02:30Z,LA Galaxy,San Jose Earthquakes,1,0,"Carson, California",USA,12.0,0,7.7,25.3
+761737,2026-08-20T02:30Z,Portland Timbers,San Diego FC,3,1,"Portland, Oregon",USA,12.0,0,10.4,28.0
+761739,2026-08-20T02:30Z,Vancouver Whitecaps,Houston Dynamo FC,0,1,Vancouver,Canada,70.0,0,8.5,20.2
+761745,2026-08-22T23:30Z,CF Montréal,LA Galaxy,2,2,Montreal,Canada,216.0,0,9.9,22.7
+761741,2026-08-22T23:30Z,Charlotte FC,D.C. United,3,1,"Charlotte, North Carolina",USA,229.0,0.2,6.5,27.0
+761743,2026-08-22T23:30Z,FC Cincinnati,Seattle Sounders FC,1,1,"Cincinnati, Ohio",USA,191.0,0.6,10.2,24.9
+761742,2026-08-22T23:30Z,Inter Miami CF,Toronto FC,1,2,"Miami, Florida",USA,2.0,0.2,7.1,30.1
+761740,2026-08-22T23:30Z,Orlando City SC,Real Salt Lake,2,1,"Orlando, Florida",USA,30.0,0,7.2,29.4
+761744,2026-08-22T23:30Z,Red Bull New York,Chicago Fire FC,1,1,"Harrison, New Jersey",USA,320.0,0,8.4,28.3
+761746,2026-08-23T00:30Z,Nashville SC,Columbus Crew,3,2,"Nashville, Tennessee",USA,170.0,0.9,7.2,24.5
+761747,2026-08-23T00:30Z,St. Louis CITY SC,Houston Dynamo FC,2,1,"St. Louis, Missouri",USA,142.0,0,6.7,26.9
+761748,2026-08-23T01:00Z,Austin FC,Philadelphia Union,1,1,"Austin, Texas",USA,149.0,0,15.1,37.3
+761749,2026-08-23T01:30Z,Vancouver Whitecaps,FC Dallas,5,0,Vancouver,Canada,70.0,0.1,14.0,19.4
+761751,2026-08-23T02:30Z,LAFC,Portland Timbers,1,1,"Los Angeles, California",USA,89.0,0,7.4,29.2
+761750,2026-08-23T02:30Z,San Diego FC,Colorado Rapids,3,0,"San Diego, California",USA,20.0,0,6.6,24.6
+761752,2026-08-23T02:30Z,San Jose Earthquakes,Minnesota United FC,1,5,"San Jose, California",USA,26.0,0,9.4,23.9
+761753,2026-08-23T20:30Z,New England Revolution,New York City FC,1,1,"Foxborough, Massachusetts",USA,88.0,0.1,7.4,21.8
+761754,2026-08-23T23:00Z,Atlanta United FC,Sporting Kansas City,2,1,"Atlanta, Georgia",USA,320.0,0,7.6,30.7
+761755,2026-08-29T20:30Z,Seattle Sounders FC,Chicago Fire FC,2,2,"Seattle, Washington",USA,56.0,0,4.4,17.6
+761759,2026-08-29T23:30Z,Atlanta United FC,Charlotte FC,0,2,"Atlanta, Georgia",USA,320.0,0.1,7.5,29.2
+761756,2026-08-29T23:30Z,D.C. United,LAFC,0,0,"Washington, District of Columbia",USA,7.0,0,10.1,26.2
+761757,2026-08-29T23:30Z,Inter Miami CF,CF Montréal,7,1,"Miami, Florida",USA,2.0,0.4,10.4,27.4
+761761,2026-08-29T23:30Z,Red Bull New York,Philadelphia Union,1,3,"Harrison, New Jersey",USA,320.0,0,10.5,30.2
+761760,2026-08-29T23:30Z,Toronto FC,New York City FC,1,1,Toronto,Canada,161.0,0,14.5,23.7
+761765,2026-08-30T00:30Z,Houston Dynamo FC,San Jose Earthquakes,0,0,"Houston, Texas",USA,12.0,0,12.9,32.9
+761763,2026-08-30T00:30Z,Minnesota United FC,Orlando City SC,3,3,"Saint Paul, Minnesota",USA,242.0,0,9.0,24.2
+761764,2026-08-30T00:30Z,Nashville SC,FC Cincinnati,4,0,"Nashville, Tennessee",USA,170.0,0,8.7,31.3
+761762,2026-08-30T00:30Z,Sporting Kansas City,Vancouver Whitecaps,0,3,"Kansas City, Kansas",USA,274.0,0,14.4,34.2
+761766,2026-08-30T01:30Z,Colorado Rapids,Real Salt Lake,1,0,"Commerce City, Colorado",USA,1572.0,0,3.0,27.5
+761768,2026-08-30T02:30Z,Portland Timbers,Austin FC,1,2,"Portland, Oregon",USA,12.0,0,14.1,20.1
+761767,2026-08-30T02:30Z,San Diego FC,LA Galaxy,3,1,"San Diego, California",USA,20.0,0,7.7,25.5
+761758,2026-08-30T20:30Z,Columbus Crew,New England Revolution,1,3,"Columbus, Ohio",USA,235.0,0,2.4,28.5
+761769,2026-08-30T23:00Z,St. Louis CITY SC,FC Dallas,3,3,"St. Louis, Missouri",USA,142.0,0,10.4,32.8
+761770,2026-09-04T23:30Z,New York City FC,Nashville SC,0,0,New York City,USA,10.0,0,6.4,26.3
+761774,2026-09-05T23:30Z,Charlotte FC,Houston Dynamo FC,0,0,"Charlotte, North Carolina",USA,229.0,0,8.0,32.2
+761775,2026-09-05T23:30Z,Columbus Crew,Colorado Rapids,3,0,"Columbus, Ohio",USA,235.0,0.1,5.8,25.3
+761771,2026-09-05T23:30Z,Orlando City SC,San Diego FC,1,0,"Orlando, Florida",USA,30.0,1.4,5.6,27.0
+761772,2026-09-05T23:30Z,Philadelphia Union,CF Montréal,2,0,"Chester, Pennsylvania",USA,34.0,0,7.6,12.7
+761776,2026-09-05T23:30Z,Toronto FC,Chicago Fire FC,4,4,Toronto,Canada,161.0,0,5.6,22.1
+761778,2026-09-06T00:30Z,Austin FC,San Jose Earthquakes,1,1,"Austin, Texas",USA,149.0,0,13.3,33.2
+761779,2026-09-06T00:30Z,FC Dallas,Sporting Kansas City,4,3,Toyota Stadium,USA,,,,
+761780,2026-09-06T00:30Z,Seattle Sounders FC,Red Bull New York,0,0,"Seattle, Washington",USA,56.0,0,3.1,20.5
+761777,2026-09-06T01:05Z,Inter Miami CF,Atlanta United FC,2,2,"Miami, Florida",USA,2.0,4.4,8.7,25.7
+761782,2026-09-06T01:30Z,LA Galaxy,New England Revolution,2,1,"Carson, California",USA,12.0,0.1,7.7,26.6
+761781,2026-09-06T01:30Z,Real Salt Lake,LAFC,2,2,"Sandy, Utah",USA,1361.0,0,16.8,30.5
+761783,2026-09-06T02:30Z,Portland Timbers,Minnesota United FC,5,4,"Portland, Oregon",USA,12.0,0,2.3,19.1
+761784,2026-09-06T02:30Z,Vancouver Whitecaps,St. Louis CITY SC,1,3,Vancouver,Canada,70.0,0,5.4,18.8
+761787,2026-09-09T23:30Z,Atlanta United FC,Orlando City SC,2,3,"Atlanta, Georgia",USA,320.0,0,10.4,30.9
+761785,2026-09-09T23:30Z,CF Montréal,Charlotte FC,1,2,Montreal,Canada,216.0,3.0,14.5,18.0
+761789,2026-09-09T23:30Z,D.C. United,Columbus Crew,2,1,"Washington, District of Columbia",USA,7.0,0,13.2,29.1
+761790,2026-09-09T23:30Z,Toronto FC,Nashville SC,2,1,Toronto,Canada,161.0,0,17.8,23.3
+761786,2026-09-09T23:45Z,Philadelphia Union,FC Cincinnati,5,0,"Chester, Pennsylvania",USA,34.0,0,4.9,10.1
+761788,2026-09-10T00:00Z,New York City FC,New England Revolution,1,2,"New York, New York",USA,10.0,0,15.0,27.1
+761794,2026-09-10T00:30Z,Austin FC,Colorado Rapids,1,1,"Austin, Texas",USA,149.0,0,14.5,33.2
+761792,2026-09-10T00:30Z,Chicago Fire FC,Inter Miami CF,1,1,"Chicago, Illinois",USA,179.0,0,9.0,24.2
+761791,2026-09-10T00:30Z,Houston Dynamo FC,Real Salt Lake,2,1,"Houston, Texas",USA,12.0,0.1,4.3,28.6
+761793,2026-09-10T00:30Z,Minnesota United FC,FC Dallas,1,2,"Saint Paul, Minnesota",USA,242.0,0,9.0,22.0
+761795,2026-09-10T02:30Z,LAFC,Red Bull New York,2,0,"Los Angeles, California",USA,89.0,0,6.7,34.2
+761796,2026-09-10T02:30Z,Portland Timbers,St. Louis CITY SC,2,2,"Portland, Oregon",USA,12.0,0,8.7,26.2
+761797,2026-09-10T02:30Z,San Diego FC,San Jose Earthquakes,2,3,"San Diego, California",USA,20.0,0,4.7,27.7
+761799,2026-09-10T02:30Z,Vancouver Whitecaps,LA Galaxy,3,0,Vancouver,Canada,70.0,0,4.1,17.2
+761804,2026-09-12T23:30Z,Columbus Crew,Red Bull New York,0,1,"Columbus, Ohio",USA,235.0,5.0,9.3,22.6
+761803,2026-09-12T23:30Z,D.C. United,Atlanta United FC,0,0,"Washington, District of Columbia",USA,7.0,0.2,8.9,24.2
+761802,2026-09-12T23:30Z,FC Cincinnati,Charlotte FC,3,3,"Cincinnati, Ohio",USA,191.0,0,7.1,24.3
+761800,2026-09-12T23:30Z,Inter Miami CF,Nashville SC,2,2,"Miami, Florida",USA,2.0,0,4.8,27.8
+761801,2026-09-12T23:30Z,Orlando City SC,Toronto FC,3,0,"Orlando, Florida",USA,30.0,0,6.7,26.9
+761805,2026-09-13T00:30Z,FC Dallas,Portland Timbers,2,1,Toyota Stadium,USA,,,,
+761806,2026-09-13T00:30Z,Sporting Kansas City,LAFC,3,1,"Kansas City, Kansas",USA,274.0,1.3,9.8,21.2
+761807,2026-09-13T00:30Z,St. Louis CITY SC,Minnesota United FC,4,2,"St. Louis, Missouri",USA,142.0,0,3.6,28.5
+761808,2026-09-13T01:30Z,Colorado Rapids,CF Montréal,1,0,"Commerce City, Colorado",USA,1572.0,0,8.7,24.5
+761809,2026-09-13T01:30Z,Real Salt Lake,New York City FC,0,2,"Sandy, Utah",USA,1361.0,0,2.5,30.7
+761811,2026-09-13T02:30Z,LA Galaxy,Seattle Sounders FC,1,1,"Carson, California",USA,12.0,0,7.3,23.3
+761810,2026-09-13T02:30Z,San Jose Earthquakes,Houston Dynamo FC,1,0,"San Jose, California",USA,26.0,0,13.4,21.6

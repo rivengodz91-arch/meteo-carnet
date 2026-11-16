@@ -917,3 +917,50 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 750549,2026-05-16T19:30Z,Estoril,Benfica,1,3,Estoril,Portugal,24.0,0,22.4,15.8
 750545,2026-05-16T19:30Z,FC Famalicao,Alverca,1,0,Vila Nova de Famalicão,Portugal,96.0,0,13.9,14.0
 750550,2026-05-16T19:30Z,Sporting CP,Gil Vicente,3,0,Lisbon,Portugal,68.0,0,18.5,16.4
+401885491,2026-08-07T19:15Z,Estoril,FC Famalicao,1,1,Estoril,Portugal,24.0,0,14.1,26.6
+401885489,2026-08-08T14:30Z,Maritimo,Casa Pia,1,0,Funchal,Portugal,280.0,0.4,5.6,25.8
+401885484,2026-08-08T17:00Z,Vitória de Guimaraes,Arouca,0,1,Guimarães,Portugal,189.0,0,12.2,24.6
+401885492,2026-08-08T19:30Z,Estrela,Sporting CP,2,2,Amadora,Portugal,138.0,0,15.2,24.5
+401885487,2026-08-09T17:00Z,FC Porto,Alverca,2,0,Porto,Portugal,91.0,0,14.7,23.8
+401885485,2026-08-09T19:30Z,Benfica,Académico de Viseu,2,2,Lisbon,Portugal,68.0,0,16.2,24.2
+401885490,2026-08-09T19:30Z,Gil Vicente,Rio Ave,1,0,Barcelos,Portugal,36.0,0,12.4,21.7
+401885488,2026-08-09T19:30Z,Moreirense,Braga,2,2,Moreira de Conegos,Portugal,151.0,0,11.9,22.2
+401885486,2026-08-10T19:15Z,Santa Clara,C.D. Nacional,2,2,Ponta Delgada,Portugal,12.0,0.6,10.6,23.8
+401885475,2026-08-14T19:15Z,Sporting CP,Vitória de Guimaraes,3,2,Lisbon,Portugal,68.0,0,16.8,23.7
+401885482,2026-08-15T14:30Z,Alverca,Estrela,2,2,Alverca do Ribatejo,Portugal,18.0,0,11.9,28.1
+401885483,2026-08-15T17:00Z,Académico de Viseu,Santa Clara,0,1,Viseu,Portugal,469.0,0,13.0,30.7
+401885476,2026-08-15T19:30Z,Rio Ave,FC Porto,0,2,Vila do Conde,Portugal,12.0,0,2.9,23.2
+401885477,2026-08-16T14:30Z,C.D. Nacional,Estoril,2,0,Funchal,Portugal,280.0,0,7.8,25.7
+401885481,2026-08-16T17:00Z,Arouca,Moreirense,4,0,Arouca,Portugal,313.0,0,9.4,33.1
+401885478,2026-08-16T19:30Z,FC Famalicao,Maritimo,1,2,Vila Nova de Famalicão,Portugal,96.0,0,9.6,29.9
+401885479,2026-08-17T19:15Z,Casa Pia,Benfica,0,7,Rio Maior,Portugal,82.0,0.3,10.0,28.1
+401885471,2026-08-22T14:30Z,Maritimo,Académico de Viseu,2,2,Funchal,Portugal,280.0,0,11.9,25.7
+401885473,2026-08-22T17:00Z,Estoril,Rio Ave,0,2,Estoril,Portugal,24.0,0,13.4,22.7
+401885467,2026-08-22T19:30Z,Sporting CP,Alverca,3,1,Lisbon,Portugal,68.0,0,11.3,21.9
+401885466,2026-08-23T14:30Z,Vitória de Guimaraes,C.D. Nacional,1,0,Guimarães,Portugal,189.0,0.3,14.2,27.9
+401885468,2026-08-23T17:00Z,Santa Clara,FC Famalicao,1,0,Ponta Delgada,Portugal,12.0,0,17.8,23.4
+401885469,2026-08-23T19:30Z,FC Porto,Arouca,2,0,Porto,Portugal,91.0,0.7,19.4,20.8
+401885472,2026-08-24T19:15Z,Gil Vicente,Casa Pia,2,0,Barcelos,Portugal,36.0,0.2,11.8,19.2
+401885458,2026-08-28T19:15Z,Rio Ave,Sporting CP,0,4,Vila do Conde,Portugal,12.0,0,3.6,18.7
+401885464,2026-08-29T14:30Z,Alverca,Santa Clara,1,1,Alverca do Ribatejo,Portugal,18.0,0,9.5,27.4
+401885463,2026-08-29T14:30Z,Arouca,Maritimo,2,1,Arouca,Portugal,313.0,0,9.3,25.9
+401885465,2026-08-29T17:00Z,Académico de Viseu,FC Porto,0,3,Viseu,Portugal,469.0,0,10.7,24.4
+401885459,2026-08-30T14:30Z,C.D. Nacional,Estrela,2,3,Funchal,Portugal,280.0,0,10.3,24.8
+401885461,2026-08-30T17:00Z,Casa Pia,Moreirense,0,1,Rio Maior,Portugal,82.0,0,18.3,22.8
+401885460,2026-08-30T19:30Z,FC Famalicao,Gil Vicente,0,0,Vila Nova de Famalicão,Portugal,96.0,0,7.1,18.2
+401885457,2026-08-31T19:15Z,Benfica,Estoril,2,1,Lisbon,Portugal,68.0,0,16.9,21.0
+401885462,2026-08-31T19:15Z,Braga,Vitória de Guimaraes,1,0,Braga,Portugal,190.0,0,9.3,20.7
+401885451,2026-09-04T19:15Z,FC Porto,Moreirense,2,1,Porto,Portugal,91.0,0,6.4,22.9
+401885455,2026-09-05T14:30Z,Estrela,FC Famalicao,2,2,Amadora,Portugal,138.0,0,3.6,36.2
+401885456,2026-09-05T17:00Z,Alverca,Braga,1,2,Alverca do Ribatejo,Portugal,18.0,0,12.0,32.5
+401885452,2026-09-05T17:00Z,Maritimo,Benfica,0,3,Funchal,Portugal,280.0,0,2.7,24.4
+401885449,2026-09-05T19:30Z,Sporting CP,C.D. Nacional,2,0,Lisbon,Portugal,68.0,0,9.7,29.3
+401885450,2026-09-06T14:30Z,Santa Clara,Rio Ave,4,0,Ponta Delgada,Portugal,12.0,0.9,14.5,25.6
+401885448,2026-09-06T17:00Z,Vitória de Guimaraes,Casa Pia,0,0,Guimarães,Portugal,189.0,0,10.5,25.8
+401885453,2026-09-06T19:30Z,Gil Vicente,Académico de Viseu,0,1,Barcelos,Portugal,36.0,0,5.3,20.0
+401885454,2026-09-07T19:15Z,Estoril,Arouca,0,0,Estoril,Portugal,24.0,0,20.9,22.8
+401885470,2026-09-09T19:45Z,Moreirense,Benfica,0,4,Moreira de Conegos,Portugal,151.0,0,5.5,21.1
+401885474,2026-09-10T19:15Z,Estrela,Braga,2,1,Alverca do Ribatejo,Portugal,18.0,0,20.9,21.6
+401885441,2026-09-12T14:30Z,C.D. Nacional,Alverca,1,3,Funchal,Portugal,280.0,0,10.0,27.7
+401885444,2026-09-12T17:00Z,Casa Pia,FC Porto,1,4,Rio Maior,Portugal,82.0,0,14.5,29.8
+401885447,2026-09-12T19:30Z,Académico de Viseu,Vitória de Guimaraes,2,1,Viseu,Portugal,469.0,0,12.0,26.3

@@ -711,3 +711,26 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401866584,2026-05-21T15:00Z,Atromitos,Panserraikos FC,6,0,Athens,Greece,70.0,0,7.4,23.2
 401866586,2026-05-21T16:00Z,Kifisia,Larissa FC,3,2,Athens,Greece,70.0,0,7.3,22.4
 401866585,2026-05-21T16:00Z,Panetolikos,Asteras Tripoli,1,2,Agrinio,Greece,66.0,0.7,13.0,19.1
+401896829,2026-08-22T17:00Z,AEK Athens,Iraklis,4,0,Athens,Greece,70.0,0,6.2,31.7
+401896828,2026-08-22T17:00Z,Kalamata,Aris,2,3,Tripoli,Greece,660.0,0,6.8,28.4
+401896779,2026-08-22T18:30Z,Olympiacos,Atromitos,1,0,Piraeus,Greece,29.0,0,8.1,30.5
+401896778,2026-08-23T16:30Z,OFI Crete,Volos NFC,2,0,Crete,Greece,1585.0,0,9.9,24.8
+401896775,2026-08-23T18:00Z,PAOK,Levadiakos,4,0,Thessaloniki,Greece,-9999.0,0,5.5,33.2
+401896776,2026-08-23T18:30Z,Panetolikos,Asteras Tripoli,3,1,Agrinio,Greece,66.0,0,0.7,31.7
+401896827,2026-08-29T16:30Z,Volos NFC,Iraklis,1,1,Volos,Greece,52.0,0,14.6,27.5
+401896826,2026-08-29T18:30Z,Panetolikos,Kalamata,2,0,Agrinio,Greece,66.0,0,6.3,28.0
+401896773,2026-08-30T16:30Z,Aris,OFI Crete,2,1,Thessaloniki,Greece,-9999.0,0,12.0,29.9
+401896772,2026-08-30T17:15Z,Atromitos,PAOK,1,2,Athens,Greece,70.0,0,4.0,29.9
+401896774,2026-08-30T18:00Z,Asteras Tripoli,Olympiacos,0,1,Tripoli,Greece,660.0,0,1.1,25.7
+401896771,2026-08-30T18:00Z,Kifisia,AEK Athens,1,1,Athens,Greece,70.0,0,2.5,29.3
+401896770,2026-08-31T16:30Z,Levadiakos,Panathinaikos,0,2,Levadia,Greece,,,,
+401896768,2026-09-05T16:00Z,Volos NFC,Olympiacos,1,1,Volos,Greece,52.0,0,11.9,29.0
+401896769,2026-09-05T18:00Z,AEK Athens,Aris,5,0,Athens,Greece,70.0,0,0.8,29.3
+401896825,2026-09-06T16:00Z,Atromitos,Kalamata,1,1,Athens,Greece,70.0,0,6.1,33.2
+401896766,2026-09-06T16:30Z,OFI Crete,Kifisia,2,0,Crete,Greece,1585.0,0,10.7,21.0
+401896767,2026-09-06T17:00Z,Levadiakos,Panetolikos,0,2,Levadia,Greece,,,,
+401896765,2026-09-06T18:30Z,Panathinaikos,PAOK,3,1,Athens,Greece,70.0,0,1.4,31.4
+401896794,2026-09-07T15:00Z,Asteras Tripoli,Iraklis,0,2,Tripoli,Greece,660.0,0,14.1,28.7
+401896777,2026-09-10T18:15Z,Panathinaikos,Kifisia,3,1,Athens,Greece,70.0,0,2.1,27.8
+401896762,2026-09-12T16:00Z,Olympiacos,OFI Crete,0,1,Piraeus,Greece,29.0,0,4.8,29.8
+401896822,2026-09-12T18:00Z,Iraklis,Atromitos,1,1,Volos,Greece,52.0,0,0.0,27.2
