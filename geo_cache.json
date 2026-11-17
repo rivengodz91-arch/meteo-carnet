@@ -120,9 +120,17 @@
 53.076,
 8.807
 ],
+"Brentford|England": [
+45.16,
+-98.323
+],
 "Bridgeview, Illinois|USA": [
 41.75,
 -87.804
+],
+"Brøndby|Denmark": [
+55.645,
+12.41
 ],
 "Bucaramanga|Colombia": [
 7.125,
@@ -155,6 +163,10 @@
 "Catanzaro|Italy": [
 38.882,
 16.601
+],
+"Ceuta|Spain": [
+35.889,
+-5.32
 ],
 "Chapecó|Brazil": [
 -27.096,
@@ -393,6 +405,10 @@
 35.021,
 135.754
 ],
+"La Plata|Argentina": [
+-34.921,
+-57.954
+],
 "Laval|France": [
 48.072,
 -0.77
@@ -442,6 +458,10 @@
 53.481,
 -2.237
 ],
+"Manises|Spain": [
+39.491,
+-0.463
+],
 "Manta|Ecuador": [
 -0.949,
 -80.731
@@ -489,6 +509,14 @@
 "Monaco|France": [
 43.737,
 7.421
+],
+"Montbéliard|France": [
+47.51,
+6.798
+],
+"Monza|Italy": [
+45.58,
+9.272
 ],
 "Motherwell|Scotland": [
 -33.794,
@@ -577,6 +605,10 @@
 "Parma|Italy": [
 44.799,
 10.326
+],
+"Pedro Juan Caballero|Paraguay": [
+-22.549,
+-55.739
 ],
 "Piraeus|Greece": [
 37.942,
@@ -698,6 +730,10 @@
 49.317,
 7.133
 ],
+"St. Louis, Missouri|USA": [
+38.627,
+-90.198
+],
 "Stockholm|Sweden": [
 59.329,
 18.069
@@ -750,6 +786,10 @@
 "Trabzon|Türkiye": [
 41.005,
 39.727
+],
+"Tripoli|Greece": [
+37.51,
+22.379
 ],
 "Tromsø|Norway": [
 69.649,
