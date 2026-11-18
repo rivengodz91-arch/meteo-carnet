@@ -72,6 +72,10 @@
 -1.456,
 -48.504
 ],
+"Benevento|Italy": [
+41.131,
+14.778
+],
 "Bergamo|Italy": [
 45.696,
 9.667
@@ -92,6 +96,7 @@
 52.481,
 -1.9
 ],
+"Bodø/Glimt|Norway": null,
 "Bogota|Colombia": [
 4.61,
 -74.082
@@ -116,6 +121,10 @@
 -22.953,
 -46.544
 ],
+"Bratislava|Slovakia": [
+48.148,
+17.107
+],
 "Bremen|Germany": [
 53.076,
 8.807
@@ -127,6 +136,10 @@
 "Bridgeview, Illinois|USA": [
 41.75,
 -87.804
+],
+"Bristol|England": [
+51.455,
+-2.597
 ],
 "Brøndby|Denmark": [
 55.645,
@@ -152,9 +165,17 @@
 3.431,
 -76.52
 ],
+"Cardiff|Wales": [
+51.48,
+-3.18
+],
 "Carrara|Italy": [
 44.079,
 10.098
+],
+"Castellammare di Stabia|Italy": [
+40.702,
+14.487
 ],
 "Castellón|Spain": [
 39.986,
@@ -164,6 +185,10 @@
 38.882,
 16.601
 ],
+"Cesena|Italy": [
+44.139,
+12.243
+],
 "Ceuta|Spain": [
 35.889,
 -5.32
@@ -171,6 +196,10 @@
 "Chapecó|Brazil": [
 -27.096,
 -52.618
+],
+"Chiavari|Italy": [
+44.318,
+9.322
 ],
 "Ciudad Juárez|Mexico": [
 31.72,
@@ -413,6 +442,10 @@
 48.072,
 -0.77
 ],
+"Leipzig|Germany": [
+51.34,
+12.371
+],
 "Lens|France": [
 50.433,
 2.828
@@ -594,6 +627,10 @@
 20.117,
 -98.733
 ],
+"Palermo|Italy": [
+38.117,
+13.364
+],
 "Palma de Mallorca|Spain": [
 39.55,
 2.733
@@ -621,6 +658,10 @@
 "Porto Alegre|Brazil": [
 -30.033,
 -51.23
+],
+"Portsmouth|England": [
+50.799,
+-1.091
 ],
 "Puebla|Mexico": [
 19.048,
@@ -681,6 +722,10 @@
 "Salvador|Brazil": [
 -12.976,
 -38.491
+],
+"San Jose, California|USA": [
+37.339,
+-121.895
 ],
 "San Nicolás de los Garza|Mexico": [
 25.742,
@@ -826,6 +871,10 @@
 "Viborg|Denmark": [
 56.453,
 9.402
+],
+"Vicenza|Italy": [
+45.547,
+11.547
 ],
 "Vigo|Spain": [
 42.233,
