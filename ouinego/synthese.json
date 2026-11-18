@@ -74,9 +74,29 @@
      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlUxSGFuMTZEdzlGeUc0VEVtMjh4aTVXdlR2RmJtLXp4Vkp5ZkRwd09DREM5NFFMekZMa0xKZHpOYUItaEp1eFBCM0ZmYlR2N2UzcGU4T0pMY3hiMGlCd3VESFVjM2lwc2RxRFZCR1I4YnE4czFXVFY0U1c1Ull1cmthck03TUN3X0t2YTF2OERoMGxBUjhKb0Z4WHVtWldfN19WMHJZNEQ2MlJyTjJsQ1ZfZHB3OEFtbFZaTjZ2QQ?oc=5"
     }
    ]
+  },
+  {
+   "date": "2026-11-18",
+   "presse": [
+    {
+     "reseau": "L'Orange Bleue",
+     "titre": "À Hallennes-lez-Haubourdin, une salle de sport Orange bleue s’installera dans les locaux de Jump XL - La Voix du Nord",
+     "source": "La Voix du Nord",
+     "publie": "Wed, 18 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGkwSW9JSFNDMWtuU2g1dFRrN0daaEZxTE5fSlJBWjh3Y0h1U21KcnRVVHVkV3BrNFVSRU1lMHJ1Tjc0V2dpMUxQV1N4TEZEMzliN3pROUVRR1hnR19xeFlQRDBrM1RwV2sya3BnVV85MnVSbkFma25nV1hCQkxaQ2VUdVp3VmpGekg2V2kxLVdsaG45a2s2Vm1tU2RIT1pMZnQwdmtDdVdIcGk0dHJLYVZIV3JENUpSY3ktTkxhMjJMaWNFOWlEQ0gxRUNaUQ?oc=5"
+    },
+    {
+     "reseau": "Boulangerie Ange",
+     "titre": "Coutances. Boulangerie Ange : la date d'ouverture a été dévoilée - lamanchelibre.fr",
+     "source": "lamanchelibre.fr",
+     "publie": "Tue, 17 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlFHS1UtVXpIZ2tRWVlsUl91cUwtNWk3YjFqdW9URkpmME9WXzNUQ3lfYUtYWmR0Q00tM1pkRC11SFZURkU4M2dyZkNTSEdUM2JNQ2JQaUU5eFhscVRpOVlyVkJJbnRobWNSYzkxZGJFa21GNi1idDNRSFNlOEZMNU56aFJNM2t6czhteTdYWVpZbE1ibFVUMGVxaXJPbjQ0QnlDcHAyZ0xDMGdC?oc=5"
+    }
+   ],
+   "prix": "Prix spot en forte baisse : moyenne 7 jours 146 €/MWh, soit 26 % sous la moyenne 30 jours (198 €/MWh)."
   }
  ],
- "maj": "2026-11-17T05:38+00:00",
+ "maj": "2026-11-18T05:41+00:00",
  "etat": {
   "presse": "ok",
   "fournisseurs": "ok",
