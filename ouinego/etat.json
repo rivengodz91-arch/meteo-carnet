@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-18T05:41+00:00",
+ "maj": "2026-11-19T05:39+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
@@ -7,17 +7,10 @@
     "nouveaux": [
      {
       "reseau": "L'Orange Bleue",
-      "titre": "À Hallennes-lez-Haubourdin, une salle de sport Orange bleue s’installera dans les locaux de Jump XL - La Voix du Nord",
+      "titre": "Orange bleue à Hallennes-lez-Haubourdin : une nouvelle salle de sport de 1 500 m² zone des Bourreliers - La Voix du Nord",
       "source": "La Voix du Nord",
       "publie": "Wed, 18 Nov 2026",
       "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGkwSW9JSFNDMWtuU2g1dFRrN0daaEZxTE5fSlJBWjh3Y0h1U21KcnRVVHVkV3BrNFVSRU1lMHJ1Tjc0V2dpMUxQV1N4TEZEMzliN3pROUVRR1hnR19xeFlQRDBrM1RwV2sya3BnVV85MnVSbkFma25nV1hCQkxaQ2VUdVp3VmpGekg2V2kxLVdsaG45a2s2Vm1tU2RIT1pMZnQwdmtDdVdIcGk0dHJLYVZIV3JENUpSY3ktTkxhMjJMaWNFOWlEQ0gxRUNaUQ?oc=5"
-     },
-     {
-      "reseau": "Boulangerie Ange",
-      "titre": "Coutances. Boulangerie Ange : la date d'ouverture a été dévoilée - lamanchelibre.fr",
-      "source": "lamanchelibre.fr",
-      "publie": "Tue, 17 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSlFHS1UtVXpIZ2tRWVlsUl91cUwtNWk3YjFqdW9URkpmME9WXzNUQ3lfYUtYWmR0Q00tM1pkRC11SFZURkU4M2dyZkNTSEdUM2JNQ2JQaUU5eFhscVRpOVlyVkJJbnRobWNSYzkxZGJFa21GNi1idDNRSFNlOEZMNU56aFJNM2t6czhteTdYWVpZbE1ibFVUMGVxaXJPbjQ0QnlDcHAyZ0xDMGdC?oc=5"
      }
     ],
     "requetes_ko": []
@@ -27,20 +20,25 @@
    "statut": "ok",
    "resultat": {
     "alertes": [],
-    "fournisseurs_suivis": 1323
+    "fournisseurs_suivis": 1323,
+    "erreurs": [
+     "presse: HTTP Error 429: Too Many Requests",
+     "presse: HTTP Error 429: Too Many Requests"
+    ]
    }
   },
   "prix": {
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-18",
-    "moy_7j": 145.7,
-    "moy_30j": 197.6,
+    "dernier_jour": "2026-11-19",
+    "moy_7j": 125.1,
+    "moy_30j": 192.5,
     "moy_365j": 94.4,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 82,
-    "alerte": "Prix spot en forte baisse : moyenne 7 jours 146 €/MWh, soit 26 % sous la moyenne 30 jours (198 €/MWh)."
+    "rang_7j_sur_an_pct": 75,
+    "alerte_deja_envoyee_le": "2026-11-18",
+    "alerte": null
    }
   }
  }

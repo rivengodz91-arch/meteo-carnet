@@ -94,9 +94,21 @@
     }
    ],
    "prix": "Prix spot en forte baisse : moyenne 7 jours 146 €/MWh, soit 26 % sous la moyenne 30 jours (198 €/MWh)."
+  },
+  {
+   "date": "2026-11-19",
+   "presse": [
+    {
+     "reseau": "L'Orange Bleue",
+     "titre": "Orange bleue à Hallennes-lez-Haubourdin : une nouvelle salle de sport de 1 500 m² zone des Bourreliers - La Voix du Nord",
+     "source": "La Voix du Nord",
+     "publie": "Wed, 18 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGkwSW9JSFNDMWtuU2g1dFRrN0daaEZxTE5fSlJBWjh3Y0h1U21KcnRVVHVkV3BrNFVSRU1lMHJ1Tjc0V2dpMUxQV1N4TEZEMzliN3pROUVRR1hnR19xeFlQRDBrM1RwV2sya3BnVV85MnVSbkFma25nV1hCQkxaQ2VUdVp3VmpGekg2V2kxLVdsaG45a2s2Vm1tU2RIT1pMZnQwdmtDdVdIcGk0dHJLYVZIV3JENUpSY3ktTkxhMjJMaWNFOWlEQ0gxRUNaUQ?oc=5"
+    }
+   ]
   }
  ],
- "maj": "2026-11-18T05:41+00:00",
+ "maj": "2026-11-19T05:39+00:00",
  "etat": {
   "presse": "ok",
   "fournisseurs": "ok",
