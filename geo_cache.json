@@ -60,6 +60,10 @@
 40.915,
 14.791
 ],
+"Baku|Azerbaijan": [
+40.378,
+49.892
+],
 "Barcelona|Spain": [
 41.389,
 2.159
@@ -141,6 +145,10 @@
 51.455,
 -2.597
 ],
+"Brugge|Belgium": [
+51.209,
+3.224
+],
 "Brøndby|Denmark": [
 55.645,
 12.41
@@ -201,6 +209,10 @@
 44.318,
 9.322
 ],
+"Chiba|Japan": [
+35.6,
+140.117
+],
 "Ciudad Juárez|Mexico": [
 31.72,
 -106.461
@@ -224,6 +236,10 @@
 "Coventry|England": [
 52.407,
 -1.512
+],
+"Cremona|Italy": [
+45.133,
+10.021
 ],
 "Curitiba|Brazil": [
 -25.428,
@@ -361,6 +377,7 @@
 55.249,
 9.488
 ],
+"Hakata-ku, Fukuoka|Japan": null,
 "Hamar|Norway": [
 60.794,
 11.068
@@ -467,6 +484,10 @@
 48.306,
 14.286
 ],
+"Lisbon|Portugal": [
+38.725,
+-9.15
+],
 "Liverpool|England": [
 53.411,
 -2.978
@@ -502,6 +523,10 @@
 "Manta|Ecuador": [
 -0.949,
 -80.731
+],
+"Mantova|Italy": [
+44.732,
+8.623
 ],
 "Marseille|France": [
 43.297,
@@ -567,6 +592,14 @@
 48.137,
 11.575
 ],
+"Nagasaki|Japan": [
+32.75,
+129.883
+],
+"Nakatsu|Japan": [
+33.598,
+131.188
+],
 "Nancy|France": [
 48.684,
 6.185
@@ -607,6 +640,10 @@
 49.454,
 11.078
 ],
+"Okayama|Japan": [
+34.65,
+133.933
+],
 "Orlando, Florida|USA": [
 28.538,
 -81.379
@@ -626,6 +663,10 @@
 "Pachuca|Mexico": [
 20.117,
 -98.733
+],
+"Padova|Italy": [
+44.382,
+11.143
 ],
 "Palermo|Italy": [
 38.117,
@@ -655,6 +696,10 @@
 37.942,
 23.646
 ],
+"Pisa|Italy": [
+43.709,
+10.404
+],
 "Porto Alegre|Brazil": [
 -30.033,
 -51.23
@@ -662,6 +707,10 @@
 "Portsmouth|England": [
 50.799,
 -1.091
+],
+"Prague|Czechia": [
+50.088,
+14.421
 ],
 "Puebla|Mexico": [
 19.048,
@@ -718,6 +767,10 @@
 "Saint-Ouen, Paris|France": [
 48.907,
 2.333
+],
+"Saitama|Japan": [
+35.908,
+139.657
 ],
 "Salvador|Brazil": [
 -12.976,
@@ -887,6 +940,10 @@
 "Vitoria-Gasteiz|Spain": [
 42.85,
 -2.673
+],
+"Watford|England": [
+51.655,
+-0.396
 ],
 "Wellington|New Zealand": [
 -41.287,
