@@ -8,6 +8,10 @@
 38.994,
 -1.856
 ],
+"Almaty|Kazakhstan": [
+43.252,
+76.912
+],
 "Almería|Spain": [
 36.838,
 -2.46
@@ -64,9 +68,17 @@
 40.378,
 49.892
 ],
+"Banja Luka|Bosnia and Herzegovina": [
+44.779,
+17.206
+],
 "Barcelona|Spain": [
 41.389,
 2.159
+],
+"Batumi|Georgia": [
+41.641,
+41.631
 ],
 "Belo Horizonte|Brazil": [
 -19.921,
@@ -83,6 +95,10 @@
 "Bergamo|Italy": [
 45.696,
 9.667
+],
+"Bergen|Norway": [
+60.393,
+5.324
 ],
 "Berlin|Germany": [
 52.524,
@@ -125,6 +141,10 @@
 -22.953,
 -46.544
 ],
+"Braga|Portugal": [
+41.551,
+-8.423
+],
 "Bratislava|Slovakia": [
 48.148,
 17.107
@@ -156,6 +176,10 @@
 "Bucaramanga|Colombia": [
 7.125,
 -73.119
+],
+"Budapest|Hungary": [
+47.498,
+19.04
 ],
 "Buenos Aires|Argentina": [
 -34.613,
@@ -241,6 +265,10 @@
 45.133,
 10.021
 ],
+"Crete|Greece": [
+35.205,
+24.903
+],
 "Curitiba|Brazil": [
 -25.428,
 -49.273
@@ -309,6 +337,10 @@
 56.002,
 -3.785
 ],
+"Falmer|England": [
+50.865,
+-0.077
+],
 "Farum|Denmark": [
 55.809,
 12.361
@@ -321,6 +353,10 @@
 50.116,
 8.684
 ],
+"Freiburg im Breisgau|Germany": [
+47.996,
+7.852
+],
 "Gelsenkirchen|Germany": [
 51.505,
 7.097
@@ -332,6 +368,10 @@
 "Getafe|Spain": [
 40.306,
 -3.733
+],
+"Ghent|Belgium": [
+51.05,
+3.717
 ],
 "Gijón|Spain": [
 43.536,
@@ -407,6 +447,10 @@
 41.014,
 28.95
 ],
+"Jablonec|Czechia": [
+50.606,
+14.882
+],
 "Kaiserslautern|Germany": [
 49.443,
 7.772
@@ -423,6 +467,10 @@
 35.862,
 139.977
 ],
+"Kaunas|Lithuania": [
+54.902,
+23.909
+],
 "Kawasaki|Japan": [
 35.521,
 139.717
@@ -438,6 +486,10 @@
 "Kocaeli|Türkiye": [
 39.625,
 27.511
+],
+"Kolossi|Cyprus": [
+34.669,
+32.934
 ],
 "Konya|Türkiye": [
 37.871,
@@ -463,9 +515,17 @@
 51.34,
 12.371
 ],
+"Leiria|Portugal": [
+39.744,
+-8.807
+],
 "Lens|France": [
 50.433,
 2.828
+],
+"Leuven|Belgium": [
+50.88,
+4.701
 ],
 "Levadia|Greece": null,
 "Leverkusen|Germany": [
@@ -499,6 +559,10 @@
 "Lorient|France": [
 47.748,
 -3.372
+],
+"Lyon|France": [
+45.749,
+4.848
 ],
 "Machala|Ecuador": [
 -3.259,
@@ -700,6 +764,10 @@
 43.709,
 10.404
 ],
+"Plzen|Czechia": [
+49.675,
+13.275
+],
 "Porto Alegre|Brazil": [
 -30.033,
 -51.23
@@ -776,6 +844,10 @@
 -12.976,
 -38.491
 ],
+"Salzburg|Austria": [
+47.799,
+13.044
+],
 "San Jose, California|USA": [
 37.339,
 -121.895
@@ -824,6 +896,14 @@
 53.383,
 -1.466
 ],
+"Sinsheim|Germany": [
+49.253,
+8.879
+],
+"Sofia|Bulgaria": [
+42.698,
+23.324
+],
 "Southampton|England": [
 50.904,
 -1.404
@@ -831,6 +911,10 @@
 "Spiesen-Elversberg|Germany": [
 49.317,
 7.133
+],
+"Split|Croatia": [
+43.509,
+16.439
 ],
 "St. Louis, Missouri|USA": [
 38.627,
@@ -848,6 +932,10 @@
 48.584,
 7.746
 ],
+"Sunderland|England": [
+54.905,
+-1.382
+],
 "Swansea|Wales": [
 51.621,
 -3.943
@@ -864,6 +952,10 @@
 -36.725,
 -73.117
 ],
+"Tbilisi|Georgia": [
+41.691,
+44.834
+],
 "Thessaloniki|Greece": [
 40.641,
 22.935
@@ -871,6 +963,10 @@
 "Tijuana|Mexico": [
 32.503,
 -117.004
+],
+"Tirana|Albania": [
+41.327,
+19.819
 ],
 "Tokyo|Japan": [
 35.69,
@@ -968,5 +1064,9 @@
 "Yopal|Colombia": [
 5.336,
 -72.394
+],
+"Zagreb|Croatia": [
+45.814,
+15.978
 ]
 }
