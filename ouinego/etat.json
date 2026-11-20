@@ -1,42 +1,38 @@
 {
- "maj": "2026-11-19T05:39+00:00",
+ "maj": "2026-11-20T05:41+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
    "resultat": {
-    "nouveaux": [
-     {
-      "reseau": "L'Orange Bleue",
-      "titre": "Orange bleue à Hallennes-lez-Haubourdin : une nouvelle salle de sport de 1 500 m² zone des Bourreliers - La Voix du Nord",
-      "source": "La Voix du Nord",
-      "publie": "Wed, 18 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGkwSW9JSFNDMWtuU2g1dFRrN0daaEZxTE5fSlJBWjh3Y0h1U21KcnRVVHVkV3BrNFVSRU1lMHJ1Tjc0V2dpMUxQV1N4TEZEMzliN3pROUVRR1hnR19xeFlQRDBrM1RwV2sya3BnVV85MnVSbkFma25nV1hCQkxaQ2VUdVp3VmpGekg2V2kxLVdsaG45a2s2Vm1tU2RIT1pMZnQwdmtDdVdIcGk0dHJLYVZIV3JENUpSY3ktTkxhMjJMaWNFOWlEQ0gxRUNaUQ?oc=5"
-     }
-    ],
+    "nouveaux": [],
     "requetes_ko": []
    }
   },
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [],
-    "fournisseurs_suivis": 1323,
-    "erreurs": [
-     "presse: HTTP Error 429: Too Many Requests",
-     "presse: HTTP Error 429: Too Many Requests"
-    ]
+    "alertes": [
+     {
+      "source": "Presse",
+      "date": "2026-11-20",
+      "fournisseur": "",
+      "quoi": "Copropriété en faillite : le copropriétaire qui paie ses charges doit-il payer les dettes du syndicat - Reda KOHEN",
+      "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlUxSGFuMTZEdzlGeUc0VEVtMjh4aTVXdlR2RmJtLXp4Vkp5ZkRwd09DREM5NFFMekZMa0xKZHpOYUItaEp1eFBCM0ZmYlR2N2UzcGU4T0pMY3hiMGlCd3VESFVjM2lwc2RxRFZCR1I4YnE4czFXVFY0U1c1Ull1cmthck03TUN3X0t2YTF2OERoMGxBUjhKb0Z4WHVtWldfN19WMHJZNEQ2MlJyTjJsQ1ZfZHB3OEFtbFZaTjZ2QQ?oc=5"
+     }
+    ],
+    "fournisseurs_suivis": 1323
    }
   },
   "prix": {
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-19",
-    "moy_7j": 125.1,
-    "moy_30j": 192.5,
+    "dernier_jour": "2026-11-20",
+    "moy_7j": 114.7,
+    "moy_30j": 191.5,
     "moy_365j": 94.4,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 75,
+    "rang_7j_sur_an_pct": 71,
     "alerte_deja_envoyee_le": "2026-11-18",
     "alerte": null
    }
