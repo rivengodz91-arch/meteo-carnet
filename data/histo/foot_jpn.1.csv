@@ -1230,3 +1230,6 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401877554,2026-11-08T05:00Z,Vissel Kobe,Urawa Red Diamonds,2,2,Tokyo,Japan,44.0,0,6.7,16.2
 401877555,2026-11-08T06:00Z,Gamba Osaka,Cerezo Osaka,2,3,Osaka,Japan,4.0,0,6.9,15.7
 401877577,2026-11-08T08:00Z,JEF United Ichihara-Chiba,Mito Hollyhock,1,0,Chiba,Japan,5.0,0,4.3,15.2
+401877534,2026-11-20T10:00Z,Kashima Antlers,Shimizu S-Pulse,1,1,Kashima,Japan,20.0,0,10.8,7.7
+401877553,2026-11-20T10:00Z,Kashiwa Reysol,JEF United Ichihara-Chiba,0,1,Kashiwa,Japan,24.0,0,12.3,8.8
+401877548,2026-11-20T10:00Z,Vissel Kobe,Mito Hollyhock,1,2,Kobe,Japan,35.0,0,15.4,7.5
