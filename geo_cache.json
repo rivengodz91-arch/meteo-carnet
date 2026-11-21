@@ -36,6 +36,10 @@
 45.909,
 6.126
 ],
+"Antalya|Türkiye": [
+36.908,
+30.696
+],
 "Arezzo|Italy": [
 43.463,
 11.881
@@ -120,6 +124,10 @@
 48.91,
 2.45
 ],
+"Bochum|Germany": [
+51.482,
+7.216
+],
 "Bodø/Glimt|Norway": null,
 "Bogota|Colombia": [
 4.61,
@@ -160,6 +168,10 @@
 "Brentford|England": [
 45.16,
 -98.323
+],
+"Brest|France": [
+48.39,
+-4.486
 ],
 "Bridgeview, Illinois|USA": [
 41.75,
@@ -244,6 +256,10 @@
 "Ciudad Juárez|Mexico": [
 31.72,
 -106.461
+],
+"Columbus, Ohio|USA": [
+39.961,
+-82.999
 ],
 "Como|Italy": [
 45.808,
@@ -361,6 +377,10 @@
 47.996,
 7.852
 ],
+"Funchal|Portugal": [
+32.666,
+-16.925
+],
 "Gelsenkirchen|Germany": [
 51.505,
 7.097
@@ -430,6 +450,10 @@
 "Hannover|Germany": [
 52.371,
 9.733
+],
+"Heidenheim|Germany": [
+48.678,
+10.152
 ],
 "Hiroshima|Japan": [
 34.4,
@@ -514,6 +538,10 @@
 "Laval|France": [
 48.072,
 -0.77
+],
+"Leganés, Madrid|Spain": [
+40.327,
+-3.764
 ],
 "Leipzig|Germany": [
 51.34,
@@ -704,6 +732,10 @@
 52.628,
 1.298
 ],
+"Nottingham|England": [
+52.954,
+-1.15
+],
 "Nürnberg|Germany": [
 49.454,
 11.078
@@ -820,6 +852,10 @@
 56.197,
 10.248
 ],
+"Rize|Türkiye": [
+41.021,
+40.522
+],
 "Roma|Italy": [
 46.0,
 25.0
@@ -863,6 +899,10 @@
 "San Sebastian|Spain": [
 43.567,
 -5.9
+],
+"Sandy, Utah|USA": [
+40.592,
+-111.884
 ],
 "Santa Cruz de Tenerife|Spain": [
 28.468,
@@ -1016,6 +1056,10 @@
 "Velsen-Zuid|Netherlands": [
 52.46,
 4.65
+],
+"Venezia|Italy": [
+44.423,
+11.174
 ],
 "Verona|Italy": [
 45.439,
