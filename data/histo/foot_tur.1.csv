@@ -1126,3 +1126,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401888372,2026-11-08T13:00Z,Çorum FK,Fenerbahce,0,5,Çorum,Türkiye,808.0,0,8.4,4.9
 401888254,2026-11-08T15:30Z,Alanyaspor,Trabzonspor,0,2,Antalya,Türkiye,61.0,0,15.6,14.1
 401888251,2026-11-08T18:00Z,Besiktas,Genclerbirligi,3,0,Istanbul,Türkiye,39.0,0,5.1,8.2
+401888247,2026-11-21T10:30Z,Genclerbirligi,Gaziantep FK,1,0,Ankara,Türkiye,850.0,1.4,11.4,12.6
+401888369,2026-11-21T13:00Z,Amed SFK,Caykur Rizespor,0,2,Diyarbakir,Türkiye,674.0,0,22.2,17.1
+401888245,2026-11-21T13:00Z,Galatasaray,Samsunspor,2,1,Istanbul,Türkiye,39.0,0.2,8.9,17.3
+401888244,2026-11-21T16:00Z,Kocaelispor,Fenerbahce,2,2,Kocaeli,Türkiye,310.0,0,6.8,12.9

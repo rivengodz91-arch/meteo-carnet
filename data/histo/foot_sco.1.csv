@@ -582,3 +582,9 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401878340,2026-11-07T20:00Z,St Mirren,Rangers,0,2,Paisley,Scotland,50.0,0.1,6.0,7.6
 401878339,2026-11-08T15:00Z,Heart of Midlothian,Falkirk,2,5,Edinburgh,Scotland,66.0,0,7.5,8.8
 401878343,2026-11-08T16:00Z,Celtic,Kilmarnock,1,0,Glasgow,Scotland,40.0,0,4.4,7.7
+401878338,2026-11-21T15:00Z,Celtic,St Mirren,4,1,Glasgow,Scotland,40.0,0,10.0,1.9
+401878336,2026-11-21T15:00Z,Falkirk,St Johnstone,2,1,Falkirk,Scotland,25.0,0,5.4,0.7
+401878335,2026-11-21T15:00Z,Hibernian,Dundee United,0,4,Edinburgh,Scotland,66.0,0,3.7,1.4
+401878334,2026-11-21T15:00Z,Kilmarnock,Aberdeen,2,4,Kilmarnock,Scotland,39.0,0,12.5,4.4
+401878337,2026-11-21T17:45Z,Dundee,Heart of Midlothian,0,8,Dundee,Scotland,77.0,0,7.5,-0.2
+401878333,2026-11-21T20:00Z,Motherwell,Rangers,1,2,Motherwell,Scotland,87.0,0,7.2,17.3

@@ -1463,3 +1463,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401841663,2026-11-07T20:30Z,Rosario Central,Estudiantes de Río Cuarto,2,0,Rosario,Argentina,38.0,0,16.0,19.0
 401841664,2026-11-08T01:00Z,Instituto (Córdoba),Newell's Old Boys,2,2,Córdoba,Argentina,378.0,0,4.5,15.1
 401841668,2026-11-08T22:30Z,Central Córdoba (Santiago del Estero),Lanús,1,1,Santiago del Estero,Argentina,176.0,0,9.2,25.4
+401933758,2026-11-21T18:00Z,Defensa y Justicia,Barracas Central,0,1,Buenos Aires,Argentina,31.0,0,2.0,27.9
+401933755,2026-11-21T20:00Z,Argentinos Juniors,Independiente,1,2,Buenos Aires,Argentina,31.0,0,4.1,27.2

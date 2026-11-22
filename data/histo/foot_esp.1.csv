@@ -1259,3 +1259,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401882807,2026-11-08T17:30Z,Villarreal,Getafe,2,0,Villarreal,Spain,42.0,0,23.9,20.5
 401882816,2026-11-08T20:00Z,Atlético Madrid,Barcelona,1,2,Madrid,Spain,665.0,0,6.0,14.4
 401882805,2026-11-20T20:00Z,Athletic Club,Espanyol,0,1,Bilbao,Spain,20.0,0,5.5,11.6
+401882806,2026-11-21T13:00Z,Alavés,Deportivo,3,1,Vitoria-Gasteiz,Spain,547.0,1.0,14.5,10.9
+401882799,2026-11-21T15:15Z,Rayo Vallecano,Valencia,0,1,Madrid,Spain,665.0,0,0.5,12.6
+401882797,2026-11-21T17:30Z,Sevilla,Real Betis,1,1,Sevilla,Spain,16.0,0,13.7,18.8
+401882798,2026-11-21T20:00Z,Real Madrid,Celta Vigo,2,1,Madrid,Spain,665.0,0.7,4.4,11.1

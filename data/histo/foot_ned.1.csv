@@ -1034,3 +1034,8 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401875548,2026-11-08T15:45Z,AZ Alkmaar,FC Groningen,4,3,Alkmaar,Netherlands,5.0,0.6,12.3,8.8
 401875553,2026-11-08T15:45Z,SC Cambuur,PSV Eindhoven,2,5,Leeuwarden,Netherlands,1.0,0.2,11.4,8.8
 401875549,2026-11-08T19:00Z,FC Utrecht,NEC Nijmegen,2,3,Utrecht,Netherlands,13.0,0,6.2,7.6
+401875541,2026-11-21T15:30Z,NEC Nijmegen,PSV Eindhoven,1,4,Nijmegen,Netherlands,25.0,0,10.6,6.9
+401875544,2026-11-21T17:45Z,FC Utrecht,SC Cambuur,2,3,Utrecht,Netherlands,13.0,0,6.7,5.4
+401875543,2026-11-21T17:45Z,Feyenoord Rotterdam,Excelsior,2,3,Rotterdam,Netherlands,9.0,0,4.3,5.5
+401875546,2026-11-21T20:00Z,FC Groningen,Heerenveen,1,3,Groningen,Netherlands,16.0,0,9.4,4.2
+401875539,2026-11-21T20:00Z,Telstar,PEC Zwolle,1,3,Velsen-Zuid,Netherlands,4.0,0,4.2,6.3

@@ -832,3 +832,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401885062,2026-11-08T12:30Z,VfL Bochum,Karlsruher SC,3,2,Bochum,Germany,102.0,0.1,10.1,9.8
 401885049,2026-11-20T17:30Z,Arminia Bielefeld,1. FC Magdeburg,1,2,Bielefeld,Germany,111.0,0,4.8,2.0
 401885053,2026-11-20T17:30Z,SV Darmstadt 98,1. FC Heidenheim 1846,3,1,Darmstadt,Germany,148.0,2.6,18.4,8.0
+401885051,2026-11-21T12:00Z,1. FC Nürnberg,TSV Eintracht Braunschweig,1,2,Nürnberg,Germany,300.0,0,9.7,4.8
+401885054,2026-11-21T12:00Z,Hannover 96,SpVgg Greuther Fürth,2,1,Hannover,Germany,57.0,0.3,16.9,6.2
+401885056,2026-11-21T12:00Z,VfL Wolfsburg,Holstein Kiel,3,0,Wolfsburg,Germany,65.0,0,20.5,6.2
+401885055,2026-11-21T19:30Z,St. Pauli,VfL Bochum,2,0,Hamburg Norderstedt,Germany,,,,

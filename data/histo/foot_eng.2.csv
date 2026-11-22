@@ -1849,3 +1849,14 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401880164,2026-11-07T15:00Z,Queens Park Rangers,Lincoln City,2,1,London,England,25.0,0,0.7,9.3
 401880163,2026-11-07T15:00Z,Watford,Middlesbrough,0,0,Watford,England,77.0,0,0.9,9.6
 401880162,2026-11-07T15:00Z,West Bromwich Albion,Millwall,3,0,West Bromwich,England,165.0,0.3,3.2,8.8
+401880156,2026-11-21T12:30Z,Millwall,Queens Park Rangers,0,1,London,England,25.0,0,9.7,7.3
+401880155,2026-11-21T12:30Z,Norwich City,Cardiff City,2,1,Norwich,England,19.0,0,4.9,6.9
+401880153,2026-11-21T12:30Z,Southampton,Derby County,2,0,Southampton,England,19.0,0,9.9,11.0
+401880160,2026-11-21T15:00Z,Bolton Wanderers,Portsmouth,1,1,Bolton,England,105.0,0,6.2,4.6
+401880158,2026-11-21T15:00Z,Lincoln City,Wrexham,0,1,Lincoln,England,367.0,0.2,12.0,14.7
+401880157,2026-11-21T15:00Z,Middlesbrough,Bristol City,2,0,Middlesbrough,England,15.0,0,1.5,3.1
+401880154,2026-11-21T15:00Z,Sheffield United,Watford,4,0,Sheffield,England,75.0,0,3.5,5.3
+401880152,2026-11-21T15:00Z,Stoke City,Birmingham City,1,0,Stoke-on-Trent,England,114.0,0,11.8,5.7
+401880151,2026-11-21T15:00Z,Swansea City,West Bromwich Albion,2,2,Swansea,Wales,18.0,0,18.7,9.6
+401880150,2026-11-21T15:00Z,West Ham United,Preston North End,1,1,London,England,25.0,0,7.5,8.6
+401880149,2026-11-21T15:00Z,Wolverhampton Wanderers,Charlton Athletic,2,1,Wolverhampton,England,160.0,0,8.1,7.0

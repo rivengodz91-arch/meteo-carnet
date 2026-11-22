@@ -817,3 +817,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401850684,2026-11-08T20:30Z,Unión La Calera,Huachipato,1,0,La Calera,Chile,217.0,0,6.7,26.8
 401850685,2026-11-08T23:00Z,Universidad de Concepción,O'Higgins,3,2,Concepción,Chile,36.0,0,8.0,20.9
 401850692,2026-11-20T21:00Z,Cobresal,Audax Italiano,3,2,El Salvador,Chile,694.0,0,6.1,30.2
+401850699,2026-11-21T15:00Z,Coquimbo Unido,Everton CD,2,1,Coquimbo,Chile,22.0,0,13.1,21.7
+401850696,2026-11-21T21:00Z,O'Higgins,Universidad de Chile,0,1,Rancagua,Chile,520.0,0,9.4,20.1

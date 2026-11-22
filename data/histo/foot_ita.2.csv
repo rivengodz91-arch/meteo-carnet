@@ -1280,3 +1280,10 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401899557,2026-11-08T16:15Z,Carrarese,Sampdoria,0,1,Carrara,Italy,100.0,0,0.6,12.7
 401899554,2026-11-08T18:30Z,Vicenza,Cremonese,1,4,Vicenza,Italy,39.0,0,5.4,8.1
 401899543,2026-11-20T19:30Z,Hellas Verona,Cesena,0,2,Verona,Italy,59.0,0,1.2,7.9
+401899548,2026-11-21T14:00Z,Ascoli,Vicenza,2,2,Ascoli Piceno,Italy,154.0,0,4.1,18.7
+401899546,2026-11-21T14:00Z,Carrarese,Virtus Entella,1,0,Carrara,Italy,100.0,0,11.4,15.7
+401899542,2026-11-21T14:00Z,Modena,Juve Stabia,2,0,Modena,Italy,34.0,0,3.2,13.4
+401899541,2026-11-21T14:00Z,Sampdoria,Benevento,3,1,Genova,Italy,3.0,0,3.4,10.6
+401899540,2026-11-21T14:00Z,Sudtirol,Cremonese,1,0,Bolzano,Italy,262.0,0,3.4,12.7
+401899545,2026-11-21T16:15Z,Catanzaro,Palermo,3,1,Catanzaro,Italy,320.0,0,18.0,15.9
+401899544,2026-11-21T18:30Z,Empoli,Pisa,0,1,Empoli,Italy,28.0,0.1,9.9,13.0

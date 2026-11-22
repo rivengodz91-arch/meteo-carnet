@@ -1239,3 +1239,10 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401878759,2026-11-08T14:00Z,Ipswich Town,AFC Bournemouth,1,2,Ipswich,England,18.0,0,7.1,10.0
 401879239,2026-11-08T14:00Z,Sunderland,Chelsea,1,0,Sunderland,England,36.0,0.1,6.1,9.6
 401879240,2026-11-08T16:30Z,Manchester United,Aston Villa,4,4,Manchester,England,51.0,0,3.6,8.4
+401879233,2026-11-21T12:30Z,Manchester City,Fulham,1,1,Manchester,England,51.0,0,1.1,6.7
+401879238,2026-11-21T15:00Z,AFC Bournemouth,Nottingham Forest,2,0,Bournemouth,England,19.0,0,15.1,11.8
+401878756,2026-11-21T15:00Z,Aston Villa,Sunderland,0,0,Birmingham,England,149.0,0,8.1,6.8
+401879236,2026-11-21T15:00Z,Chelsea,Leeds United,1,4,London,England,25.0,0,7.5,8.6
+401879235,2026-11-21T15:00Z,Coventry City,Crystal Palace,3,2,Coventry,England,89.0,0,9.4,7.1
+401878754,2026-11-21T15:00Z,Tottenham Hotspur,Ipswich Town,2,0,London,England,25.0,0,7.5,8.6
+401879232,2026-11-21T17:30Z,Newcastle United,Arsenal,2,2,Newcastle-upon-Tyne,England,54.0,0,0.9,0.5

@@ -1360,3 +1360,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401841302,2026-11-06T23:00Z,Vitória,Fluminense,0,3,Salvador,Brazil,4.0,0,19.3,26.8
 401841311,2026-11-14T21:30Z,Mirassol,Atlético-MG,0,0,Mirassol,Brazil,567.0,1.3,6.7,31.2
 401841175,2026-11-14T23:30Z,Chapecoense,Vasco da Gama,0,2,Chapecó,Brazil,668.0,0,3.6,21.7
+401841322,2026-11-21T19:30Z,Palmeiras,Flamengo,1,1,Sao Paulo,Brazil,769.0,1.9,11.4,25.6
+401841327,2026-11-21T20:30Z,Bahia,Coritiba,0,1,Salvador,Brazil,4.0,0.1,17.8,27.2

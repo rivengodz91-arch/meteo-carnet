@@ -655,3 +655,6 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401881753,2026-11-08T13:30Z,TSV Hartberg,SC Rheindorf Altach,3,0,Hartberg,Austria,396.0,0,8.1,8.8
 401881751,2026-11-08T13:30Z,WSG Swarovski Tirol,Austria Vienna,1,1,Innsbruck,Austria,570.0,0,0.2,12.1
 401881755,2026-11-08T16:00Z,SK Sturm Graz,RB Salzburg,3,4,Graz,Austria,362.0,0,4.9,4.4
+401881749,2026-11-21T16:00Z,LASK Linz,TSV Hartberg,2,1,Linz,Austria,266.0,0,11.9,5.7
+401881744,2026-11-21T16:00Z,WSG Swarovski Tirol,Austria Lustenau,0,1,Innsbruck,Austria,570.0,0,3.1,6.3
+401881746,2026-11-21T18:30Z,Grazer AK,Rapid Vienna,0,3,Graz,Austria,362.0,0,1.4,3.0
