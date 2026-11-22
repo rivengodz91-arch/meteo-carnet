@@ -1,16 +1,16 @@
 {
- "maj": "2026-11-21T05:36+00:00",
+ "maj": "2026-11-22T05:37+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
    "resultat": {
     "nouveaux": [
      {
-      "reseau": "L'Orange Bleue",
-      "titre": "L’Orange Bleue fait son retour à Saint-Brieuc avec l’ouverture d’une nouvelle salle de sport en décembre - Le Télégramme",
-      "source": "Le Télégramme",
-      "publie": "Fri, 20 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNFh6U1BXSHZrZjhMVUNUcHdGU0l3SUpid0Rva1ItQUlMUERZMDdaM19oN0FUeWRtMWk5ZFNnVzhxdzVvbDNoa2syQ3NQa3h0VEhzb3BueVo1aW1pVHJSSV84OGRMOURwLURFWXo1QWVaOHJQRnYyUzZjRF9saHI0eVRBb1lLZjFXOWZ2UEZiNlJMaU9FNFhGZkljS2VvQ3lKOFB5Tkt2Q0xlN21aenBCRWlCY1VRV2N1eFNnQnhLZTJrWVlEM3hKNWFGMmlIOVpPYzFaVW05MUI0U0hoTTNpYlVFSjdLMnVhRWN5TUdNekVNbVprbElseVhXS0haTUJJdWJKaw?oc=5"
+      "reseau": "Wefit",
+      "titre": "Questembert. Marie Blachère, Mangeons Frais, Optical Center, Wefit… et bientôt JMT s'installent dans la nouvelle zone commerciale - Les Infos du Pays Gallo",
+      "source": "Les Infos du Pays Gallo",
+      "publie": "Sat, 21 Nov 2026",
+      "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNkRydldEa3BoTldiaVFZSlFiSm5hUW9SNzFIT0VSTHJQNy1Ed2RFVHE1d21CZnJhTC1lM0VFVExnRWwzenNJczB3b01FRnJCd3VETnMtS1ppTUstNzk0eXZ6bWpVSWNnUHVwb2JSVFdaYS1fWnVsOWk2QTRaU3dWQkYtVk01aW5TX1pwVHc1b09wNXFFREVWT0ZyQWdqak9NTjVhcnExeWFmMVhHYmxhMml6MlRwYkF2TUpWeWMwS1E4elVkNkJBbmlwQjRoRUVKNEd4UUJ3UjRUcnNBM3Y3N3NmUXI5TnpqODRmQUp4M3U0cE1aNU1MOFJWTXgzNVdV?oc=5"
      }
     ],
     "requetes_ko": []
@@ -27,12 +27,12 @@
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-20",
-    "moy_7j": 114.7,
-    "moy_30j": 191.5,
+    "dernier_jour": "2026-11-22",
+    "moy_7j": 98.0,
+    "moy_30j": 189.2,
     "moy_365j": 94.4,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 71,
+    "rang_7j_sur_an_pct": 60,
     "alerte_deja_envoyee_le": "2026-11-18",
     "alerte": null
    }
