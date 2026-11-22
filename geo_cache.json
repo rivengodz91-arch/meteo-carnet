@@ -1,5 +1,9 @@
 {
 "Aalesunds|Norway": null,
+"Aberdeen|Scotland": [
+57.144,
+-2.098
+],
 "Agrinio|Greece": [
 38.621,
 21.408
@@ -28,6 +32,10 @@
 52.374,
 4.89
 ],
+"Angers|France": [
+47.472,
+-0.552
+],
 "Ankara|Türkiye": [
 39.92,
 32.854
@@ -43,6 +51,10 @@
 "Arezzo|Italy": [
 43.463,
 11.881
+],
+"Arouca|Portugal": [
+40.931,
+-8.245
 ],
 "Ascoli Piceno|Italy": [
 42.854,
@@ -119,6 +131,10 @@
 "Birmingham|England": [
 52.481,
 -1.9
+],
+"Blackburn|England": [
+53.75,
+-2.483
 ],
 "Bobigny|France": [
 48.91,
@@ -245,6 +261,14 @@
 -27.096,
 -52.618
 ],
+"Charlotte, North Carolina|USA": [
+35.227,
+-80.843
+],
+"Chester, Pennsylvania|USA": [
+53.191,
+-2.892
+],
 "Chiavari|Italy": [
 44.318,
 9.322
@@ -253,9 +277,17 @@
 35.6,
 140.117
 ],
+"Cincinnati, Ohio|USA": [
+39.127,
+-84.514
+],
 "Ciudad Juárez|Mexico": [
 31.72,
 -106.461
+],
+"Cologne|Germany": [
+50.933,
+6.95
 ],
 "Columbus, Ohio|USA": [
 39.961,
@@ -289,6 +321,10 @@
 35.205,
 24.903
 ],
+"Cuenca|Ecuador": [
+-2.895,
+-78.996
+],
 "Curitiba|Brazil": [
 -25.428,
 -49.273
@@ -309,6 +345,10 @@
 49.872,
 8.65
 ],
+"Derby|England": [
+52.923,
+-1.477
+],
 "Deventer|Netherlands": [
 52.255,
 6.164
@@ -316,6 +356,10 @@
 "Diyarbakir|Türkiye": [
 37.914,
 40.217
+],
+"Dresden|Germany": [
+51.051,
+13.738
 ],
 "Dundee|Scotland": [
 56.469,
@@ -329,9 +373,17 @@
 43.185,
 -2.472
 ],
+"Eindhoven|Netherlands": [
+51.441,
+5.478
+],
 "El Salvador|Chile": [
 13.833,
 -88.917
+],
+"Elche|Spain": [
+38.262,
+-0.701
 ],
 "Elda|Spain": [
 38.478,
@@ -377,9 +429,17 @@
 47.996,
 7.852
 ],
+"Frosinone|Italy": [
+41.64,
+13.341
+],
 "Funchal|Portugal": [
 32.666,
 -16.925
+],
+"Gaziantep|Türkiye": [
+37.059,
+37.383
 ],
 "Gelsenkirchen|Germany": [
 51.505,
@@ -429,6 +489,10 @@
 20.677,
 -103.347
 ],
+"Guimarães|Portugal": [
+41.444,
+-8.296
+],
 "Guingamp|France": [
 48.563,
 -3.153
@@ -463,6 +527,10 @@
 55.861,
 9.85
 ],
+"Houston, Texas|USA": [
+29.763,
+-95.363
+],
 "Hull|England": [
 53.745,
 -0.335
@@ -470,6 +538,10 @@
 "Innsbruck|Austria": [
 47.263,
 11.395
+],
+"Ipswich|England": [
+52.059,
+1.155
 ],
 "Istanbul|Türkiye": [
 41.014,
@@ -503,6 +575,10 @@
 35.521,
 139.717
 ],
+"Kiel|Germany": [
+54.321,
+10.135
+],
 "Kilmarnock|Scotland": [
 55.612,
 -4.496
@@ -535,9 +611,29 @@
 -34.921,
 -57.954
 ],
+"Las Palmas de Gran Canaria|Spain": [
+28.102,
+-15.416
+],
 "Laval|France": [
 48.072,
 -0.77
+],
+"Le Havre|France": [
+49.493,
+0.108
+],
+"Le Mans|France": [
+48.002,
+0.203
+],
+"Leeds|England": [
+53.796,
+-1.548
+],
+"Leeuwarden|Netherlands": [
+53.203,
+5.81
 ],
 "Leganés, Madrid|Spain": [
 40.327,
@@ -592,6 +688,14 @@
 47.748,
 -3.372
 ],
+"Los Angeles, California|USA": [
+34.052,
+-118.244
+],
+"Lustenau|Austria": [
+47.426,
+9.659
+],
 "Lyon|France": [
 45.749,
 4.848
@@ -603,6 +707,14 @@
 "Madrid|Spain": [
 40.416,
 -3.703
+],
+"Mainz|Germany": [
+49.982,
+8.28
+],
+"Malaga|Spain": [
+36.72,
+-4.42
 ],
 "Manchester|England": [
 53.481,
@@ -675,6 +787,10 @@
 "Monza|Italy": [
 45.58,
 9.272
+],
+"Moreira de Conegos|Portugal": [
+41.387,
+-8.339
 ],
 "Motherwell|Scotland": [
 -33.794,
@@ -764,9 +880,17 @@
 20.117,
 -98.733
 ],
+"Paderborn|Germany": [
+51.719,
+8.754
+],
 "Padova|Italy": [
 44.382,
 11.143
+],
+"Paisley|Scotland": [
+55.832,
+-4.433
 ],
 "Palermo|Italy": [
 38.117,
@@ -804,6 +928,10 @@
 49.675,
 13.275
 ],
+"Portland, Oregon|USA": [
+45.523,
+-122.676
+],
 "Porto Alegre|Brazil": [
 -30.033,
 -51.23
@@ -815,6 +943,10 @@
 "Prague|Czechia": [
 50.088,
 14.421
+],
+"Preston|England": [
+53.763,
+-2.705
 ],
 "Puebla|Mexico": [
 19.048,
@@ -888,6 +1020,10 @@
 47.799,
 13.044
 ],
+"Samsun|Türkiye": [
+41.28,
+36.336
+],
 "San Jose, California|USA": [
 37.339,
 -121.895
@@ -940,6 +1076,7 @@
 53.383,
 -1.466
 ],
+"Shimzu|Japan": null,
 "Sinsheim|Germany": [
 49.253,
 8.879
@@ -975,6 +1112,10 @@
 "Strasbourg|France": [
 48.584,
 7.746
+],
+"Stuttgart|Germany": [
+48.782,
+9.177
 ],
 "Sunderland|England": [
 54.905,
@@ -1037,6 +1178,10 @@
 69.649,
 18.955
 ],
+"Trondheim|Norway": [
+63.43,
+10.395
+],
 "Uppsala|Sweden": [
 59.859,
 17.639
@@ -1081,9 +1226,17 @@
 -25.507,
 -57.566
 ],
+"Viseu|Portugal": [
+40.662,
+-7.909
+],
 "Vitoria-Gasteiz|Spain": [
 42.85,
 -2.673
+],
+"Volos|Greece": [
+39.369,
+22.948
 ],
 "Watford|England": [
 51.655,
@@ -1092,6 +1245,10 @@
 "Wellington|New Zealand": [
 -41.287,
 174.776
+],
+"West Bromwich|England": [
+52.519,
+-1.994
 ],
 "Wien|Austria": [
 48.508,
@@ -1108,6 +1265,10 @@
 "Wolverhampton|England": [
 52.585,
 -2.123
+],
+"Wrexham|Wales": [
+53.047,
+-2.991
 ],
 "Yopal|Colombia": [
 5.336,
