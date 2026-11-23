@@ -842,3 +842,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401843483,2026-11-21T13:00Z,Tromso,Viking FK,3,2,Tromsø,Norway,-9999.0,0.1,7.8,-2.2
 401843489,2026-11-21T15:00Z,Hamarkameratene,Fredrikstad,0,0,Hamar,Norway,137.0,0,10.7,2.0
 401843485,2026-11-21T17:00Z,Vålerenga,IK Start,1,2,Oslo,Norway,26.0,0,13.0,1.6
+401843490,2026-11-22T16:00Z,Aalesund,Rosenborg,2,2,Aalesunds,Norway,,,,
+401843487,2026-11-22T16:00Z,Kristiansund BK,Sandefjord,2,2,Kristiansund,Norway,1.0,0.1,4.8,-0.0
+401843488,2026-11-22T18:00Z,KFUM Oslo,SK Brann,3,4,Oslo,Norway,26.0,0,14.9,-0.5
+401843484,2026-11-22T18:15Z,Sarpsborg FK,Lillestrom,0,2,Sarpsborg,Norway,54.0,0,16.7,-0.2

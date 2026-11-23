@@ -1362,3 +1362,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401841175,2026-11-14T23:30Z,Chapecoense,Vasco da Gama,0,2,Chapecó,Brazil,668.0,0,3.6,21.7
 401841322,2026-11-21T19:30Z,Palmeiras,Flamengo,1,1,Sao Paulo,Brazil,769.0,1.9,11.4,25.6
 401841327,2026-11-21T20:30Z,Bahia,Coritiba,0,1,Salvador,Brazil,4.0,0.1,17.8,27.2
+401841318,2026-11-22T19:00Z,Athletico-PR,Remo,4,2,Curitiba,Brazil,924.0,2.8,11.7,21.8
+401841324,2026-11-22T21:30Z,Fluminense,Mirassol,1,0,Rio de Janeiro,Brazil,12.0,0.4,5.0,27.7

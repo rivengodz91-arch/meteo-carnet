@@ -836,3 +836,6 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401885054,2026-11-21T12:00Z,Hannover 96,SpVgg Greuther Fürth,2,1,Hannover,Germany,57.0,0.3,16.9,6.2
 401885056,2026-11-21T12:00Z,VfL Wolfsburg,Holstein Kiel,3,0,Wolfsburg,Germany,65.0,0,20.5,6.2
 401885055,2026-11-21T19:30Z,St. Pauli,VfL Bochum,2,0,Hamburg Norderstedt,Germany,,,,
+401885048,2026-11-22T12:30Z,Energie Cottbus,Hertha Berlin,0,4,Cottbus,Germany,80.0,0,10.2,5.1
+401885052,2026-11-22T12:30Z,Kaiserslautern,Dynamo Dresden,2,2,Kaiserslautern,Germany,240.0,0,12.5,3.8
+401885050,2026-11-22T12:30Z,Karlsruher SC,VfL Osnabruck,0,0,Karlsruhe,Germany,118.0,0,12.6,5.5

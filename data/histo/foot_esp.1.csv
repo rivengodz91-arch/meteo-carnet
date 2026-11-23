@@ -1263,3 +1263,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401882799,2026-11-21T15:15Z,Rayo Vallecano,Valencia,0,1,Madrid,Spain,665.0,0,0.5,12.6
 401882797,2026-11-21T17:30Z,Sevilla,Real Betis,1,1,Sevilla,Spain,16.0,0,13.7,18.8
 401882798,2026-11-21T20:00Z,Real Madrid,Celta Vigo,2,1,Madrid,Spain,665.0,0.7,4.4,11.1
+401882804,2026-11-22T13:00Z,Barcelona,Villarreal,3,2,Barcelona,Spain,15.0,0,22.8,18.4
+401882800,2026-11-22T15:15Z,Racing Santander,Real Sociedad,3,2,Santander,Spain,1.0,0,21.6,15.1
+401882801,2026-11-22T17:30Z,Osasuna,Málaga,1,0,Pamplona,Spain,460.0,0,7.9,9.3
+401882803,2026-11-22T20:00Z,Getafe,Atlético Madrid,0,3,Getafe,Spain,623.0,0,9.3,8.6

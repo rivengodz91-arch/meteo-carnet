@@ -1005,3 +1005,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401884734,2026-11-21T14:30Z,Eintracht Frankfurt,TSG Hoffenheim,1,0,Frankfurt,Germany,113.0,0,8.7,7.0
 401884728,2026-11-21T14:30Z,SV Elversberg,SC Freiburg,0,1,Spiesen-Elversberg,Germany,353.0,0,2.8,7.2
 401884729,2026-11-21T17:30Z,Schalke 04,VfB Stuttgart,0,0,Gelsenkirchen,Germany,48.0,0,10.4,4.9
+401884733,2026-11-22T14:30Z,FC Augsburg,Mainz,3,1,Augsburg,Germany,489.0,0,10.9,3.6
+401884730,2026-11-22T16:30Z,Werder Bremen,Hamburg SV,4,0,Bremen,Germany,17.0,0,9.7,1.7

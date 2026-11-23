@@ -965,3 +965,6 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401921320,2026-11-20T17:00Z,Independiente del Valle,Macará,0,1,Quito,Ecuador,2854.0,1.0,8.3,17.6
 401921364,2026-11-21T19:00Z,Técnico Universitario,Deportivo Cuenca,2,0,Ambato,Ecuador,2597.0,0.3,9.9,21.3
 401921326,2026-11-21T21:30Z,Universidad Católica (Quito),Barcelona SC,0,1,Quito,Ecuador,2854.0,0.8,6.5,16.5
+401921363,2026-11-22T16:30Z,Manta F.C.,Delfín,2,2,Manta,Ecuador,3.0,0.4,5.2,28.0
+401921333,2026-11-22T19:00Z,Orense,Mushuc Runa,2,3,Machala,Ecuador,16.0,0.8,8.2,29.5
+401921327,2026-11-22T21:30Z,Liga de Quito,Aucas,0,1,Quito,Ecuador,2854.0,6.3,3.9,15.3

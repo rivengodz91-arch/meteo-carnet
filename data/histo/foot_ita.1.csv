@@ -1252,3 +1252,8 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401874981,2026-11-21T14:00Z,Lazio,Lecce,3,0,Roma,Italy,576.0,0,11.9,10.0
 401874967,2026-11-21T17:00Z,Parma,AS Roma,1,5,Parma,Italy,57.0,0,4.7,9.0
 401875067,2026-11-21T19:45Z,Napoli,Torino,1,0,Napoli,Italy,58.0,0.2,4.1,13.7
+401875008,2026-11-22T11:30Z,Juventus,Venezia,4,0,Torino,Italy,239.0,0.4,2.5,8.3
+401875047,2026-11-22T14:00Z,Bologna,Udinese,1,1,Bologna,Italy,54.0,4.7,11.8,8.4
+401874960,2026-11-22T14:00Z,Sassuolo,Genoa,0,2,Reggio Emilia,Italy,58.0,7.9,10.5,7.3
+401874989,2026-11-22T17:00Z,AC Milan,Frosinone,5,1,Milano,Italy,635.0,2.8,17.9,11.4
+401875001,2026-11-22T19:45Z,Atalanta,Internazionale,4,4,Bergamo,Italy,249.0,0,7.6,6.6

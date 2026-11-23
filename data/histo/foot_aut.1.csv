@@ -658,3 +658,6 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401881749,2026-11-21T16:00Z,LASK Linz,TSV Hartberg,2,1,Linz,Austria,266.0,0,11.9,5.7
 401881744,2026-11-21T16:00Z,WSG Swarovski Tirol,Austria Lustenau,0,1,Innsbruck,Austria,570.0,0,3.1,6.3
 401881746,2026-11-21T18:30Z,Grazer AK,Rapid Vienna,0,3,Graz,Austria,362.0,0,1.4,3.0
+401881745,2026-11-22T13:30Z,SC Rheindorf Altach,SK Sturm Graz,1,0,Altach,Austria,413.0,1.9,3.5,4.8
+401881748,2026-11-22T13:30Z,Wolfsberger,SV Josko Ried,1,2,Wolfsberg,Austria,461.0,0.5,0.7,5.3
+401881747,2026-11-22T16:00Z,Austria Vienna,RB Salzburg,1,0,Wien,Austria,876.0,0,11.5,-1.8

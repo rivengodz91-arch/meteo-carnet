@@ -663,3 +663,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401874562,2026-11-08T15:00Z,Randers FC,FC Nordsjælland,1,6,Randers,Denmark,12.0,0,6.4,6.0
 401874556,2026-11-08T17:00Z,FC Midtjylland,Sønderjyske Fodbold,2,2,Herning,Denmark,60.0,0,9.8,6.1
 401874492,2026-11-20T18:00Z,AGF,Lyngby Boldklub,2,1,Risskov,Denmark,3.0,0,11.4,-0.8
+401874575,2026-11-22T13:00Z,AC Horsens,Silkeborg IF,3,1,Horsens,Denmark,4.0,0,14.8,3.3
+401874558,2026-11-22T13:00Z,Viborg FF,Randers FC,0,0,Viborg,Denmark,50.0,0,13.7,3.8
+401874541,2026-11-22T15:00Z,Sønderjyske Fodbold,Odense Boldklub,1,2,Haderslev,Denmark,13.0,0,16.6,2.6
+401874493,2026-11-22T17:00Z,FC Nordsjælland,F.C. København,5,0,Farum,Denmark,33.0,0,12.6,0.7

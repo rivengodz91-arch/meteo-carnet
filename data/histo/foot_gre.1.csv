@@ -781,3 +781,8 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401896729,2026-11-08T16:30Z,OFI Crete,Atromitos,0,0,Crete,Greece,1585.0,0,6.8,2.1
 401896730,2026-11-08T19:00Z,Olympiacos,PAOK,1,1,Piraeus,Greece,29.0,0,4.5,10.3
 401896810,2026-11-21T17:30Z,Kalamata,AEK Athens,0,1,Athens,Greece,70.0,0,5.2,17.0
+401896727,2026-11-22T14:00Z,Levadiakos,Atromitos,1,1,Levadia,Greece,,,,
+401896725,2026-11-22T15:00Z,Panetolikos,Volos NFC,1,0,Agrinio,Greece,66.0,0,2.1,16.3
+401896726,2026-11-22T15:30Z,Panathinaikos,OFI Crete,2,0,Athens,Greece,70.0,0,5.1,17.7
+401896809,2026-11-22T17:00Z,Olympiacos,Iraklis,6,2,Piraeus,Greece,29.0,0,11.5,18.3
+401896724,2026-11-22T17:30Z,PAOK,Kifisia,4,0,Thessaloniki,Greece,-9999.0,0,10.1,14.5

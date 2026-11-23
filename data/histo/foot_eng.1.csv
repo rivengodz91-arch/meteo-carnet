@@ -1246,3 +1246,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401879235,2026-11-21T15:00Z,Coventry City,Crystal Palace,3,2,Coventry,England,89.0,0,9.4,7.1
 401878754,2026-11-21T15:00Z,Tottenham Hotspur,Ipswich Town,2,0,London,England,25.0,0,7.5,8.6
 401879232,2026-11-21T17:30Z,Newcastle United,Arsenal,2,2,Newcastle-upon-Tyne,England,54.0,0,0.9,0.5
+401879234,2026-11-22T14:00Z,Hull City,Brighton & Hove Albion,2,0,Hull,England,8.0,0,12.0,8.0
+401878755,2026-11-22T16:30Z,Liverpool,Manchester United,4,0,Liverpool,England,30.0,0,10.3,6.3
