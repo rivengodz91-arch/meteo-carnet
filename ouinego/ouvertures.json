@@ -1,3 +1,45 @@
 {
- "nouveaux": []
+ "nouveaux": [
+  {
+   "reseau": "Boulangerie Ange",
+   "lien": "https://www.boulangerie-ange.fr/stores/boulangerie-ange-saint-egreve/",
+   "adresse": "non lue sur la page, à vérifier",
+   "date": "2026-11-23"
+  },
+  {
+   "reseau": "Tutti Pizza",
+   "lien": "https://www.tutti-pizza.com/pizzerias/31600-tutti-pizza-muret/",
+   "cp": "31600",
+   "ville": "Muret",
+   "date": "2026-11-23"
+  },
+  {
+   "reseau": "Fitness Park",
+   "lien": "https://www.fitnesspark.fr/club/toulouse-roseraie/",
+   "cp": "31000",
+   "ville": "Toulouse",
+   "date": "2026-11-23"
+  },
+  {
+   "reseau": "Keep Cool",
+   "lien": "https://www.keepcool.fr/clubs/salle-de-sport-nort-sur-erdre",
+   "cp": "44390",
+   "ville": "Les Touches",
+   "date": "2026-11-23"
+  },
+  {
+   "reseau": "L'Orange Bleue",
+   "lien": "https://www.lorangebleue.fr/clubs/les-herbiers/",
+   "cp": "85500",
+   "ville": "LES HERBIERS",
+   "date": "2026-11-23"
+  },
+  {
+   "reseau": "L'Orange Bleue",
+   "lien": "https://www.lorangebleue.fr/clubs/saint-andre-de-leure/",
+   "cp": "27220",
+   "ville": "SAINT ANDRE DE L'EURE",
+   "date": "2026-11-23"
+  }
+ ]
 }

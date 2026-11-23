@@ -1,16 +1,116 @@
 {
- "maj": "2026-11-22T05:37+00:00",
+ "maj": "2026-11-23T05:45+00:00",
  "robots": {
+  "ouvertures": {
+   "statut": "ok",
+   "resultat": {
+    "reseaux": {
+     "Boulangerie Ange": {
+      "statut": "ok",
+      "magasins": 326,
+      "nouveaux": 1,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     },
+     "Biocoop": {
+      "statut": "ok",
+      "magasins": 724,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     },
+     "5àSec": {
+      "statut": "ok",
+      "magasins": 197,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     },
+     "Tutti Pizza": {
+      "statut": "ok",
+      "magasins": 74,
+      "nouveaux": 1,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 1
+     },
+     "Moustache Glaces": {
+      "statut": "ok",
+      "magasins": 51,
+      "nouveaux": 0,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     },
+     "Fitness Park": {
+      "statut": "ok",
+      "magasins": 861,
+      "nouveaux": 1,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 1
+     },
+     "Keep Cool": {
+      "statut": "ok",
+      "magasins": 246,
+      "nouveaux": 1,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     },
+     "L'Orange Bleue": {
+      "statut": "ok",
+      "magasins": 404,
+      "nouveaux": 2,
+      "pages_sans_magasin_ignorees": 0,
+      "disparus": 0
+     }
+    },
+    "nouveaux": [
+     {
+      "reseau": "Boulangerie Ange",
+      "lien": "https://www.boulangerie-ange.fr/stores/boulangerie-ange-saint-egreve/",
+      "adresse": "non lue sur la page, à vérifier"
+     },
+     {
+      "reseau": "Tutti Pizza",
+      "lien": "https://www.tutti-pizza.com/pizzerias/31600-tutti-pizza-muret/",
+      "cp": "31600",
+      "ville": "Muret"
+     },
+     {
+      "reseau": "Fitness Park",
+      "lien": "https://www.fitnesspark.fr/club/toulouse-roseraie/",
+      "cp": "31000",
+      "ville": "Toulouse"
+     },
+     {
+      "reseau": "Keep Cool",
+      "lien": "https://www.keepcool.fr/clubs/salle-de-sport-nort-sur-erdre",
+      "cp": "44390",
+      "ville": "Les Touches"
+     },
+     {
+      "reseau": "L'Orange Bleue",
+      "lien": "https://www.lorangebleue.fr/clubs/les-herbiers/",
+      "cp": "85500",
+      "ville": "LES HERBIERS"
+     },
+     {
+      "reseau": "L'Orange Bleue",
+      "lien": "https://www.lorangebleue.fr/clubs/saint-andre-de-leure/",
+      "cp": "27220",
+      "ville": "SAINT ANDRE DE L'EURE"
+     }
+    ]
+   }
+  },
   "presse": {
    "statut": "ok",
    "resultat": {
     "nouveaux": [
      {
-      "reseau": "Wefit",
-      "titre": "Questembert. Marie Blachère, Mangeons Frais, Optical Center, Wefit… et bientôt JMT s'installent dans la nouvelle zone commerciale - Les Infos du Pays Gallo",
-      "source": "Les Infos du Pays Gallo",
-      "publie": "Sat, 21 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNkRydldEa3BoTldiaVFZSlFiSm5hUW9SNzFIT0VSTHJQNy1Ed2RFVHE1d21CZnJhTC1lM0VFVExnRWwzenNJczB3b01FRnJCd3VETnMtS1ppTUstNzk0eXZ6bWpVSWNnUHVwb2JSVFdaYS1fWnVsOWk2QTRaU3dWQkYtVk01aW5TX1pwVHc1b09wNXFFREVWT0ZyQWdqak9NTjVhcnExeWFmMVhHYmxhMml6MlRwYkF2TUpWeWMwS1E4elVkNkJBbmlwQjRoRUVKNEd4UUJ3UjRUcnNBM3Y3N3NmUXI5TnpqODRmQUp4M3U0cE1aNU1MOFJWTXgzNVdV?oc=5"
+      "reseau": "Keep Cool",
+      "titre": "Une salle de sport Keep Cool ouvre aujourd'hiu à Anse - mesinfos",
+      "source": "mesinfos",
+      "publie": "Mon, 23 Nov 2026",
+      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGhhR2pobHJDQWNRMS1ReURqY3A4Vk5MWW9vZHJSczVkaEZYdU5wUUpmS3hqekZTYWpNNFpIWVE4MDhMSUFSTURYMEEyQnI3Z0hPV0hlX1NlUnJ4bFU2T3dfM0MyWnRlOTNMWGxqazR5SzBsdXk4ZVlveXJPUEREc2NobjQzZzBObUJzMXM5NjdqZFpEZjVUdE5sYnE?oc=5"
      }
     ],
     "requetes_ko": []
@@ -19,20 +119,52 @@
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [],
-    "fournisseurs_suivis": 1323
+    "alertes": [
+     {
+      "source": "Presse",
+      "date": "2026-11-23",
+      "fournisseur": "",
+      "quoi": "Le réseau immobilier Keller Williams désormais placé en redressement judiciaire - l'Informé",
+      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2JyN0FLUzQ3RnMyU0RsYTA5X19NVkRrNUxWZ0tVSFJaVkdNOGhjOVo1ZEg4My04QlVCLTNnOUZoT21KMXR3c0wyVjA1MkVaeUJ2cDRMclNBOHhiOG56V1puWEQ5XzBKR0xnWDB4MHZ1OGp2Rk5VOTFlLXRiWlZKODZlTnJUYUgzRDBBSkxsbzNwRGxIMVppaWFoQ3pZNG5pVDM3a05scFBmdWRNb0h5VUJOeGdZeUprSjdhZzVFUVJPZUNxYmpfQjIzV0EyUnc?oc=5"
+     },
+     {
+      "source": "Registre",
+      "date": "2026-11-23",
+      "fournisseur": "MARTIN PERE-LAHAILLE",
+      "siren": "839652096",
+      "quoi": "société cessée (radiée du registre)",
+      "lien": "https://annuaire-entreprises.data.gouv.fr/entreprise/839652096"
+     },
+     {
+      "source": "Registre",
+      "date": "2026-11-23",
+      "fournisseur": "ENERGIA MANAGEMENT GROUPE",
+      "siren": "932129356",
+      "quoi": "société cessée (radiée du registre)",
+      "lien": "https://annuaire-entreprises.data.gouv.fr/entreprise/932129356"
+     },
+     {
+      "source": "Registre",
+      "date": "2026-11-23",
+      "fournisseur": "CITYVOLT",
+      "siren": "848557856",
+      "quoi": "société cessée (radiée du registre)",
+      "lien": "https://annuaire-entreprises.data.gouv.fr/entreprise/848557856"
+     }
+    ],
+    "fournisseurs_suivis": 1475
    }
   },
   "prix": {
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-22",
-    "moy_7j": 98.0,
-    "moy_30j": 189.2,
-    "moy_365j": 94.4,
+    "dernier_jour": "2026-11-23",
+    "moy_7j": 119.2,
+    "moy_30j": 195.3,
+    "moy_365j": 94.8,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 60,
+    "rang_7j_sur_an_pct": 73,
     "alerte_deja_envoyee_le": "2026-11-18",
     "alerte": null
    }
