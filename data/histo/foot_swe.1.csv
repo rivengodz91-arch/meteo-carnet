@@ -851,3 +851,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401842887,2026-11-22T13:00Z,BK Häcken,IF Elfsborg,2,1,Gothenburg,Sweden,10.0,0,16.0,1.9
 401842885,2026-11-22T13:00Z,IK Sirius,Djurgården,1,0,Uppsala,Sweden,20.0,0.6,28.6,0.5
 401842883,2026-11-22T15:30Z,IF Brommapojkarna,Halmstads BK,0,3,Stockholm,Sweden,17.0,0.6,25.1,0.8
+401842888,2026-11-23T18:00Z,Hammarby IF,IFK Göteborg,3,1,Stockholm,Sweden,17.0,0,20.3,1.5
+401842884,2026-11-23T18:00Z,Örgryte IS,Kalmar FF,3,2,Göteborg,Sweden,23.0,0,13.8,-1.8

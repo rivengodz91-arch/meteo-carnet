@@ -1257,3 +1257,4 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401874960,2026-11-22T14:00Z,Sassuolo,Genoa,0,2,Reggio Emilia,Italy,58.0,7.9,10.5,7.3
 401874989,2026-11-22T17:00Z,AC Milan,Frosinone,5,1,Milano,Italy,635.0,2.8,17.9,11.4
 401875001,2026-11-22T19:45Z,Atalanta,Internazionale,4,4,Bergamo,Italy,249.0,0,7.6,6.6
+401875009,2026-11-23T19:45Z,Monza,Fiorentina,3,0,Monza,Italy,162.0,0,10.5,7.9

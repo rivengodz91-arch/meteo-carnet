@@ -1106,3 +1106,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401876685,2026-11-20T19:00Z,Red Star FC 93,Pau,2,1,"Saint-Ouen, Paris",France,35.0,0,11.2,8.7
 401876689,2026-11-21T13:00Z,Stade Laval,Montpellier,1,0,Laval,France,54.0,0,17.2,11.0
 401876684,2026-11-21T19:00Z,Stade de Reims,Saint-Étienne,0,1,Reims,France,88.0,0,10.6,7.0
+401876686,2026-11-23T19:45Z,Nantes,Grenoble,1,0,Nantes,France,19.0,0,2.7,8.2
+401876683,2026-11-23T19:45Z,Sochaux,Dunkerque,2,3,Montbéliard,France,327.0,0.2,12.3,1.3
