@@ -245,6 +245,10 @@
 53.8,
 -2.233
 ],
+"Cagliari|Italy": [
+39.231,
+9.119
+],
 "Cali|Colombia": [
 3.431,
 -76.52
@@ -533,6 +537,10 @@
 20.677,
 -103.347
 ],
+"Guadalupe|Mexico": [
+25.677,
+-100.259
+],
 "Guimarães|Portugal": [
 41.444,
 -8.296
@@ -591,6 +599,14 @@
 "Istanbul|Türkiye": [
 41.014,
 28.95
+],
+"Itagua|Paraguay": [
+-22.852,
+-43.775
+],
+"Izmir|Türkiye": [
+38.413,
+27.138
 ],
 "Jablonec|Czechia": [
 50.606,
@@ -688,6 +704,10 @@
 48.002,
 0.203
 ],
+"Lecce|Italy": [
+40.355,
+18.172
+],
 "Leeds|England": [
 53.796,
 -1.548
@@ -720,6 +740,11 @@
 "Leverkusen|Germany": [
 51.03,
 6.984
+],
+"León de los Aldamas|Mexico": null,
+"Lillestrøm|Norway": [
+59.956,
+11.049
 ],
 "Lille|France": [
 50.634,
@@ -929,6 +954,10 @@
 49.454,
 11.078
 ],
+"Odense|Denmark": [
+55.396,
+10.388
+],
 "Okayama|Japan": [
 34.65,
 133.933
@@ -1061,6 +1090,10 @@
 47.997,
 12.966
 ],
+"Rio Maior|Portugal": [
+39.337,
+-8.939
+],
 "Rio de Janeiro|Brazil": [
 -22.906,
 -43.182
@@ -1112,6 +1145,10 @@
 "San Jose, California|USA": [
 37.339,
 -121.895
+],
+"San Lorenzo|Paraguay": [
+-25.34,
+-57.509
 ],
 "San Nicolás de los Garza|Mexico": [
 25.742,
@@ -1257,6 +1294,10 @@
 "Tokyo|Japan": [
 35.69,
 139.692
+],
+"Toluca|Mexico": [
+19.288,
+-99.653
 ],
 "Torino|Italy": [
 45.07,
