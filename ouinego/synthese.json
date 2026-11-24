@@ -224,11 +224,22 @@
      "lien": "https://annuaire-entreprises.data.gouv.fr/entreprise/848557856"
     }
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "presse": [
+    {
+     "reseau": "Keep Cool",
+     "titre": "Une salle de sport Keep Cool ouvre aujourd'hui à Anse - mesinfos",
+     "source": "mesinfos",
+     "publie": "Mon, 23 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGhhR2pobHJDQWNRMS1ReURqY3A4Vk5MWW9vZHJSczVkaEZYdU5wUUpmS3hqekZTYWpNNFpIWVE4MDhMSUFSTURYMEEyQnI3Z0hPV0hlX1NlUnJ4bFU2T3dfM0MyWnRlOTNMWGxqazR5SzBsdXk4ZVlveXJPUEREc2NobjQzZzBObUJzMXM5NjdqZFpEZjVUdE5sYnE?oc=5"
+    }
+   ]
   }
  ],
- "maj": "2026-11-23T05:45+00:00",
+ "maj": "2026-11-24T05:38+00:00",
  "etat": {
-  "ouvertures": "ok",
   "presse": "ok",
   "fournisseurs": "ok",
   "prix": "ok"
