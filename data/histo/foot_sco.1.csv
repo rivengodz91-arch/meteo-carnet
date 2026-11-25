@@ -588,3 +588,5 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401878334,2026-11-21T15:00Z,Kilmarnock,Aberdeen,2,4,Kilmarnock,Scotland,39.0,0,12.5,4.4
 401878337,2026-11-21T17:45Z,Dundee,Heart of Midlothian,0,8,Dundee,Scotland,77.0,0,7.5,-0.2
 401878333,2026-11-21T20:00Z,Motherwell,Rangers,1,2,Motherwell,Scotland,87.0,0,7.2,17.3
+401878348,2026-11-24T19:45Z,Hibernian,Dundee,2,1,Edinburgh,Scotland,66.0,1.0,21.5,3.7
+401878345,2026-11-24T20:00Z,Rangers,Aberdeen,3,2,Glasgow,Scotland,40.0,3.1,9.8,4.8

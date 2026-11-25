@@ -1861,3 +1861,11 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401880150,2026-11-21T15:00Z,West Ham United,Preston North End,1,1,London,England,25.0,0,7.5,8.6
 401880149,2026-11-21T15:00Z,Wolverhampton Wanderers,Charlton Athletic,2,1,Wolverhampton,England,160.0,0,8.1,7.0
 401880159,2026-11-22T12:00Z,Burnley,Blackburn Rovers,2,2,Burnley,England,140.0,0,17.8,5.4
+401880148,2026-11-24T19:45Z,Bristol City,Wrexham,1,1,Bristol,England,21.0,0,18.4,7.4
+401880147,2026-11-24T19:45Z,Cardiff City,Preston North End,0,4,Cardiff,Wales,17.0,0,14.8,8.0
+401880146,2026-11-24T19:45Z,Charlton Athletic,Lincoln City,4,0,London,England,25.0,0,10.9,4.4
+401880145,2026-11-24T19:45Z,Middlesbrough,Swansea City,2,1,Middlesbrough,England,15.0,0,10.3,3.6
+401880144,2026-11-24T19:45Z,Norwich City,Queens Park Rangers,1,1,Norwich,England,19.0,0,17.7,5.6
+401880143,2026-11-24T19:45Z,Portsmouth,West Ham United,1,0,Portsmouth,England,6.0,0.2,20.3,8.1
+401880142,2026-11-24T19:45Z,Sheffield United,Southampton,1,1,Sheffield,England,75.0,0,12.8,4.3
+401880141,2026-11-24T20:00Z,Wolverhampton Wanderers,Derby County,3,0,Wolverhampton,England,160.0,0,14.5,5.1

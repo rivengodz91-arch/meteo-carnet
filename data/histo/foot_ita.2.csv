@@ -1289,3 +1289,9 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401899544,2026-11-21T18:30Z,Empoli,Pisa,0,1,Empoli,Italy,28.0,0.1,9.9,13.0
 401899547,2026-11-22T14:00Z,US Avellino,Mantova,4,1,Avellino,Italy,348.0,0.5,18.1,14.4
 401899549,2026-11-22T16:15Z,Arezzo,Padova,1,1,Arezzo,Italy,296.0,3.3,17.1,12.9
+401899536,2026-11-24T18:00Z,Juve Stabia,Catanzaro,1,3,Castellammare di Stabia,Italy,6.0,0,6.8,12.5
+401899539,2026-11-24T19:00Z,Benevento,Empoli,5,0,Benevento,Italy,135.0,0,0.7,9.0
+401899538,2026-11-24T19:00Z,Cesena,Ascoli,5,1,Cesena,Italy,44.0,0,1.8,8.1
+401899532,2026-11-24T19:00Z,Palermo,Sudtirol,4,1,Palermo,Italy,14.0,0,5.4,15.2
+401899535,2026-11-24T19:00Z,Vicenza,Carrarese,0,1,Vicenza,Italy,39.0,0.3,10.6,7.4
+401899530,2026-11-24T19:00Z,Virtus Entella,Hellas Verona,2,1,Chiavari,Italy,5.0,0.2,7.9,11.5

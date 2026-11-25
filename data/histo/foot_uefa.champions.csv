@@ -574,3 +574,12 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401915306,2026-11-04T20:00Z,RB Leipzig,Manchester City,2,3,Leipzig,Germany,116.0,0,13.7,5.1
 401915381,2026-11-04T20:00Z,Slavia Prague,Arsenal,1,2,Prague,Czechia,202.0,0,10.3,5.1
 401915302,2026-11-04T20:00Z,Viking FK,Sabah FK,4,1,Stavanger,Norway,15.0,0,12.4,7.3
+401915380,2026-11-24T17:45Z,Bodo/Glimt,LASK Linz,1,0,Bodø/Glimt,Norway,,,,
+401915300,2026-11-24T17:45Z,Galatasaray,Aston Villa,1,0,Istanbul,Türkiye,39.0,0,9.7,6.7
+401915295,2026-11-24T20:00Z,Arsenal,Borussia Dortmund,1,1,London,England,25.0,0,10.3,4.3
+401915296,2026-11-24T20:00Z,Como,AEK Athens,1,0,Como,Italy,201.0,0.8,5.6,7.6
+401915294,2026-11-24T20:00Z,Feyenoord Rotterdam,FC Porto,0,1,Rotterdam,Netherlands,9.0,0,14.0,1.0
+401915379,2026-11-24T20:00Z,Manchester City,Napoli,2,2,Manchester,England,51.0,0,10.1,5.7
+401915299,2026-11-24T20:00Z,RB Leipzig,Lens,3,1,Leipzig,Germany,116.0,0,8.5,-1.0
+401915298,2026-11-24T20:00Z,Real Madrid,PSV Eindhoven,5,1,Madrid,Spain,665.0,0,14.2,8.2
+401915297,2026-11-24T20:00Z,Slovan Bratislava,Real Betis,0,2,Bratislava,Slovakia,157.0,0,2.9,-2.3
