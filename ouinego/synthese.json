@@ -236,9 +236,13 @@
      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGhhR2pobHJDQWNRMS1ReURqY3A4Vk5MWW9vZHJSczVkaEZYdU5wUUpmS3hqekZTYWpNNFpIWVE4MDhMSUFSTURYMEEyQnI3Z0hPV0hlX1NlUnJ4bFU2T3dfM0MyWnRlOTNMWGxqazR5SzBsdXk4ZVlveXJPUEREc2NobjQzZzBObUJzMXM5NjdqZFpEZjVUdE5sYnE?oc=5"
     }
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "prix": "Prix spot en forte baisse : moyenne 7 jours 156 €/MWh, soit 26 % sous la moyenne 30 jours (210 €/MWh)."
   }
  ],
- "maj": "2026-11-24T05:38+00:00",
+ "maj": "2026-11-25T05:38+00:00",
  "etat": {
   "presse": "ok",
   "fournisseurs": "ok",

@@ -1,18 +1,10 @@
 {
- "maj": "2026-11-24T05:38+00:00",
+ "maj": "2026-11-25T05:38+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
    "resultat": {
-    "nouveaux": [
-     {
-      "reseau": "Keep Cool",
-      "titre": "Une salle de sport Keep Cool ouvre aujourd'hui à Anse - mesinfos",
-      "source": "mesinfos",
-      "publie": "Mon, 23 Nov 2026",
-      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGhhR2pobHJDQWNRMS1ReURqY3A4Vk5MWW9vZHJSczVkaEZYdU5wUUpmS3hqekZTYWpNNFpIWVE4MDhMSUFSTURYMEEyQnI3Z0hPV0hlX1NlUnJ4bFU2T3dfM0MyWnRlOTNMWGxqazR5SzBsdXk4ZVlveXJPUEREc2NobjQzZzBObUJzMXM5NjdqZFpEZjVUdE5sYnE?oc=5"
-     }
-    ],
+    "nouveaux": [],
     "requetes_ko": []
    }
   },
@@ -27,14 +19,13 @@
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-24",
-    "moy_7j": 127.9,
-    "moy_30j": 201.9,
-    "moy_365j": 95.3,
+    "dernier_jour": "2026-11-25",
+    "moy_7j": 155.7,
+    "moy_30j": 209.5,
+    "moy_365j": 95.8,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 76,
-    "alerte_deja_envoyee_le": "2026-11-18",
-    "alerte": null
+    "rang_7j_sur_an_pct": 84,
+    "alerte": "Prix spot en forte baisse : moyenne 7 jours 156 €/MWh, soit 26 % sous la moyenne 30 jours (210 €/MWh)."
    }
   }
  }
