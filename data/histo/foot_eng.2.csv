@@ -1869,3 +1869,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401880143,2026-11-24T19:45Z,Portsmouth,West Ham United,1,0,Portsmouth,England,6.0,0.2,20.3,8.1
 401880142,2026-11-24T19:45Z,Sheffield United,Southampton,1,1,Sheffield,England,75.0,0,12.8,4.3
 401880141,2026-11-24T20:00Z,Wolverhampton Wanderers,Derby County,3,0,Wolverhampton,England,160.0,0,14.5,5.1
+401880140,2026-11-25T19:45Z,Bolton Wanderers,West Bromwich Albion,1,3,Bolton,England,105.0,0,12.4,2.7
+401880139,2026-11-25T19:45Z,Burnley,Birmingham City,0,2,Burnley,England,140.0,0,17.0,2.6
+401880137,2026-11-25T19:45Z,Watford,Blackburn Rovers,0,1,Watford,England,77.0,0,13.2,4.4
+401880138,2026-11-25T20:00Z,Stoke City,Millwall,2,1,Stoke-on-Trent,England,114.0,0,14.4,3.7

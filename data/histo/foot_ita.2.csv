@@ -1295,3 +1295,7 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401899532,2026-11-24T19:00Z,Palermo,Sudtirol,4,1,Palermo,Italy,14.0,0,5.4,15.2
 401899535,2026-11-24T19:00Z,Vicenza,Carrarese,0,1,Vicenza,Italy,39.0,0.3,10.6,7.4
 401899530,2026-11-24T19:00Z,Virtus Entella,Hellas Verona,2,1,Chiavari,Italy,5.0,0.2,7.9,11.5
+401899537,2026-11-25T18:00Z,Cremonese,US Avellino,0,1,Cremona,Italy,45.0,0.5,2.3,7.7
+401899534,2026-11-25T19:00Z,Mantova,Arezzo,3,0,Mantova,Italy,209.0,0.4,10.5,6.8
+401899533,2026-11-25T19:00Z,Padova,Sampdoria,1,2,Padova,Italy,329.0,0,3.2,6.7
+401899531,2026-11-25T19:00Z,Pisa,Modena,1,1,Pisa,Italy,4.0,4.0,8.9,11.6
