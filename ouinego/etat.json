@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-25T05:38+00:00",
+ "maj": "2026-11-26T05:38+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
@@ -11,7 +11,15 @@
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [],
+    "alertes": [
+     {
+      "source": "Presse",
+      "date": "2026-11-26",
+      "fournisseur": "",
+      "quoi": "À l’approche de la Saint-Nicolas, ce magasin de jouets organise sa liquidation totale ce week-end avec -50 % sur tout - Sudinfo",
+      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGtWaU9hV0dqbkNGQW9vNXNDOVg3a1FWejVHeFZKa0s5UEFiNENwc1lfTmE0MmZOdm1vRFRvaC1jLVZqdmdTTUdCeWhtVWg1QWVCSU42VmF4dmpPWFQ2YjhRNGN0TE96XzY2M2plOXNndEJtZm9aZkVGVkVxY0MzMWdVaFFJQS1xcXFiNXI3TkYxR2NTQzAzOVlITkNiMkVSY1hHZk01OVdRbmdmRWt5c2lnX2xWV09welBTc2xBU1BNVU5u?oc=5"
+     }
+    ],
     "fournisseurs_suivis": 1475
    }
   },
@@ -19,13 +27,13 @@
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-25",
-    "moy_7j": 155.7,
-    "moy_30j": 209.5,
-    "moy_365j": 95.8,
+    "dernier_jour": "2026-11-26",
+    "moy_7j": 187.8,
+    "moy_30j": 214.0,
+    "moy_365j": 96.4,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 84,
-    "alerte": "Prix spot en forte baisse : moyenne 7 jours 156 €/MWh, soit 26 % sous la moyenne 30 jours (210 €/MWh)."
+    "rang_7j_sur_an_pct": 91,
+    "alerte": null
    }
   }
  }
