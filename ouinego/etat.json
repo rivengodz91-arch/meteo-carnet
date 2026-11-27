@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-26T05:38+00:00",
+ "maj": "2026-11-27T05:39+00:00",
  "robots": {
   "presse": {
    "statut": "ok",
@@ -11,28 +11,24 @@
   "fournisseurs": {
    "statut": "ok",
    "resultat": {
-    "alertes": [
-     {
-      "source": "Presse",
-      "date": "2026-11-26",
-      "fournisseur": "",
-      "quoi": "À l’approche de la Saint-Nicolas, ce magasin de jouets organise sa liquidation totale ce week-end avec -50 % sur tout - Sudinfo",
-      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGtWaU9hV0dqbkNGQW9vNXNDOVg3a1FWejVHeFZKa0s5UEFiNENwc1lfTmE0MmZOdm1vRFRvaC1jLVZqdmdTTUdCeWhtVWg1QWVCSU42VmF4dmpPWFQ2YjhRNGN0TE96XzY2M2plOXNndEJtZm9aZkVGVkVxY0MzMWdVaFFJQS1xcXFiNXI3TkYxR2NTQzAzOVlITkNiMkVSY1hHZk01OVdRbmdmRWt5c2lnX2xWV09welBTc2xBU1BNVU5u?oc=5"
-     }
-    ],
-    "fournisseurs_suivis": 1475
+    "alertes": [],
+    "fournisseurs_suivis": 1475,
+    "erreurs": [
+     "presse: HTTP Error 429: Too Many Requests",
+     "presse: HTTP Error 429: Too Many Requests"
+    ]
    }
   },
   "prix": {
    "statut": "ok",
    "resultat": {
     "source": "energy-charts.info (prix spot day-ahead France, moyenne journalière base)",
-    "dernier_jour": "2026-11-26",
-    "moy_7j": 187.8,
-    "moy_30j": 214.0,
-    "moy_365j": 96.4,
+    "dernier_jour": "2026-11-27",
+    "moy_7j": 222.0,
+    "moy_30j": 218.4,
+    "moy_365j": 96.9,
     "seuil_bas_20pct": 41.7,
-    "rang_7j_sur_an_pct": 91,
+    "rang_7j_sur_an_pct": 95,
     "alerte": null
    }
   }
