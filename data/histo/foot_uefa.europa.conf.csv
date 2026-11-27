@@ -500,3 +500,21 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401915819,2026-11-05T20:00Z,Panathinaikos,CSKA Sofia,2,1,Athens,Greece,70.0,0,2.4,11.4
 401915818,2026-11-05T20:00Z,Riga FC,Jablonec,1,1,Riga,Latvia,6.0,0.1,24.6,9.1
 401915820,2026-11-05T20:00Z,Sint-Truidense,SK Brann,1,1,Sint-Truiden,Belgium,54.0,0,7.7,5.0
+401915816,2026-11-26T15:30Z,Kairat Almaty,Mjällby AIF,1,0,Almaty,Kazakhstan,783.0,0,0.4,8.0
+401915815,2026-11-26T17:45Z,Ajax Amsterdam,FC Thun,4,0,Amsterdam,Netherlands,13.0,0,10.1,-1.4
+401915814,2026-11-26T17:45Z,Brighton & Hove Albion,Universitatea Craiova,4,0,Falmer,England,97.0,0,12.3,2.4
+401915810,2026-11-26T17:45Z,Egnatia,Lincoln Red Imps,2,1,Tirana,Albania,113.0,3.3,14.4,13.0
+401915811,2026-11-26T17:45Z,Heart of Midlothian,AS Monaco,2,3,Edinburgh,Scotland,66.0,0,14.8,3.1
+401915813,2026-11-26T17:45Z,Iberia 1999,Getafe,1,0,Tbilisi,Georgia,433.0,0,8.0,3.2
+401915812,2026-11-26T17:45Z,Jablonec,FC Lugano,2,0,Jablonec,Czechia,314.0,0,10.2,-2.0
+401915739,2026-11-26T17:45Z,Kauno Zalgiris,Riga FC,2,0,Kaunas,Lithuania,96.0,0,4.4,-0.2
+401915809,2026-11-26T17:45Z,Pafos,FC Midtjylland,0,2,Kolossi,Cyprus,54.0,0,1.4,15.5
+401915808,2026-11-26T17:45Z,SK Brann,AGF,1,4,Bergen,Norway,20.0,0,5.9,-4.5
+401915806,2026-11-26T20:00Z,Borac Banja Luka,Atalanta,2,3,Banja Luka,Bosnia and Herzegovina,151.0,0,4.1,2.6
+401915802,2026-11-26T20:00Z,Braga,KuPS Kuopio,4,0,Braga,Portugal,190.0,0.3,4.7,11.5
+401915803,2026-11-26T20:00Z,CSKA Sofia,Trabzonspor,1,2,Sofia,Bulgaria,562.0,0,11.2,2.8
+401915807,2026-11-26T20:00Z,FC Nordsjælland,Panathinaikos,3,2,Farum,Denmark,33.0,0,6.5,-3.5
+401915805,2026-11-26T20:00Z,Hajduk Split,Sint-Truidense,0,2,Split,Croatia,12.0,1.8,14.4,11.2
+401915738,2026-11-26T20:00Z,Inter D'Escaldes,F.C. København,2,0,Encamp,Andorra,1257.0,0,8.5,0.3
+401915804,2026-11-26T20:00Z,KAA Gent,Red Star Belgrade,1,1,Ghent,Belgium,10.0,0,8.5,-2.2
+401915801,2026-11-26T20:00Z,SC Freiburg,FC Twente,2,1,Freiburg im Breisgau,Germany,278.0,0,1.8,-0.6
