@@ -1007,3 +1007,4 @@ id,t,dom,ext,sd,se,ville,pays,alt,pluie_mm,vent_kmh,temp_c
 401884729,2026-11-21T17:30Z,Schalke 04,VfB Stuttgart,0,0,Gelsenkirchen,Germany,48.0,0,10.4,4.9
 401884733,2026-11-22T14:30Z,FC Augsburg,Mainz,3,1,Augsburg,Germany,489.0,0,10.9,3.6
 401884730,2026-11-22T16:30Z,Werder Bremen,Hamburg SV,4,0,Bremen,Germany,17.0,0,9.7,1.7
+401884720,2026-11-27T19:30Z,Werder Bremen,Borussia Mönchengladbach,3,3,Bremen,Germany,17.0,0,12.5,-0.4
