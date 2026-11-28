@@ -252,9 +252,39 @@
      "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGtWaU9hV0dqbkNGQW9vNXNDOVg3a1FWejVHeFZKa0s5UEFiNENwc1lfTmE0MmZOdm1vRFRvaC1jLVZqdmdTTUdCeWhtVWg1QWVCSU42VmF4dmpPWFQ2YjhRNGN0TE96XzY2M2plOXNndEJtZm9aZkVGVkVxY0MzMWdVaFFJQS1xcXFiNXI3TkYxR2NTQzAzOVlITkNiMkVSY1hHZk01OVdRbmdmRWt5c2lnX2xWV09welBTc2xBU1BNVU5u?oc=5"
     }
    ]
+  },
+  {
+   "date": "2026-11-28",
+   "presse": [
+    {
+     "reseau": "L'Orange Bleue",
+     "titre": "Riorges. La nouvelle salle de sport l’Orange Bleue a ouvert ses portes - Le Progrès",
+     "source": "Le Progrès",
+     "publie": "Fri, 27 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYWtSU09kYmJ3NFJJU2JsOWM0eGt5T1o4WDNmcmN6UjZVc2hVM2hjZXFtSWNCNy0yLXBUM1hHRWJBMmtQTS00eU5wMk1OZ3JRUEVHLWNETXdqOUFVZmtfZERoOTNNbUNFRHJOYU00cXg4b09GOW04R2IxaDVSNEc1LU9jdGNJUnhKLXhDcTluZHhEMmRFTHRzdVI1UERtaml6N0VqSWtB?oc=5"
+    },
+    {
+     "reseau": "Biocoop",
+     "titre": "Saint-Herblain. Biocoop Nantes Atlantis ouvre ses portes le 3 décembre - maville.com",
+     "source": "maville.com",
+     "publie": "Fri, 27 Nov 2026",
+     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXJqOE9EQmhCcGM1WVFSTWM3bTdCVHZyczBDeFRWbDMzQXNBR1dDcVgzcWZocVprNjg2dXZvejhhTWQ1QV9yTUhoQlk4cmgzdHFkQ1BkZzN2VHZ2Wk5tMGItWDZLWURUZUdRTTNxcmtwT1JMX2hWZC1TT29zNENtTWQ2VW9JU2pUalRqYUdfZkZiMHdQdVNsMnpQRy1EQllvR0g2dGszbGhSTXpYYWZfV2ZTTHBjR2NUZ2hMYXNCbzJrYzRSaFhMYVpjUDAyUQ?oc=5"
+    }
+   ],
+   "fournisseurs": [
+    {
+     "source": "BODACC",
+     "fournisseur_connu": false,
+     "date": "2026-11-27",
+     "fournisseur": "AGENCE FRANCAISE DE L'ENERGIE (AFDE)",
+     "siren": "908320203",
+     "quoi": "Jugement de clôture pour insuffisance d'actif",
+     "lien": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202602283811"
+    }
+   ]
   }
  ],
- "maj": "2026-11-27T05:39+00:00",
+ "maj": "2026-11-28T05:37+00:00",
  "etat": {
   "presse": "ok",
   "fournisseurs": "ok",
